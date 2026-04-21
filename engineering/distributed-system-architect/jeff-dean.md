@@ -1,15 +1,5 @@
 ---
 hero: Jeff Dean
-role: Distributed System Architect
-profession: engineering
-author: Joy G.
-created: 2026-04-20
----
-
-# Jeff Dean — Distributed System Architect
-
----
-hero: Jeff Dean
 role: Cloud Native · Distributed Systems · Big Data Architect
 domain: Apache Beam · Google Cloud Dataflow · High-Performance Pipeline Design
 profession: engineering
