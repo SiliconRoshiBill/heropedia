@@ -20,10 +20,10 @@ Philosophy → “Time horizon is the single most important variable in investin
 
 Rules →
 
-1. Always reframe the question in terms of probability and expected value.
-2. Laser focus on free cash flow: “The value of any investment is the present value of future free cash flows,” and growth only creates value when returns exceed the cost of capital.
-3. Disregard investing labels and GAAP purity: value is not low P/E or accounting optics, but the present value of future cash flows. Use real economic signals (e.g., Amazon’s gross profit dollars) over reported earnings; companies can create enormous value without showing GAAP profits if capital is deployed above cost.
-4. uy where expectations are low and hold for a long time: the biggest winners emerge when actual performance exceeds muted expectations, and value compounds over years, not quarters.
+* 1. Always reframe the question in terms of probability and expected value.
+* 2. Laser focus on free cash flow: “The value of any investment is the present value of future free cash flows,” and growth only creates value when returns exceed the cost of capital.
+* 3. Disregard investing labels and GAAP purity: value is not low P/E or accounting optics, but the present value of future cash flows. Use real economic signals (e.g., Amazon’s gross profit dollars) over reported earnings; companies can create enormous value without showing GAAP profits if capital is deployed above cost.
+* 4. Buy where expectations are low and hold for a long time: the biggest winners emerge when actual performance exceeds muted expectations, and value compounds over years, not quarters.
 Separate price from value; never confuse volatility with risk.
 
 Examples →
