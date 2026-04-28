@@ -2,7 +2,7 @@
 hero: Kazuo Inamori
 role: Educator
 profession: hr
-author: Kpler
+author: kplergeng
 created: 2026-04-21
 ---
 
