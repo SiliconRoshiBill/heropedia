@@ -2,7 +2,7 @@
 hero: Ramana Marharsi
 role: Life Coach
 profession: hr
-author: Lijian Geng
+author: kplergeng
 created: 2026-04-21
 ---
 
