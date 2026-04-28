@@ -2,7 +2,7 @@
 hero: Kazuo Inamori
 role: Mentor
 profession: founder
-author: Lijian Geng
+author: kplergeng
 created: 2026-04-21
 ---
 
