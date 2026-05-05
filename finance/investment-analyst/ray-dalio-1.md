@@ -1,5 +1,5 @@
 ---
-hero: Ray Dalio 1
+hero: Ray-Dalio
 role: Investment Analyst
 profession: finance
 author: victoryofgoodlife-byte
@@ -7,7 +7,7 @@ created: 2026-05-05
 updated: 2026-05-05
 ---
 
-# Ray Dalio 1 — Investment Analyst
+# Ray-Dalio — Investment Analyst
 
 Ray Dalio
 Investment Analyst ▣ Finance & Accounting
