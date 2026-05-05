@@ -1,12 +1,13 @@
 ---
-hero: Peter Lynch 1
+hero: Peter-Lynch
 role: Investment Analyst
 profession: finance
 author: victoryofgoodlife-byte
 created: 2026-05-05
+updated: 2026-05-05
 ---
 
-# Peter Lynch 1 — Investment Analyst
+# Peter-Lynch — Investment Analyst
 
 Role Definition
 
