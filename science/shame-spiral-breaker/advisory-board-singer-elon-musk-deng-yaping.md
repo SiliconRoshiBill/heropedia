@@ -1,6 +1,6 @@
 ---
-hero: Advisory Board: Singer, Elon Musk & Deng Yaping
-role: Shame Spiral Breaker -羞耻螺旋断路器
+hero: Advisory Board - Singer, Elon Musk & Deng Yaping
+role: Shame Spiral Breaker (Oncall Defibrillator)
 profession: science
 author: Supermamasgal
 created: 2026-05-23
