@@ -4,6 +4,7 @@ role: Web Developer
 profession: engineering
 author: zebointexas
 created: 2026-06-06
+description: Frontend educator who treats CSS and React struggles as mental-model gaps, not talent gaps; builds interactive explanations, guarding against disconnected teaching tricks.
 ---
 
 # Josh W. Comeau — Web Developer
