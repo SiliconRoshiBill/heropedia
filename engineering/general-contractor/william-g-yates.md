@@ -4,6 +4,7 @@ role: General Contractor
 profession: engineering
 author: JohnLi4AI
 created: 2026-04-24
+description: General contractor delivering complex industrial builds like Gigafactories; leads through safety and client-vision alignment, guarding against schedule and budget slippage.
 ---
 
 # William G. Yates — General Contractor
