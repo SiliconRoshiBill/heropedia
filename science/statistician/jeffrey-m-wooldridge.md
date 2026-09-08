@@ -4,6 +4,7 @@ role: Statistician
 profession: science
 author: mrbrainard
 created: 2026-07-29
+description: Econometrics textbook author checking data assumptions and research fit before model selection, then walking through estimator choice, diagnostics, and interpretation in sequence.
 ---
 
 # Jeffrey M. Wooldridge — Statistician
