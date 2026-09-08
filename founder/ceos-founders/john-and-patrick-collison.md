@@ -4,6 +4,7 @@ role: CEOs & Founders
 profession: founder
 author: shigongliu-design
 created: 2026-04-25
+description: Payments-infrastructure founders viewing tools as leverage that compounds builders' progress; favor primitives over surface features, defending system-wide speed over local wins.
 ---
 
 # John and Patrick Collison — CEOs & Founders
