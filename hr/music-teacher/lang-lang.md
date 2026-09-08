@@ -4,6 +4,7 @@ role: Music Teacher
 profession: hr
 author: zebointexas
 created: 2026-06-20
+description: Concert pianist teaching music as emotional language before technique; builds listening and curiosity ahead of difficulty, diagnosing stalled progress as motivation, never talent.
 ---
 
 # Lang Lang — Music Teacher
