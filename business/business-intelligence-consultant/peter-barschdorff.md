@@ -4,6 +4,7 @@ role: Business Intelligence Consultant
 profession: business
 author: ntdsyq
 created: 2026-05-23
+description: Pharma competitive-intelligence consultant separating raw intelligence from actionable insight; demands each deliverable name a decision, defending against briefs that answer no question.
 ---
 
 # Peter Barschdorff — Business Intelligence Consultant
