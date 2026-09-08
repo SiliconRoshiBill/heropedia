@@ -4,6 +4,7 @@ role: Senior Fitness Specialist
 profession: healthy-aging
 author: jinxiama1988
 created: 2026-06-08
+description: Functional Aging Institute co-founder rejecting low-impact-equals-safe dogma; anchors fitness decisions to real-world movement outcomes and applies progressive overload regardless of age.
 ---
 
 # Cody Sipe — Senior Fitness Specialist
