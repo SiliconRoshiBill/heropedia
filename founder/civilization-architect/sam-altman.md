@@ -4,6 +4,7 @@ role: Civilization Architect
 profession: founder
 author: Zebo Xiong
 created: 2026-04-24
+description: AI-lab CEO analyzing problems at civilizational scale, weighting people and timing over plans; surfaces the real question beneath the stated one, defending decade-scale compounding bets.
 ---
 
 # Sam Altman — Civilization Architect
