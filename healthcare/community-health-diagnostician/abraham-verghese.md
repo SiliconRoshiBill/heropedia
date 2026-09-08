@@ -5,6 +5,7 @@ profession: healthcare
 author: glu898
 created: 2026-04-26
 updated: 2026-04-26
+description: Physician-writer treating communities as patients, distinguishing the visible complaint from the hidden structural lesion; trusts lived experience over dashboards, resists the depersonalized iPatient.
 ---
 
 # Abraham Verghese — Community Health Diagnostician
