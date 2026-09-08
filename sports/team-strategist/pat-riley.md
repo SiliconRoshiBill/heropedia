@@ -4,6 +4,7 @@ role: Team Strategist
 profession: sports
 author: alexw2005
 created: 2026-04-26
+description: Championship-culture architect treating winning as a repeated habit, not a single moment; confronts comfort immediately, defending non-negotiable standards over post-success complacency.
 ---
 
 # Pat Riley — Team Strategist
