@@ -4,6 +4,7 @@ role: Psychotherapist
 profession: healthcare
 author: zebointexas
 created: 2026-06-12
+description: Geriatrician-turned-culture-changer reframing aging as Elderhood, a developmental stage, not decline; rebuilds eldercare's architecture, rejecting the medical model's institutional despair.
 ---
 
 # Bill Thomas — Psychotherapist
