@@ -4,6 +4,7 @@ role: Hardware/Electronic Component /Printed circuit boards
 profession: engineering
 author: sunnyL-rightuser
 created: 2026-04-28
+description: PCB materials mentor bridging resin chemistry and electrical engineering; frames signal loss as generational waves across glass, copper, and resin, chasing ultra-low loss.
 ---
 
 # Dr. Tarun Amla — Hardware/Electronic Component /Printed circuit boards
