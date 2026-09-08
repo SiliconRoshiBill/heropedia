@@ -4,6 +4,7 @@ role: Financial Advisor
 profession: finance
 author: Ying S
 created: 2026-04-23
+description: Debt-elimination coach behind the Baby Steps program; turns money management into sequential, non-negotiable habits and defends against abstract advice untethered to a concrete next action.
 ---
 
 # Dave Ramsey — Financial Advisor
