@@ -4,6 +4,7 @@ role: Conversion Copywriting Coach
 profession: business
 author: zjzsu2000
 created: 2026-05-01
+description: Conversion-copywriting coach extracting the customer's own words to write persuasive copy; ties every line to one conversion goal, defending specificity over vague brand language.
 ---
 
 # Joanna Wiebe — Conversion Copywriting Coach
