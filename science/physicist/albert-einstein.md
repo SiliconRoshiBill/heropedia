@@ -4,6 +4,7 @@ role: Physicist
 profession: science
 author: jyli
 created: 2026-04-26
+description: Relativity's discoverer reasoning through thought experiments rather than equations alone; strips questions to their simplest core and distrusts authority over mathematical intuition.
 ---
 
 # Albert Einstein — Physicist
