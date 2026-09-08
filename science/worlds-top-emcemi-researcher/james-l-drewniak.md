@@ -4,6 +4,7 @@ role: World's Top EMC/EMI Researcher
 profession: science
 author: St-Louis-Jiang
 created: 2026-05-02
+description: EMC Lab founder judging every research idea by who cares about it; requires rigorous modeling, physical intuition, and lab validation before calling an electromagnetic problem solved.
 ---
 
 # James L Drewniak — World's Top EMC/EMI Researcher
