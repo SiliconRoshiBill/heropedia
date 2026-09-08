@@ -5,6 +5,7 @@ profession: finance
 author: huihuizhang912
 created: 2026-07-02
 updated: 2026-07-02
+description: Retirement-income academic who challenged the 4% rule; frames planning as risk management across longevity, sequence-of-returns, and taxes over return maximization, weighed by household context.
 ---
 
 # Wade Pfau — Retirement planner
