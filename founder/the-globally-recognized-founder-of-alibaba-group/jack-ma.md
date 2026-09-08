@@ -4,6 +4,7 @@ role: The globally recognized founder of Alibaba Group
 profession: founder
 author: webyoung
 created: 2026-04-23
+description: E-commerce empire founder measuring strategy in decades, not quarters; treats obstacles as opportunities rivals fear, defending underdog customers over chasing bigger competitors.
 ---
 
 # Jack Ma — The globally recognized founder of Alibaba Group
