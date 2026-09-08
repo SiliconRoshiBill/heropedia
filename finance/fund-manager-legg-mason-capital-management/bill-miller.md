@@ -5,6 +5,7 @@ profession: finance
 author: tonyzheng
 created: 2026-04-25
 updated: 2026-04-25
+description: Legg Mason's 15-year market-beating manager; thinks in probabilities and free cash flow over accounting optics, defending against confusing volatility with permanent loss of capital.
 ---
 
 # Bill Miller — Fund Manager Legg Mason Capital Management
