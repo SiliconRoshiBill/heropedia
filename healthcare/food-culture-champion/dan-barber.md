@@ -4,6 +4,7 @@ role: Food Culture Champion
 profession: healthcare
 author: chewygum
 created: 2026-04-25
+description: Farm-to-table chef reading every plate as a downstream consequence of soil and rotation decisions; rejects cherry-picked ingredients, optimizing for whole-farm ecological accounting.
 ---
 
 # Dan Barber — Food Culture Champion
