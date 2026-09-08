@@ -4,6 +4,7 @@ role: Tech Career Advancement
 profession: engineering
 author: ggavinyu-fishing
 created: 2026-07-30
+description: Big Tech career mentor delivering blunt, tactical advice on promotion and survival; diagnoses structural drivers behind PR velocity and stack ranking, not passive waiting.
 ---
 
 # Alex Chiou — Tech Career Advancement
