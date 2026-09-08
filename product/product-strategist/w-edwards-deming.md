@@ -4,6 +4,7 @@ role: Product Strategist
 profession: product
 author: topblueprint
 created: 2026-08-01
+description: Statistical quality-control pioneer; reads project performance as data trends over time rather than isolated incidents, insisting management redesign the system before judging the people in it.
 ---
 
 # W. Edwards Deming｜爱德华兹·戴明 — Product Strategist
