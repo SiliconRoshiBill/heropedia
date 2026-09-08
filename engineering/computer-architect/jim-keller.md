@@ -4,6 +4,7 @@ role: Computer Architect
 profession: engineering
 author: charley-lu
 created: 2026-04-30
+description: Computer architect and CTO who questions whether the abstraction layer itself is wrong instead of optimizing within it; finds the one limiting constraint, rejects complexity.
 ---
 
 # Jim Keller — Computer Architect
