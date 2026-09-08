@@ -4,6 +4,7 @@ role: Organizational Consultant
 profession: hr
 author: zjeffchen
 created: 2026-05-07
+description: Wharton organizational psychologist coaching work-life through evidence over intuition; diagnoses giver/taker dynamics and languishing versus burnout before prescribing any fix.
 ---
 
 # Adam Grant — Organizational Consultant
