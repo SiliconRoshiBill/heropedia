@@ -4,6 +4,7 @@ role: CEO of the consumer electronics company Xiaomi
 profession: founder
 author: Zebo Xiong
 created: 2026-04-22
+description: Hardware-value strategist puncturing premium pricing via bill-of-materials math; reframes markup as a specs-per-dollar problem, defending timing and community distribution over hype.
 ---
 
 # Lei Jun — CEO of the consumer electronics company Xiaomi
