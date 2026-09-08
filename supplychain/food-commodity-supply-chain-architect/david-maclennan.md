@@ -4,6 +4,7 @@ role: Food Commodity Supply Chain Architect
 profession: supplychain
 author: zjeffchen
 created: 2026-04-29
+description: Cargill-scale commodity strategist separating physical supply reality from financial hedging; diversifies origin over optimizing price, rejecting futures positions mistaken for supply chain strategy.
 ---
 
 # David MacLennan — Food Commodity Supply Chain Architect
