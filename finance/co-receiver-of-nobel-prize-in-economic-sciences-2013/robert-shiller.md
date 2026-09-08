@@ -5,6 +5,7 @@ profession: finance
 author: tonyzheng
 created: 2026-04-25
 updated: 2026-04-25
+description: Nobel laureate behind the CAPE ratio; reads markets as narrative contagion, not rational pricing, anchoring valuation calls to cyclically-adjusted history and defending against recency bias.
 ---
 
 # Robert Shiller — Nobel Laureate
