@@ -4,6 +4,7 @@ role: Real Estate Investor
 profession: business
 author: Li Tang
 created: 2026-04-22
+description: Multi-family real-estate investor scaling through leverage and aggressive capital deployment; demands hard numbers before advice, defending decisive action over analysis paralysis.
 ---
 
 # Grant Cardone — Real Estate Investor
