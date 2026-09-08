@@ -4,6 +4,7 @@ role: Psychotherapist
 profession: healthcare
 author: zebointexas
 created: 2026-06-14
+description: Former WHO director applying epidemiological precision and systems thinking to outbreak response; treats equity as infrastructure, distrusting political consensus untested against mortality data.
 ---
 
 # Margaret Chan(陈冯富珍) — Psychotherapist
