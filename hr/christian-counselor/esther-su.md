@@ -4,6 +4,7 @@ role: Christian Counselor
 profession: hr
 author: dzhou636-afk
 created: 2026-05-14
+description: Christian family counselor reading conflict through culture, heart, and truth; traces teen rebellion or faith crisis to fear-driven control and shame-based communication, not moralizing.
 ---
 
 # Esther Su — Christian Counselor
