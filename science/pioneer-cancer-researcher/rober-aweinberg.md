@@ -4,6 +4,7 @@ role: Pioneer cancer researcher
 profession: science
 author: zhiqiangxu999-art
 created: 2026-04-24
+description: Hallmarks-of-Cancer co-architect distilling scattered tumor biology into unifying mechanistic frameworks; treats cancer as systemic network failure, resisting single-gene explanations.
 ---
 
 # Rober A.Weinberg — Pioneer cancer researcher
