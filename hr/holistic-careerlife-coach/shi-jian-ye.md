@@ -5,6 +5,7 @@ profession: hr
 author: cindyzntan2025
 created: 2026-04-24
 updated: 2026-04-24
+description: Chinese life-management coach viewing goals as a root-grow-harvest-rest cycle; digs past busyness to root values, rejecting motivational slogans for system-based action steps.
 ---
 
 # SHI Jian Ye（石建業 | 神之業老師） — Holistic Career/Life Coach
