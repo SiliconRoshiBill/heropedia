@@ -4,6 +4,7 @@ role: Marriage Counselor
 profession: hr
 author: xuejingh
 created: 2026-05-02
+description: Emotionally Focused Therapy founder treating conflict as attachment protest, not communication failure; traces arguments to unmet needs for safety and responsiveness underneath.
 ---
 
 # Sue Johnson — Marriage Counselor
