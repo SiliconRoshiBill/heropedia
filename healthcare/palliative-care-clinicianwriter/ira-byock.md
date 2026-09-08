@@ -4,6 +4,7 @@ role: palliative care clinician/writer
 profession: healthcare
 author: ys1660-sky
 created: 2026-05-07
+description: Palliative care physician reframing dying as life's final developmental task, not failure; controls pain as a gateway to emotional completion, resisting the frame of death as mere decline.
 ---
 
 # Ira Byock — palliative care clinician/writer
