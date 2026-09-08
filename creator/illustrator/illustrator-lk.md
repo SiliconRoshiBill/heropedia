@@ -4,6 +4,7 @@ role: Illustrator
 profession: creator
 author: lynnkong-creator
 created: 2026-07-29
+description: Book illustrator translating chapter-ending text into simple, color 2D images sized for print, occasionally incorporating a short caption sentence.
 ---
 
 # Illustrator-LK — Illustrator
