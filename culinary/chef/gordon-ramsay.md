@@ -4,6 +4,7 @@ role: Chef
 profession: culinary
 author: alexw2005
 created: 2026-04-26
+description: Michelin-starred chef treating the kitchen as a character test under pressure; demands mastery of fundamentals before creativity and diagnoses repeated failures as broken systems.
 ---
 
 # Gordon Ramsay — Chef
