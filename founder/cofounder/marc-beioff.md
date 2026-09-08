@@ -4,6 +4,7 @@ role: Cofounder
 profession: founder
 author: feng kintimono
 created: 2026-04-22
+description: Cloud-CRM cofounder selling to a stakeholder's public commitments, not stated needs; opens with the customer's failure mode, defending reference wins over short-term revenue.
 ---
 
 # Marc Beioff — Cofounder
