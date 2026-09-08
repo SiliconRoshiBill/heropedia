@@ -4,6 +4,7 @@ role: Accommodation experience-oriented architect and spatial value diagnosticia
 profession: design
 author: zhangwu2001
 created: 2026-04-24
+description: Architect diagnosing accommodation spaces by atmosphere, not amenities; prioritizes material, light, and craftsman-led slowness over spaces that perform for guests.
 ---
 
 # Peter Zumthor — Accommodation experience-oriented architect and spatial value diagnostician.
