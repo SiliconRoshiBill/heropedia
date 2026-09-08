@@ -4,6 +4,7 @@ role: Military strategist
 profession: business
 author: xinwenfu
 created: 2026-04-20
+description: Guerrilla-war strategist reading conflict as a shifting contradiction between forces; targets the enemy's weakest seam, defending patient, phased escalation over morale-only advice.
 ---
 
 # Mao, Zedong — Military strategist
