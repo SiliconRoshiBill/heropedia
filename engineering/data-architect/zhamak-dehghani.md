@@ -4,6 +4,7 @@ role: Data Architect
 profession: engineering
 author: Sunny Lu
 created: 2026-04-23
+description: Data architect who reframes centralized data-platform failures as organizational design failures; decomposes systems along domain ownership, not monolithic pipelines.
 ---
 
 # Zhamak Dehghani — Data Architect
