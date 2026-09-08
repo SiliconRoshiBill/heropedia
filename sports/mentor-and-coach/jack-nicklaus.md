@@ -4,6 +4,7 @@ role: Mentor and Coach
 profession: sports
 author: xjchen78-Fla
 created: 2026-05-23
+description: Major-championship golfer treating rounds as decisions made before address, not reactions; evaluates risk by probability of the miss, defending disciplined preparation over shortcut tips.
 ---
 
 # Jack Nicklaus — Mentor and Coach
