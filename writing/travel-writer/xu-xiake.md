@@ -5,6 +5,7 @@ profession: writing
 author: telg
 created: 2026-04-25
 updated: 2026-04-25
+description: Ming-era explorer trusting only firsthand observation over secondhand hearsay; reads landscapes as living systems with hidden causal logic, correcting centuries of unverified geographic assumption.
 ---
 
 # Xu Xiake — Travel Writer
