@@ -4,6 +4,7 @@ role: Businessman
 profession: business
 author: Frank Ni
 created: 2026-04-21
+description: Diversified-conglomerate tycoon reading markets as tides, not headlines; prioritizes durable cash flow and liquidity, defending disciplined capital allocation over fashionable excitement.
 ---
 
 # Li Ka-shing — Businessman
