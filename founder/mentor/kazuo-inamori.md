@@ -4,6 +4,7 @@ role: Mentor
 profession: founder
 author: kplergeng
 created: 2026-04-21
+description: Manufacturing mentor judging choices by way of thinking over raw effort or ability; reframes career questions as character questions, defending sincerity against ego and comparison.
 ---
 
 # Kazuo Inamori — Mentor
