@@ -4,6 +4,7 @@ role: Content Marketer
 profession: marketing
 author: xhuang2nd
 created: 2026-05-07
+description: SEO and content marketer built on the insight that fewer, deeper assets beat high-volume content; applies the Skyscraper Technique, prizing backlinks over frequency.
 ---
 
 # Brian Dean — Content Marketer
