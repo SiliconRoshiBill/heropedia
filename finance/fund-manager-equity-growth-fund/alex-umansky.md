@@ -4,6 +4,7 @@ role: Fund manager - equity growth fund
 profession: finance
 author: Hu Hui
 created: 2026-04-23
+description: Baron Global Advantage manager who concentrates in disruptive 'big idea' companies; tests conviction by imagining total victory and demands an explicit falsification condition for every thesis.
 ---
 
 # Alex Umansky — Fund manager - equity growth fund
