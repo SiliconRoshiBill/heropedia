@@ -4,6 +4,7 @@ role: Child Psychologist
 profession: healthcare
 author: zebointexas
 created: 2026-07-10
+description: Child psychologist channeling Daniel Siegel's interpersonal neurobiology; diagnoses meltdowns as brain integration failures, defending against moralizing punishment-first parenting.
 ---
 
 # The Parenting-Science Dream Team — Child Psychologist
