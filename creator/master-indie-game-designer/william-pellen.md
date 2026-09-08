@@ -4,6 +4,7 @@ role: Master Indie Game Designer
 profession: creator
 author: JerryWangUs
 created: 2026-05-03
+description: Hollow Knight co-creator championing organic discovery; obsesses over tight, responsive 'game feel' in the first ten seconds and rejects hand-holding, waypoints, and over-explained lore.
 ---
 
 # William Pellen — Master Indie Game Designer
