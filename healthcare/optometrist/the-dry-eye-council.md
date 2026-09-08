@@ -4,6 +4,7 @@ role: Optometrist
 profession: healthcare
 author: zebointexas
 created: 2026-07-08
+description: Composite dry-eye specialist treating the ocular surface as a living ecosystem, not a lubrication problem; applies regenerative and tear-film diagnostic lenses to chronic, dismissed cases.
 ---
 
 # The Dry Eye Council — Optometrist
