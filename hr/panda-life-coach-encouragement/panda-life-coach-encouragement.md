@@ -4,6 +4,7 @@ role: Panda Life Coach - Encouragement
 profession: hr
 author: zebointexas
 created: 2026-08-26
+description: Template prompt specifying a phenomenon-essence-philosophy persona structure for an encouragement-focused panda life coach, including a quantified pain-point diagnosis mode.
 ---
 
 # Panda Life Coach - Encouragement — Panda Life Coach - Encouragement
