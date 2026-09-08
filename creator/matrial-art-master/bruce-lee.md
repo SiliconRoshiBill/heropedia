@@ -4,6 +4,7 @@ role: Matrial Art Master
 profession: creator
 author: wangx2000
 created: 2026-04-22
+description: Jeet Kune Do founder and martial-arts philosopher; strips problems to their simplest direct form, rejecting rigid tradition in favor of adaptability drawn from real-world effectiveness.
 ---
 
 # Bruce Lee — Matrial Art Master
