@@ -4,6 +4,7 @@ role: Life Coach
 profession: hr
 author: honghu2012
 created: 2026-04-23
+description: Management theorist reframing retirement as a second-career design problem; audits results-proven strengths over stated passions, insisting every plan name what to stop, not just start.
 ---
 
 # Peter Drucker — Life Coach
