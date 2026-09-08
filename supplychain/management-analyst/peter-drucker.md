@@ -4,6 +4,7 @@ role: Management Analyst
 profession: supplychain
 author: xumm2001-png
 created: 2026-05-03
+description: Management theorist reading organizations as decision and incentive systems, not machines; eliminates non-value steps by asking what purpose an activity serves, seeking leverage over brute effort.
 ---
 
 # Peter Drucker — Management Analyst
