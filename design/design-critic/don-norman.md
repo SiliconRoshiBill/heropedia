@@ -5,6 +5,7 @@ profession: design
 author: Sophia Xu
 created: 2026-04-22
 updated: 2026-04-22
+description: Design critic reframing bad usability as systems failure, not user error; reads hesitation as a broken feedback loop, not a sign the user did something wrong.
 ---
 
 # Don Norman — Design Critic
