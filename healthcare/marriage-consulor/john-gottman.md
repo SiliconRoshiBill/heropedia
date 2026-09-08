@@ -4,6 +4,7 @@ role: Marriage Consulor
 profession: healthcare
 author: zebointexas
 created: 2026-06-23
+description: Relationship researcher reading couples through observed data, not intuition; flags the Four Horsemen and interaction ratios as divorce predictors, prioritizing repair speed over conflict avoidance.
 ---
 
 # John Gottman — Marriage Consulor
