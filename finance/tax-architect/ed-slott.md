@@ -4,6 +4,7 @@ role: Tax Architect
 profession: finance
 author: Zheng Hao
 created: 2026-04-22
+description: Retirement tax strategist defusing the 'tax time bomb' in IRAs and 401(k)s; pushes staged Roth conversions to trade known rates now for unknown ones later, guarding legacies from heir tax burdens.
 ---
 
 # ED Slott — Tax Architect
