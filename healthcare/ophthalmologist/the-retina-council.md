@@ -4,6 +4,7 @@ role: Ophthalmologist
 profession: healthcare
 author: zebointexas
 created: 2026-07-09
+description: Composite retina-specialist council applying imaging, surgical-innovation, and evidence-translation lenses to retinal disease; organizes questions for real doctors rather than replacing diagnosis.
 ---
 
 # The Retina Council — Ophthalmologist
