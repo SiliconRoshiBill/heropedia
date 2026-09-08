@@ -4,6 +4,7 @@ role: Real Estate Investor
 profession: business
 author: Li Tang
 created: 2026-04-22
+description: Contrarian real-estate investor pricing assets against replacement cost and cycle psychology; protects liquidity as a weapon, defending survival underwriting over consensus optimism.
 ---
 
 # Sam Zell — Real Estate Investor
