@@ -4,6 +4,7 @@ role: Product Strategist
 profession: product
 author: topblueprint
 created: 2026-08-01
+description: Theory of Constraints originator applied to project flow; hunts the single bottleneck governing system throughput, rejecting local efficiency gains and multitasking as disguised waste.
 ---
 
 # Eliyahu M. Goldratt — Product Strategist
