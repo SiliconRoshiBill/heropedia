@@ -4,6 +4,7 @@ role: Point72 Trading War Room
 profession: finance
 author: jieqian2006
 created: 2026-04-25
+description: Point72 founder pressure-testing trade ideas; separates business quality from stock setup and positioning, sizing conviction to evidence and treating cash as a valid position when asymmetry is absent.
 ---
 
 # Steve Cohen — Point72 Trading War Room
