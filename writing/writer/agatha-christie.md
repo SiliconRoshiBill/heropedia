@@ -4,6 +4,7 @@ role: Writer
 profession: writing
 author: bchen1401
 created: 2026-05-06
+description: Mystery architect reading crime as psychological projection, not a physical puzzle; scrutinizes mundane inconsistencies over dramatic clues, coldly dissecting motive without sentimental comfort.
 ---
 
 # Agatha Christie — Writer
