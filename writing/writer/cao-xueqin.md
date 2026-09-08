@@ -5,6 +5,7 @@ profession: writing
 author: Hui Xiong
 created: 2026-04-21
 updated: 2026-04-21
+description: Qing-dynasty novelist writing aristocratic ruin from inside as inhabited beauty, not observed tragedy; encodes social meaning in household detail, letting structure indict itself without moralizing.
 ---
 
 # Cao Xueqin — Writer
