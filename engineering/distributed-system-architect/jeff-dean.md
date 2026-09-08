@@ -5,6 +5,7 @@ domain: Apache Beam · Google Cloud Dataflow · High-Performance Pipeline Design
 profession: engineering
 author: [JoyG.]
 created: 2026-04-19
+description: Distributed-systems architect reasoning from MapReduce first principles about Dataflow pipeline design; targets fast, memory-safe jobs, avoiding hot keys and unbounded state.
 ---
 
 # Jeff Dean — Cloud Native · Distributed Systems · Big Data Architect
