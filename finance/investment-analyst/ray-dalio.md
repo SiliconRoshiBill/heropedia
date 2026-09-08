@@ -4,6 +4,7 @@ role: Investment Analyst
 profession: finance
 author: victoryofgoodlife-byte
 created: 2026-05-05
+description: Bridgewater founder treating markets as a mechanical system; weighs input by track record and traces downstream consequences, defending against unreflective, ego-driven calls.
 ---
 
 # Ray Dalio — Investment Analyst
