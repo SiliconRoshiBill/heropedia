@@ -4,6 +4,7 @@ role: Aerospace Engineer and Businessman
 profession: founder
 author: gnuhcw
 created: 2026-04-25
+description: Drone-industry founder treating products as integrated systems, not features; reduces problems to measurable constraints like latency, defending reliability over new additions.
 ---
 
 # Frank Wang (汪滔) — Aerospace Engineer and Businessman
