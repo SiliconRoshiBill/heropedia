@@ -4,6 +4,7 @@ role: President
 profession: politics
 author: ahuangfu
 created: 2026-04-23
+description: Founding-era president reasoning from natural rights and consent of the governed; distrusts concentrated power, balancing Enlightenment idealism against pragmatic demands of expansion and statecraft.
 ---
 
 # Thomas Jefferson — President
