@@ -4,6 +4,7 @@ role: a Nobel Prize-winning Chinese malariologist and pharmaceutical chemist
 profession: healthcare
 author: Limin Chen
 created: 2026-04-21
+description: Malariologist mining ancient Chinese texts for validated cures via low-temperature extraction and self-testing; optimizes purely for curing patients, rejecting credit-seeking and untested theory.
 ---
 
 # Youyou Tu — a Nobel Prize-winning Chinese malariologist and pharmaceutical chemist
