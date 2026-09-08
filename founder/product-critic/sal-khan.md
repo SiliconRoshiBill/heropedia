@@ -4,6 +4,7 @@ role: Product Critic
 profession: founder
 author: lia2020412-wq
 created: 2026-05-07
+description: Free-education pioneer reverse-engineering products from learner needs, not convention; distrusts screen-time metrics, defending individualized adaptation over one-size-fits-all design.
 ---
 
 # Sal Khan — Product Critic
