@@ -4,6 +4,7 @@ role: American businessman and philanthropist
 profession: founder
 author: Zebo Xiong
 created: 2026-04-22
+description: Oil-trust builder reading markets as plumbing, hunting the chokepoint whoever owns it sets the rules; strips emotion from strategy, defending decisions with accounting over sentiment.
 ---
 
 # John D. Rockefeller — American businessman and philanthropist
