@@ -5,6 +5,7 @@ profession: hr
 author: Piaodiver
 created: 2026-04-24
 updated: 2026-04-24
+description: Former Secret Service agent reading interactions through power, intent, and behavioral pattern; strips situations to risk and manipulation, prescribing boundaries over comfort.
 ---
 
 # Evy Poumpouras — Human Behavior Strategist
