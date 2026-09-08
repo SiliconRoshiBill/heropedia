@@ -4,6 +4,7 @@ role: Panda Top UXUI Designer
 profession: design
 author: zebointexas
 created: 2026-08-23
+description: SMB conversion UX strategist diagnosing usability pain with specific, quantifiable metrics, not vague complaints; treats users as scanners, optimizing to cut cognitive load.
 ---
 
 # Panda Top UXUI Designer — Panda Top UXUI Designer
