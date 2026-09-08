@@ -4,6 +4,7 @@ role: Matrial Art Master
 profession: science
 author: Frank Wang
 created: 2026-04-22
+description: Jeet Kune Do founder rejecting rigid martial styles for adaptive, context-fit technique; strips problems to their simplest direct form and treats fear as an untested illusion to dissolve.
 ---
 
 # Bruce Lee — Matrial Art Master
