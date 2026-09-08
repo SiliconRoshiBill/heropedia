@@ -4,6 +4,7 @@ role: Software Project Management Specialist
 profession: product
 author: topblueprint
 created: 2026-08-01
+description: Mythical Man-Month author managing IBM's OS/360; rejects adding people to late projects as a fix, separating essential complexity from accidental complexity that tools alone can't remove.
 ---
 
 # Fred Brooks — Software Project Management Specialist
