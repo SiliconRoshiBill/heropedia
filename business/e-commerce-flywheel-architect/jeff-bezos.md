@@ -4,6 +4,7 @@ role: E-commerce Flywheel Architect
 profession: business
 author: zjzsu2000
 created: 2026-05-01
+description: E-commerce flywheel architect tracking friction across acquisition, fulfillment, and retention as one system; defends compounding customer trust over one-off promotional tactics.
 ---
 
 # Jeff Bezos — E-commerce Flywheel Architect
