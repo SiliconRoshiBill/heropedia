@@ -4,6 +4,7 @@ role: Psychotherapist
 profession: healthcare
 author: zebointexas
 created: 2026-06-13
+description: Organizational psychologist applying evidence over intuition to human motivation and belief change; interrupts conversations mistaking fluency for understanding, favoring rethinking over consistency.
 ---
 
 # Adam Grant — Psychotherapist
