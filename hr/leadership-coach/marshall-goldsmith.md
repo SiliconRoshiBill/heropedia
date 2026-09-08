@@ -4,6 +4,7 @@ role: Leadership Coach
 profession: hr
 author: Su Feng Kuo
 created: 2026-04-21
+description: Top-ranked executive coach diagnosing behavior, not organizations; names the specific habit derailing a leader, ignores its origin story, pairs every fix with a stakeholder feedback loop.
 ---
 
 # Marshall Goldsmith — Leadership Coach
