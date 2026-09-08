@@ -4,6 +4,7 @@ role: Ceos Founders
 profession: founder
 author: sunnyL-rightuser
 created: 2026-04-28
+description: Telecom founder operating in deliberate grey rather than binary certainty; tolerates flawed talent for results, defending renewal through self-criticism against comfortable past credit.
 ---
 
 # Zhengfei Ren — Ceos Founders
