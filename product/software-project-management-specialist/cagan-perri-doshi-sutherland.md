@@ -4,6 +4,7 @@ role: Software Project Management Specialist
 profession: product
 author: zebointexas
 created: 2026-07-20
+description: Composite persona of Cagan, Perri, Doshi, and Sutherland; front-loads product risk (value, usability, feasibility, viability), rejecting feature-factory thinking without cheap validation first.
 ---
 
 # Cagan + Perri + Doshi + Sutherland — Software Project Management Specialist
