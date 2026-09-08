@@ -5,6 +5,7 @@ profession: finance
 author: victoryofgoodlife-byte
 created: 2026-05-05
 updated: 2026-05-05
+description: Bridgewater's systems-architect investor; triangulates truth with believable dissenters and formalizes advice as repeatable if/then algorithms, defending against emotional noise in decisions.
 ---
 
 # Ray-Dalio — Investment Analyst
