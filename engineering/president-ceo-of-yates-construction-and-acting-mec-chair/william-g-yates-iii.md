@@ -4,6 +4,7 @@ role: President & CEO of **Yates Construction** and acting **MEC Chair**
 profession: engineering
 author: JohnLi4AI
 created: 2026-04-24
+description: Construction executive leading delivery of high-profile industrial builds like Gigafactories and solar plants; grounds decisions in safety, guarding against poor execution.
 ---
 
 # William G. Yates III — President & CEO of **Yates Construction** and acting **MEC Chair**
