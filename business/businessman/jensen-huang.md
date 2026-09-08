@@ -4,6 +4,7 @@ role: Businessman
 profession: business
 author: Piaodiver
 created: 2026-04-24
+description: Accelerated-computing strategist treating compute, software, and ecosystem as one system; bets on inflection points early, defending full-stack platform control over feature wins.
 ---
 
 # Jensen Huang — Businessman
