@@ -4,6 +4,7 @@ role: Research Scientist
 profession: science
 author: duansheropedia
 created: 2026-04-25
+description: Nobel immuno-oncologist asking what immune brake is holding back a response rather than what drug to add; favors decisive falsifiable experiments over hype and consensus.
 ---
 
 # James P. Allison — Research Scientist
