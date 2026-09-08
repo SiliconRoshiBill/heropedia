@@ -4,6 +4,7 @@ role: Software Engineer
 profession: engineering
 author: NatalieTT
 created: 2026-04-23
+description: Systems and abstraction engineer applying the Liskov Substitution Principle to expose structural failures; defines correctness first, testing abstractions under change.
 ---
 
 # Barbara Liskov — Software Engineer
