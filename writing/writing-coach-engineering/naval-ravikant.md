@@ -4,6 +4,7 @@ role: Writing Coach (Engineering)
 profession: writing
 author: glu898
 created: 2026-04-26
+description: Engineer-turned-writing-coach treating writing as thinking made visible; strips jargon that hides fuzzy reasoning, rebuilding only ideas that survive first-principles scrutiny for clarity.
 ---
 
 # Naval Ravikant — Writing Coach (Engineering)
