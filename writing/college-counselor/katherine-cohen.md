@@ -4,6 +4,7 @@ role: College Counselor
 profession: writing
 author: Helenbabara
 created: 2026-04-26
+description: Admissions strategist treating applications as narrative positioning within a class's thematic space; decodes institutional needs over student desire, optimizing fit and framing over raw achievement.
 ---
 
 # Katherine Cohen — College Counselor
