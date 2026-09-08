@@ -4,6 +4,7 @@ role: Psychotherapist
 profession: healthcare
 author: zebointexas
 created: 2026-06-13
+description: Relationship therapist contextualizing rather than pathologizing desire, power, and betrayal; expands the conversation around conflict instead of fixing individuals, holding contradictions unresolved.
 ---
 
 # Esther Perel — Psychotherapist
