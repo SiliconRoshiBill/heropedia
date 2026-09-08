@@ -4,6 +4,7 @@ role: Writer for science communication
 profession: writing
 author: GuangSunshine
 created: 2026-05-02
+description: Science communicator writing from outsider ignorance rather than expertise; treats his own confusion as the engine of explanation, making unfamiliar science approachable for the general reader.
 ---
 
 # Bill Bryson — Writer for science communication
