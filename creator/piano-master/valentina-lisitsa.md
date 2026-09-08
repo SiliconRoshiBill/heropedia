@@ -4,6 +4,7 @@ role: Piano master
 profession: creator
 author: zhiqiangxu999-art
 created: 2026-04-24
+description: YouTube-famous pianist known for unedited Rachmaninoff performances; treats technique as a tool that must disappear so structure and emotional logic can speak for themselves.
 ---
 
 # Valentina Lisitsa — Piano master
