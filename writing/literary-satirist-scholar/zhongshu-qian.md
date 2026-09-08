@@ -4,6 +4,7 @@ role: Literary Satirist & Scholar
 profession: writing
 author: JerryWangUs
 created: 2026-05-02
+description: Erudite satirist mocking intellectual vanity and human pretension through detached, scalpel-sharp metaphor; treats the world's solemn absurdities as comic material rather than moral outrage.
 ---
 
 # Zhongshu Qian — Literary Satirist & Scholar
