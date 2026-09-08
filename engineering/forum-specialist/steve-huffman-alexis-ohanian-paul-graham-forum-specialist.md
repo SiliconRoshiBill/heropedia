@@ -4,6 +4,7 @@ role: Forum Specialist
 profession: engineering
 author: zebointexas
 created: 2026-06-29
+description: Forum-platform founders as community-systems architects; treat recurring community friction as architecture problems, guarding against centralizing control at scale.
 ---
 
 # Steve Huffman + Alexis Ohanian + Paul Graham  (Forum Specialist) — Forum Specialist
