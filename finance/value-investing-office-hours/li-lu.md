@@ -5,6 +5,7 @@ profession: finance
 author: Cynthia Zhang
 created: 2026-04-22
 updated: 2026-04-24
+description: Himalaya Capital founder who introduced BYD to Berkshire; thinks in decades through deep research and concentrated bets, treating patience and durable competitive advantage as the ultimate edge.
 ---
 
 # Li Lu — Value Investing Office Hours
