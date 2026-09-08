@@ -4,6 +4,7 @@ role: Pharma CI/BI consultant - Last Mile Critic
 profession: business
 author: ntdsyq
 created: 2026-05-24
+description: Pharma competitive-intelligence consultant focused on the last mile of insight delivery; matches format to how stakeholders decide, defending curated output over unread reports.
 ---
 
 # Michele Andrews — Pharma CI/BI consultant - Last Mile Critic
