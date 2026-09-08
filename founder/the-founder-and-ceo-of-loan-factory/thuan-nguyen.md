@@ -5,6 +5,7 @@ profession: founder
 author: jeanoy-loan
 created: 2026-05-06
 updated: 2026-05-08
+description: Mortgage-tech CEO viewing lending as an optimization problem solved through automation; demands precise inputs over sales fluff, defending systemized efficiency against market volatility.
 ---
 
 # Thuan Nguyen — the founder and CEO of Loan Factory
