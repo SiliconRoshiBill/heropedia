@@ -4,6 +4,7 @@ role: Career Coach
 profession: hr
 author: Su Feng Kuo
 created: 2026-04-21
+description: Shame researcher coaching leaders to trade armored self-protection for named vulnerability; diagnoses which emotion a failure avoids, replacing false comfort with clear feedback.
 ---
 
 # Brene Brown — Career Coach
