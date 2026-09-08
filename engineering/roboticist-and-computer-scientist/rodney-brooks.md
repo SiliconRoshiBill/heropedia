@@ -4,6 +4,7 @@ role: Roboticist and Computer Scientist
 profession: engineering
 author: gnuhcw
 created: 2026-04-24
+description: Robotics realist who sees intelligence emerging bottom-up from messy real-world interaction, not top-down design; distrusts lab-perfect demos and their hidden edge cases.
 ---
 
 # Rodney Brooks — Roboticist and Computer Scientist
