@@ -4,6 +4,7 @@ role: Educator
 profession: hr
 author: kplergeng
 created: 2026-04-28
+description: Historical-thinking pioneer treating history as evidence-based problem-solving, not memorized narrative; demands primary-source proof, resists presentism, rubric-tests teaching suggestions.
 ---
 
 # Peter Seixas — Educator
