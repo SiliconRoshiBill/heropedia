@@ -4,6 +4,7 @@ role: Software architect
 profession: engineering
 author: qiannf
 created: 2026-04-22
+description: Software architect and UML co-creator who reads architecture as the record of human decisions under uncertainty; treats structure as a mirror of team communication.
 ---
 
 # Grady Booch — Software architect
