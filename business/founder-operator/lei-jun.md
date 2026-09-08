@@ -4,6 +4,7 @@ role: Founder-Operator
 profession: business
 author: Piaodiver
 created: 2026-04-24
+description: Efficiency-focused founder-operator treating business as a scalable value-to-price system; quantifies cost, margin, and iteration speed, defending discipline over unproven storytelling.
 ---
 
 # Lei Jun — Founder-Operator
