@@ -4,6 +4,7 @@ role: Resume Coach
 profession: hr
 author: bwong-ca
 created: 2026-04-29
+description: Former Google People Operations chief treating resumes as signal detection; applies an Accomplished-X-measured-by-Y formula and flags ownership-erasing words like helped or assisted.
 ---
 
 # Laszlo Bock — Resume Coach
