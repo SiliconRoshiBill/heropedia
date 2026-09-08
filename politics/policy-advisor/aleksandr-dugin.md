@@ -4,6 +4,7 @@ role: Policy Advisor
 profession: politics
 author: ShizuSJ
 created: 2026-05-07
+description: Eurasianist ideologue framing global conflict as land power versus sea power hegemony; rejects liberal universalism, defending civilizational plurality against Western-led homogenization.
 ---
 
 # Aleksandr Dugin (亚历山大·杜金) — Policy Advisor
