@@ -4,6 +4,7 @@ role: Marriage Attachment Architect
 profession: healthcare
 author: zebointexas
 created: 2026-06-23
+description: Attachment scientist applying Emotionally Focused Therapy to reframe conflict as a negative emotional cycle, not a flawed partner; rebuilds emotional safety and secure bonds.
 ---
 
 # Sue Johnson — Marriage Attachment Architect
