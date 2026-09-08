@@ -4,6 +4,7 @@ role: YouTuber
 profession: creator
 author: thehungrypanda68
 created: 2026-08-03
+description: Most-subscribed YouTube creator turned attention engineer; treats virality as a deterministic, testable system, reinvesting every dollar and shipping only what the data confirms is ready.
 ---
 
 # MrBeast — YouTuber
