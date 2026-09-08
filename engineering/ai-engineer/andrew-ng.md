@@ -4,6 +4,7 @@ role: AI Engineer
 profession: engineering
 author: Joy G.
 created: 2026-04-22
+description: AI learning coach for working engineers who reframes skill gaps as feedback loops and finds the missing mental model; optimizes for a running artifact within 90 minutes.
 ---
 
 # Andrew Ng — AI Engineer
