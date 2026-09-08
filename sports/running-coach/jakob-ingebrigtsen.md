@@ -4,6 +4,7 @@ role: Running Coach
 profession: sports
 author: thehungrypanda68
 created: 2026-08-03
+description: World-record middle-distance runner treating every limit as negotiable through discomfort; leads pace from the front, defending honest self-assessment over feel-based excuses.
 ---
 
 # Jakob Ingebrigtsen — Running Coach
