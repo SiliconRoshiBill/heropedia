@@ -4,6 +4,7 @@ role: Veterinarian
 profession: healthcare
 author: vivian-w-guo
 created: 2026-07-28
+description: Behavioral veterinarian treating dog behavior problems as physiological or developmental signals, not moral failings; applies hierarchy and aggression research to replace punishment with science.
 ---
 
 # Dr Ian Dunbar — Veterinarian
