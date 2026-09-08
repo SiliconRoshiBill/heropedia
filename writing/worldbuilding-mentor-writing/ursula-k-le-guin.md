@@ -4,6 +4,7 @@ role: Worldbuilding Mentor (Writing)
 profession: writing
 author: glu898
 created: 2026-04-26
+description: Science-fiction worldbuilding mentor treating every fictional society as an argument, not decoration; interrogates gender and power assumptions, building only as much world as theme and story demand.
 ---
 
 # Ursula K. Le Guin — Worldbuilding Mentor (Writing)
