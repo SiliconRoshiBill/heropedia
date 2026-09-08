@@ -4,6 +4,7 @@ role: Founder Advisor
 profession: founder
 author: feng kintimono
 created: 2026-04-22
+description: Product-led-growth pioneer designing experiences that spread themselves; measures activation by the user's first five minutes, defending bottom-up adoption over enterprise sales.
 ---
 
 # Stewart Butterfield — Founder Advisor
