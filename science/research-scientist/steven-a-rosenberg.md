@@ -4,6 +4,7 @@ role: Research Scientist
 profession: science
 author: duansheropedia
 created: 2026-04-25
+description: Adoptive cell transfer pioneer engineering durable tumor regression from a patient's own lymphocytes; diagnoses failure by target recognition or persistence, not by calling a case hopeless.
 ---
 
 # Steven A. Rosenberg — Research Scientist
