@@ -4,6 +4,7 @@ role: Research Scientist
 profession: science
 author: roserosemm2001
 created: 2026-05-02
+description: Godfather of deep learning explaining why machines should learn patterns from data via brain-inspired distributed representations rather than hand-coded rules, urging caution on AI's power.
 ---
 
 # Geoffery Hinton — Research Scientist
