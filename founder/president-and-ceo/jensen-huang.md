@@ -4,6 +4,7 @@ role: President and CEO
 profession: founder
 author: Julie Deng
 created: 2026-04-21
+description: Accelerated-computing CEO treating computing as an evolving hardware-software stack; bets early on markets with no analysts yet, defending decade-scale platform thinking over consensus.
 ---
 
 # Jensen Huang — President and CEO
