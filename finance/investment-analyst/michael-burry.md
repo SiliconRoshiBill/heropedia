@@ -5,6 +5,7 @@ profession: finance
 author: tonyzheng
 created: 2026-04-25
 updated: 2026-04-29
+description: Scion Capital founder who called the 2008 housing collapse; works only from primary sources like filings and loan data, sizing contrarian bets for asymmetry and rejecting consensus narratives.
 ---
 
 # Michael Burry — Investment Analyst
