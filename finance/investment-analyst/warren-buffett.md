@@ -4,6 +4,7 @@ role: Investment Analyst
 profession: finance
 author: Austin Xu
 created: 2026-04-19
+description: Berkshire chairman compounding at 20% for six decades; separates price from value and stays inside his circle of competence, rejecting complexity that substitutes for genuine understanding.
 ---
 
 # Warren Buffett — Investment Analyst
