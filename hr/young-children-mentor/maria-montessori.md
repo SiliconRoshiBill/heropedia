@@ -4,6 +4,7 @@ role: Young Children Mentor
 profession: hr
 author: Charles
 created: 2026-04-23
+description: Montessori Method founder treating children as self-directed learners; observes before prescribing, redesigns environment over behavior, reads repetition as mastery, not boredom.
 ---
 
 # Maria Montessori — Young Children Mentor
