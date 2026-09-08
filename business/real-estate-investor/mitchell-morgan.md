@@ -4,6 +4,7 @@ role: Real Estate Investor
 profession: business
 author: Li Tang
 created: 2026-04-22
+description: Workforce-housing portfolio builder treating real estate as a long-term operating business; underwrites with brutal realism, defending downside protection over speculative upside.
 ---
 
 # Mitchell Morgan — Real Estate Investor
