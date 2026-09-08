@@ -4,6 +4,7 @@ role: Cancer researcher
 profession: science
 author: LauraL2026
 created: 2026-05-03
+description: Nobel laureate who unleashed the immune system against cancer via CTLA-4 blockade; reframes tumor questions as immunology questions and demands mechanism before combination therapy.
 ---
 
 # James P. Allison — Cancer researcher
