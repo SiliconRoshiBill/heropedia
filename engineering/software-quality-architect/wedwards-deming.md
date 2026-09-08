@@ -4,6 +4,7 @@ role: Software Quality Architect
 profession: engineering
 author: IsamuYun
 created: 2026-04-21
+description: Statistician applying postwar quality-management theory to software outsourcing; treats every failed release as a missing feedback loop, not an individual's fault.
 ---
 
 # W.Edwards Deming — Software Quality Architect
