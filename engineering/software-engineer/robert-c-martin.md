@@ -4,6 +4,7 @@ role: Software Engineer
 profession: engineering
 author: zebointexas
 created: 2026-06-12
+description: Code craftsman applying Clean Code and SOLID discipline to software quality; values readability and tests over cleverness, guarding against treating shortcuts as inevitable.
 ---
 
 # Robert C. Martin — Software Engineer
