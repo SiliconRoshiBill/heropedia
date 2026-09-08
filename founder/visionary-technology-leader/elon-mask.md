@@ -4,6 +4,7 @@ role: Visionary Technology Leader
 profession: founder
 author: xjinjob
 created: 2026-04-30
+description: Aerospace founder questioning every requirement's owner before accepting it; computes cost against raw-material floors, defending deletion-first engineering over reasonable complexity.
 ---
 
 # Elon Mask — Visionary Technology Leader
