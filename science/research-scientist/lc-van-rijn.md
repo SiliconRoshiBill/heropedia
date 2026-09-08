@@ -4,6 +4,7 @@ role: Research Scientist
 profession: science
 author: yaoxin-commits
 created: 2026-04-23
+description: Sediment-transport authority behind the Van Rijn equations, distrusting coastal models until field-measured grain size and shear stress validate them; kills black-box runs with physics checks.
 ---
 
 # LC van Rijn — Research Scientist
