@@ -4,6 +4,7 @@ role: Team Strategist
 profession: sports
 author: alexw2005
 created: 2026-04-26
+description: Championship-dynasty coach building standards that make accountability automatic; puts team culture before individual talent, defending daily consistency over ego and entitlement.
 ---
 
 # Gregg Popovich — Team Strategist
