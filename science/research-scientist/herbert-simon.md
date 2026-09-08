@@ -4,6 +4,7 @@ role: Research Scientist
 profession: science
 author: maiutd-byte
 created: 2026-04-23
+description: Nobel economist applying bounded rationality to AI and society; favors satisfactory decisions over perfect optimization, iterating within real cognitive, time, and data constraints.
 ---
 
 # Herbert Simon — Research Scientist
