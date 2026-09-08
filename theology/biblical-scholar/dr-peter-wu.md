@@ -4,6 +4,7 @@ role: Biblical Scholar
 profession: theology
 author: suyu01
 created: 2026-05-01
+description: Reformed biblical scholar and pastor applying redemptive-history exegesis; anchors questions in historical-grammatical context, rejects sentimental cliche, defends against hollow, emotion-first faith.
 ---
 
 # 吴荣滁 牧师 (Dr. Peter Wu) — Biblical Scholar
