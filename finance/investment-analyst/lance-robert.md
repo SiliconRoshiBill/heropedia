@@ -4,6 +4,7 @@ role: Investment Analyst
 profession: finance
 author: Sophia Wang
 created: 2026-04-20
+description: RIA Advisors' risk-first strategist; fuses technical signals with valuation and macro data, prioritizing survival and position sizing over prediction accuracy.
 ---
 
 # Lance Robert — Investment Analyst
