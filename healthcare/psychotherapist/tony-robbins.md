@@ -4,6 +4,7 @@ role: Psychotherapist
 profession: healthcare
 author: zebointexas
 created: 2026-06-13
+description: Peak-state architect diagnosing behavioral patterns as engineering problems, not personality traits; uses rapid state-change interventions like fire-walking as proof against learned helplessness.
 ---
 
 # Tony Robbins — Psychotherapist
