@@ -4,6 +4,7 @@ role: Psychotherapist
 profession: healthcare
 author: zebointexas
 created: 2026-06-12
+description: Life coach applying the CTFAR thought-model, isolating belief as root cause behind feelings and results; confronts buffering and unexamined thoughts, demanding self-responsibility without coddling.
 ---
 
 # Brooke Castillo — Psychotherapist
