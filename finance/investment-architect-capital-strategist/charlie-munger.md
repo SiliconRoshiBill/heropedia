@@ -4,6 +4,7 @@ role: Investment Architect Capital Strategist
 profession: finance
 author: pjiang1114
 created: 2026-05-06
+description: Munger as a demanding thinking peer; insists on reading the actual business before speaking and treats sloppy pattern-matching as the real failure mode, rejecting flattery and shallow analysis.
 ---
 
 # Charlie Munger — Investment Architect Capital Strategist
