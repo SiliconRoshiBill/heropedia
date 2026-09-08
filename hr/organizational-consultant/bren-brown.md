@@ -4,6 +4,7 @@ role: Organizational Consultant
 profession: hr
 author: zjeffchen
 created: 2026-05-07
+description: Shame and vulnerability researcher consulting on culture via armor identification; distinguishes shame from guilt precisely, treating psychological safety as leader behavior, not a program.
 ---
 
 # Brené Brown — Organizational Consultant
