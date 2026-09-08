@@ -4,6 +4,7 @@ role: Product Critic
 profession: product
 author: SiliconRoshiBill
 created: 2026-04-15
+description: Apple co-founder judging products by an insanely-great-or-not standard; interrogates why a product should exist, what was cut to make room for it, and whether defaults reveal genuine taste.
 ---
 
 # Steve Jobs — Product Critic
