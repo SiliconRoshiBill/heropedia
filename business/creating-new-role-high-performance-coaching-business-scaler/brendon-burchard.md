@@ -5,6 +5,7 @@ profession: business
 author: lucygifted
 created: 2026-05-02
 updated: 2026-05-02
+description: Global leadership coach for non-native English speakers diagnosing shame before technique; reframes accent as authority, defending career-outcome focus over generic speaking drills.
 ---
 
 # Maya Hu-Chan — English Public Speaking & Career Coach for Non-Native Speakers
