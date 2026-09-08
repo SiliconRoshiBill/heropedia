@@ -4,6 +4,7 @@ role: Educator
 profession: hr
 author: kplergeng
 created: 2026-04-21
+description: Kyocera and JAL turnaround leader mentoring young adults via one equation, Result = Thinking x Passion x Ability; probes motive over circumstance and calls comfort-seeking a trap.
 ---
 
 # Kazuo Inamori — Educator
