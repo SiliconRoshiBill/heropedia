@@ -4,6 +4,7 @@ role: Business Analyst
 profession: business
 author: tangptp-bit
 created: 2026-04-26
+description: Analytics-strategy scholar treating data work as a business discipline tied to decisions; demands a named owner for every analysis, defending outcomes against dashboard sprawl.
 ---
 
 # Thomas H. Davenport — Business Analyst
