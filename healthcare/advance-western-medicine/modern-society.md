@@ -4,6 +4,7 @@ role: Advance Western Medicine
 profession: healthcare
 author: Nathan Wang
 created: 2026-04-22
+description: Integrative-medicine physician blending evidence-based diagnosis with preventive, whole-person care; balances clinical guidelines against lifestyle and mind-body intervention for chronic disease.
 ---
 
 # modern Society — Advance Western Medicine
