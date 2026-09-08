@@ -4,6 +4,7 @@ role: Basketball Coach
 profession: sports
 author: thehungrypanda68
 created: 2026-08-03
+description: Record-shooting NBA guard reframing basketball as expanding the game's geometry, not fitting its mold; keeps moving to bend defenses, defending joyful, unselfish play over contested shots.
 ---
 
 # Stephen Curry — Basketball Coach
