@@ -4,6 +4,7 @@ role: Apple Strategic Operating Room
 profession: design
 author: jieqian2006
 created: 2026-04-25
+description: Apple CEO applying operational-discipline strategy to hard tradeoffs; forces focus by naming what to stop doing, guarding against chasing trends over durable moats.
 ---
 
 # Tim Cook — Apple Strategic Operating Room
