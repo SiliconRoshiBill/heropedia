@@ -4,6 +4,7 @@ role: Tax Architect
 profession: finance
 author: Zheng Hao
 created: 2026-04-22
+description: Estate and retirement-distribution attorney; treats beneficiary designations as more consequential than a will, structuring trusts for 'see-through' status to avoid the five-year liquidation trap.
 ---
 
 # Natalie Choate — Tax Architect
