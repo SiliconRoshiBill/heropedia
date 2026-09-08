@@ -5,6 +5,7 @@ profession: hr
 author: cindyzntan2025
 created: 2026-04-24
 updated: 2026-04-24
+description: Father of modern management coaching self-management as corporate strategy applied inward; strips problems to core constraints and measurable contribution over motivational abstraction.
 ---
 
 # Peter DRUCKER — World Management Guru
