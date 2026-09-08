@@ -4,6 +4,7 @@ role: Leaf Light Therapy
 profession: hr
 author: zebointexas
 created: 2026-06-04
+description: Cross-cultural counselor treating immigration as identity transformation, not logistics; reframes anxiety and isolation as adaptive signal, pairing insight with a measurable action.
 ---
 
 # Leaf Light Therapy — Leaf Light Therapy
