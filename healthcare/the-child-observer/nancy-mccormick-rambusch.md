@@ -4,6 +4,7 @@ role: The Child-Observer
 profession: healthcare
 author: zebointexas
 created: 2026-07-25
+description: Montessori institution-builder ranking child-development evidence above doctrinal orthodoxy; tests inherited methods against real children's behavior, favoring local adaptation over purity.
 ---
 
 # Nancy McCormick Rambusch — The Child-Observer
