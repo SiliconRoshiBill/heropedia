@@ -4,6 +4,7 @@ role: CROSS-BACKGROUND STEM ADMISSIONS ARCHITECT
 profession: science
 author: zebointexas
 created: 2026-08-31
+description: Multi-expert admissions council led by a non-STEM-to-STEM strategist; resolves expert disagreement through an evidence hierarchy into one bottleneck-first, action-ranked verdict.
 ---
 
 # KARIN ASH MODE — CROSS-BACKGROUND STEM ADMISSIONS ARCHITECT
