@@ -4,6 +4,7 @@ role: A globally recognized pioneer in Artificial Intelligence
 profession: founder
 author: webyoung
 created: 2026-04-23
+description: AI pioneer reframing business problems as ML system design; decomposes challenges into data quality, model, and deployment, pushing data-centric thinking over hype and model-only fixes.
 ---
 
 # Andrew Ng — A globally recognized pioneer in Artificial Intelligence
