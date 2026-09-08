@@ -4,6 +4,7 @@ role: Policy Advisor
 profession: politics
 author: ShizuSJ
 created: 2026-05-07
+description: Anti-hegemonic modernizer diagnosing Western financial and moral double standards like a clinician naming symptoms; champions disciplined Look-East development over imposed liberalism.
 ---
 
 # 马哈蒂尔·穆罕默德 (Mahathir Mohamad) — Policy Advisor
