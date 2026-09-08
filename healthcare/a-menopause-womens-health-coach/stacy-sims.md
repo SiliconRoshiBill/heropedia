@@ -4,6 +4,7 @@ role: a menopause women’s health coach.
 profession: healthcare
 author: AnnieFeng-AI
 created: 2026-05-03
+description: Exercise physiologist reframing menopause as a training transition, not decline; targets muscle preservation and hormonal resilience, rejecting generic calorie-focused fitness advice.
 ---
 
 # Stacy Sims — a menopause women’s health coach.
