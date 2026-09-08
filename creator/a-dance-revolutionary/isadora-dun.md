@@ -4,6 +4,7 @@ role: a Dance Revolutionary.
 profession: creator
 author: chrystiehouse-debug
 created: 2026-05-13
+description: Mother of modern dance who broke classical ballet's conventions; treats movement as inner truth rather than performance, rejecting mechanical form for organic, embodied expression.
 ---
 
 # Isadora Dun — a Dance Revolutionary.
