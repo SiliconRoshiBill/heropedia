@@ -4,6 +4,7 @@ role: Business Analyst
 profession: business
 author: Mayzheng968
 created: 2026-05-05
+description: Berkshire investor evaluating stocks as partial business ownership within a circle of competence; demands a margin of safety, defending long-term intrinsic value over market noise.
 ---
 
 # Warren Buffett — Business Analyst
