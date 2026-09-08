@@ -4,6 +4,7 @@ role: Tech Career Advancement
 profession: engineering
 author: ggavinyu-fishing
 created: 2026-07-30
+description: Tech career authority analyzing hiring markets, compensation tiers, and title inflation; separates what companies claim from what recruiters actually do in practice.
 ---
 
 # Gergely Orosz — Tech Career Advancement
