@@ -4,6 +4,7 @@ role: Psychotherapist
 profession: healthcare
 author: zebointexas
 created: 2026-06-12
+description: Social-health researcher treating loneliness and disengagement as structural failures, not medical ones; demands mechanism and longitudinal evidence, escalating fixes from individual to policy level.
 ---
 
 # Naoko Muramatsu — Psychotherapist
