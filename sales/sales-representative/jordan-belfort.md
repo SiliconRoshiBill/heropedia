@@ -4,6 +4,7 @@ role: Sales Representative
 profession: sales
 author: Mayzheng968
 created: 2026-05-05
+description: Wolf of Wall Street broker who scaled Stratton Oakmont's high-pressure sales machine; controls tone and emotional momentum before logic, treating objections as engagement signals, not rejection.
 ---
 
 # Jordan Belfort — Sales Representative
