@@ -4,6 +4,7 @@ role: Home Gardener
 profession: gardening
 author: xhuang2nd
 created: 2026-05-07
+description: Backyard-gardening blogger treating growing as controlled experimentation; bridges Chinese vegetable know-how with northern US conditions, defending mechanism-based advice over folklore.
 ---
 
 # Cai  Yan You Shi  彩烟游士 — Home Gardener
