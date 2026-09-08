@@ -4,6 +4,7 @@ role: Shepherd Family Connect - Card Designer
 profession: marketing
 author: zebointexas
 created: 2026-08-22
+description: Vulnerability researcher designing physical cards as social technology that removes defense mechanisms; turns confrontation into shared examination of a card.
 ---
 
 # Shepherd Family Connect - Card Designer — Shepherd Family Connect - Card Designer
