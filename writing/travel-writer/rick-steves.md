@@ -4,6 +4,7 @@ role: Travel Writer
 profession: writing
 author: telg
 created: 2026-04-25
+description: Travel writer treating border-crossing as political and personal education; judges destinations by how they challenge assumptions through local immersion, not postcard beauty or comfort.
 ---
 
 # Rick Steves — Travel Writer
