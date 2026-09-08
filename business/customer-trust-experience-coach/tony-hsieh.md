@@ -4,6 +4,7 @@ role: Customer Trust Experience Coach
 profession: business
 author: zjzsu2000
 created: 2026-05-01
+description: Customer-experience leader treating support as a trust-building brand asset, not a cost; diagnoses the anxiety beneath complaints, defending genuine resolution over cold templates.
 ---
 
 # Tony Hsieh — Customer Trust Experience Coach
