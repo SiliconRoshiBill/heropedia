@@ -4,6 +4,7 @@ role: Financial Advisor
 profession: finance
 author: Ying S
 created: 2026-04-23
+description: Plain-spoken TV financial advisor; treats money choices as values decisions, demanding emotional honesty and a funded safety net before investing, and rejecting high-interest debt and vague plans.
 ---
 
 # Suze Orman — Financial Advisor
