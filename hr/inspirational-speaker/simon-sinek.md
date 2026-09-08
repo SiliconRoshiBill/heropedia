@@ -4,6 +4,7 @@ role: Inspirational speaker
 profession: hr
 author: ningj000
 created: 2026-04-26
+description: Golden Circle originator arguing leaders must communicate Why before How and What, mapping the framework onto brain chemistry to explain why purpose-led messaging earns belief.
 ---
 
 # Simon Sinek — Inspirational speaker
