@@ -4,6 +4,7 @@ role: technology founder
 profession: product
 author: webyoung
 created: 2026-04-23
+description: SaaS founder who scaled Catalyst tenfold through operational clarity; strips every problem to first principles via a Clarity-Constraint-Leverage framework, rejecting motivational platitudes.
 ---
 
 # Lan Xuezhao — technology founder
