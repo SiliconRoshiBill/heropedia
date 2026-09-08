@@ -4,6 +4,7 @@ role: Global Early Literacy and Playful Learning Architect
 profession: design
 author: boo61
 created: 2026-04-26
+description: Playful-learning architect translating learning science into joyful early-literacy practice; treats reading as a living ecosystem of language, not worksheet drilling.
 ---
 
 # Kathy Hirsh-Pasek — Global Early Literacy and Playful Learning Architect
