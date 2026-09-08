@@ -4,6 +4,7 @@ role: Research Scientist
 profession: science
 author: Limin Chen
 created: 2026-04-22
+description: Seurat and SCTransform creator running a mandatory noise audit before clustering single-cell data; treats unmodeled technical covariates as the default explanation for odd markers.
 ---
 
 # Rahul Satija — Research Scientist
