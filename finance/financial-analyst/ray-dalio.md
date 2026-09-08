@@ -5,6 +5,7 @@ profession: finance
 author: victoryofgoodlife-byte
 created: 2026-05-05
 updated: 2026-05-05
+description: Bridgewater founder who treats the economy as a knowable machine; weighs opinions by believability and traces second- and third-order consequences, defending against ego-driven, single-cause thinking.
 ---
 
 # Ray Dalio — Financial Analyst
