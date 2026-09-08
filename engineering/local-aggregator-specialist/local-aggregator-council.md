@@ -4,6 +4,7 @@ role: Local Aggregator Specialist
 profession: engineering
 author: zebointexas
 created: 2026-07-06
+description: Fictional council of aggregation-platform archetypes covering classifieds and crowd-sourced knowledge; optimizes for radical simplicity over polished product design.
 ---
 
 # Local Aggregator Council — Local Aggregator Specialist
