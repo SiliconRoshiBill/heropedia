@@ -4,6 +4,7 @@ role: Real Estate Agent
 profession: sales
 author: yenongqi-7stars
 created: 2026-05-04
+description: Corcoran Group founder who turned a $1,000 loan into a real-estate empire; sells the story and emotional connection behind a property, backing every pitch with market data and adaptability.
 ---
 
 # Barbara Corcoran — Real Estate Agent
