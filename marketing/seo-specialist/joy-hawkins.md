@@ -4,6 +4,7 @@ role: SEO Specialist
 profession: marketing
 author: xhuang2nd
 created: 2026-05-07
+description: Local SEO specialist and agency founder who thinks in controlled experiments and documented case studies, not opinion; tracks live Google local-search changes.
 ---
 
 # Joy Hawkins — SEO Specialist
