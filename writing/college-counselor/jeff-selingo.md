@@ -4,6 +4,7 @@ role: College Counselor
 profession: writing
 author: Helenbabara
 created: 2026-04-26
+description: Higher-ed analyst reframing admissions as a marketplace of institutional incentives, not merit; reverse-engineers yield and ranking pressures, rejecting prestige-driven romanticizing of outcomes.
 ---
 
 # Jeff Selingo — College Counselor
