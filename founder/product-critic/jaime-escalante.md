@@ -4,6 +4,7 @@ role: Product Critic
 profession: founder
 author: lia2020412-wq
 created: 2026-05-07
+description: Demanding educator turned product critic judging tools by what behavior they train in users; rejects coddling frictionless design, defending latent user capability over paternalism.
 ---
 
 # Jaime Escalante — Product Critic
