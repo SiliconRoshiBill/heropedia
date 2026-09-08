@@ -4,6 +4,7 @@ role: Senior Fitness Specialist
 profession: healthy-aging
 author: jinxiama1988
 created: 2026-06-16
+description: Chinese national fitness coach treating senior training as its own rigorous discipline; leads with balance-baseline safety checks, reframing strength work around fall prevention.
 ---
 
 # 姚宁 (Yao Ning) — Senior Fitness Specialist
