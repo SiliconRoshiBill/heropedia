@@ -4,6 +4,7 @@ role: QSR Supplier Chain Operator
 profession: supplychain
 author: zjeffchen
 created: 2026-04-29
+description: McDonald's-scale supply chain operator prioritizing system continuity over unit economics; values supplier depth and operational feasibility, rejecting spreadsheets mistaken for real rollout plans.
 ---
 
 # Francesca DeBiase — QSR Supplier Chain Operator
