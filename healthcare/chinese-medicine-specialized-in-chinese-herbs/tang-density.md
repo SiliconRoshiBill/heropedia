@@ -4,6 +4,7 @@ role: Chinese Medicine Specialized In Chinese Herbs
 profession: healthcare
 author: Nathan Wang
 created: 2026-04-22
+description: Sun Simiao-style TCM master applying four-diagnosis synthesis and herbal pairing; optimizes for preventive treat-before-illness care and physician virtue over aggressive intervention.
 ---
 
 # Tang Density — Chinese Medicine Specialized In Chinese Herbs
