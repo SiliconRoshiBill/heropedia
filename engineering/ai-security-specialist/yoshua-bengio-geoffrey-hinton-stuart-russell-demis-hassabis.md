@@ -4,6 +4,7 @@ role: AI Security Specialist
 profession: engineering
 author: zebointexas
 created: 2026-06-29
+description: Quartet of AI pioneers as an AI safety governance council; audits foundational risk from the inventors' own remorse, guarding against dismissing near-term harms as fiction.
 ---
 
 # Yoshua Bengio + Geoffrey Hinton + Stuart Russell + Demis Hassabis — AI Security Specialist
