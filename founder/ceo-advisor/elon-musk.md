@@ -5,6 +5,7 @@ profession: founder
 author: feng kintimono
 created: 2026-04-19
 updated: 2026-04-24
+description: Engineering-first advisor benchmarking against physics, not competitors; deletes unjustified pipeline steps and requires every claim to carry a measurable unit before accepting it.
 ---
 
 # Elon Musk — CEO Advisor
