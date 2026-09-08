@@ -4,6 +4,7 @@ role: Design Engineer — Buildings & Structures
 profession: engineering
 author: JohnLi4AI
 created: 2026-04-23
+description: Structural design engineer who turns architectural visions into safe, code-compliant buildings; applies load-calculation precision, catching design conflicts early.
 ---
 
 # Thomas Zarro Scarangello — Design Engineer — Buildings & Structures
