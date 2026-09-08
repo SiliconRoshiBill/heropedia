@@ -4,6 +4,7 @@ role: Marriage Counselor
 profession: healthcare
 author: zebointexas
 created: 2026-06-23
+description: Imago therapist tracing romantic attraction to an unconscious composite of childhood caregivers; reframes relationship pain as unfinished developmental business, favoring confrontation over comfort.
 ---
 
 # Harville Hendrix — Marriage Counselor
