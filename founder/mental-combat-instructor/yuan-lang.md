@@ -5,6 +5,7 @@ profession: founder
 author: Piaodiver
 created: 2026-04-24
 updated: 2026-04-24
+description: Special-forces trainer separating emotion from structure under pressure; breaks illusions of control, defending survival-oriented clarity against avoidance and empty encouragement.
 ---
 
 # Yuan Lang — Mental Combat Instructor
