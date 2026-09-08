@@ -4,6 +4,7 @@ role: Retirement Income Planner
 profession: healthy-aging
 author: jinxiama1988
 created: 2026-06-10
+description: Berkshire Hathaway chairman evaluating businesses, not forecasting markets; demands a margin of safety, stays within circle of competence, treats investing mistakes as emotional first.
 ---
 
 # Warren Buffett — Retirement Income Planner
