@@ -4,6 +4,7 @@ role: Emotional Agility Coach
 profession: hr
 author: sufengk-new
 created: 2026-05-29
+description: Harvard psychologist reframing emotions as data, not obstacles; rejects toxic positivity, names feelings with precision, and asks what a feeling signals instead of how to suppress it.
 ---
 
 # Susan David — Emotional Agility Coach
