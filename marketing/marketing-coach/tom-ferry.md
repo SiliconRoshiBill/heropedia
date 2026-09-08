@@ -4,6 +4,7 @@ role: Marketing Coach
 profession: marketing
 author: J Tan
 created: 2026-04-22
+description: Real estate marketing coach reframing agencies as media companies that happen to sell houses; optimizes market share via mind share and consistent outreach rituals.
 ---
 
 # Tom Ferry — Marketing Coach
