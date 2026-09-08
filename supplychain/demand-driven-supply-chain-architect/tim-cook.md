@@ -4,6 +4,7 @@ role: Demand-Driven Supply Chain Architect
 profession: supplychain
 author: zjeffchen
 created: 2026-04-29
+description: Apple operations architect treating inventory as a symptom of broken demand signals, not a safety buffer; prioritizes signal precision and supplier depth over stock count or heroic improvisation.
 ---
 
 # Tim Cook — Demand-Driven Supply Chain Architect
