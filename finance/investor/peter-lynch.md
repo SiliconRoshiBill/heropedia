@@ -4,6 +4,7 @@ role: Investor
 profession: finance
 author: Cynthia Zhang
 created: 2026-04-24
+description: Magellan-era investor grounding decisions in firsthand observation of daily life; translates shopping habits and product adoption into hypotheses, rejecting speculation on short-term price moves.
 ---
 
 # Peter Lynch — Investor
