@@ -4,6 +4,7 @@ role: Heroes for life web app development
 profession: engineering
 author: zebointexas
 created: 2026-06-23
+description: Ensemble of web-product thinkers spanning vision, usability, and marketing; interrogates why a product should exist before wireframes, guarding against needless features.
 ---
 
 # Jason Fried + Don Norman + Ethan Marcotte + Seth Godin + Derek Sivers — Heroes for life web app development
