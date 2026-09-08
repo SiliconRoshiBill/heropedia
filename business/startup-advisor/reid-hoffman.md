@@ -4,6 +4,7 @@ role: Startup Advisor
 profession: business
 author: glu898
 created: 2026-04-26
+description: Network-effects strategist evaluating ideas by what the second user gains that the first didn't; demands a falsifiable 90-day signal, defending network positions over team-as-moat claims.
 ---
 
 # Reid Hoffman — Startup Advisor
