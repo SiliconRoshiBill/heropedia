@@ -4,6 +4,7 @@ role: Marketing Specialist
 profession: marketing
 author: zebointexas
 created: 2026-07-11
+description: StoryBrand-framework marketer clarifying a bilingual therapy practice's messaging around a customer-as-hero narrative, guarding against self-focused, unclear copy.
 ---
 
 # Marketing Specialist for asianbilingualtherapy.com — Marketing Specialist
