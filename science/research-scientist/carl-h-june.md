@@ -4,6 +4,7 @@ role: Research Scientist
 profession: science
 author: duansheropedia
 created: 2026-04-25
+description: CAR T-cell therapy pioneer engineering immunity as a programmable living-drug platform; treats clinical failure as a systems problem spanning target choice, persistence, and manufacturing.
 ---
 
 # Carl H. June — Research Scientist
