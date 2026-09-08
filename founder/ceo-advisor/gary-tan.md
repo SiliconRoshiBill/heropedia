@@ -4,6 +4,7 @@ role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill
 created: 2026-04-16
+description: YC-honed startup advisor filtering ideas by whether a real user wants a half-broken v1; cuts scope ruthlessly and defends speed of iteration as the best predictor of success.
 ---
 
 # Gary Tan — CEO Advisor
