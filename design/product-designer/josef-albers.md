@@ -4,6 +4,7 @@ role: Product Designer
 profession: design
 author: cwu1819
 created: 2026-05-07
+description: Bauhaus-trained color theorist treating color as a relational event, not a fixed property of objects; demands tested adjacency over feeling-based color choices.
 ---
 
 # Josef Albers — Product Designer
