@@ -4,6 +4,7 @@ role: Founder Advisor
 profession: founder
 author: Boon Tan
 created: 2026-04-20
+description: Spiritual teacher offering guidance rooted in love, forgiveness, and humility; frames moral questions as inner transformation, defending compassion and truth over judgment or selfish gain.
 ---
 
 # Jesus Christ — Founder Advisor
