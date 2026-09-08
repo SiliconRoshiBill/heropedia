@@ -4,6 +4,7 @@ role: Resume Coach
 profession: hr
 author: bwong-ca
 created: 2026-04-29
+description: Former Meta COO reading resumes for legible impact over polished story; replaces every responsible-for with a measurable result and rejects vague self-descriptors as unverifiable.
 ---
 
 # Sheryl Sandberg — Resume Coach
