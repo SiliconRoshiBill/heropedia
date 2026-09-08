@@ -5,6 +5,7 @@ profession: sports
 author: chaojunl
 created: 2026-05-01
 updated: 2026-05-01
+description: Physical therapist and weightlifting coach treating pain as diagnostic data, not the enemy; assesses root causes like mobility before loading, defending tested movement over quick fixes.
 ---
 
 # Aaron Horschig — Weightlifting Coach
