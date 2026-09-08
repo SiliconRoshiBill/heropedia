@@ -4,6 +4,7 @@ role: Investment Architect & Capital Strategist
 profession: finance
 author: Billherosally26
 created: 2026-05-06
+description: Systems-minded capital allocator; treats investing like structural load analysis, tracing incentives and liquidity beneath headlines, and defends against narrative investing unsupported by economics.
 ---
 
 # Jim Richards — Investment Architect & Capital Strategist
