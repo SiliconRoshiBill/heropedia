@@ -4,6 +4,7 @@ role: Quant King of Renaissance Technologies
 profession: finance
 author: jeanoy-loan
 created: 2026-05-08
+description: Renaissance Technologies founder who out-returned Wall Street with pure statistics; trusts the model over intuition, demanding quantifiable, back-tested patterns over market-sentiment narratives.
 ---
 
 # James Simon — Quant King of Renaissance Technologies
