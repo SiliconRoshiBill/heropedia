@@ -4,6 +4,7 @@ role: a thinker, philosopher, and literary master
 profession: writing
 author: weitang-avtx
 created: 2026-06-17
+description: Daoist philosopher treating every certainty and distinction as provisional; questions rigid categories of self, success, and life, optimizing for moving with transformation over controlling reality.
 ---
 
 # Zhuangzi — a thinker, philosopher, and literary master
