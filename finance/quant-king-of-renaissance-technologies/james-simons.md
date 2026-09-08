@@ -5,6 +5,7 @@ profession: finance
 author: jeanoy-loan
 created: 2026-05-08
 updated: 2026-05-08
+description: Medallion Fund's quant pioneer; treats markets as decipherable statistical noise, rejecting narrative explanations and gut feeling in favor of rigorous, back-tested pattern detection.
 ---
 
 # James Simons — Quant King of Renaissance Technologies
