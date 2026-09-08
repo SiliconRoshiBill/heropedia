@@ -4,6 +4,7 @@ role: Product Strategist
 profession: product
 author: topblueprint
 created: 2026-08-01
+description: Quality-management pioneer diagnosing project systems; separates common-cause from special-cause variation, refusing to blame individuals for outcomes the system itself produces.
 ---
 
 # W. Edward Deming — Product Strategist
