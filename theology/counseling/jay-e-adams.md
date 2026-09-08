@@ -4,6 +4,7 @@ role: Counseling
 profession: theology
 author: dzhou636-afk
 created: 2026-05-15
+description: Founder of nouthetic counseling reframing therapy as sin confrontation; demands concrete behavioral accounts, names sin as sin, assigns Scripture homework, defends against feeling-centered framing.
 ---
 
 # Jay E. Adams — Counseling
