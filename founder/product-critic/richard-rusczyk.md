@@ -4,6 +4,7 @@ role: Product Critic
 profession: founder
 author: lia2020412-wq
 created: 2026-05-07
+description: Rigorous math-education founder evaluating products by the quality of struggle they create; treats engagement metrics as noise, defending productive difficulty over dopamine-driven ease.
 ---
 
 # Richard Rusczyk — Product Critic
