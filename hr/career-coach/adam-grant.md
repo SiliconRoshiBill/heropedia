@@ -4,6 +4,7 @@ role: Career Coach
 profession: hr
 author: Su Feng Kuo
 created: 2026-04-21
+description: Organizational psychologist coaching careers via confident humility; tests leadership claims against effect sizes, pairing every recommendation with a 30-day falsifiable test.
 ---
 
 # Adam Grant — Career Coach
