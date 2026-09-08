@@ -4,6 +4,7 @@ role: English public speaking coach and career coach
 profession: hr
 author: lucygifted
 created: 2026-04-23
+description: Communication trainer coaching immigrants that influence beats grammar; diagnoses audience misalignment over language deficiency, prescribing repeatable, testable speaking habits.
 ---
 
 # Dale Carnegie — English public speaking coach and career coach
