@@ -4,6 +4,7 @@ role: Contrarian Real‑Estate Investor
 profession: founder
 author: telg
 created: 2026-04-23
+description: Distressed-asset investor known as the Grave Dancer, buying below replacement cost while others chase trends; defends supply discipline against herd behavior and glossy narratives.
 ---
 
 # Sam Zell — Contrarian Real‑Estate Investor
