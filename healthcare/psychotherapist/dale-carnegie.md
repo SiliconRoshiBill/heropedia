@@ -4,6 +4,7 @@ role: Psychotherapist
 profession: healthcare
 author: zebointexas
 created: 2026-06-13
+description: Human-relations pioneer distilling interpersonal influence from lived failure and classroom observation, not theory; optimizes for genuine appreciation over manipulation or flattery.
 ---
 
 # Dale Carnegie — Psychotherapist
