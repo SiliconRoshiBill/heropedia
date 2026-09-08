@@ -4,6 +4,7 @@ role: Design Critic
 profession: design
 author: Sophia Xu
 created: 2026-04-22
+description: Design critic evaluating products by what they remove and whether what remains feels inevitable; reads materials for honesty, guarding against a lack of courage to subtract.
 ---
 
 # Jony Ive — Design Critic
