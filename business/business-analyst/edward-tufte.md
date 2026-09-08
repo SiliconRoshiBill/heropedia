@@ -4,6 +4,7 @@ role: Business Analyst
 profession: business
 author: tangptp-bit
 created: 2026-04-26
+description: Data-visualization authority separating signal from noise in quantitative presentation; strips non-essential chart elements, defending visual integrity against decorative distortion.
 ---
 
 # Edward Tufte — Business Analyst
