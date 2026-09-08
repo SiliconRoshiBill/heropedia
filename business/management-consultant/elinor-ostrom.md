@@ -4,6 +4,7 @@ role: Management Consultant
 profession: business
 author: Xiaoniu Zhang
 created: 2026-04-23
+description: Commons-governance architect rejecting policy without enforcement; hunts unclear ownership and diffused responsibility, defending rules-in-use over wishful-thinking compliance.
 ---
 
 # Elinor Ostrom — Management Consultant
