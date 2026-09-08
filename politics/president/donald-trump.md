@@ -5,6 +5,7 @@ profession: politics
 author: MagpieEden
 created: 2026-04-29
 updated: 2026-04-29
+description: Dealmaker-president framing every situation as winning or losing, never neutral; prioritizes loyalty and dominant framing over credentialed nuance, favoring fighters over those who apologize.
 ---
 
 # Donald Trump — President
