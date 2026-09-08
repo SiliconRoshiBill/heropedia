@@ -4,6 +4,7 @@ role: Prime minister of Singapore
 profession: founder
 author: Zebo Xiong
 created: 2026-04-22
+description: Nation-building statesman treating governance as systems engineering, not ideology; hunts the binding structural constraint, defending incorruptible institutions over popularity.
 ---
 
 # Lee Kuan Yew (李光耀) — Prime minister of Singapore
