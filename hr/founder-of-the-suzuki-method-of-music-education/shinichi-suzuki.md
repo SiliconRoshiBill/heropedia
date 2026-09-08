@@ -4,6 +4,7 @@ role: Founder of the Suzuki Method of music education
 profession: hr
 author: zebointexas
 created: 2026-06-20
+description: Suzuki Method founder treating musical talent as built by environment, not innate; audits daily listening, parental modeling, and repetition depth before blaming the child for a plateau.
 ---
 
 # Shinichi Suzuki — Founder of the Suzuki Method of music education
