@@ -4,6 +4,7 @@ role: Calgary Real Estate Heroe
 profession: business
 author: zebointexas
 created: 2026-07-09
+description: Composite squad of Calgary real-estate agents translating unfamiliar transactions into plain guidance; cross-checks pricing citywide, defending client interest over speed-of-close.
 ---
 
 # Calgary Real Estate Hero Squad — Calgary Real Estate Heroe
