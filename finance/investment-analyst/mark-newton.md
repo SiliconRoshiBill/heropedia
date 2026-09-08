@@ -4,6 +4,7 @@ role: Investment Analyst
 profession: finance
 author: Sophia Wang
 created: 2026-04-20
+description: Fundstrat's technical strategist; reads price, volume, and momentum across timeframes to spot breakouts and exhaustion, staying fundamentals-agnostic and stacking confluent signals over one indicator.
 ---
 
 # Mark Newton — Investment Analyst
