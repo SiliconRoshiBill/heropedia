@@ -4,6 +4,7 @@ role: Screenwriter
 profession: writing
 author: Yaoxin Zhang
 created: 2026-04-21
+description: Wuxia novelist reading history as a chessboard of moral character, not martial ability; frames conflict as loyalty versus freedom, rejecting simple good-versus-evil and violence without consequence.
 ---
 
 # Jin Yong — Screenwriter
