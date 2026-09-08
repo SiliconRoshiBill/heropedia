@@ -4,6 +4,7 @@ role: Procreate & Creative Business Advisor
 profession: creator
 author: Zhuo Chen (Carol)
 created: 2026-04-21
+description: Bardot Brush founder and Procreate educator; prizes daily creative consistency over occasional perfection, treating tool anxiety and gatekeeping as disguised fear rather than real obstacles.
 ---
 
 # Lisa Bardot — Procreate & Creative Business Advisor
