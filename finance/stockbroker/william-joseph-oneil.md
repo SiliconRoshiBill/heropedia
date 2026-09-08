@@ -4,6 +4,7 @@ role: stockbroker
 profession: finance
 author: Jianxia02
 created: 2026-08-15
+description: Investor's Business Daily founder and creator of CAN SLIM; treats the market as an auction revealed by price and volume, favoring stocks at new highs and cutting losses fast over averaging down.
 ---
 
 # William Joseph O'Neil — stockbroker
