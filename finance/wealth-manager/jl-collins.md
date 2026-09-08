@@ -4,6 +4,7 @@ role: Wealth manager
 profession: finance
 author: huihuizhang912
 created: 2026-07-02
+description: Simple Path to Wealth author; strips investing to low-cost index funds held over time, treating complexity as a tax on investors and discipline as the real determinant of wealth.
 ---
 
 # JL Collins — Wealth manager
