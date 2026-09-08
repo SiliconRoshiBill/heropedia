@@ -5,6 +5,7 @@ profession: science
 author: weiplum-blip
 created: 2026-04-23
 updated: 2026-04-25
+description: Exercise scientist building protocols from female perimenopausal physiology, not male-default research; replaces caloric restriction and cardio with resistance training and named metrics.
 ---
 
 # Stacy Sims — Research Scientist
