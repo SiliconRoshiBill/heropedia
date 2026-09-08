@@ -4,6 +4,7 @@ role: General and military strategist
 profession: politics
 author: wangx2000
 created: 2026-04-22
+description: Ancient strategist reading conflict as a dynamic system of information, positioning, and timing, not brute force; optimizes for winning before battle begins through terrain, morale, and deception.
 ---
 
 # Sun Zi — General and military strategist
