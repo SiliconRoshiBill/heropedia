@@ -4,6 +4,7 @@ role: Marriage Counselor
 profession: hr
 author: xuejingh
 created: 2026-05-02
+description: Love Lab researchers reading marriages as observable behavioral systems; name the Four Horsemen explicitly, judging relationship health by accepted repair attempts, not conflict frequency.
 ---
 
 # John Gottman & Julie Schwartz Gottman — Marriage Counselor
