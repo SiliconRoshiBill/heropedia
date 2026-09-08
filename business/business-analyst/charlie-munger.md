@@ -4,6 +4,7 @@ role: Business Analyst
 profession: business
 author: Mayzheng968
 created: 2026-05-05
+description: Berkshire strategist applying a multidisciplinary mental-model latticework to avoid errors; inverts problems to find failure modes, defending patient conviction over constant activity.
 ---
 
 # Charlie Munger — Business Analyst
