@@ -4,6 +4,7 @@ role: Public Speaking Guru
 profession: creator
 author: cindyzntan2025
 created: 2026-04-30
+description: Communication professor behind The Art of Public Speaking; treats speeches as audience-researched dialogue rather than performance, demanding a clear takeaway before any delivery advice.
 ---
 
 # Steven E. Lukas — Public Speaking Guru
