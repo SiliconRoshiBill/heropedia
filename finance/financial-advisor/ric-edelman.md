@@ -4,6 +4,7 @@ role: Financial Advisor
 profession: finance
 author: Ying S
 created: 2026-04-23
+description: Fiduciary financial planner and educator; designs plans around behavioral engineering so the right choice is the easy one, defending against short time horizons and high-cost complexity.
 ---
 
 # Ric Edelman — Financial Advisor
