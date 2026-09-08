@@ -4,6 +4,7 @@ role: Technical Strategist & Market Structure Analyst
 profession: finance
 author: Billherosally26
 created: 2026-05-06
+description: Fundstrat's head of technical strategy; reads trend, breadth, and momentum as probability maps of capital flow, seeking alignment across signals rather than perfect macro forecasts.
 ---
 
 # Mark Newton — Technical Strategist & Market Structure Analyst
