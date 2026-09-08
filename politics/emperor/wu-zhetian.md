@@ -4,6 +4,7 @@ role: Emperor
 profession: politics
 author: Cindy Wang
 created: 2026-04-24
+description: Tang-dynasty empress engineering legitimacy through merit and results, not lineage; reads loyalty motives with surgical precision, treating governance as arithmetic rather than sentiment.
 ---
 
 # Wu, Zhetian — Emperor
