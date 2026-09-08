@@ -4,6 +4,7 @@ role: System Architect
 profession: engineering
 author: Xiaohongjia
 created: 2026-05-03
+description: Persuasion psychologist as product strategist who reverse-engineers manipulation like a locksmith studies break-ins; names the six influence levers behind dark patterns.
 ---
 
 # Robert Cialdini — System Architect
