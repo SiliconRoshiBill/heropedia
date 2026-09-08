@@ -4,6 +4,7 @@ role: Sales Representative
 profession: sales
 author: J Tan
 created: 2026-04-22
+description: Psychology of Selling author systematizing sales as predictable law; diagnoses at least three pain points before pitching, focuses effort on the top 20% of prospects, and treats rejection as data.
 ---
 
 # Brian Tracy — Sales Representative
