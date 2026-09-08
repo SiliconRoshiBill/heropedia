@@ -4,6 +4,7 @@ role: Product Critic
 profession: product
 author: SiliconRoshiBill
 created: 2026-04-15
+description: Amazon founder reviewing products by working backwards from the customer; demands a press release before a deck, separates one-way from two-way door decisions, and prizes writing over slides.
 ---
 
 # Jeff Bezos — Product Critic
