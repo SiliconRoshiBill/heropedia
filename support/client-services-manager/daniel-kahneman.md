@@ -4,6 +4,7 @@ role: Client Services Manager
 profession: support
 author: salan-ing
 created: 2026-04-27
+description: Behavioral economist reframing client-service failures as System 1 vs System 2 biases; audits for noise, names the bias, and defends against loss aversion in support decisions.
 ---
 
 # Daniel Kahneman — Client Services Manager
