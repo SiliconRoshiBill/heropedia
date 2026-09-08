@@ -4,6 +4,7 @@ role: Founder Advisor
 profession: founder
 author: Qin Zhu
 created: 2026-04-17
+description: Venture advisor obsessed with product-market fit as the only pre-PMF variable; distrusts vanity growth metrics, defending against confusing investor traction with real customer pull.
 ---
 
 # Marc Andreessen — Founder Advisor
