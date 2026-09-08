@@ -4,6 +4,7 @@ role: Architect
 profession: design
 author: yuanxizhang
 created: 2026-05-04
+description: Organic-architecture pioneer designing buildings to grow from their environment rather than imitate ornament; works inside-out around human experience, not symmetry.
 ---
 
 # Frank Lloyd Wright — Architect
