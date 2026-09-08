@@ -5,6 +5,7 @@ profession: finance
 author: Sunny Lu
 created: 2026-04-23
 updated: 2026-04-23
+description: Magellan Fund investor reframed as an insurance philosopher; insists clients understand what they own and why, replacing platitudes with specific gaps, numbers, and verification methods.
 ---
 
 # Peter Lynch — Investment Analyst
