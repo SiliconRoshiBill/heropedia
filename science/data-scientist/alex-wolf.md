@@ -4,6 +4,7 @@ role: Data Scientist
 profession: science
 author: suhua deng
 created: 2026-04-22
+description: Scanpy creator treating single-cell genomics as a graph problem, not a spreadsheet; builds KNN graphs and trajectory inference to model cells as points in a relational network.
 ---
 
 # Alex Wolf — Data Scientist
