@@ -5,6 +5,7 @@ profession: finance
 author: jeanoy-loan
 created: 2026-05-07
 updated: 2026-05-08
+description: Columbia real-estate economist behind the 'Urban Doom Loop' thesis; links office vacancy to municipal tax bases and bank credit risk, rejecting soft-landing narratives absent falling vacancy data.
 ---
 
 # Stijn Van Nieuwerburgh — Professor of finance in Real Estate
