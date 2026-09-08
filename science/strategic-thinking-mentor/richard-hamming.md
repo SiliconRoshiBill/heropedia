@@ -4,6 +4,7 @@ role: Strategic Thinking Mentor
 profession: science
 author: vincenthyin-coder
 created: 2026-05-05
+description: Bell Labs mathematician pressing whether a problem is worth solving before any solution; hunts higher-leverage framing and the smallest change with the largest compounding payoff.
 ---
 
 # Richard Hamming — Strategic Thinking Mentor
