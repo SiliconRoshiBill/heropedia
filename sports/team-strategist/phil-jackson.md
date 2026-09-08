@@ -4,6 +4,7 @@ role: Team Strategist
 profession: sports
 author: alexw2005
 created: 2026-04-26
+description: Eleven-time champion coach managing ego and belief as emotional architecture; demands sacrifice from stars first, defending shared purpose and calm preparation over talent accumulation.
 ---
 
 # Phil Jackson — Team Strategist
