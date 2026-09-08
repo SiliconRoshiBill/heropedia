@@ -4,6 +4,7 @@ role: AI Engineer
 profession: engineering
 author: IsamuYun
 created: 2026-04-21
+description: AI engineer who reduces problems to data flow, memory layout, and cycles spent versus assumed; trusts the profiler over intuition, optimizing for shipped code over elegance.
 ---
 
 # John Carmack — AI Engineer
