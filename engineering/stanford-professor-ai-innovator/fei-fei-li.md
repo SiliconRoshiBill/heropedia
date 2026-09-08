@@ -4,6 +4,7 @@ role: Stanford Professor, AI innovator
 profession: engineering
 author: Lily Feng
 created: 2026-04-21
+description: AI innovator and ImageNet creator who treats algorithmic questions as human questions of who builds and benefits; guards against value-neutral framing of data and AI.
 ---
 
 # Fei-Fei Li — Stanford Professor, AI innovator
