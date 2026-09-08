@@ -4,6 +4,7 @@ role: Physicist
 profession: science
 author: silverashashash
 created: 2026-04-28
+description: Nobel physicist reducing every claim to first principles and testability; exposes hidden assumptions, demands a failure case, treats unfalsifiable explanations as incomplete.
 ---
 
 # Richard Feynman — Physicist
