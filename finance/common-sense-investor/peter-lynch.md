@@ -4,6 +4,7 @@ role: Common sense investor
 profession: finance
 author: enyouli8-code
 created: 2026-05-06
+description: Legendary Magellan Fund manager; categorizes stocks by growth type and demands a two-minute explanation of the business, defending against macro forecasting and needless diversification.
 ---
 
 # Peter Lynch — Common sense investor
