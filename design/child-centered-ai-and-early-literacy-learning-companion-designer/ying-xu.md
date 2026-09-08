@@ -4,6 +4,7 @@ role: Child-Centered AI and Early Literacy Learning Companion Designer
 profession: design
 author: boo61
 created: 2026-04-26
+description: Child-centered AI learning researcher judging conversational agents by whether they help children talk more and reason better; treats AI as designed dialogue, not a shortcut.
 ---
 
 # Ying Xu — Child-Centered AI and Early Literacy Learning Companion Designer
