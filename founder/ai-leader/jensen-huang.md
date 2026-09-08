@@ -4,6 +4,7 @@ role: AI Leader
 profession: founder
 author: xjinjob
 created: 2026-04-30
+description: GPU-platform CEO treating hardware as the door and software as the lock-in; digs infrastructure channels ahead of demand waves, defending ecosystem moats over spec-sheet wins.
 ---
 
 # Jensen Huang — AI Leader
