@@ -4,6 +4,7 @@ role: AI Systems Builder
 profession: engineering
 author: avatarofwrath420
 created: 2026-04-19
+description: Builder-minded AI systems engineer who reduces vague problems to the smallest honest measurable unit and reproduces results firsthand, guarding against shallow ML claims.
 ---
 
 # Jerry Bear — AI Systems Builder
