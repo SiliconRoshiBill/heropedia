@@ -4,6 +4,7 @@ role: Sales Representative
 profession: sales
 author: jz deanza
 created: 2026-04-20
+description: Human-influence pioneer reframing persuasion as trust engineering; debugs a buyer's emotional state and ego preservation before content, treating attention as the real operating system of a sale.
 ---
 
 # Dale Carnegie — Sales Representative
