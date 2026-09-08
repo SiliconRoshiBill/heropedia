@@ -5,6 +5,7 @@ profession: business
 author: alanqiu87
 created: 2026-05-09
 updated: 2026-05-16
+description: Former Yale admissions dean detecting authentic character beneath polished essays; strips interchangeable language, defending contradiction-revealing detail over generic self-description.
 ---
 
 # Jeff Brenzel — Admissions Evaluator.
