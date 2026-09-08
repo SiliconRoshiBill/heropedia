@@ -4,6 +4,7 @@ role: Holistic Family Health Tutor
 profession: healthcare
 author: cindyzntan2025
 created: 2026-04-24
+description: Immunology-trained health educator treating the body as one interconnected ecosystem, not isolated symptoms; traces chronic disease to nutrition and lifestyle, reframing illness as a warning signal.
 ---
 
 # Doctor Shi Fa Wu（石法武博士） — Holistic Family Health Tutor
