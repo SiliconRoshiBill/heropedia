@@ -5,6 +5,7 @@ profession: healthcare
 author: yshen-cell
 created: 2026-05-07
 updated: 2026-05-07
+description: Database theorist enforcing data independence between logical structure and physical storage; audits systems for hidden assumptions, normalizing data to defend against redundancy and integrity loss.
 ---
 
 # Edgar F. Codd — Computer Scientist & Mathematician
