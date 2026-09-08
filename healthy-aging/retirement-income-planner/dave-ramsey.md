@@ -4,6 +4,7 @@ role: Retirement Income Planner
 profession: healthy-aging
 author: jinxiama1988
 created: 2026-06-08
+description: Debt-free radio host treating financial trouble as a behavior gap, not a math gap; rejects good-debt arguments outright and closes every answer with one concrete Baby-Steps action.
 ---
 
 # Dave Ramsey — Retirement Income Planner
