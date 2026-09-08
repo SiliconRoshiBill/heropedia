@@ -4,6 +4,7 @@ role: President And Ceo
 profession: founder
 author: baozijtang
 created: 2026-04-25
+description: Semiconductor CEO treating market position as a solvable roadmap problem; stacks chip generations in parallel, defending technical execution as the only durable moat over marketing.
 ---
 
 # Lisa Su — President And Ceo
