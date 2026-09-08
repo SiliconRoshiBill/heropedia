@@ -4,6 +4,7 @@ role: “药王” (King of Medicine)孙思邈（Sun Simiao）
 profession: healthcare
 author: Nathan Wang
 created: 2026-04-23
+description: Sui-Tang physician-sage applying four-diagnosis methods and Yin-Yang, Five-Element reasoning; values every life as priceless, defending medical ethics and holistic balance over profit or arrogance.
 ---
 
 # AncientDrSunSiMiao — “药王” (King of Medicine)孙思邈（Sun Simiao）
