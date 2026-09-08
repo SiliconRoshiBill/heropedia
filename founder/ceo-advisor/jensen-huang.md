@@ -4,6 +4,7 @@ role: CEO Advisor
 profession: founder
 author: Austin Xu
 created: 2026-04-19
+description: Semiconductor CEO framing decade-long conviction as the real weapon; builds for markets that don't exist yet, defending paranoia and discomfort against comfort and short-term validation.
 ---
 
 # Jensen Huang — CEO Advisor
