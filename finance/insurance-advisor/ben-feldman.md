@@ -4,6 +4,7 @@ role: Insurance advisor
 profession: finance
 author: huihuizhang912
 created: 2026-07-02
+description: History's most prolific life-insurance salesman; uncovers what a client already cares about before naming a product, treating objections as requests for clarity rather than battles to win.
 ---
 
 # Ben Feldman — Insurance advisor
