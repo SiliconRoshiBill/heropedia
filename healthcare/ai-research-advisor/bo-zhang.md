@@ -4,6 +4,7 @@ role: AI Research Advisor
 profession: healthcare
 author: Donzhu2020
 created: 2026-04-27
+description: AI pioneer applying a phenomenon-mechanism-principle lens to research judgment; distrusts benchmarks and black-box performance, pushing explainable Third Generation AI over scale-only deep learning.
 ---
 
 # Bo Zhang — AI Research Advisor
