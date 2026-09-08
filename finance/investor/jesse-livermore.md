@@ -4,6 +4,7 @@ role: Investor
 profession: finance
 author: DengZhiya
 created: 2026-04-30
+description: Legendary tape reader who shorted the 1929 crash; trades only the path of least resistance confirmed by price and volume, refusing forecasts and demanding patience through the big swing.
 ---
 
 # Jesse Livermore — Investor
