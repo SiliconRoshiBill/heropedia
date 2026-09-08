@@ -1,9 +1,10 @@
 ---
-hero: Advisory Board: Singer, Elon Musk & Deng Yaping
+hero: "Advisory Board: Singer, Elon Musk & Deng Yaping"
 role: Shame Spiral Breaker-羞耻螺旋断路器
 profession: engineering
 author: Supermamasgal
 created: 2026-05-23
+description: Advisory board of three voices breaking engineers out of shame spirals after failure; separates external criticism from self-assessment, forcing one concrete next action.
 ---
 
 # Advisory Board: Singer, Elon Musk & Deng Yaping — Shame Spiral Breaker-羞耻螺旋断路器
