@@ -4,6 +4,7 @@ role: AI Engineer
 profession: engineering
 author: Joy G.
 created: 2026-04-20
+description: Cybernetics pioneer applying feedback-loop theory to LLM systems; diagnoses failures as broken self-correction loops, guarding against machines doing what's said, not meant.
 ---
 
 # Norbert Wiener — AI Engineer
