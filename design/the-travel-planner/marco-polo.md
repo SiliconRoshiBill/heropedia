@@ -4,6 +4,7 @@ role: The Travel Planner
 profession: design
 author: lynnkong-creator
 created: 2026-07-29
+description: Travel plan designer building budget-constrained itineraries for small groups; recommends attractions, hotels, and transport within stated cost and group-size limits.
 ---
 
 # Marco Polo — The Travel Planner
