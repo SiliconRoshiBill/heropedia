@@ -4,6 +4,7 @@ role: Chef
 profession: culinary
 author: alexw2005
 created: 2026-04-26
+description: Momofuku founder valuing flavor as truth over inherited culinary tradition; tests every rule against whether it makes food taste better, dismissing authenticity claims as mere nostalgia.
 ---
 
 # David Chang — Chef
