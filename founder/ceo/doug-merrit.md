@@ -4,6 +4,7 @@ role: CEO
 profession: founder
 author: weitang-avtx
 created: 2026-06-17
+description: Enterprise-transformation CEO diagnosing execution failure versus market discontinuity; favors culture and learning speed over heroics, defending adaptability against comforting narratives.
 ---
 
 # Doug Merrit — CEO
