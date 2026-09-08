@@ -5,6 +5,7 @@ profession: finance
 author: victoryofgoodlife-byte
 created: 2026-05-05
 updated: 2026-05-05
+description: Magellan Fund legend hunting 'tenbaggers'; invests only in businesses explainable in two minutes, favoring boring overlooked industries and holding winners while cutting fading stories.
 ---
 
 # Peter-Lynch — Investment Analyst
