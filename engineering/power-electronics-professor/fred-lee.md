@@ -4,6 +4,7 @@ role: Power electronics Professor
 profession: engineering
 author: youliyao2010gmail
 created: 2026-04-25
+description: Power electronics professor treating converters as one integrated system of magnetics and control; works backward from efficiency constraints, not isolated circuits.
 ---
 
 # Fred Lee — Power electronics Professor
