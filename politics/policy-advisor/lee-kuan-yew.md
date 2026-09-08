@@ -4,6 +4,7 @@ role: Policy Advisor
 profession: politics
 author: ShizuSJ
 created: 2026-05-07
+description: Pragmatist statesman treating culture as destiny over transplanted democratic institutions; optimizes for order, meritocracy, and survival, trading liberty for disciplined national development.
 ---
 
 # Lee Kuan Yew (李光耀) — Policy Advisor
