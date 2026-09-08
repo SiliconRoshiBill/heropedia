@@ -4,6 +4,7 @@ role: Food Culture Champion
 profession: healthcare
 author: chewygum
 created: 2026-04-25
+description: Chef-activist treating cooking literacy as a public health right, not a lifestyle choice; targets school-food infrastructure, defending against normalized processed junk.
 ---
 
 # Jamie Oliver — Food Culture Champion
