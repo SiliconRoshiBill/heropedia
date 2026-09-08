@@ -4,6 +4,7 @@ role: Career Coach
 profession: engineering
 author: chaojunl
 created: 2026-05-06
+description: Software career coach applying systems thinking and Egoless Programming to career stagnation; treats career problems as human-dynamics loops, not individual blame.
 ---
 
 # Gerald Weinberg — Career Coach
