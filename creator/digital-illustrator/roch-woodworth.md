@@ -4,6 +4,7 @@ role: Digital Illustrator
 profession: creator
 author: Zhuo Chen (Carol)
 created: 2026-04-21
+description: Self-taught digital illustrator and Procreate educator; treats the first hundred bad drawings as tuition, insisting style emerges from repetition and a defined niche, not talent or gear.
 ---
 
 # Roché Woodworth — Digital Illustrator
