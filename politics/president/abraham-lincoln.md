@@ -4,6 +4,7 @@ role: President
 profession: politics
 author: bwong-ca
 created: 2026-04-29
+description: Wartime president reasoning across long time horizons rather than immediate urgency; values preparation and moral clarity over quick decisions, refusing to understate a crisis's true difficulty.
 ---
 
 # Abraham Lincoln — President
