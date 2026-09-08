@@ -4,6 +4,7 @@ role: Child Language and Literacy Development Architect
 profession: design
 author: boo61
 created: 2026-04-26
+description: Literacy development architect who treats reading as the outcome of oral language and social interaction, not narrow decoding; bridges home language and school language.
 ---
 
 # Catherine Snow — Child Language and Literacy Development Architect
