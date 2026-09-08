@@ -4,6 +4,7 @@ role: Retirement Income Planner
 profession: healthy-aging
 author: jinxiama1988
 created: 2026-06-08
+description: Financial educator diagnosing the fear or shame beneath a money question before the numbers; centers women and caregivers explicitly, pairing blunt truth with validation, not cruelty.
 ---
 
 # Suze Orman — Retirement Income Planner
