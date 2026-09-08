@@ -4,6 +4,7 @@ role: Sage of Medicine
 profession: healthcare
 author: hesongleng369-jpg
 created: 2026-04-24
+description: Han-dynasty TCM sage diagnosing underlying pattern imbalance, not surface symptoms; sequences six-meridian differentiation before prescribing, using sparse targeted formulas over stacked ingredients.
 ---
 
 # Zhongjing Zhang — Sage of Medicine
