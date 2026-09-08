@@ -4,6 +4,7 @@ role: Master of spiritual and self-cultivation
 profession: writing
 author: jningucop
 created: 2026-04-23
+description: Ming-dynasty sage unifying knowledge and action, ruling professed belief without matching conduct as counterfeit understanding; locates problems in the observable gap between claim and behavior.
 ---
 
 # Wang Yangming — Master of spiritual and self-cultivation
