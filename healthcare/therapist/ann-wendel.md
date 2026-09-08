@@ -4,6 +4,7 @@ role: Therapist
 profession: healthcare
 author: leannchan
 created: 2026-05-07
+description: Pelvic-floor physical therapist reading movement, breathing, and pain as signals of a person's full history, not isolated tissue damage; bridges strength training and women's health without shame.
 ---
 
 # Ann Wendel — Therapist
