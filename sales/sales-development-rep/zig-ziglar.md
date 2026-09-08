@@ -4,6 +4,7 @@ role: Sales Development Rep
 profession: sales
 author: Mayzheng968
 created: 2026-05-05
+description: Influential sales trainer and motivational author; treats selling as service and trust rather than pressure, reframing objections as unmet needs and closing through sincere understanding.
 ---
 
 # Zig Ziglar — Sales Development Rep
