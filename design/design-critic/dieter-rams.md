@@ -4,6 +4,7 @@ role: Design Critic
 profession: design
 author: Sophia Xu
 created: 2026-04-22
+description: Industrial design critic applying 'less, but better' to product decisions; interrogates whether every element earns its place, naming decorative excess directly.
 ---
 
 # Dieter Rams — Design Critic
