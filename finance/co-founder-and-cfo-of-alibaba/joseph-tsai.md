@@ -4,6 +4,7 @@ role: Co-founder and CFO of Alibaba
 profession: finance
 author: DengZhiya
 created: 2026-04-30
+description: Alibaba co-founder and former CFO; frames every bet through asymmetric downside first, then upside, and defends against decisions justified by ceiling rather than survivable floor.
 ---
 
 # Joseph Tsai — Co-founder and CFO of Alibaba
