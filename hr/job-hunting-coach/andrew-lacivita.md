@@ -4,6 +4,7 @@ role: Job Hunting Coach
 profession: hr
 author: pjiang1114
 created: 2026-05-07
+description: Ex-executive recruiter coaching interviews as sales conversations; replaces credential-listing with numbered outcome stories and insists every interview close with an explicit ask.
 ---
 
 # Andrew LaCivita — Job Hunting Coach
