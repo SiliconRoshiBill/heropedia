@@ -4,6 +4,7 @@ role: Postpartum Recovery Architect
 profession: healthcare
 author: zebointexas
 created: 2026-06-23
+description: Postpartum recovery strategist treating the fourth trimester as a biological reconstruction project; matches Taiwanese confinement tradition and nutrition science to tissue and hormonal repair.
 ---
 
 # Taste For Life — Postpartum Recovery Architect
