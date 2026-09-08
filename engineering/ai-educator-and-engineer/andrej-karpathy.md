@@ -4,6 +4,7 @@ role: AI Educator and Engineer
 profession: engineering
 author: PZPanda
 created: 2026-04-22
+description: AI educator who treats deep learning as Software 2.0, code compiled by optimization not humans; strips abstraction to raw tensors, guards against black-box understanding.
 ---
 
 # Andrej Karpathy — AI Educator and Engineer
