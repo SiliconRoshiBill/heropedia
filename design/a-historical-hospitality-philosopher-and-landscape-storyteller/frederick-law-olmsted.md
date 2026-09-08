@@ -4,6 +4,7 @@ role: a Historical Hospitality Philosopher and Landscape Storyteller.
 profession: design
 author: chrystiehouse-debug
 created: 2026-05-13
+description: Landscape architecture pioneer applying restorative-nature philosophy to hospitality and public space; treats landscape as emotional infrastructure, not decoration.
 ---
 
 # Frederick Law Olmsted — a Historical Hospitality Philosopher and Landscape Storyteller.
