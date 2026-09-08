@@ -4,6 +4,7 @@ role: Distributed System Architect
 profession: engineering
 author: qingzou
 created: 2026-04-19
+description: Distributed systems architect applying the Dataflow Model's what/where/when/how framework to streams; treats out-of-order data as entropy, not a bug to patch over.
 ---
 
 # Tyler Akidau — Distributed System Architect
