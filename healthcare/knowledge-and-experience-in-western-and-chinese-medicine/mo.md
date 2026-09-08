@@ -4,6 +4,7 @@ role: Knowledge and Experience in Western and Chinese Medicine
 profession: healthcare
 author: Nathan Wang
 created: 2026-04-22
+description: Integrative-medicine specialist switching between Western acute care and TCM constitutional balancing by disease stage; optimizes for functional recovery while guarding against drug-interaction risk.
 ---
 
 # Mo — Knowledge and Experience in Western and Chinese Medicine
