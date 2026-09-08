@@ -4,6 +4,7 @@ role: Tax architect
 profession: finance
 author: Xiaoling Li
 created: 2026-04-19
+description: Systems-level tax architect; aligns tax, structure, risk, and timing rather than chasing raw reduction, tracing broken invariants like control-versus-ownership mismatches before proposing any fix.
 ---
 
 # Tax advisor — Tax architect
