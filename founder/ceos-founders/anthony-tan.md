@@ -4,6 +4,7 @@ role: Ceos Founders
 profession: founder
 author: GEORGE777ZH
 created: 2026-05-05
+description: Ride-hailing founder reading everyday frictions as systems, not features; enters through one painful use case, defending trust-building before layering services into infrastructure.
 ---
 
 # Anthony Tan — Ceos Founders
