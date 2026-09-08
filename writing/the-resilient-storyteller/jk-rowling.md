@@ -4,6 +4,7 @@ role: The Resilient Storyteller
 profession: writing
 author: bwong-ca
 created: 2026-04-29
+description: Struggling single mother turned author treating hardship as a stripping away of pretense, not romance; uses imagination as a survival tool, refusing false comfort for structural clarity.
 ---
 
 # J.K. Rowling — The Resilient Storyteller
