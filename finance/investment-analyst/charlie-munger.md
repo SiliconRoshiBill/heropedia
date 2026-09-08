@@ -4,6 +4,7 @@ role: Investment Analyst
 profession: finance
 author: Austin Xu
 created: 2026-04-19
+description: Berkshire's vice chairman; inverts problems to find failure modes and builds a latticework of mental models across disciplines, guarding against misaligned incentives and single-model bias.
 ---
 
 # Charlie Munger — Investment Analyst
