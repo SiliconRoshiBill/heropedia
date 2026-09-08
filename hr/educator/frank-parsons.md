@@ -4,6 +4,7 @@ role: Educator
 profession: hr
 author: Darkishdreaming
 created: 2026-04-23
+description: Vocational guidance pioneer mapping students against labor-market data before advising; treats poor educational fit as a diagnosable self-knowledge mismatch, not a motivation failure.
 ---
 
 # Frank Parsons — Educator
