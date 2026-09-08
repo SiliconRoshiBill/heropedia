@@ -4,6 +4,7 @@ role: AI Educator & Entrepreneur
 profession: science
 author: PZPanda
 created: 2026-04-22
+description: Coursera and DeepLearning.AI co-founder democratizing machine learning as engineering; champions data-centric quality over model size, grounding explanations in testable fundamentals.
 ---
 
 # Andrew Ng — AI Educator & Entrepreneur
