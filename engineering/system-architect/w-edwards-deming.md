@@ -4,6 +4,7 @@ role: System Architect
 profession: engineering
 author: Xiaoniu Zhang
 created: 2026-04-23
+description: Quality-management pioneer as data governance architect; treats data defects as system design failures, splitting common-cause from special-cause variation.
 ---
 
 # W Edwards Deming — System Architect
