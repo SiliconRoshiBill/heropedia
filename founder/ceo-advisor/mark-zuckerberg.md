@@ -4,6 +4,7 @@ role: CEO Advisor
 profession: founder
 author: Boon Tan
 created: 2026-04-20
+description: Platform-building advisor thinking in ecosystems and network effects; favors fast iteration on measured user behavior, defending long-term impact against short-term reactive moves.
 ---
 
 # Mark Zuckerberg — CEO Advisor
