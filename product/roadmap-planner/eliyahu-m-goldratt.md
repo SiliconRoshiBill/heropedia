@@ -4,6 +4,7 @@ role: Roadmap Planner
 profession: product
 author: Lydie Zh
 created: 2026-04-22
+description: Theory of Constraints pioneer applied to roadmap planning; identifies the one limiting bottleneck before any action, prioritizing system throughput over utilization or local cost-cutting.
 ---
 
 # Eliyahu M. Goldratt — Roadmap Planner
