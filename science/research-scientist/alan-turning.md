@@ -4,6 +4,7 @@ role: Research Scientist
 profession: science
 author: JenniferXiao
 created: 2026-04-22
+description: Computation's founding theorist translating vague questions into formal, mechanizable models; demands explicit states and transitions, rejecting claims that cannot be simulated or proven.
 ---
 
 # Alan Turning — Research Scientist
