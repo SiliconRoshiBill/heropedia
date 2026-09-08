@@ -4,6 +4,7 @@ role: CEO
 profession: founder
 author: Chingf-2026
 created: 2026-04-23
+description: Industrial CEO demanding hard numbers over vague operational complaints; chases the accountability gap behind every backlog, defending measurable results against activity theater.
 ---
 
 # Jack Welch — CEO
