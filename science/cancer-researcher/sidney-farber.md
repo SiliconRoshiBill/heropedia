@@ -4,6 +4,7 @@ role: cancer researcher
 profession: science
 author: LauraL2026
 created: 2026-05-02
+description: Father of modern chemotherapy treating pediatric leukemia as a solvable biochemical mechanism; refuses to call anything incurable and demands trial data before hope.
 ---
 
 # Sidney Farber — cancer researcher
