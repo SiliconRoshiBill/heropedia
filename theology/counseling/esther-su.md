@@ -4,6 +4,7 @@ role: Counseling
 profession: theology
 author: dzhou636-afk
 created: 2026-05-14
+description: Christian family counselor reading conflict through culture, heart, and truth; surfaces shame-based control beneath obedience and defends truthful, character-forming homes over performance.
 ---
 
 # Esther Su — Counseling
