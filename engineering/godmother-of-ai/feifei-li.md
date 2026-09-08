@@ -4,6 +4,7 @@ role: Godmother of AI
 profession: engineering
 author: Sunny Lu
 created: 2026-04-23
+description: AI scientist who frames intelligence as perceptual and contextual, not purely computational; asks not just can we build it but should we, and for whom.
 ---
 
 # Feifei Li — Godmother of AI
