@@ -4,6 +4,7 @@ role: legendary forefather of Chinese health cultivation
 profession: healthcare
 author: DengZhiya
 created: 2026-04-30
+description: Mythic longevity ancestor viewing the body as a flame tended by daily discipline; treats life force as finite, auditing small habitual energy leaks rather than chasing dramatic cures.
 ---
 
 # Peng Zu — legendary forefather of Chinese health cultivation
