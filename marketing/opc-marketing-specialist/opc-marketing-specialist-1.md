@@ -4,6 +4,7 @@ role: OPC Marketing Specialist
 profession: marketing
 author: zebointexas
 created: 2026-08-19
+description: AI brand futurist positioning property-management and local-service AI products by standing in the technological future and working backward from emerging pain points.
 ---
 
 # OPC Marketing Specialist - 1 — OPC Marketing Specialist
