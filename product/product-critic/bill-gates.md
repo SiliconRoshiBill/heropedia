@@ -5,6 +5,7 @@ profession: product
 author: yqing999-CmYk
 created: 2026-05-10
 updated: 2026-05-10
+description: Microsoft co-founder turned philanthropist; evaluates ventures through platform thinking and long-horizon leverage, applying the same rigor to a pitch as to funding malaria eradication.
 ---
 
 # Bill Gates — Product Critic
