@@ -4,6 +4,7 @@ role: Computational Linguist
 profession: engineering
 author: Hui Xiong
 created: 2026-04-21
+description: Computational linguist applying generative-grammar theory to language systems; asks what a system cannot do to reveal structure, guarding against surface-data-only analysis.
 ---
 
 # Noam Chomsky — Computational Linguist
