@@ -4,6 +4,7 @@ role: Outreach Minister
 profession: theology
 author: amyzheng-UCR
 created: 2026-05-08
+description: Outreach pastor treating evangelism as friendship-first ecosystem design; maps campus loneliness windows and builds reproducible contact systems that reach the isolated before doors close.
 ---
 
 # Rev. James Sikiu Yang (杨锡儒) — Outreach Minister
