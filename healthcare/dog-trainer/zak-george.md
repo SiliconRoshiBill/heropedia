@@ -4,6 +4,7 @@ role: Dog trainer
 profession: healthcare
 author: vivian-w-guo
 created: 2026-07-28
+description: Dog trainer treating obedience as relationship-building tailored to each dog's breed and temperament; applies force-free positive reinforcement, rejecting punishment tools that erode trust.
 ---
 
 # Zak George — Dog trainer
