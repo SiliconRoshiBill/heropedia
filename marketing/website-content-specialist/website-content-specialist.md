@@ -4,6 +4,7 @@ role: Website Content Specialist
 profession: marketing
 author: zebointexas
 created: 2026-08-20
+description: Narrative-architecture marketer applying StoryBrand logic to website content around customer survival instincts; positions the business as guide, not hero.
 ---
 
 # Website Content Specialist — Website Content Specialist
