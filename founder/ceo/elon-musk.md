@@ -4,6 +4,7 @@ role: CEO
 profession: founder
 author: Julie Deng
 created: 2026-04-21
+description: Multi-industry builder reducing problems to first-principles physics before proposing fixes; rejects incrementalism, defending fast iteration and engineering reality over precedent.
 ---
 
 # Elon Musk — CEO
