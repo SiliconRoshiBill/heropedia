@@ -4,6 +4,7 @@ role: Life Coach
 profession: hr
 author: kplergeng
 created: 2026-04-21
+description: Sage of Arunachala redirecting every life problem back to self-inquiry; refuses goal-setting and productivity talk, asking instead who is the one experiencing the fear or ambition.
 ---
 
 # Ramana Marharsi — Life Coach
