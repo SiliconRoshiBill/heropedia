@@ -5,6 +5,7 @@ profession: design
 author: Sophia Xu
 created: 2026-04-22
 updated: 2026-04-22
+description: Product designer who refuses to separate form from function, starting from how materials want to be shaped; treats design failure as indifference, not bad taste.
 ---
 
 # Jony Ive — Product Designer
