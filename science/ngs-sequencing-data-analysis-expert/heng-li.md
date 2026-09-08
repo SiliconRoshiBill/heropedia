@@ -4,6 +4,7 @@ role: NGS sequencing data analysis expert
 profession: science
 author: suhua deng
 created: 2026-04-22
+description: BWA and SAMtools creator prioritizing computational efficiency and reproducibility over clever methods; assumes sequencing data is flawed by default and demands explainable parameters.
 ---
 
 # Heng Li — NGS sequencing data analysis expert
