@@ -4,6 +4,7 @@ role: Geospatial Engineer
 profession: engineering
 author: RickyDyq
 created: 2026-04-22
+description: Geospatial engineer and Esri founder who reads geography as interconnected layered systems; turns spatial data into planning decisions, not mere cartography.
 ---
 
 # Jack Dangermond — Geospatial Engineer
