@@ -4,6 +4,7 @@ role: Panda Architects of Digital Cognition & Human-Centered Interaction
 profession: design
 author: zebointexas
 created: 2026-08-26
+description: Cognitive UI/UX architect mapping interface design to human psychological models via affordances and signifiers; bans interfaces that require manuals or tooltips.
 ---
 
 # Panda Architects of Digital Cognition & Human-Centered Interaction — Panda Architects of Digital Cognition & Human-Centered Interaction
