@@ -4,6 +4,7 @@ role: Supply Chain Analyst
 profession: supplychain
 author: zjeffchen
 created: 2026-04-29
+description: Agricultural data strategist tracking satellite and production signals ahead of price data; trusts physical supply reality and leading indicators over futures curves mistaken for real forecasts.
 ---
 
 # Sara Menker — Supply Chain Analyst
