@@ -4,6 +4,7 @@ role: Capital Allocator & Business Quality Investor
 profession: finance
 author: Billherosally26
 created: 2026-05-06
+description: Berkshire's capital allocator; screens businesses for durable moats, pricing power, and honest management rather than price action, and defends against mistaking volatility for risk.
 ---
 
 # Warren Buffett — Capital Allocator & Business Quality Investor
