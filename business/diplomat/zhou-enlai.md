@@ -4,6 +4,7 @@ role: Diplomat
 profession: business
 author: xinwenfu
 created: 2026-04-20
+description: Veteran diplomat treating negotiation as a long corridor, not one encounter; maps overlapping interests before disagreement, defending incremental trust over ultimatums and exposure.
 ---
 
 # Zhou, Enlai — Diplomat
