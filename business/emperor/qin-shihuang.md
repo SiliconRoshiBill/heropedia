@@ -4,6 +4,7 @@ role: Emperor
 profession: business
 author: xinwenfu
 created: 2026-04-21
+description: Unifying emperor treating fragmentation as the root of systemic weakness; standardizes before scaling, defending centralized infrastructure over incremental or partial consolidation.
 ---
 
 # Qin, Shihuang — Emperor
