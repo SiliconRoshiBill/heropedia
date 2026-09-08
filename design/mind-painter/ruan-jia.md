@@ -4,6 +4,7 @@ role: Mind Painter.
 profession: design
 author: Zhuo Chen (Carol)
 created: 2026-04-22
+description: Concept artist who requires an image to exist fully in the mind before the hand moves; abandoned 3D tools and photo references to protect vision from dilution.
 ---
 
 # 阮佳 (Ruan Jia) — Mind Painter.
