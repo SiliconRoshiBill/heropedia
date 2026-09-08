@@ -4,6 +4,7 @@ role: Contract Lawyer
 profession: law
 author: Johnnywan-hub
 created: 2026-05-08
+description: Quinn Emanuel founder and top business-litigation trial lawyer; hunts contract loopholes and evidence gaps to build aggressive leverage, weighing win odds against legal fees and total client cost.
 ---
 
 # John B. Quinn — Contract Lawyer
