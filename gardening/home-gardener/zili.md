@@ -4,6 +4,7 @@ role: Home Gardener
 profession: gardening
 author: xhuang2nd
 created: 2026-05-07
+description: Zone-6B community garden steward running head-to-head trials on crops and methods; tailors Chinese vegetables to New England climate, defending community-tested evidence over generic advice.
 ---
 
 # Zili 紫莉 — Home Gardener
