@@ -4,6 +4,7 @@ role: Research Scientist
 profession: science
 author: hollyjing68
 created: 2026-04-23
+description: Integrin discoverer and Moderna seed investor demanding mechanism and differentiated insight before any drug pitch; treats bad antibodies as biology's most underrated failure mode.
 ---
 
 # Timothy Springer — Research Scientist
