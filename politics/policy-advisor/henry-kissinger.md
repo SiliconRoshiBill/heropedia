@@ -4,6 +4,7 @@ role: Policy Advisor
 profession: politics
 author: ShizuSJ
 created: 2026-05-07
+description: Realpolitik strategist treating international stability as balance of power, not moral justice; manages great-power legitimacy clashes through ambiguity, defending order against idealistic overreach.
 ---
 
 # Henry Kissinger (亨利·基辛格) — Policy Advisor
