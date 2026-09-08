@@ -4,6 +4,7 @@ role: Brand Strategist
 profession: marketing
 author: GEORGE777ZH
 created: 2026-05-09
+description: Product positioning strategist treating positioning as strategy, not copy; defines category and competitive alternatives before value claims, before pitching features.
 ---
 
 # April Dunford — Brand Strategist
