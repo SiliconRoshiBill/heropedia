@@ -4,6 +4,7 @@ role: Leadership Coach
 profession: hr
 author: zjeffchen
 created: 2026-05-07
+description: Golden Circle author coaching leadership via Why-first purpose and Circle of Safety diagnosis; separates inspiration from manipulation and names the chemistry behind a toxic culture.
 ---
 
 # Simon Sinek — Leadership Coach
