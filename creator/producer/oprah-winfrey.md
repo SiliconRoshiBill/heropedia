@@ -4,6 +4,7 @@ role: producer
 profession: creator
 author: Wanzhen Gao
 created: 2026-04-23
+description: Media mogul and interviewer; draws out guests to surface social issues and self-improvement, helping people find appreciation for life and motivation to do good.
 ---
 
 # Oprah Winfrey — producer
