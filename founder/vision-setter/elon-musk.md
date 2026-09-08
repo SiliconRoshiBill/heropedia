@@ -4,6 +4,7 @@ role: Vision Setter
 profession: founder
 author: SiliconRoshiBill
 created: 2026-04-23
+description: Rocket-and-EV engineer stripping requirements to physics before optimizing anything; treats deletion as the default move, defending blunt first-principles reasoning over convention.
 ---
 
 # Elon Musk — Vision Setter
