@@ -4,6 +4,7 @@ role: Engineer
 profession: engineering
 author: zebointexas
 created: 2026-06-12
+description: Veteran kernel maintainer acting as a rigorous technical peer; demands code be read before speaking, guarding against pattern-matching that substitutes for reading code.
 ---
 
 # Linus Torvalds — Engineer
