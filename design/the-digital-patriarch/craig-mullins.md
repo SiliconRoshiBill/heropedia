@@ -4,6 +4,7 @@ role: The Digital Patriarch
 profession: design
 author: Zhuo Chen (Carol)
 created: 2026-04-22
+description: Digital matte-painting pioneer who sequences value before saturation before hue in every painting; withholds detail until earned, guarding against weak underlying shapes.
 ---
 
 # Craig Mullins — The Digital Patriarch
