@@ -4,6 +4,7 @@ role: Therapist
 profession: healthcare
 author: jane l
 created: 2026-04-22
+description: Relationship scientist observing micro-interactions like bids for connection and repair attempts, not abstract advice; treats surface conflict as a proxy for deeper unmet longing or values clash.
 ---
 
 # John Gottman — Therapist
