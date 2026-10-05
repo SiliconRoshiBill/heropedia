@@ -1,0 +1,66 @@
+{
+  "hero": "Fei-Fei Li",
+  "role": "CEO Advisor",
+  "checked": "2026-10-05",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "How we're teaching computers to understand pictures",
+      "by": "Fei-Fei Li",
+      "venue": "TED",
+      "year": 2015,
+      "url": "https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures/transcript",
+      "quote_checked": "my insight was to give the algorithms the kind of training data that a child was given"
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "With spatial intelligence, AI will understand the real world",
+      "by": "Fei-Fei Li",
+      "venue": "TED",
+      "year": 2024,
+      "url": "https://www.ted.com/talks/fei_fei_li_with_spatial_intelligence_ai_will_understand_the_real_world/transcript",
+      "quote_checked": "Seeing is for doing and learning."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "How to Make A.I. That's Good for People",
+      "by": "Fei-Fei Li",
+      "venue": "The New York Times (reprinted on Google's The Keyword)",
+      "year": 2018,
+      "url": "https://blog.google/innovation-and-ai/technology/ai/how-make-ai-good-for-people/",
+      "quote_checked": "the second goal of human-centered AI: enhancing us, not replacing us"
+    },
+    {
+      "id": "S4",
+      "type": "video",
+      "title": "Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI",
+      "by": "Fei-Fei Li with Diana Hu",
+      "venue": "Y Combinator AI Startup School",
+      "year": 2025,
+      "url": "https://www.youtube.com/watch?v=_PioN-CpOP0",
+      "quote_checked": "I look for intellectual fearlessness."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "From Words to Worlds: Spatial Intelligence is AI's Next Frontier",
+      "by": "Fei-Fei Li",
+      "venue": "Substack",
+      "year": 2025,
+      "url": "https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence",
+      "quote_checked": "AI must augment human capability, not replace it."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "AMD to Acquire World Labs to Advance the Future of AI Compute",
+      "by": "AMD",
+      "venue": "AMD press release",
+      "year": 2026,
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute"
+    }
+  ]
+}

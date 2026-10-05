@@ -1,0 +1,57 @@
+{
+  "hero": "Jensen Huang",
+  "role": "CEO Advisor",
+  "checked": "2026-10-05",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "A conversation with NVIDIA's Jensen Huang",
+      "by": "Patrick Collison with Jensen Huang",
+      "venue": "Stripe Sessions",
+      "year": 2024,
+      "url": "https://stripe.com/sessions/2024/a-conversation-with-nvidias-jensen-huang",
+      "quote_checked": "Almost everything that I say, I say to everybody all at the same time."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "NVIDIA CEO Jensen Huang",
+      "by": "Ben Gilbert and David Rosenthal with Jensen Huang",
+      "venue": "Acquired podcast",
+      "year": 2023,
+      "url": "https://www.acquired.fm/episodes/jensen-huang",
+      "quote_checked": "It's our way of saying there's no market yet, but we believe there will be one."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "How Jensen Huang's Nvidia Is Powering the A.I. Revolution",
+      "by": "Stephen Witt",
+      "venue": "The New Yorker",
+      "year": 2023,
+      "url": "https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-ai-revolution",
+      "quote_checked": "Our company is thirty days from going out of business."
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution (#494)",
+      "by": "Lex Fridman with Jensen Huang",
+      "venue": "Lex Fridman Podcast",
+      "year": 2026,
+      "url": "https://lexfridman.com/jensen-huang-transcript/",
+      "quote_checked": "The speed of light is my shorthand for what's the limit of what physics can do."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Nvidia's Jensen Huang: The incredible future of AI",
+      "by": "Stanford Institute for Economic Policy Research",
+      "venue": "SIEPR (2024 SIEPR Economic Summit)",
+      "year": 2024,
+      "url": "https://siepr.stanford.edu/news/nvidias-jensen-huang-incredible-future-ai",
+      "quote_checked": "For all of you Stanford students, I wish upon you ample doses of pain and suffering."
+    }
+  ]
+}
