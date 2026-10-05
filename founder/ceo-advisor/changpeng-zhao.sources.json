@@ -1,0 +1,84 @@
+{
+  "hero": "Changpeng Zhao",
+  "role": "CEO Advisor",
+  "checked": "2026-10-05",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Binance CEO: 4 Months in Prison, $4 Billion Fine, and What Comes Next",
+      "by": "Changpeng Zhao with Jason Calacanis, Chamath Palihapitiya, David Sacks and David Friedberg",
+      "venue": "All-In Podcast (YouTube)",
+      "year": 2026,
+      "url": "https://www.youtube.com/watch?v=vQwXgxJxwnw",
+      "transcript": "https://yuanchang.org/en/posts/all-in-podcast-cz-changpeng-zhao-transcript/",
+      "quote_checked": "Daily active users. Not trading volume, not revenue. | That was the day I realized we needed someone with law enforcement experience. | I'm function-driven. If it functions, I'm okay."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "United States v. Changpeng Zhao",
+      "by": "U.S. Department of Justice, Criminal Division",
+      "venue": "justice.gov",
+      "year": 2023,
+      "url": "https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Binance founder Changpeng Zhao sentenced to 4 months in prison for allowing money laundering",
+      "by": "Associated Press",
+      "venue": "PBS News",
+      "year": 2024,
+      "url": "https://www.pbs.org/newshour/economy/binance-founder-changpeng-zhao-sentenced-to-4-months-in-prison-for-allowing-money-laundering",
+      "quote_checked": "that would have slowed the company's explosive growth | I failed here"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Trump pardons Binance founder Changpeng Zhao",
+      "by": "Will Weissert (Associated Press)",
+      "venue": "PBS News",
+      "year": 2025,
+      "url": "https://www.pbs.org/newshour/politics/trump-pardons-binance-founder-changpeng-zhao"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Binance Doesn't Have a Headquarters Because Bitcoin Doesn't, Says CEO",
+      "by": "Paddy Baker",
+      "venue": "CoinDesk",
+      "year": 2020,
+      "url": "https://www.coindesk.com/markets/2020/05/08/binance-doesnt-have-a-headquarters-because-bitcoin-doesnt-says-ceo",
+      "quote_checked": "Wherever I sit, is going to be the Binance office."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Understanding CZ's Number 4",
+      "by": "Binance Academy",
+      "venue": "Binance Academy glossary",
+      "year": 2026,
+      "url": "https://www.binance.com/en/academy/glossary/understanding-cz-s-number-4"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Who is Binance founder Changpeng 'CZ' Zhao, the billionaire who wants to 'rebuild' crypto?",
+      "by": "Michelle Toh",
+      "venue": "CNN Business",
+      "year": 2022,
+      "url": "https://www.cnn.com/2022/11/15/business/binance-founder-changpeng-zhao-ftx-intl-hnk/index.html",
+      "quote_checked": "not banned, just no license yet."
+    },
+    {
+      "id": "S8",
+      "type": "book",
+      "title": "Freedom of Money: A Memoir of Protecting Users, Resilience, and the Founding of Binance",
+      "by": "Changpeng Zhao",
+      "venue": "Freedom of Money Foundation",
+      "year": 2026,
+      "url": "https://freedomofmoney.net/"
+    }
+  ]
+}

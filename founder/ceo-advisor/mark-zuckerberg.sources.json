@@ -1,0 +1,65 @@
+{
+  "hero": "Mark Zuckerberg",
+  "role": "CEO Advisor",
+  "checked": "2026-10-05",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "letter",
+      "title": "Letter from Mark Zuckerberg (Facebook, Inc. Form S-1)",
+      "by": "Mark Zuckerberg",
+      "venue": "U.S. Securities and Exchange Commission",
+      "year": 2012,
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm",
+      "quote_checked": "we don't build services to make money; we make money to build better services"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Facebook's Zuckerberg: If I Were Starting A Company Now, I Would Have Stayed In Boston",
+      "by": "Leena Rao",
+      "venue": "TechCrunch",
+      "year": 2011,
+      "url": "https://techcrunch.com/2011/10/30/facebooks-zuckerberg-if-i-were-starting-a-company-now-i-would-have-stayed-in-boston/",
+      "quote_checked": "The biggest risk is not taking any risk"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Facebook to Acquire Instagram",
+      "by": "Meta Newsroom",
+      "venue": "Meta",
+      "year": 2012,
+      "url": "https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/"
+    },
+    {
+      "id": "S4",
+      "type": "talk",
+      "title": "Meta Q4 2022 Earnings Call Transcript",
+      "by": "Mark Zuckerberg",
+      "venue": "Meta Investor Relations",
+      "year": 2023,
+      "url": "https://s21.q4cdn.com/399680738/files/doc_financials/2022/q4/META-Q4-2022-Earnings-Call-Transcript.pdf",
+      "quote_checked": "flattening our org structure and removing some layers of middle management to make decisions faster"
+    },
+    {
+      "id": "S5",
+      "type": "letter",
+      "title": "Founder's Letter, 2021",
+      "by": "Mark Zuckerberg",
+      "venue": "Meta Newsroom",
+      "year": 2021,
+      "url": "https://about.fb.com/news/2021/10/founders-letter/"
+    },
+    {
+      "id": "S6",
+      "type": "letter",
+      "title": "Open Source AI Is the Path Forward",
+      "by": "Mark Zuckerberg",
+      "venue": "Meta Newsroom",
+      "year": 2024,
+      "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+      "quote_checked": "we're not locking into a competitor's closed ecosystem where they can restrict what we build"
+    }
+  ]
+}
