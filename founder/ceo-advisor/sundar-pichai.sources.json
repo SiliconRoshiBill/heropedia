@@ -1,0 +1,87 @@
+{
+  "hero": "Sundar Pichai",
+  "role": "CEO Advisor",
+  "checked": "2026-10-05",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "letter",
+      "title": "This year's Founders' Letter",
+      "by": "Sundar Pichai",
+      "venue": "The Keyword (Google blog)",
+      "year": 2016,
+      "url": "https://blog.google/alphabet/this-years-founders-letter/",
+      "quote_checked": "We will move from mobile first to an AI first world. | we see it as our job to make it available to as many people as possible. | Google Search works the same for anyone with an Internet connection, whether it is in a modern high-rise or a rural schoolhouse."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "AI at Google: our principles",
+      "by": "Sundar Pichai",
+      "venue": "The Keyword (Google blog)",
+      "year": 2018,
+      "url": "https://blog.google/innovation-and-ai/products/ai-principles/",
+      "quote_checked": "As a leader in AI, we feel a deep responsibility to get this right."
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "A letter from Larry and Sergey",
+      "by": "Larry Page and Sergey Brin",
+      "venue": "The Keyword (Google blog)",
+      "year": 2019,
+      "url": "https://blog.google/alphabet/letter-from-larry-and-sergey/",
+      "quote_checked": "Sundar brings humility and a deep passion for technology to our users, partners and our employees every day."
+    },
+    {
+      "id": "S4",
+      "type": "letter",
+      "title": "G is for Google",
+      "by": "Larry Page",
+      "venue": "The Keyword (Google blog)",
+      "year": 2015,
+      "url": "https://blog.google/alphabet/google-alphabet/",
+      "quote_checked": "it is clear to us and our board that it is time for Sundar to be CEO of Google."
+    },
+    {
+      "id": "S5",
+      "type": "letter",
+      "title": "Update from the CEO",
+      "by": "Larry Page",
+      "venue": "The Keyword (Google blog)",
+      "year": 2013,
+      "url": "https://blog.google/products-and-platforms/platforms/android/update-from-ceo/",
+      "quote_checked": "Sundar has a talent for creating products that are technically excellent yet easy to use—and he loves a big bet. | In 2008, people asked whether the world really needed another browser."
+    },
+    {
+      "id": "S6",
+      "type": "interview",
+      "title": "Sundar Pichai: CEO of Google and Alphabet",
+      "by": "Sundar Pichai with Lex Fridman",
+      "venue": "Lex Fridman Podcast #471",
+      "year": 2025,
+      "url": "https://lexfridman.com/sundar-pichai/",
+      "transcript": "https://lexfridman.com/sundar-pichai-transcript/",
+      "quote_checked": "the browser was never meant for that world | it's the most fun I've had building a product from the ground up | the main bet I made as a CEO was to really make sure the company was approaching everything in a AI-first way | doesn't matter | I'm good at tuning out noise, separating signal from noise. | I think it's important, when you can, to hear everyone out. | it's time to disagree and commit so that we can get moving. | we always prioritized being ambitious and safety at the same time"
+    },
+    {
+      "id": "S7",
+      "type": "talk",
+      "title": "Google I/O 2023: Making AI more helpful for everyone",
+      "by": "Sundar Pichai",
+      "venue": "The Keyword (Google blog)",
+      "year": 2023,
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2023-keynote-sundar-pichai/",
+      "quote_checked": "Seven years into our journey as an AI-first company | With a bold and responsible approach"
+    },
+    {
+      "id": "S8",
+      "type": "article",
+      "title": "Responsible AI: Our 2024 report and ongoing work",
+      "by": "James Manyika and Demis Hassabis",
+      "venue": "The Keyword (Google blog)",
+      "year": 2025,
+      "url": "https://blog.google/technology/ai/responsible-ai-2024-report-ongoing-work/"
+    }
+  ]
+}

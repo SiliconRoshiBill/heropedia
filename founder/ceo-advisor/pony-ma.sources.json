@@ -1,0 +1,95 @@
+{
+  "hero": "Pony Ma",
+  "role": "CEO Advisor",
+  "checked": "2026-10-05",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "马化腾：通向互联网未来的七个路标 (Pony Ma: Seven Road Signs to the Internet's Future)",
+      "by": "Pony Ma (Ma Huateng), reported by Sina Tech",
+      "venue": "Sina Tech (talk at Tencent WE Conference, Shenzhen, November 10, 2013)",
+      "year": 2013,
+      "url": "https://tech.sina.com.cn/i/2013-11-10/17418900068.shtml"
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "马化腾三小时讲话实录：千亿美金这个线，其实很恐怖 (Transcript of Pony Ma's Three-Hour Talk: The $100 Billion Line Is Actually Frightening)",
+      "by": "Pony Ma (Ma Huateng)",
+      "venue": "China Entrepreneur Club salon at TCL, November 8, 2013; transcript published by Huxiu",
+      "year": 2013,
+      "url": "https://m.huxiu.com/article/23155.html",
+      "note": "Chinese-language transcript; all uses in the hero file are paraphrases, not quotes."
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "腾讯十二年 马化腾致员工：打开未来之门 (Tencent at Twelve, Pony Ma to Staff: Open the Door to the Future)",
+      "by": "Pony Ma (Ma Huateng)",
+      "venue": "Sina Tech (full text of letter to employees dated November 11, 2010)",
+      "year": 2010,
+      "url": "https://tech.sina.com.cn/s/2010-11-12/11414859641.shtml",
+      "note": "Chinese-language; paraphrased only."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "马化腾：腾讯只剩\"半条命\" (Pony Ma: Tencent Has Only \"Half a Life\" Left)",
+      "by": "Sina Finance",
+      "venue": "Sina Finance (remarks at the 2015 China IT Leaders Summit)",
+      "year": 2015,
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/20150323/091521781995.shtml",
+      "note": "Chinese-language; paraphrased only."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Tencent Announces Strategic Upgrade",
+      "by": "Tencent Holdings",
+      "venue": "PR Newswire",
+      "year": 2018,
+      "url": "https://www.prnewswire.com/news-releases/tencent-announces-strategic-upgrade-300721749.html",
+      "quote_checked": "a very important strategic upgrade as we step into the second stage of the Internet, the Industrial Internet era."
+    },
+    {
+      "id": "S6",
+      "type": "interview",
+      "title": "专访马化腾：腾讯进化不止 (Interview with Pony Ma: Tencent Never Stops Evolving)",
+      "by": "Cui Peng (China Entrepreneur)",
+      "venue": "Jiemian",
+      "year": 2018,
+      "url": "https://www.jiemian.com/article/2631147.html",
+      "note": "Chinese-language; paraphrased only."
+    },
+    {
+      "id": "S7",
+      "type": "letter",
+      "title": "Pony Ma: Tencent is an Enabler and Connector for Tech for Good",
+      "by": "Pony Ma",
+      "venue": "tencent.com",
+      "year": 2023,
+      "url": "https://www.tencent.com/en-us/articles/2201535.html",
+      "quote_checked": "Our success has come because we have been striving to understand the needs of users and constantly working to improve our products and experiences. | I used to say that Tencent is a connector, mainly referring to its role as a connecting tool."
+    },
+    {
+      "id": "S8",
+      "type": "article",
+      "title": "Tencent founder and CEO Pony Ma: 7 Flaws That A Perfect Product Manager Would Avoid (Part 3)",
+      "by": "KrASIA (adapted from Catcher Journal)",
+      "venue": "KrASIA",
+      "year": 2017,
+      "url": "https://kr-asia.com/pony-ma-seven-flaws-that-a-perfect-product-manager-would-avoid-part-3",
+      "note": "Unofficial English translation of an internal Tencent presentation; paraphrased only."
+    },
+    {
+      "id": "S9",
+      "type": "paper",
+      "title": "What Enables a Chinese Firm to Create New-To-The-World Innovations? An Historical Case Study of Intra-firm Coopetition in the Instant Messaging Service Sector",
+      "by": "Johann Peter Murmann and Zhijing Zhu",
+      "venue": "Mack Institute for Innovation Management, Wharton (working paper)",
+      "year": 2021,
+      "url": "https://mackinstitute.wharton.upenn.edu/wp-content/uploads/2021/03/Murmann-Peter-Zhu-Zhijing_What-Enables-a-Chinese-Firm-to-Create-New-To-The-World-Innovations.pdf"
+    }
+  ]
+}

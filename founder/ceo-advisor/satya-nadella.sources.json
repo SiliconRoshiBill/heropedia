@@ -1,0 +1,97 @@
+{
+  "hero": "Satya Nadella",
+  "role": "CEO Advisor",
+  "checked": "2026-10-05",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone",
+      "by": "Satya Nadella with Greg Shaw and Jill Tracie Nichols",
+      "venue": "Harper Business",
+      "year": 2017,
+      "url": "https://www.harpercollins.ca/9780062652508/hit-refresh/",
+      "quote_checked": "presented as algorithms | the unique quality we call empathy | Before being named CEO in February 2014 | Joining Microsoft in 1992"
+    },
+    {
+      "id": "S2",
+      "type": "letter",
+      "title": "Satya Nadella email to employees on first day as CEO",
+      "by": "Satya Nadella",
+      "venue": "Microsoft News",
+      "year": 2014,
+      "url": "https://news.microsoft.com/source/2014/02/04/satya-nadella-email-to-employees-on-first-day-as-ceo/",
+      "quote_checked": "Our industry does not respect tradition — it only respects innovation. | Our job is to ensure that Microsoft thrives in a mobile and cloud-first world. | if you are not learning new things, you stop doing great and useful things."
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "Shareholder Letter",
+      "by": "Satya Nadella",
+      "venue": "Microsoft 2015 Annual Report",
+      "year": 2015,
+      "url": "https://www.microsoft.com/investor/reports/ar15/index.html",
+      "quote_checked": "to empower every person and every organization on the planet to achieve more | we make things that help other people make things | everywhere on all devices | lifetime value of a customer | to rediscover our soul"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "AI must be built with empathy, Microsoft CEO Satya Nadella says during UK release of book Hit Refresh",
+      "by": "Andy Trotman",
+      "venue": "Microsoft UK Stories",
+      "year": 2017,
+      "url": "https://ukstories.microsoft.com/features/ai-must-be-built-with-empathy-microsoft-ceo-satya-nadella-says-during-uk-release-of-book-hit-refresh/",
+      "quote_checked": "great innovation comes from the empathy you have for the problems you want to solve for people. | unmet and unarticulated needs"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Microsoft CEO Satya Nadella announces Office for iPad at public debut",
+      "by": "JP Mangalindan",
+      "venue": "Fortune",
+      "year": 2014,
+      "url": "https://fortune.com/2014/03/27/microsoft-ceo-satya-nadella-announces-office-for-ipad-at-public-debut/",
+      "quote_checked": "critical intersection of mobile and cloud"
+    },
+    {
+      "id": "S6",
+      "type": "interview",
+      "title": "Satya Nadella — Microsoft's AGI plan & quantum breakthrough",
+      "by": "Satya Nadella with Dwarkesh Patel",
+      "venue": "Dwarkesh Podcast",
+      "year": 2025,
+      "url": "https://www.dwarkesh.com/p/satya-nadella",
+      "quote_checked": "These business model shifts are probably tougher than even the tech trend changes. | longevity is not a goal; relevance is | no franchise value | high tolerance for failure | refounder mode | nonsensical benchmark hacking | Don't conflate knowledge worker with knowledge work."
+    },
+    {
+      "id": "S7",
+      "type": "interview",
+      "title": "Satya Nadella — How Microsoft is preparing for AGI",
+      "by": "Satya Nadella with Dwarkesh Patel and Dylan Patel",
+      "venue": "Dwarkesh Podcast",
+      "year": 2025,
+      "url": "https://www.dwarkesh.com/p/satya-nadella-2",
+      "quote_checked": "fungibility of the fleet | We didn't want to just be a hoster for one company"
+    },
+    {
+      "id": "S8",
+      "type": "article",
+      "title": "Microsoft and OpenAI extend partnership",
+      "by": "Microsoft Corporate Blogs",
+      "venue": "The Official Microsoft Blog",
+      "year": 2023,
+      "url": "https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/",
+      "quote_checked": "democratize AI as a new technology platform"
+    },
+    {
+      "id": "S9",
+      "type": "letter",
+      "title": "Recommitting to our why, what, and how",
+      "by": "Satya Nadella",
+      "venue": "The Official Microsoft Blog",
+      "year": 2025,
+      "url": "https://blogs.microsoft.com/blog/2025/07/24/recommitting-to-our-why-what-and-how/",
+      "quote_checked": "success is not about longevity. It's about relevance. | Security and quality are non-negotiable. | the everyday practice of being a learn-it-all, not a know-it-all | has no franchise value"
+    }
+  ]
+}
