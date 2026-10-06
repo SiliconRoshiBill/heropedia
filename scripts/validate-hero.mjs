@@ -100,7 +100,7 @@ function check(path) {
 let files = process.argv.slice(2);
 if (files[0] === "--changed") {
   files = execSync("git diff --name-only origin/main...HEAD", { encoding: "utf8" })
-    .split("\n").map((f) => f.replace(/\.sources\.json$/, ".md")).filter((f) => f.endsWith(".md") && existsSync(f) && f.includes("/") && !f.startsWith("scripts/"));
+    .split("\n").map((f) => f.replace(/\.sources\.json$/, ".md")).filter((f) => f.endsWith(".md") && existsSync(f) && f.includes("/") && !/^(scripts|growth)\//.test(f));
   files = [...new Set(files)];
 }
 if (!files.length) { console.log("no hero files to check"); process.exit(0); }
