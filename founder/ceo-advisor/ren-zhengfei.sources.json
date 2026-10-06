@@ -1,0 +1,75 @@
+{
+  "hero": "Ren Zhengfei",
+  "role": "CEO Advisor",
+  "checked": "2026-10-05",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Ren Zhengfei's International Media Roundtable",
+      "by": "Ren Zhengfei",
+      "venue": "Huawei (official transcript, Shenzhen, January 15, 2019)",
+      "year": 2019,
+      "url": "https://www.huawei.com/mm/news/2019/ren-zhengfei-international-media-roundtable",
+      "quote_checked": "Customer-centricity has been at the very core of Huawei's business operations since our founding. | they focus on making their balance sheets look good. | The company cannot place its future squarely on the shoulders of any single individual. | 96,768 shareholding employees | 1.14%"
+    },
+    {
+      "id": "S2",
+      "type": "book",
+      "title": "In His Own Words: Dialogues with Ren Zhengfei, Volume I (2019.01-2019.02)",
+      "by": "Huawei",
+      "venue": "Huawei (official English transcripts, incl. BBC interview of February 18, 2019, CBS interview and Chinese Media Roundtable)",
+      "year": 2019,
+      "url": "https://www-file.huawei.com/-/media/corp/facts/interview/in-his-own-words-dialogues-with-ren1.pdf?la=en",
+      "quote_checked": "If someone can maintain focus on one thing, then they will definitely succeed. | needle-point strategy. We just focus on a single point | Me, I have a very narrow focus. It's in my personality. So our company has a narrow focus too. | We have boundaries, and we will never cross those boundaries. | are not expected to focus on horizontal balance, but dive vertically for breakthroughs. | There's no way the US can crush us. | to work for survival, rather than for ideals"
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "2024 Annual Report",
+      "by": "Huawei Investment & Holding Co., Ltd.",
+      "venue": "Huawei",
+      "year": 2025,
+      "url": "https://www.huawei.com/minisite/annual-report-download/annual_report_2024_en.pdf",
+      "quote_checked": "invests over 10% of its sales revenue into R&D | CNY179.7 billion, representing 20.8% of our total revenue | 161,749 individuals | nearly 0.65% | The term of each rotating chair lasts six months."
+    },
+    {
+      "id": "S4",
+      "type": "talk",
+      "title": "华为的冬天 (Huawei's Winter)",
+      "by": "Ren Zhengfei",
+      "venue": "Huawei Xinsheng Community; full text reprinted by Sina Finance (2019)",
+      "year": 2001,
+      "url": "https://finance.sina.com.cn/chanjing/gsnews/2019-05-23/doc-ihvhiqay0700982.shtml",
+      "note": "Chinese only; all uses in the hero file are paraphrases, no quotation marks."
+    },
+    {
+      "id": "S5",
+      "type": "paper",
+      "title": "华为基本法 (The Huawei Basic Law)",
+      "by": "Huawei",
+      "venue": "Full text reprinted by Kunlunce (2018)",
+      "year": 1998,
+      "url": "https://www.kunlunce.com/jczc/fl11111111/2018-11-08/129128.html",
+      "note": "Chinese only; Articles 1, 23 and 26 paraphrased."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "从《华为基本法》看制度建设对企业创新的重要性 (What the Huawei Basic Law Shows About Institution-Building and Corporate Innovation)",
+      "by": "Guo Bin (Zhejiang University School of Management)",
+      "venue": "Caixin blog",
+      "year": 2019,
+      "url": "https://guobin.blog.caixin.com/archives/205471"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "A Unique Window into Huawei",
+      "by": "Zichen Wang and Yuzhe He",
+      "venue": "Pekingnology",
+      "year": 2023,
+      "url": "https://www.pekingnology.com/p/a-unique-window-into-huawei"
+    }
+  ]
+}
