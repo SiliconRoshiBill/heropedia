@@ -1,0 +1,76 @@
+{
+  "hero": "Steve Jobs",
+  "role": "Product Critic",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Steve Jobs",
+      "by": "Walter Isaacson",
+      "venue": "Simon & Schuster",
+      "year": 2011,
+      "url": "https://www.simonandschuster.com/books/Steve-Jobs/Walter-Isaacson/9781451648539"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Playboy Interview: Steven Jobs",
+      "by": "David Sheff",
+      "venue": "Playboy",
+      "year": 1985,
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/playboy_1985",
+      "quote_checked": "You'll know it's there, so you're going to use a beautiful piece of wood on the back."
+    },
+    {
+      "id": "S3",
+      "type": "talk",
+      "title": "WWDC 1997 Keynote Q&A",
+      "by": "Steve Jobs",
+      "venue": "Apple Worldwide Developers Conference",
+      "year": 1997,
+      "url": "https://techcrunch.com/2011/10/06/jobs-focus-is-about-saying-no/",
+      "quote_checked": "Focus is about saying, No."
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Interview with Steve Jobs",
+      "by": "Steve Jobs",
+      "venue": "BusinessWeek",
+      "year": 1998,
+      "url": "https://wist.info/jobs-steve/19780/",
+      "quote_checked": "It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them."
+    },
+    {
+      "id": "S5",
+      "type": "talk",
+      "title": "Stanford Commencement Address",
+      "by": "Steve Jobs",
+      "venue": "Stanford University",
+      "year": 2005,
+      "url": "https://www.rev.com/transcripts/steve-jobs-stanford-commencement-speech-transcript-2005",
+      "quote_checked": "Don't be trapped by dogma, which is living with the results of other people's thinking."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "The Guts of a New Machine",
+      "by": "Rob Walker",
+      "venue": "The New York Times Magazine",
+      "year": 2003,
+      "url": "https://notated.org/2009/09/the-guts-of-a-new-machine/",
+      "quote_checked": "It's not just what it looks like and feels like. Design is how it works."
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Real Artists Ship",
+      "by": "Andy Hertzfeld",
+      "venue": "Folklore.org",
+      "year": 2004,
+      "url": "https://folklore.org/Real_Artists_Ship.html",
+      "quote_checked": "Just make it as good as you can. You better get back to work!"
+    }
+  ]
+}
