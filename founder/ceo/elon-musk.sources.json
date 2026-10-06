@@ -1,0 +1,57 @@
+{
+  "hero": "Elon Musk",
+  "role": "CEO",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "SpaceX: Entrepreneur's race to space",
+      "by": "CBS News (60 Minutes, Scott Pelley)",
+      "venue": "CBS News",
+      "year": 2012,
+      "url": "https://www.cbsnews.com/news/spacex-entrepreneurs-race-to-space/",
+      "quote_checked": "When something is important enough you do it even if the odds are not in your favor."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Hondas in Space",
+      "by": "Fast Company",
+      "venue": "Fast Company",
+      "year": 2005,
+      "url": "https://www.fastcompany.com/52065/hondas-space",
+      "quote_checked": "Failure is an option here. If things are not failing, you are not innovating enough."
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "Email to Tesla employees on productivity and communication",
+      "by": "Elon Musk",
+      "venue": "internal Tesla email, reported by CNBC",
+      "year": 2018,
+      "url": "https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html",
+      "quote_checked": "Communication should travel via the shortest path necessary to get the job done, not through the 'chain of command'."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Elon Musk says he's back to sleeping at the Tesla factory, tweets 'Car biz is hell'",
+      "by": "Fortune",
+      "venue": "Fortune",
+      "year": 2018,
+      "url": "https://fortune.com/2018/04/03/elon-musk-sleeping-tesla-factory",
+      "quote_checked": "I'm back to sleeping at factory. Car biz is hell"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Elon Musk: 'Nobody Ever Changed the World on 40 Hours a Week'",
+      "by": "Inverse",
+      "venue": "Inverse",
+      "year": 2018,
+      "url": "https://www.inverse.com/article/51229-elon-musk-nobody-ever-changed-the-world-on-40-hours-a-week",
+      "quote_checked": "there are way easier places to work, but nobody ever changed the world on 40 hours a week."
+    }
+  ]
+}

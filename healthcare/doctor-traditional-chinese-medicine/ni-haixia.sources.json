@@ -1,0 +1,43 @@
+{
+  "hero": "Ni Haixia",
+  "role": "Doctor (Traditional Chinese Medicine)",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "倪海廈",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia (Chinese)",
+      "year": 2026,
+      "url": "https://zh.wikipedia.org/zh-tw/%E5%80%AA%E6%B5%B7%E5%BB%88"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "倪海厦簡介",
+      "by": "Han-Tang Academy of Chinese Medicine",
+      "venue": "hantang.health",
+      "year": 2020,
+      "url": "https://hantang.health/wp/nihaisha/"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Cancer and Complementary Health Approaches: What You Need To Know",
+      "by": "National Center for Complementary and Integrative Health (NIH)",
+      "venue": "NCCIH",
+      "year": 2021,
+      "url": "https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Natural Cancer 'Cures': What Are the Risks?",
+      "by": "Colleen Moriarty",
+      "venue": "Yale Medicine",
+      "year": 2019,
+      "url": "https://www.yalemedicine.org/news/natural-cancer-therapy-risks"
+    }
+  ]
+}

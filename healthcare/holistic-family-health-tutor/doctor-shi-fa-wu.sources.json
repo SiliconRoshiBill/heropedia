@@ -1,0 +1,88 @@
+{
+  "hero": "Doctor Shi Fa Wu（石法武博士）",
+  "role": "Holistic Family Health Tutor",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "慢性病治疗现状与对策",
+      "by": "Shi Fawu (石法武)",
+      "venue": "人民军医出版社 (People's Military Medical Press)",
+      "year": 2013,
+      "url": "https://book.douban.com/subject/21355288/"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "药物是慢性病患者的虚幻救世主",
+      "by": "Shi Fawu (石法武)",
+      "venue": "新浪博客 (Sina Blog)",
+      "year": 2012,
+      "url": "https://blog.sina.com.cn/s/blog_a29787ba0101agrv.html"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "自然疗法分会",
+      "by": "China Geriatric Health Care Medical Research Association (中国老年保健医学研究会)",
+      "venue": "caogr.org",
+      "year": 2019,
+      "url": "https://www.caogr.org/mechdetail_48.html"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "慢性病治疗现状与对策 book review",
+      "by": "mariooi (reader)",
+      "venue": "豆瓣读书 (Douban Books)",
+      "year": 2024,
+      "url": "https://book.douban.com/review/16116726/"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "人体免疫与营养",
+      "by": "元吉利他 (relaying a Shi Fawu lecture)",
+      "venue": "百度健康 (Baidu Health)",
+      "year": 2023,
+      "url": "https://health.baidu.com/m/detail/ar_8862272403569097313"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "石法武博士：自然疗法调理肿瘤没有\"概率\"，只有\"个体康复事实\"",
+      "by": "Shi Fawu (石法武)",
+      "venue": "百家号「自然的力量」",
+      "year": 2025,
+      "url": "https://m.baidu.com/bh/m/detail/ar_9567153807665012805?frsrcid=rec"
+    },
+    {
+      "id": "S7",
+      "type": "book",
+      "title": "肿瘤患者自然疗法",
+      "by": "Shi Fawu, Ma Jinchang, Li Zhen (石法武、马金昌、李臻)",
+      "venue": "河南科学技术出版社 (via Suning book listing)",
+      "year": 2021,
+      "url": "https://product.suning.com/0071170587/12423929108.html"
+    },
+    {
+      "id": "S8",
+      "type": "article",
+      "title": "Gerson Therapy (PDQ) – Health Professional Version",
+      "by": "National Cancer Institute",
+      "venue": "cancer.gov",
+      "year": 2016,
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/gerson-pdq"
+    },
+    {
+      "id": "S9",
+      "type": "article",
+      "title": "老人差点停药吃芒果！这条\"三高新标准\"谣言正在坑爸妈",
+      "by": "家医大健康 (Family Doctor Health)",
+      "venue": "familydoctor.cn",
+      "year": 2026,
+      "url": "https://www.familydoctor.cn/article/sangao-yaoyan-shibie-zhinan-16631.html"
+    }
+  ]
+}

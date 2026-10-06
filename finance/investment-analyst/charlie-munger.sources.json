@@ -1,0 +1,57 @@
+{
+  "hero": "Charlie Munger",
+  "role": "Investment Analyst",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "A Lesson on Elementary, Worldly Wisdom As It Relates to Investment Management and Business",
+      "by": "Charlie Munger",
+      "venue": "USC Marshall School of Business",
+      "year": 1994,
+      "url": "https://jamesclear.com/great-speeches/a-lesson-on-elementary-worldly-wisdom-by-charlie-munger",
+      "quote_checked": "Every person is going to have a circle of competence. And it's going to be very hard to advance that circle."
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "USC Law School Commencement Address",
+      "by": "Charlie Munger",
+      "venue": "USC Gould School of Law",
+      "year": 2007,
+      "url": "https://www.gurufocus.com/news/2135189/charlie-mungers-2007-usc-law-school-commencement-speech-transcript",
+      "quote_checked": "Those of you who have mastered algebra know that inversion frequently will solve problems which nothing else will solve."
+    },
+    {
+      "id": "S3",
+      "type": "talk",
+      "title": "The Psychology of Human Misjudgment",
+      "by": "Charlie Munger",
+      "venue": "Harvard University",
+      "year": 1995,
+      "url": "https://fs.blog/great-talks/psychology-human-misjudgment/",
+      "quote_checked": "Lollapalooza Tendency—The Tendency to Get Extreme Consequences from Confluences of Psychology Tendencies Acting in Favor of a Particular Outcome"
+    },
+    {
+      "id": "S4",
+      "type": "book",
+      "title": "Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger",
+      "by": "Charles T. Munger (ed. Peter D. Kaufman)",
+      "venue": "Donning Company Publishers",
+      "year": 2005,
+      "url": "https://www.goodreads.com/author/quotes/236437.Charles_T_Munger",
+      "quote_checked": "It takes character to sit with all that cash and to do nothing. I didn't get where I am by going after mediocre opportunities."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Charlie Munger, Warren Buffett's deputy at Berkshire Hathaway, dies at 99",
+      "by": "Associated Press",
+      "venue": "Fortune",
+      "year": 2023,
+      "url": "https://fortune.com/2023/11/28/charlie-munger-warren-buffett-deputy-at-berkshire-hathaway-dies-at-99",
+      "quote_checked": "Berkshire Hathaway could not have been built to its present status without Charlie's inspiration, wisdom, and participation."
+    }
+  ]
+}
