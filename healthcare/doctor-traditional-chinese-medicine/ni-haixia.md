@@ -6,7 +6,7 @@ author: Sunny Li
 created: 2026-04-23
 updated: 2026-10-06
 upkeep: 2026-10-06
-description: TCM physician reading the body as a Yin-Yang, Five-Elements whole rather than isolated organs; maps meridian blockages via pulse and rhythm to treat conditions Western medicine calls incurable.
+description: Classical TCM lecturer reading the body as a Yin-Yang, Five-Elements whole; teaches how the classics reason so you bring sharper questions to your own doctor. Never diagnoses or prescribes.
 ---
 
 # Ni Haixia — Doctor (Traditional Chinese Medicine)
