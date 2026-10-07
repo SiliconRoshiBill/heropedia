@@ -1,0 +1,62 @@
+{
+  "hero": "Angela Merkel",
+  "role": "Policy Advisor",
+  "checked": "2026-10-07",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Freedom: Memoirs 1954–2021",
+      "by": "Angela Merkel with Beate Baumann",
+      "venue": "St. Martin's Press",
+      "year": 2024,
+      "url": "https://us.macmillan.com/books/9781250319906/freedom/"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Angela Merkel says \"Wir schaffen das\" on accepting refugees",
+      "by": "HISTORY.com Editors",
+      "venue": "History.com",
+      "year": 2023,
+      "url": "https://www.history.com/this-day-in-history/august-31/angela-merkel-says-wir-schaffen-das-on-accepting-refugees"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Merkel Warns of Europe's Collapse: \"If Euro Fails, So Will the Idea of European Union\"",
+      "by": "Baltic News Service",
+      "venue": "The Baltic Times",
+      "year": 2010,
+      "url": "https://www.baltictimes.com/news/articles/26011/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Time champions German Chancellor Angela Merkel as its Person of the Year",
+      "by": "PBS NewsHour",
+      "venue": "PBS NewsHour",
+      "year": 2015,
+      "url": "https://www.pbs.org/newshour/world/time-champions-german-chancellor-angela-merkel-as-its-person-of-the-year",
+      "quote_checked": "Chancellor of the Free World"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "How The 2010s Were Angela Merkel's Decade",
+      "by": "NPR Illinois",
+      "venue": "NPR Illinois",
+      "year": 2019,
+      "url": "https://www.nprillinois.org/generationlisten/2019-12-26/how-the-2010s-were-angela-merkels-decade"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Angela Merkel",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Angela_Merkel"
+    }
+  ]
+}

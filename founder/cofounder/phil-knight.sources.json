@@ -1,0 +1,56 @@
+{
+  "hero": "Phil Knight",
+  "role": "Cofounder",
+  "checked": "2026-10-07",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Shoe Dog: A Memoir by the Creator of Nike",
+      "by": "Phil Knight",
+      "venue": "Scribner",
+      "year": 2016,
+      "url": "https://www.goodreads.com/work/quotes/4077583",
+      "quote_checked": "History is one long processional of crazy ideas. | I'd tell men and women in their midtwenties not to settle for a job or a profession or even a career. Seek a calling. | Life is growth. You grow or you die. | Hard work is critical, a good team is essential, brains and determination are invaluable, but luck may decide the outcome."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Phil Knight",
+      "by": "Encyclopaedia Britannica",
+      "venue": "Britannica",
+      "year": 2026,
+      "url": "https://www.britannica.com/biography/Phil-Knight"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Nike Strives to Overcome Sweatshop Abuse",
+      "by": "Phoebe Pradhan",
+      "venue": "The Borgen Project",
+      "year": 2014,
+      "url": "https://borgenproject.org/nike-strives-overcome-history-sweatshop-abuse/",
+      "quote_checked": "the Nike product has become synonymous with slave wages, forced overtime and arbitrary abuse"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Knights Pledge $2B To Cancer Research",
+      "by": "Oregon Business",
+      "venue": "Oregon Business",
+      "year": 2025,
+      "url": "https://oregonbusiness.com/knights-pledge-2b-to-cancer-research/",
+      "quote_checked": "We couldn't be more excited about the transformational potential of this work for humanity."
+    },
+    {
+      "id": "S5",
+      "type": "talk",
+      "title": "The Archive Project: Phil Knight with Adam Gopnik",
+      "by": "Literary Arts",
+      "venue": "OPB",
+      "year": 2016,
+      "url": "https://www.opb.org/radio/programs/literary-arts-archive-project/article/the-archive-project-may-11-2016/",
+      "quote_checked": "We wanted to win their hearts as well as their feet."
+    }
+  ]
+}
