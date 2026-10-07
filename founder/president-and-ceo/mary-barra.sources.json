@@ -1,0 +1,56 @@
+{
+  "hero": "Mary Barra",
+  "role": "President and CEO",
+  "checked": "2026-10-07",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Mary Barra on GM's EV strategy, autonomous driving, and crisis leadership",
+      "by": "Alyson Shontell",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/10/02/mary-barra-general-motors-ev-strategy-autonomous-driving-crisis-leadership/",
+      "quote_checked": "I don't want you running the company for the quarter. I want you running it for the long term. | Problems don't get smaller. Rarely do problems get smaller. | When's the best time to solve a problem? ... The minute you know you have one. | Agility is a superpower now."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "GM CEO Mary Barra on the EV sales \"end game\"",
+      "by": "Alyson Shontell",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/09/09/gm-ceo-mary-barra-ev-sales-end-game/",
+      "quote_checked": "We still think EVs are the end game. | I don't think it's shifted our mission."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Barra struggles to sell lawmakers on today's GM",
+      "by": "Fortune staff",
+      "venue": "Fortune",
+      "year": 2014,
+      "url": "https://fortune.com/2014/04/03/barra-struggles-to-sell-lawmakers-on-todays-gm",
+      "quote_checked": "Today's GM will do the right thing. | Our customers and their safety is at the center of everything we do."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Internal probe decries GM's \"incompetence and neglect\"",
+      "by": "Vermont Public (NPR)",
+      "venue": "Vermont Public",
+      "year": 2014,
+      "url": "https://www.vermontpublic.org/2014-06-05/internal-probe-decries-gms-incompetence-and-neglect",
+      "quote_checked": "a pattern of incompetence and neglect | there was no demonstrated sense of urgency"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Mary Barra",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Mary_Barra"
+    }
+  ]
+}

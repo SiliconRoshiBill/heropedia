@@ -1,0 +1,46 @@
+{
+  "hero": "Yvon Chouinard",
+  "role": "Founder Advisor",
+  "checked": "2026-10-07",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Yvon Chouinard on why he gave away Patagonia to save the planet",
+      "by": "Craig Welch",
+      "venue": "National Geographic",
+      "year": 2025,
+      "url": "https://www.nationalgeographic.com/culture/article/yvon-chouinard-nat-geo-33-2025",
+      "quote_checked": "After you're making enough money to support yourself, what's the reason to stay in business? | Patagonia is not a sustainable company. There's no such thing. | When people say they believe in climate change but don't do anything, they don't really believe in it."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Patagonia founder gives away company worth $3 billion to fight climate change",
+      "by": "Gulf News",
+      "venue": "Gulf News",
+      "year": 2022,
+      "url": "https://gulfnews.com/business/patagonia-founder-gives-away-company-worth-3-billion-to-fight-climate-change-1.1663220707398",
+      "quote_checked": "Earth is now our only shareholder | public companies with good intentions are under too much pressure to create short-term gain at the expense of long-term vitality"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Patagonia owner Yvon Chouinard gives company away to save planet",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2022,
+      "url": "https://www.aljazeera.com/news/2022/9/15/patagonia-owner-yvon-chouinard-gives-away-company-to-save-planet",
+      "quote_checked": "I never wanted to be a businessman. I started as a craftsman, making climbing gear for my friends and myself, then got into apparel."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Yvon Chouinard",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Yvon_Chouinard"
+    }
+  ]
+}
