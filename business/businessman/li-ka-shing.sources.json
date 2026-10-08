@@ -1,0 +1,147 @@
+{
+  "hero": "Li Ka-shing",
+  "role": "Businessman",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Senior Advisor: Mr Li Ka-shing",
+      "by": "CK Hutchison Holdings",
+      "venue": "ckh.com.hk",
+      "year": 2018,
+      "url": "https://ckh.com.hk/en/about/senior_advisor.php",
+      "quote_checked": "Mr Li was forced to quit school when he was 12 and fled to Hong Kong with his family to avoid the perils of war."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Milestones 2015",
+      "by": "CK Hutchison Holdings",
+      "venue": "ckh.com.hk",
+      "year": 2015,
+      "url": "https://ckh.com.hk/en/about/milestones/?year=2015",
+      "quote_checked": "Cheung Kong and Hutchison Whampoa completes the reorganisation and combination of their businesses to create CK Hutchison Holdings Limited"
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "Chairman's Statement, CK Hutchison 2017 Annual Report",
+      "by": "Li Ka-shing",
+      "venue": "CK Hutchison Holdings",
+      "year": 2018,
+      "url": "https://doc.irasia.com/listco/hk/ckh/annual/2017/ar2017.pdf",
+      "quote_checked": "who has worked side-by-side with me at the CK Group for 33 years, to succeed as Chairman"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Thoughts Of Li Ka-Shing",
+      "by": "Forbes",
+      "venue": "Forbes",
+      "year": 2006,
+      "url": "https://www.forbes.com/2006/12/29/li-ka-shing-biz-cx_tf_vk_1229qanda.html",
+      "quote_checked": "we are always prepared for the worst. That is my policy."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Thoughts Of Chairman Li",
+      "by": "Forbes Asia",
+      "venue": "Forbes",
+      "year": 2007,
+      "url": "https://www.forbes.com/forbes/2007/0129/068.html",
+      "quote_checked": "He devours engineering journals and retains outside experts to counsel him."
+    },
+    {
+      "id": "S6",
+      "type": "talk",
+      "title": "The Art of Management",
+      "by": "Li Ka-shing",
+      "venue": "Cheung Kong Graduate School of Business",
+      "year": 2005,
+      "url": "https://www.lksf.org/the-art-of-management/",
+      "quote_checked": "Establishing a structure that serves to minimize failure will prove to be a shortcut to success."
+    },
+    {
+      "id": "S7",
+      "type": "talk",
+      "title": "The Future Matters to Me",
+      "by": "Li Ka-shing",
+      "venue": "Shantou University commencement",
+      "year": 2012,
+      "url": "https://www.lksf.org/the-future-matters-to-me/",
+      "quote_checked": "building up myself in the pursuit of my selflessness."
+    },
+    {
+      "id": "S8",
+      "type": "talk",
+      "title": "The Art of Giving",
+      "by": "Li Ka-shing",
+      "venue": "Li Ka Shing Foundation",
+      "year": 2004,
+      "url": "https://www.lksf.org/the-art-of-giving/",
+      "quote_checked": "I have stayed true to my core values, which are fairness, integrity, honesty, compassion and to achieve success through honest means."
+    },
+    {
+      "id": "S9",
+      "type": "talk",
+      "title": "My Third Son",
+      "by": "Li Ka-shing",
+      "venue": "Forbes Lifetime Achievement Award",
+      "year": 2006,
+      "url": "https://www.lksf.org/english-my-third-son/",
+      "quote_checked": "I set up a foundation that I refer to as my third son."
+    },
+    {
+      "id": "S10",
+      "type": "talk",
+      "title": "Searching for Better",
+      "by": "Li Ka-shing",
+      "venue": "Shantou University commencement",
+      "year": 2018,
+      "url": "https://www.lksf.org/searching-for-bettershantou-university-commencement-ceremony-2018/",
+      "quote_checked": "Humility is rejuvenating, enriching, emboldening."
+    },
+    {
+      "id": "S11",
+      "type": "article",
+      "title": "Lord Sandberg was faithful friend of real estate tycoons",
+      "by": "Asia Times",
+      "venue": "Asia Times",
+      "year": 2017,
+      "url": "https://asiatimes.com/?p=144225",
+      "quote_checked": "HSBC got rid of its 22% stake in the troubled Hutchison Whampoa for only HK$639 million"
+    },
+    {
+      "id": "S12",
+      "type": "article",
+      "title": "Another $60 Million For Facebook",
+      "by": "TechCrunch",
+      "venue": "TechCrunch",
+      "year": 2007,
+      "url": "https://techcrunch.com/2007/11/30/another-60-million-for-facebook/",
+      "quote_checked": "Facebook has grabbed another investor – $60 million from Hong Kong billionaire Li Ka-shing"
+    },
+    {
+      "id": "S13",
+      "type": "article",
+      "title": "The richest man in Hong Kong's early Zoom bet is paying off in the billions",
+      "by": "Fortune",
+      "venue": "Fortune",
+      "year": 2020,
+      "url": "https://fortune.com/2020/04/09/richest-man-in-hong-kong-zoom-investors-owners-zm-stock-li-ka-shing-net-worth",
+      "quote_checked": "Horizons Ventures, which manages Li's venture investments, led a $6.5 million series B round funding in the video conferencing company in 2013"
+    },
+    {
+      "id": "S14",
+      "type": "article",
+      "title": "Li Ka-shing's $11 Billion Zoom Stake Makes Up a Third of His Fortune",
+      "by": "Bloomberg",
+      "venue": "Caixin Global",
+      "year": 2020,
+      "url": "https://www.caixinglobal.com/2020-09-03/li-ka-shings-11-billion-zoom-stake-makes-up-a-third-of-his-fortune-101600565.html",
+      "quote_checked": "The vehicle was an early backer of Facebook Inc., Spotify Technology SA and Siri"
+    }
+  ]
+}

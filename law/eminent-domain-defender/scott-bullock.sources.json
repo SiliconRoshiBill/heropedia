@@ -1,0 +1,57 @@
+{
+  "hero": "Scott Bullock",
+  "role": "Eminent Domain Defender",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Scott G. Bullock, President and Chief Counsel (staff biography)",
+      "by": "Institute for Justice",
+      "venue": "ij.org (Wayback Machine capture; ij.org blocks automated fetches)",
+      "year": 2025,
+      "url": "https://web.archive.org/web/2025/https://ij.org/staff/scott-bullock/",
+      "quote_checked": "Scott Bullock joined the Institute for Justice at its founding in 1991. In January 2016, he became its second President."
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "Oral argument transcript, Kelo v. City of New London, No. 04-108",
+      "by": "Scott G. Bullock",
+      "venue": "Supreme Court of the United States",
+      "year": 2005,
+      "url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2004/04-108.pdf",
+      "quote_checked": "This case is about whether there are any limits on government's eminent domain power under the public use requirement of the Fifth Amendment. | Every city has problems."
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "Kelo v. City of New London, 545 U.S. 469 (opinion of the Court)",
+      "by": "Justice John Paul Stevens",
+      "venue": "Supreme Court of the United States (Legal Information Institute, Cornell Law School)",
+      "year": 2005,
+      "url": "https://www.law.cornell.edu/supct/html/04-108.ZO.html",
+      "quote_checked": "nothing in our opinion precludes any State from placing further restrictions on its exercise of the takings power."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "June Marks 10th Anniversary of Supreme Court's Infamous Kelo Eminent Domain Ruling",
+      "by": "Institute for Justice",
+      "venue": "ij.org press release (Wayback Machine capture)",
+      "year": 2015,
+      "url": "https://web.archive.org/web/2020/https://ij.org/press-release/june-marks-10th-anniversary-of-supreme-courts-infamous-kelo-eminent-domain-ruling/",
+      "quote_checked": "Susette Kelo and her neighbors may have lost their homes, but their fight made a huge impact on the law"
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "Kelo Postmortem",
+      "by": "The Land Report",
+      "venue": "The Land Report",
+      "year": 2015,
+      "url": "https://landreport.com/kelo-postmortem",
+      "quote_checked": "Kelo is one of those rare issues that unites people across the nation regardless of political persuasion or economic background"
+    }
+  ]
+}

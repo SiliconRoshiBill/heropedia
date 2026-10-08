@@ -1,0 +1,31 @@
+{
+  "hero": "Loren Miller",
+  "role": "Housing Discrimination Lawyer",
+  "checked": "2026-10-08",
+  "sources": [
+    { "id": "S1", "type": "paper", "title": "Shelley v. Kraemer, 334 U.S. 1 (with McGhee v. Sipes, No. 87)", "by": "U.S. Supreme Court (Vinson, C.J.)", "venue": "United States Reports, Library of Congress", "year": 1948,
+      "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep334/usrep334001/usrep334001.pdf",
+      "quote_checked": "Thurgood Marshall and Loren Miller argued the cause for petitioners in No. 87. | people of the Negro or Mongolian Race | the States have denied petitioners the equal protection of the laws" },
+    { "id": "S2", "type": "paper", "title": "Barrows v. Jackson, 346 U.S. 249", "by": "U.S. Supreme Court (Minton, J.)", "venue": "United States Reports, Library of Congress", "year": 1953,
+      "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep346/usrep346249/usrep346249.pdf",
+      "quote_checked": "Loren Miller argued the cause for respondent. With him on the brief were Thurgood Marshall and Franklin H. Williams. | to punish respondent for not continuing to discriminate against non-Caucasians in the use of her property | unable to purchase, own, and enjoy property on the same terms as Caucasians" },
+    { "id": "S3", "type": "article", "title": "Loren Miller: African American Defender of Japanese American Equality", "by": "Greg Robinson", "venue": "Discover Nikkei (Japanese American National Museum)", "year": 2017,
+      "url": "https://discovernikkei.org/en/journal/2017/7/25/loren-miller/",
+      "quote_checked": "two cases that challenged restrictive covenants Asian Americans (with, respectively, a Chinese-American and Korean-American plaintiff) | In the 1944 case Fairchild v Raines and the 1945 “Sugar Hill” case, Miller brought the first successful legal challenges to the use of restrictive covenants against African Americans. | Published in 1966 as The Petitioners , it became a standard reference work." },
+    { "id": "S4", "type": "article", "title": "Miller, Loren", "by": "West's Encyclopedia of American Law (Gale)", "venue": "Encyclopedia.com", "year": "n.d.",
+      "url": "https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/miller-loren",
+      "quote_checked": "resulted in \"nothing but bitterness and strife.\" | \"The Negro has been the ward of the Supreme Court of the United States for more than a hundred years.\" —Loren Miller | \"hucksters of prejudice\" | By 1947, Miller had represented more than one hundred plaintiffs seeking to invalidate housing covenants | In 1964, Governor Edmund G. Brown of California appointed Miller to the Superior Court of California" },
+    { "id": "S5", "type": "article", "title": "Loren Miller (1903-1967)", "by": "Amina Hassan", "venue": "BlackPast.org", "year": 2008,
+      "url": "https://www.blackpast.org/african-american-history/miller-loren-1903-1967/",
+      "quote_checked": "including that of African American movie actresses Hattie McDaniel and Ethel Waters , co-plaintiffs against hostile white Los Angeles property owners in 1945 | the State Bar of California annually awards the Loren Miller Legal Services Award" },
+    { "id": "S6", "type": "article", "title": "Housing Discrimination Under the Fair Housing Act", "by": "U.S. Department of Housing and Urban Development", "venue": "HUD.gov", "year": "n.d.",
+      "url": "https://www.hud.gov/helping-americans/fair-housing-act-overview",
+      "quote_checked": "The Fair Housing Act prohibits discrimination in housing because of: Race Color National Origin Religion Sex Familial Status Disability" },
+    { "id": "S7", "type": "paper", "title": "42 U.S. Code § 3603 - Effective dates of certain prohibitions", "by": "U.S. Congress (Pub. L. 90-284, title VIII)", "venue": "Legal Information Institute, Cornell Law School", "year": 1968,
+      "url": "https://www.law.cornell.edu/uscode/text/42/3603",
+      "quote_checked": "Nothing in section 3604 of this title (other than subsection (c)) shall apply to | occupied or intended to be occupied by no more than four families living independently of each other, if the owner actually maintains and occupies one of such living quarters as his residence" },
+    { "id": "S8", "type": "paper", "title": "42 U.S. Code § 3604 - Discrimination in the sale or rental of housing and other prohibited practices", "by": "U.S. Congress (Pub. L. 90-284, title VIII)", "venue": "Legal Information Institute, Cornell Law School", "year": 1968,
+      "url": "https://www.law.cornell.edu/uscode/text/42/3604",
+      "quote_checked": "indicates any preference, limitation, or discrimination based on race, color, religion, sex, handicap" }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "hero": "Richard A. Epstein",
+  "role": "Property Rights & Rent Control Critic",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Takings: Private Property Under the Power of Eminent Domain",
+      "by": "Richard A. Epstein",
+      "venue": "Harvard University Press (NYU Law faculty repository record)",
+      "year": 1985,
+      "url": "https://gretchen.law.nyu.edu/fac-books-edited-works/183",
+      "quote_checked": "He asks four questions: What constitutes a taking of private property? When is that taking justified without compensation under the police power?"
+    },
+    {
+      "id": "S2",
+      "type": "paper",
+      "title": "Rent Control and the Theory of Efficient Regulation",
+      "by": "Richard A. Epstein",
+      "venue": "Brooklyn Law Review 54:741 (Chicago Unbound record)",
+      "year": 1988,
+      "url": "https://chicagounbound.uchicago.edu/journal_articles/1327",
+      "quote_checked": "Symposium: Rent Control and the Theory of Efficient Regulation"
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "Once More into the Rent Control Abyss",
+      "by": "Richard A. Epstein",
+      "venue": "Rethinking the Law of Private Property, Edward Elgar Publishing (NYU Law faculty repository)",
+      "year": 2025,
+      "url": "https://gretchen.law.nyu.edu/fac-chapt/2153",
+      "quote_checked": "Yet this uniform triumphant success of rent control statutes should be the source of social anxiety, not jubilation."
+    },
+    {
+      "id": "S4",
+      "type": "book",
+      "title": "Simple Rules for a Complex World",
+      "by": "Richard A. Epstein",
+      "venue": "Harvard University Press",
+      "year": 1997,
+      "url": "https://www.hup.harvard.edu/books/9780674808218",
+      "quote_checked": "on the basis of just six core principles"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Richard A. Epstein (fellow profile)",
+      "by": "Hoover Institution",
+      "venue": "Hoover Institution, Stanford University",
+      "year": 2026,
+      "url": "https://www.hoover.org/profiles/richard-epstein",
+      "quote_checked": "In 2011, Epstein was a recipient of the Bradley Prize for outstanding achievement."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Taking Issue with the State (review of Takings)",
+      "by": "David Friedman",
+      "venue": "Reason",
+      "year": 1986,
+      "url": "https://reason.com/1986/10/01/taking-issue-with-the-state",
+      "quote_checked": "the first step is to ask whether it is something a private individual could legally do."
+    },
+    {
+      "id": "S7",
+      "type": "interview",
+      "title": "The Libertarian: Rent Control, Housing, And Economics",
+      "by": "Richard A. Epstein",
+      "venue": "Hoover Institution podcast The Libertarian",
+      "year": 2019,
+      "url": "https://www.hoover.org/research/libertarian-richard-epstein-rent-control-housing-and-economics",
+      "quote_checked": "Richard Epstein looks at the resurgent popularity of rent control"
+    }
+  ]
+}

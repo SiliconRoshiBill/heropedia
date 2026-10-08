@@ -1,0 +1,67 @@
+{
+  "hero": "Jonathan L. Mechanic",
+  "role": "Commercial Real Estate Lawyer",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Jonathan Mechanic, Lecturer in Law",
+      "by": "Columbia Law School",
+      "venue": "law.columbia.edu",
+      "year": 2026,
+      "url": "https://www.law.columbia.edu/faculty/jonathan-mechanic",
+      "quote_checked": "co-author of The Commercial Office Lease Handbook published by the American Bar Association"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Building Relationships: An Interview with Jonathan L. Mechanic, Chairman, Real Estate Department, Fried Frank",
+      "by": "LEADERS Magazine",
+      "venue": "LEADERS, Volume 46, Number 2",
+      "year": 2023,
+      "url": "https://www.leadersmag.com/issues/2023.2_Apr/PDFs/LEADERS-Jonathan-Mechanic-Fried-Frank.pdf",
+      "quote_checked": "we know the points that really matter, and don’t waste time on ones that don’t"
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Jonathan Mechanic Is the Go-To Real Estate Lawyer Extraordinaire",
+      "by": "Terence Cullen",
+      "venue": "Commercial Observer",
+      "year": 2016,
+      "url": "https://commercialobserver.com/2016/04/jonathan-mechanic-is-the-go-to-real-estate-lawyer-extraordinaire",
+      "quote_checked": "Here are the 4,000 problems with this transaction; here are the 3,922 that don’t really matter"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "The Closing: Jonathan Mechanic",
+      "by": "TRD Staff",
+      "venue": "The Real Deal",
+      "year": 2007,
+      "url": "https://therealdeal.com/magazine/new-york-october-2007/the-closing-jonathan-mechanic",
+      "quote_checked": "the key to negotiation is to care, but not too much."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "REBNY Chooses Jonathan Mechanic as Next Chair",
+      "by": "Isabelle Durso",
+      "venue": "Commercial Observer",
+      "year": 2026,
+      "url": "https://commercialobserver.com/2026/06/rebny-jonathan-mechanic-chair/",
+      "quote_checked": "Mechanic is the first lawyer to be appointed chair of REBNY in its 130-year history."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Power 100 2026: #96 Jonathan Mechanic",
+      "by": "Isabelle Durso",
+      "venue": "Commercial Observer",
+      "year": 2026,
+      "url": "https://commercialobserver.com/power-series/power-100-2026/player/jonathan-mechanic/",
+      "quote_checked": "incentivize people to actually want to build here"
+    }
+  ]
+}
