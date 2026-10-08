@@ -1,0 +1,57 @@
+{
+  "hero": "Robert C. Ellickson",
+  "role": "Land Use & Zoning Advisor",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Robert C. Ellickson (faculty profile)",
+      "by": "Yale Law School",
+      "venue": "Yale Law School",
+      "year": 2026,
+      "url": "https://law.yale.edu/robert-c-ellickson",
+      "quote_checked": "Prior to entering teaching in 1970, he worked for a Presidential commission on housing policy and then for Levitt & Sons, the homebuilding firm."
+    },
+    {
+      "id": "S2",
+      "type": "book",
+      "title": "Order without Law: How Neighbors Settle Disputes",
+      "by": "Robert C. Ellickson",
+      "venue": "Harvard University Press",
+      "year": 1991,
+      "url": "https://www.hup.harvard.edu/books/9780674641693",
+      "quote_checked": "He demonstrates that people largely govern themselves by means of informal rules—social norms—that develop without the aid of a state or other central coordinator."
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "Zoning and the Cost of Housing: Evidence from Silicon Valley, Greater New Haven, and Greater Austin",
+      "by": "Robert C. Ellickson",
+      "venue": "Cardozo Law Review 42:1611",
+      "year": 2021,
+      "url": "https://larc.cardozo.yu.edu/clr/vol42/iss5/2",
+      "quote_checked": "Municipal zoning, shockingly, may be the most consequential regulatory program in the United States."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "The Vast Collateral Damage of Zoning (review of America's Frozen Neighborhoods)",
+      "by": "Howard Husock",
+      "venue": "City Journal",
+      "year": 2022,
+      "url": "https://www.city-journal.org/article/the-vast-collateral-damage-of-zoning",
+      "quote_checked": "I contend that a state should preempt many of the land use choices that its local governments are now free to make."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "A Year in Books: Faculty Address Critical Questions",
+      "by": "Yale Law School",
+      "venue": "Yale Law School News",
+      "year": 2022,
+      "url": "https://law.yale.edu/yls-today/news/year-books-faculty-address-critical-questions",
+      "quote_checked": "Ellickson creates data sets to capture how zoning policies shape 41 localities, spread across three urban areas"
+    }
+  ]
+}

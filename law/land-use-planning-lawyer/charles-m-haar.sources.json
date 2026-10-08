@@ -1,0 +1,57 @@
+{
+  "hero": "Charles M. Haar",
+  "role": "Land Use Planning Lawyer",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Charles M. Haar: 1920-2012 (A Pioneer Who Explored New Lands in the Law)",
+      "by": "Christine Perkins",
+      "venue": "Harvard Law Today (Harvard Law Bulletin)",
+      "year": 2012,
+      "url": "https://hls.harvard.edu/today/charles-m-haar-1920-2012/",
+      "quote_checked": "a forerunner for the environmental movement. | his scholarship was incomplete if it did not influence public policymakers"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Land-use law pioneer, Charles M. Haar, 91",
+      "by": "Harvard Gazette",
+      "venue": "Harvard Gazette",
+      "year": 2012,
+      "url": "https://news.harvard.edu/gazette/story/2012/01/land-use-law-pioneer-charles-m-haar-91/",
+      "quote_checked": "Louis D. Brandeis Professor of Law Emeritus Charles M. Haar ’48, a pioneer in land-use law"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "An Appreciation: Charles M. Haar, Leading Advocate for Comprehensive Planning, Dies at 91",
+      "by": "Robert Freilich",
+      "venue": "California Planning & Development Report",
+      "year": 2012,
+      "url": "https://www.cp-dr.com/post/an-appreciation-charles-m-haar-leading-advocate-for-comprehensive-planning-dies-at-91",
+      "quote_checked": "\"no single entity felt duty-bound to care for it.\""
+    },
+    {
+      "id": "S4",
+      "type": "book",
+      "title": "Suburbs under Siege: Race, Space, and Audacious Judges",
+      "by": "Charles M. Haar",
+      "venue": "Princeton University Press",
+      "year": 1996,
+      "url": "https://press.princeton.edu/node/11258",
+      "quote_checked": "all people—rich or poor, black or white—have a constitutional right to live in the suburbs | they based their reasoning on the N.J. state constitution"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Charles M. Haar, Adviser to Three Presidents, Dies At 91",
+      "by": "Kerry M. Flynn",
+      "venue": "The Harvard Crimson",
+      "year": 2012,
+      "url": "https://www.thecrimson.com/article/2012/2/2/haar-adviser-law-obit/",
+      "quote_checked": "Mastering Boston Harbor” discussed Haar’s involvement as a court-appointed special master on a case filed by the city of Quincy against the Boston sewer system."
+    }
+  ]
+}

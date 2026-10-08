@@ -1,0 +1,57 @@
+{
+  "hero": "Bernard H. Siegan",
+  "role": "Zoning Skeptic",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Spotlight: Zoning Revolutionary",
+      "by": "John Dentinger",
+      "venue": "Reason",
+      "year": 1986,
+      "url": "https://reason.com/1986/02/01/zoning-revolutionary/",
+      "quote_checked": "one of the major objectives of the framers was protecting economic and property rights"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Bernard Siegan, 81; Legal Scholar Fought for Economic Rights",
+      "by": "Valerie J. Nelson",
+      "venue": "Los Angeles Times",
+      "year": 2006,
+      "url": "https://www.latimes.com/archives/la-xpm-2006-mar-31-me-siegan31-story.html",
+      "quote_checked": "the opening salvo"
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "Conserving and Developing the Land",
+      "by": "Bernard H. Siegan",
+      "venue": "San Diego Law Review 27:279",
+      "year": 1990,
+      "url": "https://digital.sandiego.edu/sdlr/vol27/iss2/3",
+      "quote_checked": "As a tool of government regulation, zoning requirements hamper creativity, ingenuity, and productivity."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Bernard Siegan Dies Aged 81",
+      "by": "Liberty and Power",
+      "venue": "History News Network",
+      "year": 2006,
+      "url": "https://historynewsnetwork.org/blog/23497",
+      "quote_checked": "Siegan was born in Chicago on July 28, 1924, and died last Monday, March 27, in Encinitas, California, aged 81."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Will Houston Succumb?",
+      "by": "Jacob Sullum",
+      "venue": "Reason",
+      "year": 1990,
+      "url": "https://reason.com/1990/06/01/will-houston-succumb/",
+      "quote_checked": "The people who don't like zoning don't scream about it in the newspapers."
+    }
+  ]
+}

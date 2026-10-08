@@ -1,0 +1,67 @@
+{
+  "hero": "Bruce Ratner",
+  "role": "Urban Development Lawyer",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Sneak Preview: How Real Estate Legend Bruce Ratner Got His Start",
+      "by": "James Nelson",
+      "venue": "Avison Young (Nelson Report)",
+      "year": 2019,
+      "url": "https://www.avisonyoung.us/w/voiceamerica-preview-how-real-estate-legend-bruce-ratner-got-his-start",
+      "quote_checked": "Oil and gas is to Texas, as real estate is to New York."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Developer Bruce C. Ratner Digs Into Difficult Deals to Alter the Urban Landscape",
+      "by": "Nadine M. Post",
+      "venue": "ENR (Engineering News-Record)",
+      "year": 2013,
+      "url": "https://enr.com/articles/print/1257-developer-bruce-c-ratner-digs-into-difficult-deals-to-alter-the-urban-landscape",
+      "quote_checked": "I couldn't compete with people who had tons of money,"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "The Return of MetroTech",
+      "by": "Matthew Schuerman",
+      "venue": "City Limits",
+      "year": 2004,
+      "url": "https://citylimits.org/2004/12/15/the-return-of-metrotec/",
+      "quote_checked": "the city had to invoke eminent domain, displacing an estimated 250 residents and 750 jobs that were there before."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Mr. Ratner's Neighborhood",
+      "by": "Chris Smith",
+      "venue": "New York Magazine",
+      "year": 2006,
+      "url": "https://nymag.com/news/features/18862/index1.html",
+      "quote_checked": "Ratner promises to create public services and distribute jobs to local residents."
+    },
+    {
+      "id": "S5",
+      "type": "paper",
+      "title": "Matter of Goldstein v New York State Urban Development Corp. (2009 NY Slip Op 08677)",
+      "by": "New York Court of Appeals (Lippman, C.J.)",
+      "venue": "New York Court of Appeals, via Cornell Legal Information Institute",
+      "year": 2009,
+      "url": "https://www.law.cornell.edu/nyctap/I09_0180.htm",
+      "quote_checked": "We are asked to determine whether respondent's exercise of its power of eminent domain"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Inside the dismantling of Forest City Ratner",
+      "by": "Konrad Putzier",
+      "venue": "The Real Deal",
+      "year": 2018,
+      "url": "https://therealdeal.com/new-york/2018/04/05/the-dismantling-of-forest-city-ratner/",
+      "quote_checked": "a shell of its former self"
+    }
+  ]
+}

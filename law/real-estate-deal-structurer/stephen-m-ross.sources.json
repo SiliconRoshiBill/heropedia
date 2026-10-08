@@ -1,0 +1,57 @@
+{
+  "hero": "Stephen M. Ross",
+  "role": "Real Estate Deal Structurer",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Two Men, One Vision: With $100 Million Gift, Steve Ross Honors the Past, Looks to the Future",
+      "by": "University of Michigan Business School",
+      "venue": "Dividend (alumni magazine), Fall 2004",
+      "year": 2004,
+      "url": "https://web.archive.org/web/20120913212940/http://www.bus.umich.edu/NewsRoom/BusinessSchoolPubs/DividendAlumniMagazine/Fall_2004/StephenMRoss.pdf",
+      "quote_checked": "I realized that I really loved real estate and the deal business."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "The Only Man Who Could Build Oz",
+      "by": "Carl Swanson",
+      "venue": "New York Magazine (Intelligencer)",
+      "year": 2019,
+      "url": "https://nymag.com/intelligencer/2019/02/stephen-ross-hudson-yards.html",
+      "quote_checked": "Everybody else would put it in the back, in the basement, and we put it in the best location there was in the whole thing."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Anatomy of a deal: Inside Related/Oxford's unusual financing of Hudson Yards",
+      "by": "Hiten Samtani",
+      "venue": "The Real Deal",
+      "year": 2013,
+      "url": "https://therealdeal.com/blog/2013/08/16/anatomy-of-a-deal-inside-relatedoxfords-unusual-hudson-yards-financing/",
+      "quote_checked": "As a ground landlord, we’re concerned that once a building is started, it is finished,"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Stephen M. Ross, CEO and Chairman",
+      "by": "Related Ross",
+      "venue": "relatedross.com",
+      "year": 2026,
+      "url": "https://www.relatedross.com/our-company/leadership/stephen-m-ross",
+      "quote_checked": "The company is also one of the largest owners and preservationists of affordable housing in the country."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Stephen M. Ross",
+      "by": "World Resources Institute",
+      "venue": "wri.org",
+      "year": 2026,
+      "url": "https://www.wri.org/profile/stephen-ross",
+      "quote_checked": "from New York University School of Law with a Master of Laws in Taxation"
+    }
+  ]
+}

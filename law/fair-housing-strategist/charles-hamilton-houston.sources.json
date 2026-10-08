@@ -1,0 +1,31 @@
+{
+  "hero": "Charles Hamilton Houston",
+  "role": "Fair Housing Strategist",
+  "checked": "2026-10-08",
+  "sources": [
+    { "id": "S1", "type": "paper", "title": "Hurd v. Hodge, 334 U.S. 24", "by": "U.S. Supreme Court (Vinson, C.J.); counsel Charles H. Houston and Phineas Indritz", "venue": "United States Reports, Library of Congress", "year": 1948,
+      "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep334/usrep334024/usrep334024.pdf",
+      "quote_checked": "Charles H. Houston and Phineas Indritz argued the cause for petitioners | \"as is enjoyed by white citizens . . . to inherit, purchase, lease, sell, hold, and convey real and personal property.\" | contrary to the public policy of the United States" },
+    { "id": "S2", "type": "paper", "title": "Shelley v. Kraemer, 334 U.S. 1", "by": "U.S. Supreme Court (Vinson, C.J.)", "venue": "United States Reports, Library of Congress", "year": 1948,
+      "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep334/usrep334001/usrep334001.pdf",
+      "quote_checked": "people of the Negro or Mongolian Race | the States have denied petitioners the equal protection of the laws | Charles H. Houston, George M. Johnson" },
+    { "id": "S3", "type": "article", "title": "Charles Hamilton Houston and His Civil Rights Brain Trust", "by": "Michael Kohler", "venue": "WETA Boundary Stones", "year": 2021,
+      "url": "https://boundarystones.weta.org/2021/03/24/charles-hamilton-houston-and-his-civil-rights-brain-trust",
+      "quote_checked": "“A lawyer’s either a social engineer or he’s a parasite on society,” Houston told his pupils. | \"the mouthpiece of the weak and a sentinel guarding against wrong.” | achieved accreditation by the American Bar Association within Houston’s five year tenure as Vice Dean | passed away in April 1950 at the age of 54" },
+    { "id": "S4", "type": "article", "title": "Civil Rights Tour: Legal Campaigns - Hurd v. Hodge, Landmark Supreme Court Case: 116 Bryant Street NW", "by": "DC Historic Preservation Office", "venue": "DC Historic Sites (DC Preservation League)", "year": "n.d.",
+      "url": "https://historicsites.dcpreservation.org/items/show/1030",
+      "quote_checked": "covenants in Bloomingdale no longer served their intended purpose of keeping the neighborhood white and were depressing home values in an area where African Americans were willing to pay more than market rate" },
+    { "id": "S5", "type": "article", "title": "Bloomingdale Tour: 116 Bryant Street", "by": "Prologue DC", "venue": "DC Historic Sites (DC Preservation League)", "year": "n.d.",
+      "url": "https://historicsites.dcpreservation.org/items/show/906",
+      "quote_checked": "Houston called expert witnesses to testify that race had no scientific basis | Houston compiled the most thorough brief of any he had ever prepared for the Supreme Court" },
+    { "id": "S6", "type": "article", "title": "Housing Discrimination Under the Fair Housing Act", "by": "U.S. Department of Housing and Urban Development", "venue": "HUD.gov", "year": "n.d.",
+      "url": "https://www.hud.gov/helping-americans/fair-housing-act-overview",
+      "quote_checked": "The Fair Housing Act prohibits discrimination in housing because of: Race Color National Origin Religion Sex Familial Status Disability" },
+    { "id": "S7", "type": "paper", "title": "42 U.S. Code § 3603 - Effective dates of certain prohibitions", "by": "U.S. Congress (Pub. L. 90-284, title VIII)", "venue": "Legal Information Institute, Cornell Law School", "year": 1968,
+      "url": "https://www.law.cornell.edu/uscode/text/42/3603",
+      "quote_checked": "Nothing in section 3604 of this title (other than subsection (c)) shall apply to | occupied or intended to be occupied by no more than four families living independently of each other, if the owner actually maintains and occupies one of such living quarters as his residence" },
+    { "id": "S8", "type": "paper", "title": "42 U.S. Code § 3604 - Discrimination in the sale or rental of housing and other prohibited practices", "by": "U.S. Congress (Pub. L. 90-284, title VIII)", "venue": "Legal Information Institute, Cornell Law School", "year": 1968,
+      "url": "https://www.law.cornell.edu/uscode/text/42/3604",
+      "quote_checked": "indicates any preference, limitation, or discrimination based on race, color, religion, sex, handicap" }
+  ]
+}

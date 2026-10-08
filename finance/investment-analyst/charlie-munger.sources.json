@@ -1,7 +1,7 @@
 {
   "hero": "Charlie Munger",
   "role": "Investment Analyst",
-  "checked": "2026-10-06",
+  "checked": "2026-10-08",
   "sources": [
     {
       "id": "S1",
@@ -52,6 +52,146 @@
       "year": 2023,
       "url": "https://fortune.com/2023/11/28/charlie-munger-warren-buffett-deputy-at-berkshire-hathaway-dies-at-99",
       "quote_checked": "Berkshire Hathaway could not have been built to its present status without Charlie's inspiration, wisdom, and participation."
+    },
+    {
+      "id": "S6",
+      "type": "letter",
+      "title": "Charlie Munger – The Architect of Berkshire Hathaway (2023 shareholder letter)",
+      "by": "Warren E. Buffett",
+      "venue": "Berkshire Hathaway",
+      "year": 2024,
+      "url": "https://www.berkshirehathaway.com/letters/2023ltr.pdf",
+      "quote_checked": "Charlie was the \"architect\" of the present Berkshire, and I acted as the \"general contractor\""
+    },
+    {
+      "id": "S7",
+      "type": "letter",
+      "title": "2014 Letter to Berkshire Hathaway Shareholders",
+      "by": "Warren E. Buffett",
+      "venue": "Berkshire Hathaway",
+      "year": 2015,
+      "url": "https://www.berkshirehathaway.com/letters/2014ltr.pdf",
+      "quote_checked": "It took Charlie Munger to break my cigar-butt habits"
+    },
+    {
+      "id": "S8",
+      "type": "letter",
+      "title": "Vice Chairman's Thoughts – Past and Future",
+      "by": "Charles T. Munger",
+      "venue": "Berkshire Hathaway 2014 Annual Report",
+      "year": 2015,
+      "url": "https://www.berkshirehathaway.com/letters/2014ltr.pdf",
+      "quote_checked": "I closely watched the 50-year history of Berkshire's uncommon success under Warren Buffett."
+    },
+    {
+      "id": "S9",
+      "type": "letter",
+      "title": "1989 Letter to Berkshire Hathaway Shareholders",
+      "by": "Warren E. Buffett",
+      "venue": "Berkshire Hathaway",
+      "year": 1990,
+      "url": "https://www.berkshirehathaway.com/letters/1989.html",
+      "quote_checked": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price. Charlie understood this early"
+    },
+    {
+      "id": "S10",
+      "type": "article",
+      "title": "The Superinvestors of Graham-and-Doddsville",
+      "by": "Warren E. Buffett",
+      "venue": "Hermes (Columbia Business School)",
+      "year": 1984,
+      "url": "https://web.archive.org/web/20180814163147/https://www8.gsb.columbia.edu/articles/columbia-business/superinvestors",
+      "quote_checked": "Incidentally, this record belongs to Charlie Munger (Table 5: Overall Partnership 19.8, Dow 5.0, 1962-75)"
+    },
+    {
+      "id": "S11",
+      "type": "article",
+      "title": "Charlie Munger, investing genius and Warren Buffett's right-hand man, dies at 99",
+      "by": "Marty Steinberg",
+      "venue": "NBC News",
+      "year": 2023,
+      "url": "https://www.nbcnews.com/business/business-news/charlie-munger-investing-genius-warren-buffetts-right-hand-man-dies-99-rcna127076",
+      "quote_checked": "Although he never completed his undergraduate degree, Munger graduated magna cum laude from Harvard Law School in 1948."
+    },
+    {
+      "id": "S12",
+      "type": "article",
+      "title": "In Memoriam: Charlie Munger (1924-2023)",
+      "by": "Munger, Tolles & Olson",
+      "venue": "mto.com",
+      "year": 2023,
+      "url": "https://www.mto.com/news/in-memoriam-charlie-munger-1924-2023/",
+      "quote_checked": "In 1962, Charlie Munger, along with six other attorneys, had a vision of what our law firm could become"
+    },
+    {
+      "id": "S13",
+      "type": "book",
+      "title": "Poor Charlie's Almanack (Stripe Press edition)",
+      "by": "Peter D. Kaufman (ed.)",
+      "venue": "Stripe Press",
+      "year": 2023,
+      "url": "https://press.stripe.com/poor-charlies-almanack",
+      "quote_checked": "He was chairman of Wesco Financial Corporation from 1984 to 2011. He was also chairman of the Daily Journal Corporation and a director of Costco"
+    },
+    {
+      "id": "S14",
+      "type": "article",
+      "title": "Costco Reports November Sales Results and the Passing of Long-Time Board Member, Charles Munger",
+      "by": "Costco Wholesale",
+      "venue": "GlobeNewswire",
+      "year": 2023,
+      "url": "https://s201.q4cdn.com/287523651/files/doc_news/Costco-Wholesale-Corporation-Reports-November-Sales-Results-and-the-Passing-of-Long-Time-Board-Member-Charles-Munger-2023.pdf",
+      "quote_checked": "The Company benefited greatly from his wisdom over the last quarter-century plus."
+    },
+    {
+      "id": "S15",
+      "type": "article",
+      "title": "Munger says he told Buffett of BYD stake, stayed out of Berkshire's talks",
+      "by": "Bloomberg News",
+      "venue": "Gasgoo",
+      "year": 2011,
+      "url": "https://autonews.gasgoo.com/articles/news/munger-says-he-told-buffett-of-byd-stake-stayed-out-of-berkshires-talks-1019076",
+      "quote_checked": "I knew I couldn't talk Warren into buying into the damn thing by myself."
+    },
+    {
+      "id": "S16",
+      "type": "paper",
+      "title": "Building Naming: Munger Graduate Residences",
+      "by": "University of Michigan Regents",
+      "venue": "regents.umich.edu",
+      "year": 2013,
+      "url": "https://regents.umich.edu/files/meetings/04-13/2013-04-IX-22.pdf",
+      "quote_checked": "Charles T. Munger has now made a gift of $110 million, the largest single gift in the university's 196 year history."
+    },
+    {
+      "id": "S17",
+      "type": "article",
+      "title": "Charlie Munger to Donate $200 Million to UCSB for New Dorms",
+      "by": "Kelsey Brugger",
+      "venue": "Santa Barbara Independent",
+      "year": 2016,
+      "url": "https://www.independent.com/2016/03/24/charlie-munger-donate-200-million-ucsb-new-dorms/",
+      "quote_checked": "he is donating $200 million to UCSB for state-of-the-art student housing"
+    },
+    {
+      "id": "S18",
+      "type": "talk",
+      "title": "USC Law School Commencement Address (transcript)",
+      "by": "Charles T. Munger",
+      "venue": "The Singju Post",
+      "year": 2007,
+      "url": "https://singjupost.com/full-transcript-charlie-mungers-speech-at-usc-commencement-2007/",
+      "quote_checked": "Checklist routines avoid a lot of errors."
+    },
+    {
+      "id": "S19",
+      "type": "article",
+      "title": "Charlie Munger: 'The Phone Is Not Ringing Off the Hook'",
+      "by": "Jason Zweig",
+      "venue": "The Wall Street Journal (jasonzweig.com)",
+      "year": 2020,
+      "url": "https://jasonzweig.com/charlie-munger-the-phone-is-not-ringing-off-the-hook/",
+      "quote_checked": "one of the keys to great investing results is \"sitting on your ass.\""
     }
   ]
 }

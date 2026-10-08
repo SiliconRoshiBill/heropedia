@@ -1,0 +1,57 @@
+{
+  "hero": "Vicki Been",
+  "role": "Affordable Housing Policy Advisor",
+  "checked": "2026-10-08",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Vicki Been (faculty biography)",
+      "by": "NYU Furman Center",
+      "venue": "furmancenter.org",
+      "year": 2022,
+      "url": "https://furmancenter.org/about/team/bio/vicki-been",
+      "quote_checked": "Vicki Been is the Judge Edward Weinfeld Professor of Law at NYU School of Law, an Affiliated Professor of Public Policy of the NYU's Robert F. Wagner Graduate School of Public Service, and Faculty Director at NYU Furman Center."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Vicki Been '83 returns to NYU Law after successful stint as New York City's housing commissioner",
+      "by": "NYU School of Law",
+      "venue": "law.nyu.edu",
+      "year": 2017,
+      "url": "https://law.nyu.edu/news/Vicki-Been-commissioner-NYC-Department-of-Housing-Preservation-and-Development",
+      "quote_checked": "working with communities who were afraid of development because they were afraid of displacement and gentrification | Zoning for Quality and Affordability got rid of a lot of inefficient and burdensome regulations"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Vicki Been '83 will serve as New York City's Deputy Mayor for Housing and Economic Development",
+      "by": "NYU School of Law",
+      "venue": "law.nyu.edu",
+      "year": 2019,
+      "url": "https://www.law.nyu.edu/news/vicki-been-new-york-deputy-mayor-housing-economic-development",
+      "quote_checked": "Initiatives included financing the preservation or new construction of 62,500 affordable homes in just three years and securing passage of a rigorous yet flexible mandatory inclusionary housing program."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Vicki Been Appointed Deputy Mayor for Housing and Economic Development",
+      "by": "May Vutrapongvatana",
+      "venue": "CityLand, New York Law School",
+      "year": 2019,
+      "url": "https://www.citylandnyc.org/vicki-been-appointed-deputy-mayor-for-housing-and-economic-development/",
+      "quote_checked": "Been also played a significant role in advancing the Mandatory Inclusionary Housing law."
+    },
+    {
+      "id": "S5",
+      "type": "paper",
+      "title": "Supply Skepticism: Housing Supply and Affordability",
+      "by": "Vicki Been, Ingrid Gould Ellen, Katherine O'Regan",
+      "venue": "NYU Furman Center (draft 10/26/2017, hosted by NYU School of Law)",
+      "year": 2017,
+      "url": "https://law.nyu.edu/sites/default/files/Been%20Ellen%20O%27Regan%20supply_affordability_Oct%2026%20revision.pdf",
+      "quote_checked": "adding new homes moderates price increases and therefore makes housing more affordable to low and moderate income families | Adding new market-rate units will not generally address the housing needs of very low income households. | but they won’t rise as much as they would otherwise"
+    }
+  ]
+}
