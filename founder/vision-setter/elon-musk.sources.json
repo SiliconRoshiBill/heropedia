@@ -1,0 +1,53 @@
+{
+  "hero": "Elon Musk",
+  "role": "Vision Setter",
+  "checked": "2026-10-09",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Elon Musk",
+      "by": "Walter Isaacson",
+      "venue": "Simon & Schuster",
+      "year": 2023,
+      "url": "https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284"
+    },
+    {
+      "id": "S2",
+      "type": "video",
+      "title": "Starbase Tour with Elon Musk, Part 1",
+      "by": "Tim Dodd (Everyday Astronaut)",
+      "venue": "YouTube",
+      "year": 2021,
+      "url": "https://www.youtube.com/watch?v=t705r8ICkRw"
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Elon Musk's Mission to Mars",
+      "by": "Chris Anderson",
+      "venue": "Wired",
+      "year": 2012,
+      "url": "https://www.wired.com/2012/10/ff-elon-musk-qa/",
+      "quote_checked": "It turned out that the materials cost of a rocket was around 2 percent of the typical price"
+    },
+    {
+      "id": "S4",
+      "type": "letter",
+      "title": "The Secret Tesla Motors Master Plan (just between you and me)",
+      "by": "Elon Musk",
+      "venue": "Tesla blog",
+      "year": 2006,
+      "url": "https://www.tesla.com/secret-master-plan"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Tesla reveals all the details of its Autopilot and its software v7.0",
+      "by": "Electrek",
+      "venue": "Electrek",
+      "year": 2015,
+      "url": "https://electrek.co/2015/10/14/tesla-reveals-all-the-details-of-its-autopilot-and-its-software-v7-0-slide-presentation-and-audio-conference/"
+    }
+  ]
+}

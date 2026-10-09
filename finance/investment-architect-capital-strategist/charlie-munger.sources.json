@@ -1,0 +1,46 @@
+{
+  "hero": "Charlie Munger",
+  "role": "Investment Architect Capital Strategist",
+  "checked": "2026-10-09",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "USC Gould School of Law Commencement Address",
+      "by": "Charlie Munger",
+      "venue": "USC Gould School of Law",
+      "year": 2007,
+      "url": "https://singjupost.com/full-transcript-charlie-mungers-speech-at-usc-commencement-2007/",
+      "quote_checked": "Those of you who have mastered algebra know that inversion frequently will solve problems which nothing else will solve."
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "The Psychology of Human Misjudgment",
+      "by": "Charlie Munger",
+      "venue": "Harvard University",
+      "year": 1995,
+      "url": "https://jamesclear.com/great-speeches/psychology-of-human-misjudgment-by-charlie-munger"
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "Chairman's Letter to Shareholders, 1989",
+      "by": "Warren Buffett",
+      "venue": "Berkshire Hathaway",
+      "year": 1990,
+      "url": "https://www.berkshirehathaway.com/letters/1989.html",
+      "quote_checked": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Charlie Munger",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+      "quote_checked": "fold early when the odds are against you"
+    }
+  ]
+}
