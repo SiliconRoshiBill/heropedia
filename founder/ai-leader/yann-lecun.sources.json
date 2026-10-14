@@ -1,0 +1,54 @@
+{
+  "hero": "Yann LeCun",
+  "role": "AI Leader",
+  "checked": "2026-10-14",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Turing Award presented to Yann LeCun, Geoffrey Hinton, and Yoshua Bengio",
+      "by": "Meta AI",
+      "venue": "ai.meta.com",
+      "year": 2019,
+      "url": "https://ai.meta.com/blog/-turing-award-presented-to-yann-lecun-geoffrey-hinton-and-yoshua-bengio/",
+      "quote_checked": "We're looking for underlying principles to intelligence and learning."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Yann LeCun leaves Meta to launch new AI startup",
+      "by": "The Decoder",
+      "venue": "the-decoder.com",
+      "year": 2025,
+      "url": "https://the-decoder.com/yann-lecun-leaves-meta-to-launch-new-ai-startup/"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Godfather of AI Yann LeCun tells tech industry everything it knows about AI is wrong",
+      "by": "Storyboard18 (citing a Financial Times interview)",
+      "venue": "storyboard18.com",
+      "year": 2026,
+      "url": "https://www.storyboard18.com/amp/digital/godfather-of-ai-yann-lecun-tells-tech-industry-everything-it-knows-about-ai-is-wrong-87174.htm",
+      "quote_checked": "effectively a dead end in the pursuit of superintelligence | constrained by language and lack an understanding of the physical world"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Yann LeCun's New AI Startup Raises $1 Billion in Seed Funding",
+      "by": "Bloomberg Law",
+      "venue": "news.bloomberglaw.com",
+      "year": 2026,
+      "url": "https://news.bloomberglaw.com/private-equity/yann-lecuns-new-ai-startup-raises-1-billion-in-seed-funding"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Facebook (META) chief AI scientist Yann LeCun leaves company to open new AMI start-up",
+      "by": "Shacknews",
+      "venue": "shacknews.com",
+      "year": 2025,
+      "url": "https://www.shacknews.com/article/146905/facebook-meta-yann-lecun-ai-start-up"
+    }
+  ]
+}
