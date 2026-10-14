@@ -1,0 +1,55 @@
+{
+  "hero": "Dario Amodei",
+  "role": "CEO Advisor",
+  "checked": "2026-10-14",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Machines of Loving Grace: How AI Could Transform the World for the Better",
+      "by": "Dario Amodei",
+      "venue": "darioamodei.com",
+      "year": 2024,
+      "url": "https://darioamodei.com/machines-of-loving-grace",
+      "quote_checked": "we will in a few years make all the progress in biology and medicine that we would have made in the whole 21st century | Fear is one kind of motivator, but it's not enough: we need hope as well."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful AI",
+      "by": "Dario Amodei",
+      "venue": "darioamodei.com",
+      "year": 2026,
+      "url": "https://darioamodei.com/essay/the-adolescence-of-technology",
+      "quote_checked": "We could summarize this as a \"country of geniuses in a datacenter.\" | I believe we are entering a rite of passage, both turbulent and inevitable, which will test who we are as a species."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Dario Amodei asks UN Security Council to back a ban on AI bioweapons",
+      "by": "The Next Web",
+      "venue": "thenextweb.com",
+      "year": 2026,
+      "url": "https://thenextweb.com/news/dario-amodei-asks-un-security-council-to-back-a-ban-on-ai-bioweapons",
+      "quote_checked": "If managed poorly, I even believe that AI could be a risk to humanity as a whole. | No leader, no company, and no nation can manage this alone."
+    },
+    {
+      "id": "S4",
+      "type": "video",
+      "title": "Anthropic's CEO raises concerns over rapidly developing AI technology",
+      "by": "ABC News (Linsey Davis, interviewer)",
+      "venue": "ABC News",
+      "year": 2026,
+      "url": "https://abcnews.com/video/133764990/"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Dario Amodei",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Dario_Amodei"
+    }
+  ]
+}

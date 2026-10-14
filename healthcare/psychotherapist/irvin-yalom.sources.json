@@ -1,0 +1,54 @@
+{
+  "hero": "Irvin Yalom",
+  "role": "Psychotherapist",
+  "checked": "2026-10-14",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Irvin D. Yalom",
+      "by": "EBSCO Research Starters",
+      "venue": "ebsco.com",
+      "year": 2025,
+      "url": "https://ebsco.com/research-starters/health-and-medicine/irvin-d-yalom"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Perseverance of Love: On Irvin Yalom's \"Becoming Myself\"",
+      "by": "Los Angeles Review of Books",
+      "venue": "lareviewofbooks.org",
+      "year": 2017,
+      "url": "https://lareviewofbooks.org/article/perseverance-of-love-on-irvin-yaloms-becoming-myself",
+      "quote_checked": "he never inquired about my life or my work, and I never told him that I loved him | never once did [my father] speak to me of the Holocaust | my view may have been unbalanced because of my own personal angst about death"
+    },
+    {
+      "id": "S3",
+      "type": "book",
+      "title": "Becoming Myself: A Psychiatrist's Memoir",
+      "by": "Irvin D. Yalom",
+      "venue": "Basic Books (author's site)",
+      "year": 2017,
+      "url": "https://www.yalom.com/becoming-myself"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Irvin Yalom's Most Famous Ideas and Quotes — and the Books They Come From",
+      "by": "Irvin Yalom (official site)",
+      "venue": "yalom.com",
+      "year": 2026,
+      "url": "https://www.yalom.com/?p=808"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Becoming Myself (review)",
+      "by": "Kirkus Reviews",
+      "venue": "kirkusreviews.com",
+      "year": 2017,
+      "url": "https://kirkusreviews.com/book-reviews/irvin-d-yalom/becoming-myself-yalom",
+      "quote_checked": "My clients' memories more often trigger my own | my work on their future calls upon and disturbs my past, and I find myself reconsidering my own story"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "hero": "Bjarke Ingels",
+  "role": "Architect",
+  "checked": "2026-10-14",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Bjarke Ingels: The Alchemist",
+      "by": "Egon Zehnder",
+      "venue": "egonzehnder.com",
+      "year": 2017,
+      "url": "https://www.egonzehnder.com/insight/bjarke-ingels-the-alchemist",
+      "quote_checked": "we are much more interested in evolution than revolution | The architect is more like a midwife for the permanent rebirth of a city and less like her creator | The uniqueness and the performance become one and the same | In our case the buildings are actually creating nature"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Bjarke Ingels: Architect Interview 2024 (King Toronto)",
+      "by": "Sharp Magazine",
+      "venue": "sharpmagazine.com",
+      "year": 2024,
+      "url": "https://sharpmagazine.com/2024/05/31/bjarke-ingels-architect-interview-2024-king-toronto/",
+      "quote_checked": "within the constraints and confines of the canvas you have to play with | you try to make the best possible manifestation of the ideal world | the fundamental agenda is to reconcile what seems at the surface to be polarized opposites"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Bjarke Ingels and Amy Astley in Conversation at the Guggenheim New York",
+      "by": "Bjarke Ingels Group",
+      "venue": "big.dk",
+      "year": 2026,
+      "url": "https://big.dk/news/bjarke-ingels-and-amy-astley-in-conversation-at-the-guggenheim-new-york"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Bjarke Ingels",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Bjarke_Ingels"
+    },
+    {
+      "id": "S5",
+      "type": "talk",
+      "title": "Bjarke Ingels: Hedonistic sustainability",
+      "by": "Bjarke Ingels",
+      "venue": "TED (TEDxEast)",
+      "year": 2011,
+      "url": "https://www.ted.com/talks/bjarke_ingels_hedonistic_sustainability"
+    }
+  ]
+}
