@@ -1,0 +1,55 @@
+{
+  "hero": "Marie Curie",
+  "role": "Physicist",
+  "checked": "2026-10-21",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Pierre Curie, with Autobiographical Notes",
+      "by": "Marie Curie (trans. Charlotte and Vernon Kellogg)",
+      "venue": "Macmillan",
+      "year": 1923,
+      "url": "https://www.gutenberg.org/ebooks/69617",
+      "quote_checked": "There were no patents. We were working in the interests of science. Radium was not to enrich any one. Radium is an element. It belongs to all people. | We took out no patent and we did not reserve any advantage in any industrial exploitation. No detail was kept secret. | It was exhausting work to move the containers about, to transfer the liquids, and to stir for hours at a time, with an iron bar, the boiling material in the cast-iron basin. | It was only after treating one ton of pitchblende residues that I could get definite results. | The feeling of discouragement that sometimes came after some unsuccessful toil did not last long and gave way to renewed activity."
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "Radium and the New Concepts in Chemistry (Nobel Lecture, December 11, 1911)",
+      "by": "Marie Curie",
+      "venue": "Nobel Foundation",
+      "year": 1911,
+      "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture/",
+      "quote_checked": "To obtain a very pure salt I have had to perform several thousands of crystallizations. The progress of the fractionation is monitored by activity measurements. | Each chemical separation is followed by a measurement of the activity of the products obtained"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Marie Curie - Biographical",
+      "by": "Nobel Prize Outreach",
+      "venue": "nobelprize.org (Nobel Prize in Chemistry 1911)",
+      "year": 1966,
+      "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "How Marie Curie Helped Save a Million Soldiers During World War I",
+      "by": "Amanda Davis",
+      "venue": "IEEE Spectrum",
+      "year": 2016,
+      "url": "https://spectrum.ieee.org/how-marie-curie-helped-save-a-million-soldiers-during-world-war-i"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Marie Curie and the Perils in Radium",
+      "by": "Maria Rentetzi",
+      "venue": "Physics Today (American Institute of Physics)",
+      "year": 2017,
+      "url": "https://physicstoday.aip.org/news/marie-curie-and-the-perils-in-radium",
+      "quote_checked": "I particularly would stress the fact that radium is dangerous in untrained hands"
+    }
+  ]
+}

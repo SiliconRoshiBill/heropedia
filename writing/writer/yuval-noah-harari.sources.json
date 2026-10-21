@@ -1,0 +1,57 @@
+{
+  "hero": "Yuval Noah Harari",
+  "role": "Writer",
+  "checked": "2026-10-21",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Sapiens: A Brief History of Humankind",
+      "by": "Yuval Noah Harari",
+      "venue": "Harper/Vintage",
+      "year": 2014,
+      "url": "https://www.penguin.co.uk/books/419795/sapiens-by-yuval-noah-harari/9780099590088",
+      "quote_checked": "Large numbers of strangers can cooperate successfully by believing in common myths. | Peugeot is a figment of our collective imagination. | Without this shared belief, global trading networks would have been virtually impossible."
+    },
+    {
+      "id": "S2",
+      "type": "book",
+      "title": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+      "by": "Yuval Noah Harari",
+      "venue": "Fern Press/Random House",
+      "year": 2024,
+      "url": "https://www.ynharari.com/book/nexus/",
+      "quote_checked": "More information does not lead to more truth. | Information has no essential link to truth. | Its defining feature is connection rather than representation. | AI is the first technology in history that can make decisions and create new ideas by itself."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "When AI Becomes the New Immigrant: Yuval Noah Harari's Wake-Up Call at Davos 2026",
+      "by": "Bernard Marr",
+      "venue": "bernardmarr.com",
+      "year": 2026,
+      "url": "https://bernardmarr.com/when-ai-becomes-the-new-immigrant-yuval-noah-hararis-wake-up-call-at-davos-2026/",
+      "quote_checked": "The most important thing to know about AI is that it is not just another tool. | It is an agent. It can learn and change by itself and make decisions by itself. | AI is a knife that can decide by itself whether to cut salad or to commit murder."
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Yuval Noah Harari on The Story of Sapiens, The Power of Awareness, and More",
+      "by": "Yuval Noah Harari with Tim Ferriss",
+      "venue": "The Tim Ferriss Show",
+      "year": 2020,
+      "url": "https://tim.blog/2020/10/30/yuval-noah-harari-transcript/",
+      "quote_checked": "I began practicing vipassana for two hours every day. | Without the focus and clarity provided by this practice, I could not have written Sapiens and Homo Deus. | the most important button on the keyboard is 'delete'"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Sapiens: A Brief History of Humankind by Yuval Noah Harari – review",
+      "by": "Galen Strawson",
+      "venue": "The Guardian",
+      "year": 2014,
+      "url": "https://www.theguardian.com/books/2014/sep/11/sapiens-brief-history-humankind-yuval-noah-harari-review",
+      "quote_checked": "Much of Sapiens is extremely interesting, and it is often well expressed. | undercut by a carelessness, exaggeration and sensationalism"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "hero": "Brian Chesky",
+  "role": "CEO Advisor",
+  "checked": "2026-10-21",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "letter",
+      "title": "A Message from Co-Founder and CEO Brian Chesky",
+      "by": "Brian Chesky",
+      "venue": "Airbnb Newsroom",
+      "year": 2020,
+      "url": "https://news.airbnb.com/a-message-from-co-founder-and-ceo-brian-chesky/",
+      "quote_checked": "We are collectively living through the most harrowing crisis of our lifetime | nearly 1,900 teammates will have to leave Airbnb | Map all reductions to our future business strategy and the capabilities we will need."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Airbnb CEO eliminated 'fiefdoms' and got more involved to survive the pandemic — 'it worked better anyway'",
+      "by": "Steve Mollman",
+      "venue": "Fortune",
+      "year": 2023,
+      "url": "https://fortune.com/2023/09/15/airbnb-ceo-brian-chesky-leadership-strategy-success/",
+      "quote_checked": "We shuttered most of the divisions. | There's one road map, and no one ships anything unless it's on the roadmap. | We're not gonna do anything we cannot personally focus on. So if I can't personally focus on it, we won't do it. | I'm not there to micromanage as much as I'm there as an orchestra conductor to make sure it plays one cohesive sound"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Inside Brian Chesky's 5-step hiring strategy to cut red tape",
+      "by": "Meredith Ho",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/2025/07/18/airbnb-ceo-apple-steve-jobs-founder-mode-hiring/",
+      "quote_checked": "In the age of AI, my argument is you need to be founder oriented/founder mode | You don't manage people. You manage people through the work. | Hiring is too much like a sales pipeline, and hiring should be more like network building than a sales pipeline | You never want to get the first answer. You always want the third answer"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "How to Scale to 100M Users (Masters of Scale, republished on The Tim Ferriss Show, episode 326)",
+      "by": "Reid Hoffman and Brian Chesky",
+      "venue": "tim.blog",
+      "year": 2018,
+      "url": "https://tim.blog/2018/07/13/the-tim-ferriss-show-transcripts-reid-hoffman-brian-chesky-how-to-scale-to-100m-users/",
+      "quote_checked": "We basically took one part of our product and we extrapolated what would a five star experience be. Then we went crazy. | You have to almost design the extreme to come backwards. | there's some sweet spot between they showed up and they opened the door and I went to space."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Airbnb's IPO: 6 key things to know",
+      "by": "Danielle Abril",
+      "venue": "Fortune",
+      "year": 2020,
+      "url": "https://fortune.com/2020/12/09/airbnb-ipo-share-price-covid-revenue-profit-2020-brian-chesky-abnb-nasdaq/"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Citing revenue declines, Airbnb cuts 1,900 jobs, or around 25% of its global workforce",
+      "by": "TechCrunch",
+      "venue": "TechCrunch",
+      "year": 2020,
+      "url": "https://techcrunch.com/2020/05/05/citing-revenue-declines-airbnb-cuts-1900-jobs-or-around-25-of-its-global-workforce/"
+    }
+  ]
+}
