@@ -1,0 +1,74 @@
+{
+  "hero": "Michael Saylor",
+  "role": "Investor",
+  "checked": "2026-10-21",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Litigation Release No. 16829: Michael Jerry Saylor, Sanjeev Kumar Bansal and Mark Steven Lynch",
+      "by": "U.S. Securities and Exchange Commission",
+      "venue": "sec.gov",
+      "year": 2000,
+      "url": "https://www.sec.gov/litigation/litreleases/lr-16829"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Attorney General Schwalb Secures $40 Million From Billionaire Michael Saylor in Tax Fraud Lawsuit",
+      "by": "District of Columbia Office of the Attorney General",
+      "venue": "oag.dc.gov",
+      "year": 2024,
+      "url": "https://oag.dc.gov/release/attorney-general-schwalb-secures-40-million"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "MicroStrategy Converts $250M Cash Holdings to Bitcoin",
+      "by": "Virginia Business",
+      "venue": "Virginia Business",
+      "year": 2020,
+      "url": "https://virginiabusiness.com/microstrategy-converts-250m-cash-holdings-to-bitcoin/",
+      "quote_checked": "a dependable store of value and an attractive investment asset with more long-term appreciation potential than holding cash | may well have a significant depreciating effect on the long-term real value of fiat currencies"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "MicroStrategy Buys Another 16,800 Bitcoin—Worth $183 Million",
+      "by": "Scott Chipolina",
+      "venue": "Decrypt",
+      "year": 2020,
+      "url": "https://decrypt.co/41848/microstrategy-buys-250-million-worth-of-bitcoin-citing-inflation-fears",
+      "quote_checked": "Bitcoin is digital gold - harder, stronger, faster, and smarter than any money that has preceded it"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Michael Saylor to Step Down as MicroStrategy CEO, Shift to Executive Chairman Role",
+      "by": "The Block",
+      "venue": "The Block",
+      "year": 2022,
+      "url": "https://www.theblock.co/post/161025/michael-saylor-to-step-down-as-microstrategy-ceo-shift-to-executive-chairman-role",
+      "quote_checked": "will be able to focus more on our bitcoin acquisition strategy and related bitcoin advocacy initiatives | while Phong will be empowered as CEO to manage overall corporate operations"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Michael Saylor's MicroStrategy Rebrands as Strategy, Calls Itself 'Bitcoin Treasury Company'",
+      "by": "Fortune",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/crypto/2025/02/05/michael-saylor-microstrategy-rebrands-strategy-bitcoin-treasury-company",
+      "quote_checked": "Strategy is one of the most powerful and positive words in the human language."
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "MicroStrategy Announces Third Quarter 2024 Financial Results, Holds 252,220 BTC with BTC Yield of 17.8% YTD, Announces $42 Billion Capital Plan",
+      "by": "MicroStrategy",
+      "venue": "Silicon UK",
+      "year": 2024,
+      "url": "https://www.silicon.co.uk/press-release/microstrategy-announces-third-quarter-2024-financial-results-holds-252220-btc-with-btc-yield-of-17-8-ytd-announces-42-billion-capital-plan"
+    }
+  ]
+}

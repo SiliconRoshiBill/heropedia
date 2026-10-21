@@ -1,0 +1,91 @@
+{
+  "hero": "Andrew Huberman",
+  "role": "Research Scientist",
+  "checked": "2026-10-21",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Andrew Huberman, PhD",
+      "by": "Stanford University School of Medicine",
+      "venue": "Huberman Lab faculty profile",
+      "year": 2026,
+      "url": "https://hubermanlab.stanford.edu/people/andrew-huberman"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "About",
+      "by": "Andrew Huberman",
+      "venue": "Huberman Lab website",
+      "year": 2026,
+      "url": "https://www.hubermanlab.com/about"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Unblinded",
+      "by": "Stanford Medicine Magazine",
+      "venue": "Stanford Medicine Magazine",
+      "year": 2016,
+      "url": "https://stanmed.stanford.edu/stanford-scientists-achieve-optic-nerve-regeneration-in-mice"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+      "by": "Andrew Huberman",
+      "venue": "Huberman Lab podcast",
+      "year": 2022,
+      "url": "https://www.hubermanlab.com/episode/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing",
+      "quote_checked": "View bright sunlight within the first 30 to 60 minutes after waking."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+      "by": "Andrew Huberman",
+      "venue": "Huberman Lab podcast",
+      "year": 2021,
+      "url": "https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Dr. Andrew Huberman's Guide to NSDR",
+      "by": "Andrew Huberman",
+      "venue": "Huberman Lab website",
+      "year": 2026,
+      "url": "https://hubermanlab.com/nsdr"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "How Podcaster Andrew Huberman Got America to Care About Science",
+      "by": "Jamie Ducharme",
+      "venue": "Time",
+      "year": 2023,
+      "url": "https://time.com/6290594/andrew-hubman-lab-podcast-interview/",
+      "quote_checked": "more than I care about me, I care about the goal"
+    },
+    {
+      "id": "S8",
+      "type": "article",
+      "title": "So, Should You Trust Andrew Huberman?",
+      "by": "Andrea Love",
+      "venue": "Slate",
+      "year": 2024,
+      "url": "https://slate.com/technology/2024/03/andrew-huberman-huberman-lab-health-advice-podcast-debunk.html"
+    },
+    {
+      "id": "S9",
+      "type": "article",
+      "title": "Andrew Huberman's Mechanisms of Control",
+      "by": "Kerry Howley",
+      "venue": "New York Magazine (Intelligencer)",
+      "year": 2024,
+      "url": "https://nymag.com/intelligencer/article/andrew-huberman-podcast-stanford-joe-rogan.html",
+      "quote_checked": "posits certainty where there is ambiguity; verified via en.wikipedia.org/wiki/Andrew_Huberman and insidehook.com coverage of this piece"
+    }
+  ]
+}
