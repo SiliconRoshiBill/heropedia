@@ -1,0 +1,80 @@
+{
+  "hero": "Lei Jun",
+  "role": "CEO of the consumer electronics company Xiaomi",
+  "checked": "2026-10-23",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Xiaomi Mi 1",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2024,
+      "url": "https://en.wikipedia.org/wiki/Xiaomi_Mi_1"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Xiaomi overtakes Samsung in China as largest smartphone vendor",
+      "by": "PCWorld",
+      "venue": "PCWorld",
+      "year": 2014,
+      "url": "https://www.pcworld.com/article/440647/xiaomi-overtakes-samsung-in-china-as-largest-smartphone-vendor.html"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Xiaomi places $10B bet on 'smart' EVs",
+      "by": "Light Reading",
+      "venue": "Light Reading",
+      "year": 2021,
+      "url": "https://www.lightreading.com/business-management/xiaomi-places-10b-bet-on-smart-evs"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Xiaomi's EV SU7 Launch Night Rakes 50,000 Orders in 27 Minutes, Nets $14M",
+      "by": "Karmactive",
+      "venue": "Karmactive",
+      "year": 2024,
+      "url": "https://www.karmactive.com/xiaomis-ev-su7-launch-night-rakes-50000-orders-in-27-minutes-nets-14m/"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Smartphone Rebels",
+      "by": "MIT Technology Review",
+      "venue": "MIT Technology Review",
+      "year": 2014,
+      "url": "https://www.technologyreview.com/2014/02/18/173962/smartphone-rebels/",
+      "quote_checked": "Even a pig can fly if it sits in the right spot during a whirlwind."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Kingsoft Appoints Lei Jun as Chairman",
+      "by": "Kingsoft Corporation Limited",
+      "venue": "ACN Newswire",
+      "year": 2011,
+      "url": "https://www.acnnewswire.com/press-release/english/6996/kingsoft-appoints-leijun-as-chairman"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Lei Jun -- A Dominant Figure in China's Internet Sector",
+      "by": "Yicai Global",
+      "venue": "Yicai Global",
+      "year": 2018,
+      "url": "https://yicaiglobal.com/news/lei-jun----a-dominant-figure-in-china-internet-sector"
+    },
+    {
+      "id": "S8",
+      "type": "article",
+      "title": "Xiaomi Confirms $1.1B Funding At $45B Valuation",
+      "by": "TechCrunch",
+      "venue": "TechCrunch",
+      "year": 2014,
+      "url": "https://techcrunch.com/2014/12/29/xiaomi-45billion"
+    }
+  ]
+}
