@@ -1,0 +1,62 @@
+{
+  "hero": "Lei Jun",
+  "role": "Founder-Operator",
+  "checked": "2026-10-23",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Amazon.com to Acquire Joyo.com Limited",
+      "by": "Amazon.com, Inc.",
+      "venue": "Amazon press release",
+      "year": 2004,
+      "url": "https://press.aboutamazon.com/2004/8/amazon-com-to-acquire-joyo-com-limited"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Kingsoft Appoints Lei Jun as Chairman",
+      "by": "Kingsoft Corporation Limited",
+      "venue": "ACN Newswire",
+      "year": 2011,
+      "url": "https://www.acnnewswire.com/press-release/english/6996/kingsoft-appoints-leijun-as-chairman"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Xiaomi SU7 sold out for 2024 within 24 hours",
+      "by": "CarNewsChina",
+      "venue": "CarNewsChina",
+      "year": 2024,
+      "url": "https://carnewschina.com/2024/03/30/xiaomi-su7-sold-out-for-2024-within-24-hours"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Xiaomi places $10B bet on 'smart' EVs",
+      "by": "Light Reading",
+      "venue": "Light Reading",
+      "year": 2021,
+      "url": "https://www.lightreading.com/business-management/xiaomi-places-10b-bet-on-smart-evs",
+      "quote_checked": "put all my personal reputation on the line"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "China Start-Up Eyeing $100 Billion IPO Vows to Limit Profits",
+      "by": "Bloomberg News",
+      "venue": "Bloomberg",
+      "year": 2018,
+      "url": "https://www.bloomberg.com/news/articles/2018-04-25/xiaomi-s-unusual-prep-for-a-100-billion-ipo-limiting-profits"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Xiaomi's Keys to Success and Its Weaknesses",
+      "by": "CKGSB Knowledge",
+      "venue": "China Europe International Business School (CKGSB)",
+      "year": 2015,
+      "url": "https://english.ckgsb.edu.cn/new/xiaomis-keys-to-success-and-its-weaknesses/"
+    }
+  ]
+}
