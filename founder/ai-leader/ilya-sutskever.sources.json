@@ -1,0 +1,47 @@
+{
+  "hero": "Ilya Sutskever",
+  "role": "AI Leader",
+  "checked": "2026-10-28",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Ilya Sutskever – We're moving from the age of scaling to the age of research",
+      "by": "Dwarkesh Patel",
+      "venue": "Dwarkesh Podcast",
+      "year": 2025,
+      "url": "https://www.dwarkesh.com/p/ilya-sutskever-2",
+      "quote_checked": "These models somehow just generalize dramatically worse than people. | Now, from 2020 to 2025, it was the age of scaling | So it's back to the age of research again, just with big computers. | We got to the point where we are in a world where there are more companies than ideas by quite a bit. | I now place more importance on AI being deployed incrementally and in advance. | I think it would be really materially helpful if the power of the most powerful superintelligence was somehow capped"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "AI with reasoning power will be less predictable, Ilya Sutskever says",
+      "by": "Jeffrey Dastin (Reuters)",
+      "venue": "The Star",
+      "year": 2024,
+      "url": "https://thestar.com.my/tech/tech-news/2024/12/14/ai-with-reasoning-power-will-be-less-predictable-ilya-sutskever-says",
+      "quote_checked": "But pre-training as we know it will unquestionably end | While compute is growing, the data is not growing, because we have but one internet. | The more it reasons, the more unpredictable it becomes"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Safe Superintelligence Inc. Launches With Backing From Ilya Sutskever",
+      "by": "Harry Booth",
+      "venue": "TIME",
+      "year": 2024,
+      "url": "https://time.com/6990076/safe-superintelligence-inc-announced/",
+      "quote_checked": "Our singular focus means no distraction by management overhead or product cycles. | By safe, we mean safe like nuclear safety as opposed to safe as in 'trust and safety'"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "OpenAI co-founder, who helped oust Sam Altman, starts his own company",
+      "by": "Boston Globe staff (Bloomberg)",
+      "venue": "The Boston Globe",
+      "year": 2024,
+      "url": "https://www.bostonglobe.com/2024/06/19/business/openai-cofounder-ilya-sutskever-starts-company",
+      "quote_checked": "responsible for revolutionary breakthroughs"
+    }
+  ]
+}
