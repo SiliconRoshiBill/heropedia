@@ -1,0 +1,46 @@
+{
+  "hero": "Katalin Karikó",
+  "role": "Research Scientist",
+  "checked": "2026-10-28",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Katalin Karikó's Nobel Prize–Winning Work on mRNA Was Long Ignored—And Led to COVID Vaccines",
+      "by": "Katie Hafner, Deborah Unger and Gabriela Saldivia (Lost Women of Science Conversations)",
+      "venue": "Scientific American",
+      "year": 2025,
+      "url": "https://www.scientificamerican.com/article/katalin-karikos-nobel-prize-winning-work-on-mrna-was-long-ignored-and-led-to/"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "The scientist whose research was key to developing the COVID vaccines was demoted, had her salary cut, and threatened with deportation. Today, she won the Nobel Prize",
+      "by": "Irina Ivanova",
+      "venue": "Fortune",
+      "year": 2023,
+      "url": "https://fortune.com/2023/10/02/katalin-kariko-research-developed-covid-vaccines-demoted-nobel-prize/",
+      "quote_checked": "I was kicked out from Penn—I was forced to retire. | I also thought maybe I'm not good enough, not smart enough. | You persevere."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Katalin Karikó",
+      "by": "Carnegie Corporation of New York",
+      "venue": "Great Immigrants profile, carnegie.org",
+      "year": 2021,
+      "url": "https://carnegie.org/great-immigrants/katalin-kariko/",
+      "quote_checked": "When I am knocked down I know how to pick myself up"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "\"You Learn More From Failure—When Things Are Not Working Well.\"",
+      "by": "Sara Frueh (interviewing Katalin Karikó)",
+      "venue": "Issues in Science and Technology",
+      "year": 2024,
+      "url": "https://issues.org/interview-katalin-kariko/",
+      "quote_checked": "It is very well known that you learn more from failure—when things are not working well. | I have no special talent, no special memory, nothing. It is just that I can focus and work hard. | The only benefit you have in the periphery is the freedom that you are doing what you think is important. | for two years at Penn, I wrote at least one grant application a month and not one of them came through. | don't compare yourself to others."
+    }
+  ]
+}
