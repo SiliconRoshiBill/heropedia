@@ -1,0 +1,66 @@
+{
+  "hero": "Howard Marks",
+  "role": "Investor",
+  "checked": "2026-10-28",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "letter",
+      "title": "I Beg to Differ",
+      "by": "Howard Marks",
+      "venue": "Oaktree Capital Management memo",
+      "year": 2022,
+      "url": "https://www.oaktreecapital.com/insights/memo/i-beg-to-differ",
+      "quote_checked": "In order to outperform, your thinking has to be different and better. | First-level thinkers look for simple formulas and easy answers. | Second-level thinkers know that success in investing is the antithesis of simple. | the key to investment success has to lie in doing the opposite: in diverging from the crowd."
+    },
+    {
+      "id": "S2",
+      "type": "letter",
+      "title": "The Indispensability of Risk",
+      "by": "Howard Marks",
+      "venue": "Oaktree Capital Management memo",
+      "year": 2024,
+      "url": "https://www.oaktreecapital.com/insights/memo/the-indispensability-of-risk",
+      "quote_checked": "Not being willing to take risks is an extremely risky strategy. | The risk inherent in not taking enough risk is very real. | The paradox of risk-taking is inescapable."
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "Sea Change",
+      "by": "Howard Marks",
+      "venue": "Oaktree Capital Management memo",
+      "year": 2022,
+      "url": "https://www.oaktreecapital.com/insights/memo/sea-change",
+      "quote_checked": "we never know where we're going, but we ought to know where we are. | We've gone from the low-return world of 2009-21 to a full-return world"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "The Future as a Probability Distribution",
+      "by": "Shane Parrish",
+      "venue": "Farnam Street",
+      "year": 2016,
+      "url": "https://fs.blog/future-probability-distribution/",
+      "quote_checked": "as a range of possibilities | as a probability distribution"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Howard Marks biography",
+      "by": "Oaktree Capital Management",
+      "venue": "oaktreecapital.com",
+      "year": 2026,
+      "url": "https://www.oaktreecapital.com/people/bio/howard-marks"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Howard Marks (investor)",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Howard_Marks_(investor)",
+      "quote_checked": "When I see memos from Howard Marks in my mail, they're the first thing I open and read."
+    }
+  ]
+}

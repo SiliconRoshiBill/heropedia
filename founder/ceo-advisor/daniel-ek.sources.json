@@ -1,0 +1,57 @@
+{
+  "hero": "Daniel Ek",
+  "role": "CEO Advisor",
+  "checked": "2026-10-28",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Spotify Founder Daniel Ek Wanted to Create Something 'Better than Piracy'",
+      "by": "Joanna Stern",
+      "venue": "ABC News",
+      "year": 2012,
+      "url": "https://abcnews.com/blogs/technology/2012/12/spotify-founder-daniel-ek-wanted-to-create-something-better-than-piracy",
+      "quote_checked": "I was born in Sweden, and in Sweden we are known for the piracy services. | I decided I wanted to create a product that was better than piracy."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Spotify CEO lashes back at Taylor Swift, says Spotify has paid music industry over $2B",
+      "by": "Harrison Weber",
+      "venue": "VentureBeat",
+      "year": 2014,
+      "url": "https://venturebeat.com/technology/spotify-ceo-lashes-back-at-taylor-swift-says-spotify-has-paid-music-industry-over-2b",
+      "quote_checked": "paid more than $2 billion to labels, publishers, and collecting societies | Spotify is the single biggest driver of growth in the music industry"
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "CEO Ek's Full Letter to Spotify Staff Announcing Layoffs and Organizational Changes",
+      "by": "Daniel Ek",
+      "venue": "Hypebot",
+      "year": 2023,
+      "url": "https://www.hypebot.com/read-ceo-eks-full-letter-to-spotify-staff-announcing-major-layoffs-organizational-changes/",
+      "quote_checked": "In hindsight, I was too ambitious in investing ahead of our revenue growth. | I take full accountability for the moves that got us here today."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Spotify to lay off 17% of employees — read the full memo CEO Daniel Ek sent to staff members",
+      "by": "Associated Press / NBC News",
+      "venue": "NBC News",
+      "year": 2023,
+      "url": "https://www.nbcnews.com/tech/tech-news/spotify-lay-17-employees-read-full-memo-ceo-daniel-ek-sent-staff-rcna127868",
+      "quote_checked": "Economic growth has slowed dramatically and capital has become more expensive. | Spotify is not an exception to these realities."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Helsing erhält 600 Millionen Euro zur Stärkung europäischer Verteidigungstechnologien",
+      "by": "Startbase",
+      "venue": "Startbase",
+      "year": 2025,
+      "url": "https://www.startbase.com/news/helsing-erhaelt-600-millionen-euro-zur-staerkung-europaeischer-verteidigungstechnologien/",
+      "quote_checked": "This investment underlines our long-term commitment to technological sovereignty in Europe."
+    }
+  ]
+}
