@@ -1,0 +1,54 @@
+{
+  "hero": "David Sinclair",
+  "role": "Research Scientist",
+  "checked": "2026-11-04",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Lifespan: Why We Age—and Why We Don't Have To",
+      "by": "David A. Sinclair with Matthew LaPlante",
+      "venue": "Atria Books",
+      "year": 2019,
+      "url": "https://www.simonandschuster.com/books/Lifespan/David-A-Sinclair/9781501191978"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Fifteen Questions with David Sinclair",
+      "by": "The Harvard Crimson",
+      "venue": "The Harvard Crimson",
+      "year": 2025,
+      "url": "https://www.thecrimson.com/article/2025/2/7/david-sinclair-fifteen-questions/",
+      "quote_checked": "we know aging begins at conception, and that every day matters | we've clearly shown that aging is reversible in many tissues and organs, and even in the whole animal | scientists have a responsibility to talk about the research that the public pays for with their taxes | No! They shouldn't be encouraging them to do anything that isn't part of a medical treatment | I'm using myself as an experiment | Remember that how you live your life now is a record — a permanent record — and your rate of aging matters"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "David Sinclair, Principal Investigator",
+      "by": "Sinclair Lab, Harvard Medical School",
+      "venue": "sinclair.hms.harvard.edu",
+      "year": 2026,
+      "url": "https://sinclair.hms.harvard.edu/people/david-sinclair"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Harvard longevity scientist sparks furor with claim about reversing aging in dogs",
+      "by": "Megan Molteni",
+      "venue": "STAT News",
+      "year": 2024,
+      "url": "https://www.statnews.com/2024/03/05/david-sinclair-harvard-longevity-scientist-reversing-aging-dogs/"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "David A. Sinclair",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/David_A._Sinclair",
+      "quote_checked": "(It's) as close to a miraculous molecule as you can find"
+    }
+  ]
+}

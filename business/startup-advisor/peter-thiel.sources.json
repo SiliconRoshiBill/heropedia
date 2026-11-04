@@ -1,0 +1,44 @@
+{
+  "hero": "Peter Thiel",
+  "role": "Startup Advisor",
+  "checked": "2026-11-04",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "book",
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "by": "Peter Thiel with Blake Masters",
+      "venue": "Crown Business",
+      "year": 2014,
+      "url": "https://www.penguinrandomhouse.com/books/234648/zero-to-one-by-peter-thiel-with-blake-masters/"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Want to Build a One-of-a-Kind Company? Ask Peter Thiel",
+      "by": "Knowledge at Wharton",
+      "venue": "The Wharton School, University of Pennsylvania",
+      "year": 2014,
+      "url": "https://knowledge.wharton.upenn.edu/article/peter-thiels-notes-on-startups/",
+      "quote_checked": "You always think competition is for winners | You often lose sight of building things that are one-of-a-kind, different and truly valuable | If you are copying these people, you are not learning from them | From the inside, I would argue monopoly is always a good thing | The next Bill Gates will not start an operating system | Often when we use the word luck, we should instead just be thinking a little bit harder"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Peter Thiel",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Founders Fund in talks to back defense firm Anduril at $28 billion valuation, sources say",
+      "by": "Reuters",
+      "venue": "Reuters",
+      "year": 2025,
+      "url": "https://finance.yahoo.com/news/anduril-talks-funding-round-possible-225652548.html"
+    }
+  ]
+}

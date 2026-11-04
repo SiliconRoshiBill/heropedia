@@ -1,0 +1,35 @@
+{
+  "hero": "Masayoshi Son",
+  "role": "CEO Advisor",
+  "checked": "2026-11-04",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Masayoshi Son",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Masayoshi_Son"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "SoftBank Vision Fund",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/SoftBank_Vision_Fund"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "SoftBank CEO Masayoshi Son: 'I think I was born to realize' artificial super intelligence",
+      "by": "Will Daniel",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/06/27/softbank-ceo-masayoshi-son-born-to-create-artificial-super-intelligence/",
+      "quote_checked": "I think I was born to realize ASI. I am super serious about it. | Realizing ASI is my only focus. | the fish that got away was big"
+    }
+  ]
+}
