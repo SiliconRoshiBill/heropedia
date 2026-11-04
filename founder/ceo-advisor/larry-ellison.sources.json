@@ -1,0 +1,44 @@
+{
+  "hero": "Larry Ellison",
+  "role": "CEO Advisor",
+  "checked": "2026-11-04",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "The World's Most Competitive Man",
+      "by": "Rebecca Leung",
+      "venue": "CBS News (60 Minutes II)",
+      "year": 2004,
+      "url": "https://www.cbsnews.com/news/the-worlds-most-competitive-man",
+      "quote_checked": "I'm addicted to winning. The more you win, the more you want to win. | We're far behind. They're three times bigger than we are. | I admit to it, mea culpa. An awful lot of it is personal vanity. | We're curious about our own limits and we try to discover our own limits."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Larry Ellison",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Larry_Ellison"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Oracle delivers big AI numbers but with escalating capex and guidance pressure",
+      "by": "Converge Digest",
+      "venue": "Converge Digest",
+      "year": 2025,
+      "url": "https://convergedigest.com/oracle-delivers-big-ai-numbers-but-with-escalating-capex-and-guidance-pressure/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Oracle CEO Larry Ellison Talks a Big Game Against Amazon Web Services",
+      "by": "David Meyer",
+      "venue": "Fortune",
+      "year": 2016,
+      "url": "https://fortune.com/2016/09/18/oracle-ceo-larry-ellison-talks-a-big-game-against-amazon-web-services"
+    }
+  ]
+}
