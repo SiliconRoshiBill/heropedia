@@ -1,0 +1,46 @@
+{
+  "hero": "Alexandr Wang",
+  "role": "CEO Advisor",
+  "checked": "2026-11-11",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Alexandr Wang",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Alexandr_Wang"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Tech Leaders Warn the U.S. Military Is Falling Behind China on AI",
+      "by": "Vera Bergengruen",
+      "venue": "Time",
+      "year": 2023,
+      "url": "https://time.com/6295586/military-ai-warfare-alexandr-wang/",
+      "quote_checked": "The country that is able to most rapidly and effectively integrate new technology into war-fighting wins. | The Chinese Communist Party deeply understands the potential for AI to disrupt warfare. | AI is China's Apollo project."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Meta's 29-Year-Old AI Chief Says Mark Zuckerberg Has an Unexpected But 'Very Impressive' Skill",
+      "by": "Sherin Shibu",
+      "venue": "Entrepreneur",
+      "year": 2026,
+      "url": "https://www.entrepreneur.com/business-news/metas-29-year-old-ai-chief-says-mark-zuckerberg-has-an-unexpected-but-very-impressive-skill",
+      "quote_checked": "He'll write a very rigorous, long response very quickly. | It's a very impressive skill of his. | to just ruthlessly prioritize | I think this is quite an impressive trait. | It takes humility."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Alexandr Wang is now leading Meta's AI dream team. Will Mark Zuckerberg's big bet pay off?",
+      "by": "Sharon Goldman",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://www.fortune.com/article/alexandr-wang-meta-scale-ai-entrepreneur-mark-zuckerberg",
+      "quote_checked": "a great recruiter, a really savvy commercial person | 11/10 smart and ambitious"
+    }
+  ]
+}

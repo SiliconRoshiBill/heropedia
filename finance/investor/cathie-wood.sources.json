@@ -1,0 +1,46 @@
+{
+  "hero": "Cathie Wood",
+  "role": "Investor",
+  "checked": "2026-11-11",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Cathie Wood",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Cathie_Wood"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "ARK Invest CEO Cathie Wood Offers a Master Class in Disruptive Innovation",
+      "by": "Cathie Wood, interviewed by Inside the ICE House",
+      "venue": "NYSE/ICE podcast",
+      "year": 2025,
+      "url": "https://www.ice.com/insights/conversations/inside-the-ice-house/ark-invest-ceo-cathie-wood-offers-a-master-class-in-disruptive-innovation",
+      "quote_checked": "It is not a finger up in the air looking for whichever way the wind is blowing. | the forces in motion before the shock will remain in motion after. | We put our Tesla model on GitHub so that more people would understand how we got to that 4,000. | It is depth of research, the likes of which you're not going to find out there."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "ARK Invest Releases Big Ideas 2026, A Global Signal to Help Investors Own What's Next",
+      "by": "ARK Investment Management LLC",
+      "venue": "PR Newswire",
+      "year": 2026,
+      "url": "https://tools.prnewswire.com/en-us/live/20813/release/20260121EN68159",
+      "quote_checked": "Big Ideas is not a report reacting to markets. | It is about identifying step-function change before it becomes obvious. | Big Ideas 2026 is designed to help investors look through the noise and focus on what truly matters."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Cathie Wood's Ark Invest has destroyed $14 billion in wealth over the past decade, Morningstar says",
+      "by": "Reuters",
+      "venue": "Yahoo Finance",
+      "year": 2024,
+      "url": "https://ca.finance.yahoo.com/news/cathie-woods-ark-invest-destroyed-223315637.html",
+      "quote_checked": "These funds managed to lose value for shareholders even during a generally bullish market."
+    }
+  ]
+}
