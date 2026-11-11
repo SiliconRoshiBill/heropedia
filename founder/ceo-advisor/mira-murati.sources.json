@@ -1,0 +1,46 @@
+{
+  "hero": "Mira Murati",
+  "role": "CEO Advisor",
+  "checked": "2026-11-11",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "OpenAI chief technology officer Mira Murati is stepping down",
+      "by": "Fortune",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/09/25/openai-mira-murati-cto-stepping-down/",
+      "quote_checked": "I'm stepping away because I want to create the time and space to do my own exploration. | the momentum we've built | It's hard to overstate how much Mira has meant to OpenAI, our mission, and to us all personally."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Former OpenAI CTO Mira Murati finally unveils her Thinking Machines Lab startup and a leadership team stacked with former OpenAI colleagues",
+      "by": "Fortune",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/2025/02/18/former-openai-cto-mira-murati-finally-unveils-her-thinking-machines-lab-startup-and-a-leadership-team-stacked-with-former-openai-colleagues/",
+      "quote_checked": "AI systems more widely understood, customizable, and generally capable | Knowledge of how these systems are trained is concentrated within the top research labs"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "by": "Connie Loizos",
+      "venue": "TechCrunch",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "quote_checked": "When I wake up in the morning, I am not thinking about how to kill the competitor."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Mira Murati",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Mira_Murati"
+    }
+  ]
+}

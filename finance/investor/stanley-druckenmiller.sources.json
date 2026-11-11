@@ -1,0 +1,55 @@
+{
+  "hero": "Stanley Druckenmiller",
+  "role": "Investor",
+  "checked": "2026-11-11",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Stanley Druckenmiller",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Stanley_Druckenmiller"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Stanley Druckenmiller: \"The greatest investors make large concentrated bets where they have a lot of conviction\"",
+      "by": "Trung Phan",
+      "venue": "The Hustle",
+      "year": 2021,
+      "url": "https://thehustle.co/stanley-druckenmiller-q-and-a-trung-phan",
+      "quote_checked": "The greatest investors make large concentrated bets where they have a lot of conviction | I've never used the stop loss. Not once. It's the dumbest concept I've ever heard. | Your ego is not what this is about."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Stanley Druckenmiller says he couldn't have been more wrong this year",
+      "by": "CNBC",
+      "venue": "CNBC",
+      "year": 2019,
+      "url": "https://www.cnbc.com/2019/12/18/stanley-druckenmiller-says-he-couldnt-have-been-more-wrong-this-year.html",
+      "quote_checked": "I couldn't have been more wrong | pivoted before it mattered"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Stanley Druckenmiller: How To Avoid Down Years",
+      "by": "The Acquirer's Multiple",
+      "venue": "acquirersmultiple.com, quoting Druckenmiller's Talks at GS interview",
+      "year": 2021,
+      "url": "https://acquirersmultiple.com/2021/02/stanley-druckenmiller-how-to-avoid-down-years",
+      "quote_checked": "First of all, the no down years is true, but a lot of it is luck. I've been deep in the hole three or four years."
+    },
+    {
+      "id": "S5",
+      "type": "video",
+      "title": "Stan Druckenmiller: Inside the mind of a legendary investor",
+      "by": "Nicolai Tangen",
+      "venue": "In Good Company (Norges Bank Investment Management podcast)",
+      "year": 2024,
+      "url": "https://www.nbim.no/en/publications/podcast/stan-druckenmiller-inside-the-mind-of-a-legendary-investor/"
+    }
+  ]
+}
