@@ -1,0 +1,63 @@
+{
+  "hero": "Zhang Peng",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "China's Zhipu AI says full artificial superintelligence unlikely by 2030",
+      "by": "Reuters",
+      "venue": "The Standard (Hong Kong)",
+      "year": 2025,
+      "url": "https://www.thestandard.com.hk/innovation/article/312951/Chinas-Zhipu-AI-says-full-artificial-superintelligence-unlikely-by-2030",
+      "quote_checked": "I think achieving or exceeding human intelligence levels by 2030 might mean surpassing humans in one or several aspects"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "China's Zhipu AI Jumps in Hong Kong Debut",
+      "by": "Caixin Global staff",
+      "venue": "Caixin Global",
+      "year": 2026,
+      "url": "https://www.caixinglobal.com/2026-01-08/chinas-zhipu-ai-jumps-in-hong-kong-debut-102401610.html"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Alibaba, Tencent Join $340 Million Funding for AI Startup Zhipu",
+      "by": "Bloomberg News",
+      "venue": "Data Center Knowledge",
+      "year": 2023,
+      "url": "https://www.datacenterknowledge.com/artificial-intelligence/alibaba-tencent-join-340-million-funding-ai-startup-zhipu"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "In Profile: This Trio Is Charting the Course for China's Leading AI Developer",
+      "by": "Caixin Global staff",
+      "venue": "Caixin Global",
+      "year": 2026,
+      "url": "https://www.caixinglobal.com/2026-07-02/in-profile-this-trio-is-charting-the-course-for-chinas-leading-ai-developer-102460058.html"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Zhipu AI's Open-Source Power Play: Blazing-Fast GLM Models, Global Expansion Ahead of Potential IPO",
+      "by": "Synced",
+      "venue": "Synced Review",
+      "year": 2025,
+      "url": "https://syncedreview.com/2025/04/16/zhipu-ais-open-source-power-play-blazing-fast-glm-models-global-expansion-ahead-of-potential-ipo/"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Zhipu AI CEO Zhang Peng: DeepSeek Has Significant Impact on Us",
+      "by": "Deep News (republished by Tiger Brokers)",
+      "venue": "Tiger Brokers",
+      "year": 2026,
+      "url": "https://www.itiger.com/news/1148960397",
+      "quote_checked": "paraphrase of Chinese-language remarks; no verbatim English quote available"
+    }
+  ]
+}

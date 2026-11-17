@@ -1,0 +1,55 @@
+{
+  "hero": "Yang Zhilin",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Moonshot AI's AGI Vision",
+      "by": "Yang Zhilin (interviewed by Overseas Unicorn; trans. ChinaTalk)",
+      "venue": "ChinaTalk",
+      "year": 2025,
+      "url": "https://www.chinatalk.media/p/moonshot-ais-agi-vision",
+      "quote_checked": "AI, at its core, is just a set of scaling laws. | To achieve AGI, long-context will be a crucial factor. | The lossless long-context technology we recently developed performs better than OpenAI in many specific scenarios. | If you have a billion-token context length, then the problems we face today would no longer be problems. | I personally feel that there is a Moore's Law for context length. | architectures worth scaling need to have both scalability and generality. | lossless compression is essentially the process of learning determinism from chaos. | Probability is really a method of general-purpose representation. | we can become a company that combines OpenAI's technology idealism with the business philosophy of ByteDance. | I firmly believe AGI will be inherently global. | AGI does not require that many people."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Who Is Moonshot AI?",
+      "by": "Noah Berman",
+      "venue": "The Wire China",
+      "year": 2025,
+      "url": "https://www.thewirechina.com/2025/09/28/who-is-moonshot-ai/",
+      "quote_checked": "absolutely brilliant student"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "In Profile: The Rock-Music Aficionado Behind China's Moonshot AI",
+      "by": "Caixin Global",
+      "venue": "Caixin Global",
+      "year": 2026,
+      "url": "https://www.caixinglobal.com/2026-09-09/in-profile-the-rock-music-aficionado-behind-chinas-moonshot-ai-102483285.html",
+      "quote_checked": "the best and most talented student"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Yang Zhilin: China's AI genius shooting for the moon",
+      "by": "MoneyWeek",
+      "venue": "MoneyWeek",
+      "year": 2026,
+      "url": "https://moneyweek.com/people/yang-zhilin-profile-chinas-ai-genius-shoots-for-the-moon"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Yang Zhilin, 34, founder of Chinese AI startup Moonshot AI",
+      "by": "Kim Young-chul",
+      "venue": "The Korea Herald",
+      "year": 2026,
+      "url": "https://biz.heraldcorp.com/article/10820153"
+    }
+  ]
+}

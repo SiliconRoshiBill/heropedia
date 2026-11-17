@@ -1,0 +1,56 @@
+{
+  "hero": "Winston Weinberg",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Inside Harvey: How a first-year legal associate built one of Silicon Valley's hottest startups",
+      "by": "Connie Loizos",
+      "venue": "TechCrunch",
+      "year": 2025,
+      "url": "https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Harvey CEO Winston Weinberg on re-earning roles, career advice and building an $11 billion AI startup",
+      "by": "Fortune Term Sheet staff",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/03/26/harvey-ceo-winston-weinberg-reearn-roles-career-advice-ai-tech-innovation-eleven-billion-dollar-startup-sam-altman-openai-backed/",
+      "quote_checked": "You have to re-earn your position every six months; you need to re-earn your role at Harvey every six months. | It includes me, 100%."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "How Harvey AI is Changing the Legal Industry with Winston Weinberg",
+      "by": "Sarah Guo",
+      "venue": "No Priors podcast (transcript via podscripts.co)",
+      "year": 2025,
+      "url": "https://podscripts.co/podcasts/no-priors-artificial-intelligence-technology-startups/how-harvey-ai-is-changing-the-legal-industry-with-winston-weinberg",
+      "quote_checked": "trust is the most important thing in professional services | if you earn the trust of a few of those firms, the rest of them will trust you | One of the hardest things about being an application layer company is you have to bet on model providers | you want to build systems that the next generation of model cannot do | these models weren't going to just automate entire industries away | accuracy is more important than creativity, to be clear here"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Harvey's CEO tells BI: Don't sleep on junior lawyers in the age of AI",
+      "by": "Business Insider",
+      "venue": "Yahoo Finance (republished from Business Insider)",
+      "year": 2025,
+      "url": "https://finance.yahoo.com/news/harveys-ceo-tells-bi-dont-003208479.html",
+      "quote_checked": "AI systems can do the work, but there's no reason you can't turn those into education platforms. | In 10 years, they're going to be a way better partner."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Harvey CEO shares his advice to young lawyers — and those considering pivoting into legal tech",
+      "by": "Brent D. Griffiths (Business Insider)",
+      "venue": "AOL (republished from Business Insider)",
+      "year": 2025,
+      "url": "https://www.aol.com/articles/harvey-ceo-shares-advice-young-113301939.html",
+      "quote_checked": "the biggest thing a lawyer who wants to work in the tech space should do is build up tolerance for failure | are often practiced perfectionists, and startups are all about risk, reward, and resilience"
+    }
+  ]
+}
