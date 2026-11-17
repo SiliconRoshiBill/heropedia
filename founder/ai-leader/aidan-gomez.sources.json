@@ -1,0 +1,57 @@
+{
+  "hero": "Aidan Gomez",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Renting AI from foreign providers is a national security risk, warns Cohere CEO",
+      "by": "Beatrice Nolan",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/06/23/cohere-ceo-sovereign-ai-anthropic-mythos-national-security-risk/",
+      "quote_checked": "centralized dependence on a single entity is a structural risk | This sentiment of renting AI from someone rather than owning it is a national security risk | You need to fully control it. | Don't build a system with a single point of failure."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "The Canadian founder telling CEOs to rethink AI resilience",
+      "by": "Andrew Edgecliffe-Johnson",
+      "venue": "Semafor",
+      "year": 2026,
+      "url": "https://www.semafor.com/article/08/28/2026/the-canadian-founder-telling-ceos-to-rethink-ai-resilience",
+      "quote_checked": "We can't see in. We can't switch it off. We can't intervene in any way. | We believe you can't rent your sovereignty from someone. You need to own it."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Resilience",
+      "by": "Aidan Gomez",
+      "venue": "aidangomez.ca",
+      "year": 2026,
+      "url": "https://aidangomez.ca/resilience.html",
+      "quote_checked": "Strategic resilience is not free, but the cost of fragility is immense. | In pursuit of maximal efficiency, we have been left with fragility. | Sovereignty should not mean isolationism or decoupling."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Meet Cohere, Canada's AI 'underdog' that could soon be worth $5 billion by doing the opposite of OpenAI's every move",
+      "by": "Sharon Goldman",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/04/25/cohere-ceo-openai-rival-aidan-gomez-enterprise-ai-revenues-set-to-soar",
+      "quote_checked": "We're still sort of the underdog"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Aidan Gomez says Cohere won't get into the business of making chips",
+      "by": "Alex Riehl",
+      "venue": "BetaKit",
+      "year": 2026,
+      "url": "https://betakit.com/aidan-gomez-says-cohere-wont-get-into-the-business-of-making-chips/",
+      "quote_checked": "We don't want to get into the space of building chips because there's so much more we could do"
+    }
+  ]
+}
