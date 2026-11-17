@@ -1,0 +1,65 @@
+{
+  "hero": "Daniel Gross",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Apple acquires Cue, personal assistant app for the iPhone and iPad",
+      "by": "Engadget staff",
+      "venue": "Engadget",
+      "year": 2013,
+      "url": "https://www.engadget.com/2013-10-03-apple-acquires-cue-personal-assistant-app-for-the-iphone-and.html"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "AI Grant Aims To Fund The Unfundable To Advance AI And Solve Hard Problems",
+      "by": "Kyle Russell",
+      "venue": "TechCrunch",
+      "year": 2017,
+      "url": "https://techcrunch.com/2017/07/25/ai-grant-aims-to-fund-the-unfundable-to-advance-ai-and-solve-hard-problems/"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Daniel Gross Investments: The Israeli-American Who Built a Supercomputer for AI Startups Before Anyone Else Thought To",
+      "by": "Hustle Fund",
+      "venue": "Hustle Fund",
+      "year": 2026,
+      "url": "https://www.hustlefund.vc/post/angel-squad-daniel-gross-investments-the-israeli-american-who-built-a-supercomputer-for-ai-startups-before-anyone-else-thought-to",
+      "quote_checked": "Funding wasn't the bottleneck for AI startups. Compute was."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Safe Superintelligence CEO Daniel Gross joins Meta's new AI lab",
+      "by": "SiliconANGLE staff",
+      "venue": "SiliconANGLE",
+      "year": 2025,
+      "url": "https://siliconangle.com/2025/07/03/safe-superintelligence-ceo-daniel-gross-joins-metas-new-ai-lab/",
+      "quote_checked": "You might have heard rumors of companies looking to acquire us"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+      "by": "TechCrunch staff",
+      "venue": "TechCrunch",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative",
+      "quote_checked": "responsible for long-term capacity strategy, supplier partnerships, industry analysis, planning, and business modeling"
+    },
+    {
+      "id": "S6",
+      "type": "interview",
+      "title": "Shruti Rajagopalan Talks Talent with Daniel Gross and Tyler (Ep. 158 — Bonus)",
+      "by": "Shruti Rajagopalan with Tyler Cowen and Daniel Gross",
+      "venue": "Conversations with Tyler",
+      "year": 2022,
+      "url": "https://conversationswithtyler.com/?p=4463",
+      "quote_checked": "I think a great emotion to be on the lookout for in an interview, in particular when assessing founders, is fear. | you want to switch to caring about just how vigorous and how energetic that person is | We're certainly not saying that horsepower and IQ don't matter."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "hero": "Chris Olah",
+  "role": "Interpretability Research Lead",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Chris Olah on what the hell is going on inside neural networks",
+      "by": "Rob Wiblin",
+      "venue": "80,000 Hours Podcast",
+      "year": 2021,
+      "url": "https://80000hours.org/podcast/episodes/chris-olah-interpretability-research/",
+      "quote_checked": "We're dissecting these neural networks and looking at what's going on inside them. | it separates correlation from causation | trying to theorize about it a priori can really easily lead you astray | is a microscope AI that just allows us to understand the world better"
+    },
+    {
+      "id": "S2",
+      "type": "paper",
+      "title": "Zoom In: An Introduction to Circuits",
+      "by": "Chris Olah, Nick Cammarata, Ludwig Schubert, Gabriel Goh, Michael Petrov and Shan Carter",
+      "venue": "Distill",
+      "year": 2020,
+      "url": "https://distill.pub/2020/circuits/zoom-in/"
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "Toy Models of Superposition",
+      "by": "Nelson Elhage, Tristan Hume, Catherine Olsson, Nicholas Schiefer, Tom Henighan, Shauna Kravec, Zac Hatfield-Dodds, Robert Lasenby, Dawn Drain, Carol Chen, Roger Grosse, Sam McCandlish, Jared Kaplan, Dario Amodei, Martin Wattenberg and Christopher Olah",
+      "venue": "Anthropic / Transformer Circuits Thread",
+      "year": 2022,
+      "url": "https://www.anthropic.com/research/toy-models-of-superposition"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Who is Chris Olah? The Anthropic cofounder who went from atheist to appearing with the Pope to talk AI",
+      "by": "Beatrice Nolan",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/06/03/who-chris-olah-anthropic-cofounder-atheist-pope-leo-vatican-ai/",
+      "quote_checked": "I want to begin with something that may sound strange coming from the co-founder of an AI company. | Some might believe that matters of AI are best handled by computer scientists like myself. | They are mistaken. | Or whether they just appear safe."
+    }
+  ]
+}
