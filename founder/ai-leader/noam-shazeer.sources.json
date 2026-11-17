@@ -1,0 +1,57 @@
+{
+  "hero": "Noam Shazeer",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Character.AI's Noam Shazeer on what we know about AI—and what we don't",
+      "by": "Allie Garfinkle",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/08/02/character-ais-noam-shazeer-what-we-know-about-ai/",
+      "quote_checked": "It's more like alchemy or whatever chemistry was in the Middle Ages. | You experiment, and you have intuitions about why you know how something works. | My best guess is divine benevolence. | It's hard. Nobody really understands what's going on. | This is a very experimental science, which nobody's really used to in the world of computing. | You come up with some formulas about what seemed to work well, and try to scale it up."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Universally Accessible Intelligence",
+      "by": "Sarah Wang with Noam Shazeer",
+      "venue": "a16z (AI Revolution series)",
+      "year": 2023,
+      "url": "https://a16z.com/universally-accessible-intelligence",
+      "quote_checked": "I don't know that I particularly care about AGI in the sense of wanting something that can do absolutely everything a person can do. | Our goal is to be an AGI company and a product-first company. | It's a cool first use case for AGI."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Character.AI CEO Noam Shazeer returns to Google",
+      "by": "Maxwell Zeff",
+      "venue": "TechCrunch",
+      "year": 2024,
+      "url": "https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/",
+      "quote_checked": "I am super excited to return to Google and work as part of the Google DeepMind team. | I am so proud of everything we built at Character.AI over the last 3 years."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Gemini's co-lead is leaving Google to join OpenAI",
+      "by": "9to5Google staff",
+      "venue": "9to5Google",
+      "year": 2026,
+      "url": "https://9to5google.com/2026/06/17/geminis-co-lead-is-leaving-google-to-join-openai/",
+      "quote_checked": "excited to share that I'll be joining OpenAI"
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI",
+      "by": "Dwarkesh Patel with Jeff Dean and Noam Shazeer",
+      "venue": "Dwarkesh Podcast",
+      "year": 2025,
+      "url": "https://www.dwarkesh.com/p/jeff-dean-and-noam-shazeer",
+      "quote_checked": "My dream is I wake up in the morning, come up with an idea, hack it up in a day. | Mostly these things fail, but if you try 100 things or 1,000 things or a million things. | Everyone seems to want to run their experiment at maximum scale, but I think that's a human problem. | The beautiful thing about model parameters is they are quite memory-efficient at memorizing facts."
+    }
+  ]
+}

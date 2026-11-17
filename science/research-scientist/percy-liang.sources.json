@@ -1,0 +1,57 @@
+{
+  "hero": "Percy Liang",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Percy Liang — faculty page",
+      "by": "Percy Liang",
+      "venue": "Stanford University Computer Science Department",
+      "year": 2026,
+      "url": "https://cs.stanford.edu/~pliang",
+      "quote_checked": "I am drawn to simple things, want to understand things deeply, and like to build useful systems."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Percy Liang on the Center for Research on Foundation Models' First (and Next) 30 Years",
+      "by": "Stanford HAI staff",
+      "venue": "Stanford HAI",
+      "year": 2022,
+      "url": "https://hai.stanford.edu/news/percy-liang-center-research-foundation-models-first-and-next-30-years",
+      "quote_checked": "The center was formed around this idea that we had a lot to offer | evaluate and benchmark and document what's happening | We need a nutrition label or a spec sheet for these objects that we're selling or people are buying and using. | It should be something that's really decentralized and governed in a much more decentralized way. | I hope that CRFM will be a respectable player in terms of shaping the norms around how these technologies are built."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Stanford Professor Discusses Exciting Advances in Foundation Model Evaluation",
+      "by": "Alex Ratner with Percy Liang",
+      "venue": "Snorkel AI",
+      "year": 2024,
+      "url": "https://snorkel.ai/blog/stanford-professor-discusses-exciting-advances-in-foundation-model-evaluation/",
+      "quote_checked": "We released HELM about a year ago. It stands for holistic evaluation of language models. | You should think about HELM as a framework for evaluation, where you can come with a particular evaluation dataset | It's holistic because we try to look at all of these different dimensions, scenarios, and about 30 separate models and evaluate systematically. | We started with language models, but now we're moving to multimodal models as well. | We hope to populate HELM with a wide variety of benchmarks that enterprises would care about."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Together, a startup helping businesses build open-source generative AI models, raises $20M",
+      "by": "Kyle Wiggers",
+      "venue": "TechCrunch",
+      "year": 2023,
+      "url": "https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/",
+      "quote_checked": "help organizations incorporate AI into their production applications"
+    },
+    {
+      "id": "S5",
+      "type": "paper",
+      "title": "Holistic Evaluation of Language Models",
+      "by": "Percy Liang et al.",
+      "venue": "Transactions on Machine Learning Research (arXiv:2211.09110)",
+      "year": 2023,
+      "url": "https://arxiv.org/abs/2211.09110",
+      "quote_checked": "capabilities, limitations, and risks are not well understood | all raw model prompts and completions publicly for further analysis | a living benchmark for the community, continuously updated with new scenarios, metrics, and models"
+    }
+  ]
+}

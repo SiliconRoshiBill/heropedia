@@ -1,0 +1,52 @@
+{
+  "hero": "Ray Kurzweil",
+  "role": "Writer",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "'The Singularity is Nearer,' Says Futurist Ray Kurzweil",
+      "by": "Ira Flatow",
+      "venue": "Science Friday",
+      "year": 2024,
+      "url": "https://www.sciencefriday.com/segments/ray-kurzweil-the-singularity-is-nearer-book/"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "The Law of Accelerating Returns",
+      "by": "Ray Kurzweil",
+      "venue": "KurzweilAI.net",
+      "year": 2001,
+      "url": "https://www.writingsbyraykurzweil.com/the-law-of-accelerating-returns"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Ray Kurzweil's Slippery Futurism",
+      "by": "John Rennie",
+      "venue": "IEEE Spectrum",
+      "year": 2010,
+      "url": "https://spectrum.ieee.org/computing/software/ray-kurzweils-slippery-futurism"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "AI visionary Ray Kurzweil is joining a Silicon Valley startup developing a brain computer system that involves snorting nanoparticles",
+      "by": "Alexei Oreskovic",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://www.fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/"
+    },
+    {
+      "id": "S5",
+      "type": "book",
+      "title": "The Singularity Is Nearer: When We Merge with AI",
+      "by": "Ray Kurzweil",
+      "venue": "Viking",
+      "year": 2024,
+      "url": "https://www.penguinrandomhouse.com/books/535433/the-singularity-is-nearer-by-ray-kurzweil/"
+    }
+  ]
+}

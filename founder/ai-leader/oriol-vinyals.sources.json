@@ -1,0 +1,55 @@
+{
+  "hero": "Oriol Vinyals",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Google named the new boss of Gemini 4. Both of Gemini's co-leads quit the same day",
+      "by": "Ana Maria Constantin",
+      "venue": "The Next Web",
+      "year": 2026,
+      "url": "https://thenextweb.com/news/google-deepmind-shakeup-hassabis-jeff-dean-vinyals-discovery-loop",
+      "quote_checked": "The best part? The same person who brought me in is challenging me to take the next leap."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Jeff Dean Leaves Google to Automate the Scientific Method With Discovery Loop",
+      "by": "Jonas Reeve",
+      "venue": "Unite.AI",
+      "year": 2026,
+      "url": "https://unite.ai/jeff-dean-leaves-google-to-automate-the-scientific-method-with-discovery-loop/",
+      "quote_checked": "One of the things that we'll be obviously very focused on is how these models come up with new ideas to try. | That's not something that currently they're super strong at."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "AlphaStar: Grandmaster level in StarCraft II using multi-agent reinforcement learning",
+      "by": "DeepMind",
+      "venue": "DeepMind Blog",
+      "year": 2019,
+      "url": "https://deepmind.google/discover/blog/alphastar-grandmaster-level-in-starcraft-ii-using-multi-agent-reinforcement-learning/"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Gemini co-leads on project origins and what's next (Edited Transcript)",
+      "by": "The Transcript Desk",
+      "venue": "The Transcript Desk (Substack)",
+      "year": 2026,
+      "url": "https://thetranscriptdesk.substack.com/p/gemini-co-leads-on-project-origins",
+      "quote_checked": "I really didn't expect that we could keep doing what we've been doing generation after generation | it's like squeezing a lemon. | I wouldn't bet on a single, unified product at this time—at least not for my own use."
+    },
+    {
+      "id": "S5",
+      "type": "paper",
+      "title": "Sequence to Sequence Learning with Neural Networks",
+      "by": "Ilya Sutskever, Oriol Vinyals, Quoc V. Le",
+      "venue": "NeurIPS (NIPS)",
+      "year": 2014,
+      "url": "https://nips.cc/virtual/2014/poster/4348"
+    }
+  ]
+}

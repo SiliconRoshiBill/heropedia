@@ -1,0 +1,57 @@
+{
+  "hero": "Richard Sutton",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "The Bitter Lesson of Machine Learning",
+      "by": "Richard Sutton",
+      "venue": "KDnuggets (republished from incompleteideas.net)",
+      "year": 2020,
+      "url": "https://www.kdnuggets.com/2020/07/bitter-lesson-machine-learning.html",
+      "quote_checked": "We have to learn the bitter lesson that building in how we think we think does not work in the long run. | We want AI agents that can discover like we can, not which contain what we have discovered. | The two methods that seem to scale arbitrarily in this way are search and learning."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Richard Sutton – Father of RL thinks LLMs are a dead end",
+      "by": "Dwarkesh Patel",
+      "venue": "Dwarkesh Podcast",
+      "year": 2025,
+      "url": "https://www.dwarkesh.com/p/richard-sutton",
+      "quote_checked": "Large language models are trying to get by without having a goal or a sense of better or worse. | You have to have goals or you're just a behaving system. | If you need to learn continually, continually means learning during the normal interaction with the world. | Learning then is from the stream, and learning is about the stream."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own",
+      "by": "The Decoder staff",
+      "venue": "The Decoder",
+      "year": 2026,
+      "url": "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/",
+      "quote_checked": "weak and inefficient | need not more tweaks, but fundamentally new ideas and a thorough reworking | a trillion parameters that learns and plans in real time with 20 watts of energy"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Reinforcement Learning Pioneers Barto and Sutton to Receive the 2024 ACM A.M. Turing Award",
+      "by": "EurekAlert / Association for Computing Machinery",
+      "venue": "EurekAlert",
+      "year": 2025,
+      "url": "https://www.eurekalert.org/news-releases/1075873",
+      "quote_checked": "Barto and Sutton's work is not a steppingstone that we have now moved on from."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Rich Sutton receives the 2024 ACM A.M. Turing Award",
+      "by": "University of Alberta, Department of Computing Science",
+      "venue": "University of Alberta",
+      "year": 2025,
+      "url": "https://ualberta.ca/en/computing-science/news-and-events/news/2025/march/rich-sutton-receives-the-2024-acm-am-turing-award.html",
+      "quote_checked": "The 2024 Turing award is being awarded for laying the foundations to Reinforcement Learning."
+    }
+  ]
+}
