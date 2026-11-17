@@ -1,0 +1,87 @@
+{
+  "hero": "Bret Taylor",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Introducing Sierra",
+      "by": "Bret Taylor and Clay Bavor",
+      "venue": "Sierra (company blog)",
+      "year": 2024,
+      "url": "https://sierra.ai/blog/introducing-sierra",
+      "quote_checked": "the best customer experience is not installing an app or clicking a link, but simply having a conversation. | Agents are autonomous, AI-powered software systems that can interact directly with consumers | When a Sierra agent accesses any system of record, those interactions are deterministic | can hallucinate, misrepresent your brand, and misguide your customers"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Sierra, Bret Taylor's enterprise AI agent startup, talks conversational AI",
+      "by": "Ron Miller",
+      "venue": "TechCrunch",
+      "year": 2024,
+      "url": "https://techcrunch.com/2024/02/19/sierra-ai-agents-customer-service/",
+      "quote_checked": "We think that conversational AI will become the dominant form factor that people use to interact with brands | When you put an AI in front of customers, the value is a lot higher obviously, but the risks are a lot higher, too | teaching our customers about how this new type of software works"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "The company using AI to change customer service",
+      "by": "Reed Albergotti",
+      "venue": "Semafor",
+      "year": 2024,
+      "url": "https://www.semafor.com/article/02/21/2024/bret-taylor-and-clay-bavor-talk-ai-startups-agi-and-job-disruptions",
+      "quote_checked": "In the future, every company will need an agent. | We converged on a technical approach that we should not be pre-training models. | The foundation models are sort of a commodity now. | AI has moved to the domain of engineering. | It will be disruptive, though. | the transition could be awkward, and that's something we need to be sensitive to"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Bret Taylor and Clay Bavor's AI startup Sierra raises $110 million from Sequoia, Benchmark",
+      "by": "Kylie Robison",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/",
+      "quote_checked": "enable every company, no matter how sophisticated or technical, to deploy"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "OpenAI chair Bret Taylor says he'll recuse himself whenever there's potential overlap with his AI startup Sierra",
+      "by": "Kylie Robison",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/02/13/openai-chair-bret-taylor-interview-promises-recuse-whenever-potential-overlap-ai-startup-sierra/",
+      "quote_checked": "My job at OpenAI is really not around day-to-day operations but governance. | I took on the role because I care so much about the OpenAI mission. | I consider it one of the privileges of my career to be able to participate in that mission. | whenever there is a potential for overlap | one of the most important missions of our time"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Bret Taylor steps down as co-CEO of Salesforce, Marc Benioff stays on as CEO",
+      "by": "Jordan Novet and Ari Levy",
+      "venue": "CNBC",
+      "year": 2022,
+      "url": "https://www.cnbc.com/2022/11/30/bret-taylor-steps-down-as-co-ceo-of-salesforce-marc-benioff-stays-on-as-ceo.html",
+      "quote_checked": "I am grateful for six fantastic years at Salesforce | return to my entrepreneurial roots"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Bret Taylor (author bio)",
+      "by": "Sierra",
+      "venue": "Sierra (company site)",
+      "year": 2026,
+      "url": "https://sierra.ai/author/bret-taylor",
+      "quote_checked": ""
+    },
+    {
+      "id": "S8",
+      "type": "article",
+      "title": "New OpenAI Board Confirmed by Sam Altman with One Big Surprise",
+      "by": "James Laird",
+      "venue": "Tech.co",
+      "year": 2023,
+      "url": "https://tech.co/news/openai-board-member-changes",
+      "quote_checked": ""
+    }
+  ]
+}
