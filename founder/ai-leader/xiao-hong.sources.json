@@ -1,0 +1,74 @@
+{
+  "hero": "Xiao Hong",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Chinese AI agent Manus transcends chatbots, start-up's founder says",
+      "by": "South China Morning Post staff",
+      "venue": "South China Morning Post",
+      "year": 2025,
+      "url": "https://www.scmp.com/tech/tech-trends/article/3301864/chinese-ai-agent-manus-transcends-chatbots-founder-start-butterfly-effect-says",
+      "quote_checked": "more like a human being"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "After DeepSeek: China's Manus, the hot new AI under the spotlight",
+      "by": "Jeff Pao",
+      "venue": "Asia Times",
+      "year": 2025,
+      "url": "https://asiatimes.com/2025/03/after-deepseek-chinas-manus-the-hot-new-ai-under-the-spotlight/",
+      "quote_checked": "This wouldn't be possible without the amazing open-source community, which is why we're committed to giving back. | Manus operates as a multi-agent system powered by several distinct models. | It embodies the belief that knowledge must be applied to make a meaningful impact on the world"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Manus: China's Latest AI Sensation",
+      "by": "Lily Ottinger and Jordan Schneider",
+      "venue": "ChinaTalk",
+      "year": 2025,
+      "url": "https://www.chinatalk.media/p/manus-chinas-latest-ai-sensation",
+      "quote_checked": "We chose to target the overseas ToC market because I felt it was a larger, more commercially viable market. | I believe China's entrepreneurs of today should be more aggressive in globalizing. | First, I wouldn't consider working on big models without sufficient business scale. | There are truly too many things beyond our control, like geopolitics."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "China's Manus follows DeepSeek in challenging U.S. AI lead",
+      "by": "Saritha Rai, Julie Zhu, Edwin Chan (Bloomberg)",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/asia/2025/03/11/china-manus-follows-deepseek-ai/"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "What China's biggest entrepreneurs don't get: China",
+      "by": "Andy Browne",
+      "venue": "Semafor",
+      "year": 2026,
+      "url": "https://www.semafor.com/article/05/04/2026/what-chinas-biggest-entrepreneurs-dont-get-china"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Manus Resumes Independent Operations",
+      "by": "Manus",
+      "venue": "Manus blog",
+      "year": 2026,
+      "url": "https://manus.im/blog/manus-resumes-independent-operations",
+      "quote_checked": "formally resumed independent operations"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Manus Raises $500M in First Round Since China Blocked Meta Deal",
+      "by": "Michelle Hawley",
+      "venue": "VKTR",
+      "year": 2026,
+      "url": "https://www.vktr.com/ai-platforms/manus-raises-500m-in-first-round-since-china-blocked-meta-deal/"
+    }
+  ]
+}
