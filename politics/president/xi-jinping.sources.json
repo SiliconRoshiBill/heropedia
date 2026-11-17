@@ -1,0 +1,56 @@
+{
+  "hero": "Xi Jinping",
+  "role": "President",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "President Xi's speech in Davos in full",
+      "by": "Xi Jinping",
+      "venue": "CGTN",
+      "year": 2017,
+      "url": "https://news.cgtn.com/news/324d544f34457a6333566d54/index.html",
+      "quote_checked": "Pursuing protectionism is like locking oneself in a dark room."
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "Full text of Xi Jinping's keynote speech at 3rd Belt and Road Forum for Int'l Cooperation",
+      "by": "Xi Jinping",
+      "venue": "CGTN",
+      "year": 2023,
+      "url": "https://news.cgtn.com/news/2023-10-18/Full-text-of-Xi-Jinping-s-keynote-speech-at-3rd-BRF-1o0l1G9yiA0/index.html",
+      "quote_checked": "China can only do well when the world is doing well. When China does well, the world will get even better."
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "Full text of the report to the 20th National Congress of the Communist Party of China",
+      "by": "Xi Jinping",
+      "venue": "China Daily Global",
+      "year": 2022,
+      "url": "https://global.chinadaily.com.cn/a/202210/25/WS6357e484a310fd2b29e7e7de.html",
+      "quote_checked": "be more mindful of potential dangers, be prepared to deal with worst-case scenarios"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "China: New UN Report Alleges Crimes Against Humanity",
+      "by": "Human Rights Watch",
+      "venue": "Human Rights Watch",
+      "year": 2022,
+      "url": "https://www.hrw.org/news/2022/08/31/china-new-un-report-alleges-crimes-against-humanity",
+      "quote_checked": "may constitute international crimes, in particular crimes against humanity"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+    }
+  ]
+}
