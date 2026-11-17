@@ -1,0 +1,45 @@
+{
+  "hero": "Lex Fridman",
+  "role": "Writer",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Lex Fridman",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Lex_Fridman"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "The \"Idiot\": Lex Fridman's expansive, compelling, anti-journalistic podcast style",
+      "by": "Maddy Crowell",
+      "venue": "Columbia Journalism Review",
+      "year": 2025,
+      "url": "https://www.cjr.org/?p=116933",
+      "quote_checked": "I'm not a journalist nor a documentary filmmaker. | I see myself as The Idiot and an idiot. | And no, there is no audience capture."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Lex Fridman",
+      "by": "MIT Laboratory for Information and Decision Systems",
+      "venue": "MIT",
+      "year": 2025,
+      "url": "https://lex.mit.edu"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Dr. Lex Fridman: Machines, Creativity & Love",
+      "by": "Andrew Huberman with Lex Fridman",
+      "venue": "Huberman Lab",
+      "year": 2021,
+      "url": "https://www.hubermanlab.com/episode/dr-lex-fridman-machines-creativity-and-love",
+      "quote_checked": "curiosity is the kind of symptom, not the goal. | I think flaws should be a feature, not a bug. | Maybe what we want is long-form authenticity."
+    }
+  ]
+}

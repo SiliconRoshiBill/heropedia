@@ -1,0 +1,56 @@
+{
+  "hero": "Daniela Amodei",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "View From The Top: Daniela Amodei Says Curiosity Is Underrated",
+      "by": "Gintare Zukauskaite with Daniela Amodei",
+      "venue": "Stanford Graduate School of Business",
+      "year": 2026,
+      "url": "https://www.gsb.stanford.edu/insights/daniela-amodei-says-curiosity-underrated",
+      "quote_checked": "to us, at a high level, it means taking radical responsibility for the technology we're building | We had a clear vision: an organization where values like safety and responsibility are front and center | the truth is we were running toward something, not away from anything | The first—and this might not be surprising—interpersonal relationships matter way more than you think | If you locked yourself and your co-founder in a room... you shouldn't end up with one drawing a unicorn and the other a platypus | So, for the most part, safety and business interests are aligned—being safe is good for business because companies are risk-averse | At the end of the day, it's still a bet—an industry-wide bet that this will pay off. But, yes, we could absolutely be wrong | I don't have a law degree or a formal computer science background"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Anthropic president talks debut Super Bowl ad, future",
+      "by": "Taylor Dunn and Kelly McCarthy",
+      "venue": "ABC News / Good Morning America",
+      "year": 2026,
+      "url": "https://www.goodmorningamerica.com/culture/story/anthropic-president-talks-debut-super-bowl-ad-future-129843379",
+      "quote_checked": "to us, it just didn't feel like the respectful way to treat our users' data"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Ahead of its IPO, Anthropic's Daniela Amodei shrugs off doubts about AI's returns",
+      "by": "Marina Temkin",
+      "venue": "TechCrunch",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "quote_checked": "It's a really big upfront cost to train the models and to serve inference on them | I think the public market is very well suited to that | Anthropic's view has always been wanting to plan for the best outcome but not overextend ourselves | We would much prefer to be on the side of having a little bit more demand for the product"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Anthropic President Daniela Amodei Talks the Future of Claude",
+      "by": "Shirin Ghaffary with Daniela Amodei",
+      "venue": "Bloomberg Talks",
+      "year": 2026,
+      "url": "https://omny.fm/shows/bloomberg-talks/anthropic-president-daniela-amodei-talks-the-future-of-claude",
+      "quote_checked": "It's a very capital intensive business to train AI models | humans like to spend time with other humans. We like to create things together"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Daniela Amodei",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Daniela_Amodei"
+    }
+  ]
+}

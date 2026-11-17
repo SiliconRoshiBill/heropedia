@@ -1,0 +1,85 @@
+{
+  "hero": "Arthur Mensch",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "France's Mistral AI blows in with a $113M seed round at a $260M valuation to take on OpenAI",
+      "by": "Ingrid Lunden",
+      "venue": "TechCrunch",
+      "year": 2023,
+      "url": "https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/",
+      "quote_checked": "Open source is a core part of our DNA. | To make AI useful. | a world class team | the best open source models | an open, responsible and decentralised approach"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Mistral AI, a Paris-based OpenAI rival, closed its $415 million funding round",
+      "by": "Romain Dillet",
+      "venue": "TechCrunch",
+      "year": 2023,
+      "url": "https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Paris-based AI startup Mistral AI raises $640 million",
+      "by": "Romain Dillet",
+      "venue": "TechCrunch",
+      "year": 2024,
+      "url": "https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million",
+      "quote_checked": "It guarantees the company's continued independence, which remains fully under the founders' control."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Mistral's CEO Arthur Mensch tells BI that DeepSeek is a win for the open-source ecosystem",
+      "by": "Riddhi Kanetkar (Business Insider)",
+      "venue": "Business Insider (via AOL)",
+      "year": 2025,
+      "url": "https://www.aol.com/mistrals-ceo-arthur-mensch-tells-100002499.html",
+      "quote_checked": "We like to think of DeepSeek as the Mistral of China. | We think that this is a great moment for open-source models | companies like this — Mistral and DeepSeek — have participated in that and built on top of each other | We've always been believers in open-source prevailing because of the flywheel | It doesn't take $100 billion to make enterprises adopt a technology and adapt it to their use cases. | We're a very well-capitalized company, but we're not spending hundreds of billions."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Mistral: the European AI underdog taking on the US tech giants",
+      "by": "Fortune staff",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/europe/2025/01/16/mistral-european-ai-underdog-france-us-tech-giants/",
+      "quote_checked": "must do it with some level of independence from the American players | the capital needs are definitely not going down | constant demand these days"
+    },
+    {
+      "id": "S6",
+      "type": "letter",
+      "title": "Arthur Mensch on the EU AI Act",
+      "by": "Arthur Mensch, collected by Simon Willison",
+      "venue": "simonwillison.net",
+      "year": 2023,
+      "url": "https://simonwillison.net/2023/Nov/16/arthur-mensch-mistral-ai/",
+      "quote_checked": "We cannot regulate an engine devoid of usage. | We don't regulate the C language because one can use it to develop malware."
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Mistral CEO tells CNBC US AI safety debate covers rivals' 'negligence'",
+      "by": "Ana Maria Constantin",
+      "venue": "The Next Web",
+      "year": 2026,
+      "url": "https://thenextweb.com/news/mistral-ceo-mensch-ai-safety-debate-negligence-cnbc",
+      "quote_checked": "The debate that we've seen in the U.S. has been a cover for the negligence of some of our competitors."
+    },
+    {
+      "id": "S8",
+      "type": "paper",
+      "title": "Training Compute-Optimal Large Language Models",
+      "by": "Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, et al.",
+      "venue": "arXiv",
+      "year": 2022,
+      "url": "https://arxiv.org/abs/2203.15556"
+    }
+  ]
+}

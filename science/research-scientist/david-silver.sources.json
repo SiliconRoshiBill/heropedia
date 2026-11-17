@@ -1,0 +1,67 @@
+{
+  "hero": "David Silver",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Google DeepMind AI researcher David Silver leaves to found AI startup Ineffable Intelligence",
+      "by": "Jeremy Kahn",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/01/30/google-deepmind-ai-researcher-david-silver-leaves-to-found-ai-startup-ineffable-intelligence/",
+      "quote_checked": "Dave's contributions have been invaluable"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "AlphaGo Creator Raises Record $1 Billion To Build AI Without LLMs",
+      "by": "Alex McFarland",
+      "venue": "Unite.AI",
+      "year": 2026,
+      "url": "https://www.unite.ai/alphago-creator-raises-record-1-billion-to-build-ai-without-llms",
+      "quote_checked": "an endlessly learning superintelligence that self-discovers the foundations of all knowledge"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Ineffable Intelligence Closes $1.1B Seed at $5.1B Valuation",
+      "by": "Alex McFarland",
+      "venue": "Unite.AI",
+      "year": 2026,
+      "url": "https://unite.ai/ineffable-intelligence-closes-1-1b-seed-at-5-1b-valuation/",
+      "quote_checked": "a place where the full ambition of the reinforcement learning paradigm can flourish"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Creator David Silver On AlphaZero's (Infinite?) Strength",
+      "by": "Peter Doggers",
+      "venue": "Chess.com",
+      "year": 2020,
+      "url": "https://www.chess.com/news/view/david-silver-alphazero-reinforcement-learning",
+      "quote_checked": "The reinforcement learning problem is to simply take actions over time so as to maximize that reward signal. | The world is a really messy place, and no one gives us the rules. | The only way to address them in any complex system is to give the system the ability to correct its own errors."
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "Is Human Data Enough? With David Silver",
+      "by": "David Silver",
+      "venue": "Google DeepMind: The Podcast",
+      "year": 2025,
+      "url": "https://podwise.ai/episodes/3830309",
+      "quote_checked": "We're going to need our AIs to actually figure things out for themselves and to discover new things that humans don't know."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "ACM Prize in Computing Awarded to AlphaGo Developer",
+      "by": "Association for Computing Machinery",
+      "venue": "ACM",
+      "year": 2020,
+      "url": "https://awards.acm.org/about/2019-acm-prize",
+      "quote_checked": "learned entirely by playing games against itself, starting without any human data or prior knowledge except the game rules"
+    }
+  ]
+}

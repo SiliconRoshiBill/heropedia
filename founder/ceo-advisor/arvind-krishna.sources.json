@@ -1,0 +1,86 @@
+{
+  "hero": "Arvind Krishna",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "IBM CEO Arvind Krishna sits down with CNBC",
+      "by": "CNBC",
+      "venue": "CNBC",
+      "year": 2023,
+      "url": "https://www.cnbc.com/2023/12/07/ibm-ceo-arvind-krishna-cnbc-interview.html",
+      "quote_checked": "I fundamentally believe we'll get more jobs. | probably in its fifth or sixth inning of a game | we don't want to constrain where people deploy it | beginning that way was the wrong approach"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Today's workforce should prepare to work hand in hand with A.I.",
+      "by": "Arvind Krishna",
+      "venue": "Fortune",
+      "year": 2023,
+      "url": "https://fortune.com/2023/04/20/ibm-ceo-work-ai-artificial-intelligence-careers-tech-arvind-krishna/",
+      "quote_checked": "shift from 700 professionals doing a relatively manual type of HR-related work, to less than 50 | frees up employees to take on higher-value work | we must start preparing the workforce for collaboration with A.I. tools"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "'I could easily see 30% workforce getting replaced by AI': IBM CEO Arvind Krishna's candid revelation on job losses",
+      "by": "Pranav Dixit",
+      "venue": "Business Today",
+      "year": 2023,
+      "url": "https://www.businesstoday.in/technology/news/story/i-could-easily-see-30-workforce-getting-replaced-by-ai-ibm-ceo-arvind-krishnas-candid-revelation-on-job-losses-379781-2023-05-03",
+      "quote_checked": "I could easily see 30 per cent of that getting replaced by AI and automation over a five-year period"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "IBM CEO praises 'real' open source for enterprise gen AI as new efforts emerge at Think 2024",
+      "by": "VentureBeat staff",
+      "venue": "VentureBeat",
+      "year": 2024,
+      "url": "https://venturebeat.com/ai/ibm-ceo-praises-real-open-source-for-enterprise-gen-ai-as-new-efforts-emerge-at-think-2024",
+      "quote_checked": "If you want people to contribute, it has to be clearly open source, it cannot actually just be open source marketing | They're using the term open just for marketing purposes"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "IBM CEO Arvind Krishna wants to completely transform his organization",
+      "by": "Ron Miller",
+      "venue": "TechCrunch",
+      "year": 2020,
+      "url": "https://techcrunch.com/2020/11/10/ibm-ceo-arvind-krishna-wants-to-completely-transform-his-organization/",
+      "quote_checked": "focused on hybrid cloud and artificial intelligence, which I believe are the two fundamental forces | the technology base on which to build a hybrid cloud technology platform"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Aspen Ideas Festival: IBM's Arvind Krishna on skills over degrees",
+      "by": "WorkingNation staff",
+      "venue": "WorkingNation",
+      "year": 2022,
+      "url": "https://workingnation.com/?p=72526",
+      "quote_checked": "Only 30% of people in the U.S. have four-year degrees | we now have over 50% of our job openings based on skills, not degrees"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Arvind Krishna biography",
+      "by": "IBM Investor Relations",
+      "venue": "IBM",
+      "year": 2026,
+      "url": "https://www.ibm.com/investor/governance/arvind-krishna"
+    },
+    {
+      "id": "S8",
+      "type": "article",
+      "title": "IBM CEO Sees 'Something Remarkable' Happening in Quantum Over Next Three to Five Years",
+      "by": "Matt Swayne",
+      "venue": "The Quantum Insider",
+      "year": 2025,
+      "url": "https://thequantuminsider.com/2025/03/03/ibm-ceo-sees-something-remarkable-happening-in-quantum-over-next-three-to-five-years/",
+      "quote_checked": "we will see something remarkable happen on that front | I give myself till the end of the decade"
+    }
+  ]
+}

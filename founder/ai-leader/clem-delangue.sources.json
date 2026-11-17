@@ -1,0 +1,56 @@
+{
+  "hero": "Clem Delangue",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Hugging Face's Clem Delangue: Stop Comparing Engines to Cars",
+      "by": "Mykyta Ustymenko",
+      "venue": "Turing Post",
+      "year": 2026,
+      "url": "https://turingpost.substack.com/p/hugging-faces-clem-delangue-stop",
+      "quote_checked": "relying on closed APIs and third-party vendors that can dictate terms, raise prices whenever they want | deprecate models whenever they want, or change them behind the scenes | It gives some control back to builders, which is nice."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Hugging Face CEO says we're in an \"LLM bubble,\" not an AI bubble",
+      "by": "Megan Rose Dickey",
+      "venue": "TechCrunch",
+      "year": 2025,
+      "url": "https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble",
+      "quote_checked": "I think we're in an LLM bubble, and I think the LLM bubble might be bursting next year. | 'LLM' is just a subset of AI when it comes to applying AI to biology, chemistry, image, audio, [and] video."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Video and transcript: Fireside chat with Clem Delangue, CEO of Hugging Face",
+      "by": "Elad Gil",
+      "venue": "Elad Gil's blog",
+      "year": 2023,
+      "url": "https://blog.eladgil.com/p/video-and-transcript-fireside-chat",
+      "quote_checked": "the main thing that we're trying to push at Hugging Face is more transparency in terms of how these systems are built | we think every single company or every single team should be able to use open source to train their own models | I wish more startup founders were actually building AI, not just using AI systems | you can't control, improve and align a system that you don't understand | AI is Software 2.0 | there's been more than a million repositories that have been hosted on the hugging face platform | There's over 20,000 open data sets that you can use on the platform. | Over 100,000 demos are hosted on the platform. | more than 15,000 companies are using the platform to bring AI into their features"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Hugging Face goes from a scrappy startup named after an emoji to $13 billion Nvidia acquisition",
+      "by": "Marina Temkin",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/09/03/hugging-face-goes-from-a-scrappy-startup-named-after-an-emoji-to-13-billion-nvidia-acquisition/"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "by": "Maxwell Zeff",
+      "venue": "TechCrunch",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+      "quote_checked": "it needs more compute, more support, more collaboration, and more visibility | That's why we went to talk to Jensen, who offered to do exactly that with us."
+    }
+  ]
+}

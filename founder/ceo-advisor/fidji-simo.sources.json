@@ -1,0 +1,47 @@
+{
+  "hero": "Fidji Simo",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "OpenAI drafts Instacart boss as CEO of Apps to lure in the normies",
+      "by": "The Register staff",
+      "venue": "The Register",
+      "year": 2025,
+      "url": "https://www.theregister.com/2025/05/08/openai_apps_chif_instacart/",
+      "quote_checked": "This was an incredibly hard decision because I love this company | Joining OpenAI at this critical moment is an incredible privilege and responsibility. | I am deeply committed to shaping these applications toward the public good."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "OpenAI names Instacart leader Fidji Simo as new CEO of Applications",
+      "by": "Michael Nuñez",
+      "venue": "VentureBeat",
+      "year": 2025,
+      "url": "https://venturebeat.com/ai/openai-names-instacart-leader-fidji-simo-as-new-ceo-of-applications",
+      "quote_checked": "bringing on exceptional leaders is a key part of doing that well | I am deeply committed to shaping these applications toward the public good."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "How Facebook's VP of Product Finds Focus (and Creates the Conditions for Her Team to Do the Same)",
+      "by": "Fidji Simo, interviewed by First Round Review",
+      "venue": "First Round Review",
+      "year": 2017,
+      "url": "https://review.firstround.com/how-facebooks-vp-of-product-finds-focus-and-creates-conditions-for-intentional-work",
+      "quote_checked": "doing things with a clear intention and making sure that all your decisions match your intention | The difference between change (which can be good) and thrash (which is always bad)"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Instacart CEO Fidji Simo on her leadership style",
+      "by": "Fidji Simo, interviewed on Fortune's Leadership Next podcast",
+      "venue": "Fortune",
+      "year": 2022,
+      "url": "https://fortune.com/2022/08/11/instacart-ceo-fidji-simo-leadership-style-grocery-delivery",
+      "quote_checked": "we were going to be the company that is at the heart of the relationships that people have with food | being flexible in the destination but also very flexible in the journey | finding the magic in people around me and shining a spotlight on it"
+    }
+  ]
+}

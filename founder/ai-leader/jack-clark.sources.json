@@ -1,0 +1,57 @@
+{
+  "hero": "Jack Clark",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Import AI 431: Technological Optimism and Appropriate Fear",
+      "by": "Jack Clark",
+      "venue": "Import AI",
+      "year": 2025,
+      "url": "https://jack-clark.net/2025/10/13/",
+      "quote_checked": "I do not see technical blockers in front of us. | We are growing extremely powerful systems that we do not fully understand. | You see, I am also deeply afraid. | what we are dealing with is a real and mysterious creature, not a simple and predictable machine. | But success isn't certain. | Are you anxious about misaligned AI systems? Force us to publish details on this."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Jack Clark on AI's Uneven Impact (Ep. 242)",
+      "by": "Tyler Cowen",
+      "venue": "Conversations with Tyler",
+      "year": 2025,
+      "url": "https://conversationswithtyler.com/episodes/jack-clark/",
+      "quote_checked": "I think my bear case on all of this is 3 percent, and my bull case is something like 5 percent. | I think we overestimate the ease with which we get into a physical world. | I am a technological pessimist who became an optimist through repeated beatings over the head of scale. | I worry that we are going to be bystanders to what in the future will seem like a great crime."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "The Anthropic Institute",
+      "by": "Anthropic",
+      "venue": "Anthropic",
+      "year": 2026,
+      "url": "https://www.anthropic.com/news/the-anthropic-institute",
+      "quote_checked": "The Institute is led by our co-founder Jack Clark."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Anthropic launches internal think tank as Pentagon blacklist heads to court",
+      "by": "Marcus Schuler",
+      "venue": "Implicator.ai",
+      "year": 2026,
+      "url": "https://www.implicator.ai/anthropic-launches-internal-think-tank-as-pentagon-blacklist-heads-to-court/",
+      "quote_checked": "no concerns | takes the new title of Head of Public Benefit | how much hunger there is for a larger national conversation by the public about this technology"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "TIME100 AI: Jack Clark",
+      "by": "TIME Staff",
+      "venue": "TIME",
+      "year": 2023,
+      "url": "https://time.com/collection/time100-ai/6308997/jack-clark",
+      "quote_checked": "To me, it feels like the [oversight body] you need is something that you're afraid of | You can build it and you can lose the larger political game."
+    }
+  ]
+}

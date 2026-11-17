@@ -1,0 +1,54 @@
+{
+  "hero": "Daphne Koller",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "'It will be a paradigm shift': Daphne Koller on machine learning in drug discovery",
+      "by": "Lydia The (McKinsey & Company)",
+      "venue": "McKinsey & Company",
+      "year": 2022,
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/it-will-be-a-paradigm-shift-daphne-koller-on-machine-learning-in-drug-discovery",
+      "quote_checked": "machine learning will be an absolutely critical, pivotal shift | Every successful drug has to bear on its back the cost of all the failures. | We aspire to create a much more engineered process, with a higher success rate. | if we let machines have an unfettered, unanchored look at the data | That's very rarely the case | Our bigger advantage is that we generate, in-house, complementary forms of data | Biology is really hard, and we need to be very careful when intervening in something as precious as human life."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Famed founder Daphne Koller tells it straight: 'With most drugs, we do not understand why they work'",
+      "by": "Jonathan Shieber",
+      "venue": "TechCrunch",
+      "year": 2019,
+      "url": "https://techcrunch.com/2019/05/21/famed-founder-daphne-koller-tells-it-straight-with-most-drugs-we-do-not-understand-why-they-work",
+      "quote_checked": "most drugs fail because they are targeting the wrong things. | They are targeting proteins or genes that do not affect the disease they are supposed to affect. | we're in the business of actually building data for the sole purpose of training machine learning models."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Daphne Koller — Leadership",
+      "by": "insitro",
+      "venue": "insitro.com",
+      "year": 2026,
+      "url": "https://www.insitro.com/leadership/daphne-koller/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Koller turns AI on drug discovery with newco insitro",
+      "by": "Karen Pihl-Carey",
+      "venue": "BioCentury",
+      "year": 2018,
+      "url": "https://www.biocentury.com/article/295049/koller-turns-ai-on-drug-discovery-with-newco-insitro"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "SF Healthcare Week: insitro CEO Daphne Koller on how AI is hitting escape velocity for finding causal targets for disease and speeding up drug development",
+      "by": "insitro",
+      "venue": "insitro.com",
+      "year": 2026,
+      "url": "https://www.insitro.com/news/sf-healthcare-week-insitro-ceo-daphne-koller-on-how-ai-is-hitting-escape-velocity-for-finding-causal-targets-for-disease-and-speeding-up-drug-development/"
+    }
+  ]
+}

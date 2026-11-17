@@ -1,0 +1,67 @@
+{
+  "hero": "Andrew Feldman",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Our Interview with Andrew Feldman, CEO of Cerebras Systems",
+      "by": "Patrick Kennedy",
+      "venue": "ServeTheHome",
+      "year": 2020,
+      "url": "https://www.servethehome.com/our-interview-with-andrew-feldman-ceo-of-cerebras-systems/2/",
+      "quote_checked": "Every square millimeter of your chip needs to be tuned for this work. | Not if it was repurposed. | One of the things we observed right away was that the GPU has a problem with memory. | Its memory is far away. | when you communicate on a chip, you're 1000 times faster | the hard part of this work was moving data, moving data from memory to the core moving data from core to core. | Before this, I founded a company with Gary, around some of Gary's ideas, called SeaMicro. | We built that over a four year period and we sold that to AMD in 2012."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Andrew Feldman, Co-Founder & CEO of Cerebras Systems – Interview Series",
+      "by": "Antoine Tardif",
+      "venue": "Unite.AI",
+      "year": 2023,
+      "url": "https://www.unite.ai/andrew-feldman-co-founder-ceo-of-cerebras-systems-interview-series/",
+      "quote_checked": "We realized that deep learning has unique, massive, and growing computational requirements. | AI today is constrained not by applications or ideas, but by the availability of compute. | build a new type of computer optimized exclusively for deep learning | We designed and manufactured the largest chip ever built. | Our ability to move data off-chip lags our ability to increase the performance on a chip by a great deal."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Cerebras Beats NVIDIA Blackwell in Llama 4 Maverick Inference",
+      "by": "Cerebras Systems",
+      "venue": "Business Wire",
+      "year": 2025,
+      "url": "https://www.businesswire.com/news/home/20250528123694/en/Cerebras-Beats-NVIDIA-Blackwell-in-Llama-4-Maverick-Inference",
+      "quote_checked": "The most important AI applications being deployed in enterprise today are bottlenecked by inference latency. | generation speeds as low as 100 tokens per second | wait times of minutes and making production deployment impractical"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "The five technical challenges Cerebras overcame in building the first trillion-transistor chip",
+      "by": "Danny Crichton",
+      "venue": "TechCrunch",
+      "year": 2019,
+      "url": "https://techcrunch.com/2019/08/19/the-five-technical-challenges-cerebras-overcame-in-building-the-first-trillion-transistor-chip",
+      "quote_checked": "You have to hold only 1%, 1.5% of these guys aside | That last hundred yards, that's a problem."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Cerebras could restart a stagnant IPO market, but clear risks abound",
+      "by": "Allie Garfinkle",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/10/02/cerebras-could-restart-a-stagnant-ipo-market-but-clear-risks-abound",
+      "quote_checked": ""
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Cerebras raises $5.5B, kicking off 2026's IPO season with a bang",
+      "by": "Julie Bort",
+      "venue": "TechCrunch",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang",
+      "quote_checked": ""
+    }
+  ]
+}

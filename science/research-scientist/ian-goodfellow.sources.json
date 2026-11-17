@@ -1,0 +1,55 @@
+{
+  "hero": "Ian Goodfellow",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Interview With Deep Learning Researcher and The \"GANfather\" : Dr. Ian Goodfellow",
+      "by": "Sanyam Bhutani",
+      "venue": "HackerNoon",
+      "year": 2018,
+      "url": "https://hackernoon.com/interview-with-deep-learning-researcher-and-the-ganfather-dr-ian-goodfellow-cd300863ecff",
+      "quote_checked": "The first GAN was mostly a copy-paste of our MNIST classifier from an earlier paper called 'Maxout Networks'. | Even the hyperparameters from the Maxout paper worked fairly well for GANs, so I didn't need to do much new. | I think the first MNIST GAN only took me an hour or so to make. | I spend most of my own time working on robustness to adversarial examples. | I think this is important for being able to use machine learning in settings where security is a concern. | I also hope it will help us understand machine learning better. | Most advanced research projects require you to be excellent at the basics | Start with an easy project, where you are just re-implementing something that you already know should work"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Apple Machine Learning Director Who Left Over Office Return Policy Joins Google",
+      "by": "Juli Clover",
+      "venue": "MacRumors",
+      "year": 2022,
+      "url": "https://www.macrumors.com/2022/05/17/ian-goodfellow-joins-deepmind-google/",
+      "quote_checked": "I believe strongly that more flexibility would have been the best policy for my team."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Apple's office policy drives a leading AI researcher to Google's Deepmind",
+      "by": "Matthias Bastian",
+      "venue": "The Decoder",
+      "year": 2022,
+      "url": "https://the-decoder.com/apples-office-policy-drives-a-leading-ai-researcher-to-googles-deepmind/",
+      "quote_checked": "I strongly believe that more flexibility would have been the best strategy for my team. | I am excited to announce my move to DeepMind! I will be working as a researcher on the @OriolVinyalsML Deep Learning team."
+    },
+    {
+      "id": "S4",
+      "type": "paper",
+      "title": "Generative Adversarial Networks",
+      "by": "Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio",
+      "venue": "arXiv",
+      "year": 2014,
+      "url": "https://arxiv.org/abs/1406.2661"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Ian Goodfellow — researcher profile",
+      "by": "alphaXiv",
+      "venue": "alphaXiv",
+      "year": 2026,
+      "url": "https://www.alphaxiv.org/@ian-goodfellow"
+    }
+  ]
+}

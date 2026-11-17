@@ -1,0 +1,47 @@
+{
+  "hero": "Greg Brockman",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+      "by": "Ben Thompson",
+      "venue": "Stratechery",
+      "year": 2026,
+      "url": "https://stratechery.com/?p=19887",
+      "quote_checked": "human judgment, human oversight, human control, all of those things are absolutely critical to maintain | we're taking these step by step in terms of pacing | We are all moving to being these higher-level managers, these directors | I would view this as a continuous process of how the product rolls out in order to help harness this capability"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Greg Brockman",
+      "by": "Will Henshall",
+      "venue": "TIME100 AI, TIME",
+      "year": 2023,
+      "url": "https://time.com/collection/time100-ai/6309033/greg-brockman",
+      "quote_checked": "I think the most important decision we've made in OpenAI's history was the decision to do iterative deployment | What you want to do is 10x the output of the company | I'll observe that Anthropic and us are pursuing very similar strategies"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Greg Brockman quits OpenAI after abrupt firing of Sam Altman",
+      "by": "Manish Singh",
+      "venue": "TechCrunch",
+      "year": 2023,
+      "url": "https://techcrunch.com/2023/11/17/greg-brockman-quits-openai-after-abrupt-firing-of-sam-altman/",
+      "quote_checked": "But based on today's news, I quit. | I continue to believe in the mission of creating safe AGI that benefits all of humanity."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\"",
+      "by": "The Decoder staff",
+      "venue": "The Decoder",
+      "year": 2026,
+      "url": "https://the-decoder.com/greg-brockman-consolidates-openais-product-teams-to-build-an-agentic-future/",
+      "quote_checked": "consolidating our product efforts to execute with maximum focus toward the agentic future"
+    }
+  ]
+}

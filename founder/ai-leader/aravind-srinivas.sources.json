@@ -1,0 +1,67 @@
+{
+  "hero": "Aravind Srinivas",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet",
+      "by": "Lex Fridman",
+      "venue": "Lex Fridman Podcast #434",
+      "year": 2024,
+      "url": "https://lexfridman.com/aravind-srinivas-transcript/",
+      "quote_checked": "Perplexity is best described as an answer engine. You ask it a question, you get an answer. | I think of Perplexity as a knowledge discovery engine, neither a search engine. | The journey doesn't end once you get an answer. In my opinion, the journey begins after you get an answer. | We do not have to beat them, neither do we have to take them on. | The disruption comes from rethinking the whole UI itself. | What matters is, the answer works."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Berkeley alum wants to make the planet smarter",
+      "by": "Berkeley Engineering staff",
+      "venue": "UC Berkeley College of Engineering",
+      "year": 2025,
+      "url": "https://engineering.berkeley.edu/news/2025/03/berkeley-alum-wants-to-make-the-planet-smarter/",
+      "quote_checked": "Ph.D. students write papers, and for every sentence they write, they reference another paper. | The core idea of GPT was being conceived there at the time, and that changed my world view a lot. | Our broader vision is to make the planet smarter."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Chrome's AI Challenger Has Landed: Meet Comet",
+      "by": "Yamini Kalra",
+      "venue": "GovInfoSecurity",
+      "year": 2025,
+      "url": "https://www.govinfosecurity.com/chromes-ai-challenger-has-landed-meet-comet-a-29053",
+      "quote_checked": "The browser might be the best way to build agents. | not easy"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Perplexity Boss \"Surprised\" After News Corp Sues",
+      "by": "Tom Jowitt",
+      "venue": "Silicon UK",
+      "year": 2024,
+      "url": "https://www.silicon.co.uk/e-regulation/perplexity-boss-surprised-after-new-corp-sues-585676",
+      "quote_checked": "surprised"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Perplexity Is Reportedly in Talks to Raise Up to $1B at an $18B Valuation",
+      "by": "Maxwell Zeff",
+      "venue": "TechCrunch",
+      "year": 2025,
+      "url": "https://techcrunch.com/2025/03/20/perplexity-is-reportedly-in-talks-to-raise-up-to-1b-at-an-18b-valuation",
+      "quote_checked": ""
+    },
+    {
+      "id": "S6",
+      "type": "interview",
+      "title": "Perplexity's Aravind Srinivas on the Infinite Value of Knowledge",
+      "by": "Michael McDowell",
+      "venue": "Stanford Graduate School of Business, View From The Top",
+      "year": 2025,
+      "url": "https://gsb.stanford.edu/insights/perplexitys-aravind-srinivas-infinite-value-knowledge",
+      "quote_checked": "we decided to use other people's models and shape them to be really good | you either raise $10 billion or you don't do this thing at all | an extreme bias for action"
+    }
+  ]
+}

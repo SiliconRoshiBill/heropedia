@@ -1,0 +1,55 @@
+{
+  "hero": "Christopher Manning",
+  "role": "NLP Researcher",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "paper",
+      "title": "Human Language Understanding & Reasoning",
+      "by": "Christopher D. Manning",
+      "venue": "Dædalus (American Academy of Arts & Sciences)",
+      "year": 2022,
+      "url": "https://www.amacad.org/publication/daedalus/human-language-understanding-reasoning",
+      "quote_checked": "it gives groups of people a way to network human brains together | meaning arises from understanding the network of connections between a linguistic form and other things | these models discover and represent much of the structure of human languages | lacking a human-level ability for careful logical or causal reasoning | very incomplete and cry out for being augmented with other sensory data and knowledge"
+    },
+    {
+      "id": "S2",
+      "type": "paper",
+      "title": "Emergent Linguistic Structure in Artificial Neural Networks Trained by Self-Supervision",
+      "by": "Kevin Clark, John Hewitt, Urvashi Khandelwal, Omer Levy and Christopher D. Manning",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "year": 2020,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7720155",
+      "quote_checked": "learn major aspects of this structure, without any explicit supervision | we make no attempt to model human learning"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "World-Leading AI Researcher Chris Manning Joins AIX Ventures as General Partner to Back Deep AI Startups",
+      "by": "AIJourn",
+      "venue": "AIJourn",
+      "year": 2025,
+      "url": "https://aijourn.com/world-leading-ai-researcher-chris-manning-joins-aix-ventures-as-general-partner-to-back-deep-ai-startups/",
+      "quote_checked": "sourcing and supporting startups at the edge of machine learning and natural language reasoning"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Royal Commission into Artificial Intelligence Announced",
+      "by": "Government of South Australia, Department of the Premier and Cabinet",
+      "venue": "dpc.sa.gov.au",
+      "year": 2026,
+      "url": "https://dpc.sa.gov.au/news/royal-commission-into-artificial-intelligence-announced"
+    },
+    {
+      "id": "S5",
+      "type": "paper",
+      "title": "GloVe: Global Vectors for Word Representation",
+      "by": "Jeffrey Pennington, Richard Socher and Christopher D. Manning",
+      "venue": "Proceedings of EMNLP 2014 (ACL Anthology)",
+      "year": 2014,
+      "url": "https://aclanthology.org/D14-1162/"
+    }
+  ]
+}

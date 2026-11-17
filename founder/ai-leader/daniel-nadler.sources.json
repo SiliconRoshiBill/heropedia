@@ -1,0 +1,46 @@
+{
+  "hero": "Daniel Nadler",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "The AI Product Going Viral With Doctors: OpenEvidence, with CEO Daniel Nadler",
+      "by": "Pat Grady",
+      "venue": "Training Data (Sequoia Capital podcast)",
+      "year": 2026,
+      "url": "https://sequoiacap.com/podcast/training-data-daniel-nadler/",
+      "quote_checked": "There are scenarios where hallucination is not even annoying. There are scenarios where hallucination is a feature. | smaller, highly-specialized models overtrained on in-domain data would outperform much larger models | Everything is an edge case, and everything is a corner case."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "S&P Global to Acquire Kensho, Bolsters Core Capabilities in Artificial Intelligence, Natural Language Processing and Data Analytics",
+      "by": "S&P Global",
+      "venue": "S&P Global press release",
+      "year": 2018,
+      "url": "https://press.spglobal.com/2018-03-06-S-P-Global-to-Acquire-Kensho-Bolsters-Core-Capabilities-in-Artificial-Intelligence-Natural-Language-Processing-and-Data-Analytics",
+      "quote_checked": "Kensho has assembled one of the most elite artificial intelligence teams in the world"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "OpenEvidence hits $12B valuation, with new round led by Thrive, DST",
+      "by": "Julie Bort",
+      "venue": "TechCrunch",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Most US doctors use this AI tool. Few patients know.",
+      "by": "Jared Perlo",
+      "venue": "NBC News",
+      "year": 2026,
+      "url": "https://www.nbcnewyork.com/news/national-international/most-us-doctors-use-this-ai-tool-few-patients-know/6501320/",
+      "quote_checked": "Our commitment is that core OpenEvidence will always be free for users. | We think of AI as search glue. We have access to all of [our partners'] full text, to all of their figures. We don't need the AI to generate answers. | We did the hardest thing in the history of American health care. We got the majority of American doctors to all voluntarily adopt a single technology platform."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "hero": "David Sacks",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "David Sacks",
+      "by": "All-In Podcast, LLC",
+      "venue": "All-In",
+      "year": 2024,
+      "url": "https://allin.com/about/david-sacks",
+      "quote_checked": "co-founder and partner at Craft | invested in more than 20 unicorns, including Airbnb, Slack, SpaceX, and Uber | Bottom-Up SaaS"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "The Sacks SaaS Board Deck",
+      "by": "Standard Metrics",
+      "venue": "Standard Metrics",
+      "year": 2026,
+      "url": "https://standardmetrics.io/board-deck/david-sacks-the-sacks-saas-board-deck/",
+      "quote_checked": "Ironically, the better the startup is doing, the more chaos there is."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "20VC: Craft Ventures' David Sacks on How to Assess Founder Psychology, How to Accurately Evaluate CAC, Burn and Churn & What Makes the Very Best Startup Boards",
+      "by": "Harry Stebbings",
+      "venue": "The Twenty Minute VC (20VC)",
+      "year": 2020,
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-craft-ventures-david-sacks-on-how-to-assess-founder-psychology-how-to-accurately-evaluate-cac-burn-and-churn-what-makes-the-very-best-startup-boards",
+      "quote_checked": "Founders need to be far more aggressive than what the average person might think. | if it blinds the founder to seeking advice or seeking to balance their psychology | you can't always tell in advance what's good crazy versus bad crazy. | If you're burning more than three times your net new ARR, I would define that as being suspect or bad."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Crypto Czar David Sacks Leaves Post to Go to Broader White House Tech Role as Legislation Faces Challenges",
+      "by": "Sarah Wynn",
+      "venue": "The Block",
+      "year": 2026,
+      "url": "https://www.theblock.co/post/395399/crypto-czar-david-sacks-leaves-post-to-go-to-broader-white-house-tech-role-as-legislation-faces-challenges",
+      "quote_checked": "I can now make recommendations on not just about AI | So yes, this is how I will be involved moving forward."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "David Sacks",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/David_Sacks",
+      "quote_checked": "The war on crypto is over."
+    }
+  ]
+}

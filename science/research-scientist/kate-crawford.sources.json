@@ -1,0 +1,57 @@
+{
+  "hero": "Kate Crawford",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Kate Crawford",
+      "by": "Billy Perrigo",
+      "venue": "TIME (TIME100 AI)",
+      "year": 2023,
+      "url": "https://time.com/collection/time100-ai/6309459/kate-crawford",
+      "quote_checked": "AI is the extractive industry of the 21st century. | It's much more diverse than the internet would have you believe."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Excavating the Politics of AI: An Interview with Kate Crawford",
+      "by": "Kate Crawford",
+      "venue": "Ding Magazine",
+      "year": 2021,
+      "url": "https://dingdingding.org/issue-4/excavating-the-politics-of-ai-an-interview-with-kate-crawford/",
+      "quote_checked": "After all, AI is politics all the way down. | AI is becoming an extractive industry of the 21st century. | the hidden forms of labour extracted all along the supply chain | the data extracted from all of us as data subjects | dual operation of abstraction and extraction | distances it from the energy, labour and capital needed to produce it | Supply chains for information capitalism are extremely hard to research. | AI invariably amplifies and reproduces the forms of power it has been deployed to optimize. | the tendency for humans to accept decisions from automated systems more readily than other humans"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Kate Crawford (personal site, bio)",
+      "by": "Kate Crawford",
+      "venue": "katecrawford.net",
+      "year": 2026,
+      "url": "https://katecrawford.net/",
+      "quote_checked": "Kate Crawford is a leading scholar of artificial intelligence. | She is a Professor at the University of Southern California | and the inaugural visiting chair of AI and Justice at the École Normale Supérieure in Paris. | In 2026, she is also a Weizenbaum Distinguished Fellow and Amherst College Presidential Scholar."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Awards of the Biennale Architettura 2025",
+      "by": "La Biennale di Venezia",
+      "venue": "La Biennale di Venezia",
+      "year": 2025,
+      "url": "https://www.labiennale.org/en/news/awards-biennale-architettura-2025",
+      "quote_checked": "make visible the invisible both in space and in time"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Anatomy of an AI System",
+      "by": "Kate Crawford and Vladan Joler",
+      "venue": "Ars Electronica Festival",
+      "year": 2019,
+      "url": "https://ars.electronica.art/outofthebox/en/anatomy-ai",
+      "quote_checked": "The true costs – social, ecological, economic, and political – remain mostly hidden."
+    }
+  ]
+}
