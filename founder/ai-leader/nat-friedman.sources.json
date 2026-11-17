@@ -1,0 +1,67 @@
+{
+  "hero": "Nat Friedman",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "nat.org",
+      "by": "Nat Friedman",
+      "venue": "personal website",
+      "year": 2024,
+      "url": "https://nat.org/",
+      "quote_checked": "It's important to do things fast | Going fast makes you focus on what's important; there's no time for bullshit | Slow is fake | The cultural prohibition on micromanagement is harmful | Smaller teams are better | Faster decisions, fewer meetings, more fun | The efficient market hypothesis is a lie | Most people are other people | CEO of GitHub from 2018 through 2021"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Nat Friedman — Github, Microsoft, OSS, and AI",
+      "by": "Dwarkesh Patel",
+      "venue": "Dwarkesh Podcast",
+      "year": 2023,
+      "url": "https://www.dwarkesh.com/p/nat-friedman",
+      "quote_checked": "I just fundamentally don't believe the world is efficient. | I have learned to trust my enthusiasm. | We're going to pick one thing from this list and fix it by the end of the day and ship that, just one thing. | Every AI product has a fantastic demo. | the median new user loved Co-pilot and wouldn't stop using it | what we need to show the world is that GitHub cares about developers | Most acquisitions are destructive of value."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Safe Superintelligence CEO Daniel Gross joins Meta's new AI lab",
+      "by": "Maria Deutscher",
+      "venue": "SiliconANGLE",
+      "year": 2025,
+      "url": "https://siliconangle.com/2025/07/03/safe-superintelligence-ceo-daniel-gross-joins-metas-new-ai-lab/",
+      "quote_checked": ""
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Mark Zuckerberg announces creation of Meta Superintelligence Labs. Read the memo",
+      "by": "Jonathan Vanian (CNBC)",
+      "venue": "NBC New York",
+      "year": 2025,
+      "url": "https://www.nbcnewyork.com/news/business/money-report/mark-zuckerberg-announces-creation-of-meta-superintelligence-labs-read-the-memo/6320911/",
+      "quote_checked": "Nat Friedman has also joined Meta to partner with Alex to lead MSL, heading our work on AI products and applied research. | He ran GitHub at Microsoft, and most recently has run one of the leading AI investment firms. | Nat has served on our Meta Advisory Group for the last year"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "AI Grant aims to fund the unfundable to advance AI and solve hard problems",
+      "by": "John Mannes",
+      "venue": "TechCrunch",
+      "year": 2017,
+      "url": "https://techcrunch.com/2017/07/25/ai-grant-aims-to-fund-the-unfundable-to-advance-ai-and-solve-hard-problems",
+      "quote_checked": ""
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Meta Poaches the CEO of a $32 Billion AI Startup — After Trying to Buy the Company and Being Told No",
+      "by": "Sherin Shibu",
+      "venue": "Entrepreneur",
+      "year": 2025,
+      "url": "https://www.entrepreneur.com/business-news/meta-poaches-safe-superintelligence-ceo-for-new-ai-team/493604",
+      "quote_checked": ""
+    }
+  ]
+}

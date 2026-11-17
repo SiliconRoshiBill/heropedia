@@ -1,0 +1,67 @@
+{
+  "hero": "Michael Truell",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Why Cursor's CEO believes OpenAI, Anthropic competition won't crush his startup",
+      "by": "Julie Bort",
+      "venue": "TechCrunch",
+      "year": 2025,
+      "url": "https://techcrunch.com/2025/12/09/why-cursors-ceo-believes-openai-anthropic-competition-wont-crush-his-startup",
+      "quote_checked": "It would be like taking an engine and a concept car around it instead of a whole end-to-end car that was manufactured, | What we do is we take the best intelligence that the market has to offer from many different providers. | When we started Cursor, you would turn to Cursor for a quick JavaScript question | now you're turning to it to do hours of work for you. | So the pricing model had to shift for us and others in the space. | thinking about teams as the atomic unit that we serve,"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Going Beyond Code, Superintelligent AI Agents, And Why Taste Still Matters",
+      "by": "Garry Tan (interviewer)",
+      "venue": "Y Combinator's How to Build the Future",
+      "year": 2025,
+      "url": "https://singjupost.com/cursor-ceo-going-beyond-code-superintelligent-ai-agents-transcript/",
+      "quote_checked": "Yeah, the goal with the company is to replace coding with something that's much better. | We think that one thing that will be irreplaceable is taste. | the game in the next six months to a year is to make both of those an order of magnitude more useful."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Past, Present, and Future (Series D)",
+      "by": "Cursor Team",
+      "venue": "Cursor Blog",
+      "year": 2025,
+      "url": "https://cursor.com/blog/series-d",
+      "quote_checked": "crossed $1B in annualized revenue | our in-house models now generate more code than almost any other LLMs in the world."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Cursor's 25-year-old CEO is a former Google intern who just cemented a $60 billion deal with SpaceX",
+      "by": "Marco Quiroz-Gutierrez",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/04/22/who-is-cursor-25-year-old-ceo-michael-truell-tech-startups-csuite-elon-musk-spacex/",
+      "quote_checked": "we realized we were really inherently excited about the future of coding | sleepy and uncompetitive | we just decided to go for it"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Cursor is now a part of SpaceX",
+      "by": "Cursor Team",
+      "venue": "Cursor Blog",
+      "year": 2026,
+      "url": "https://cursor.com/en-US/blog/joining-spacex",
+      "quote_checked": "Cursor has officially been acquired by SpaceX."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Form 8-K: Agreement and Plan of Merger with Anysphere, Inc. (Cursor)",
+      "by": "Space Exploration Technologies Corp.",
+      "venue": "U.S. Securities and Exchange Commission (EDGAR)",
+      "year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026043411/spaceexplorationtechnologi.htm",
+      "quote_checked": "based on an implied equity value of Cursor of $60.0 billion | Merger Sub will merge with and into Cursor, with Cursor surviving the merger as a wholly owned subsidiary"
+    }
+  ]
+}

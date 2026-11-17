@@ -1,0 +1,66 @@
+{
+  "hero": "Nick Bostrom",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Curriculum Vitae",
+      "by": "Nick Bostrom",
+      "venue": "nickbostrom.com",
+      "year": 2026,
+      "url": "https://nickbostrom.com/cv.pdf"
+    },
+    {
+      "id": "S2",
+      "type": "paper",
+      "title": "Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards",
+      "by": "Nick Bostrom",
+      "venue": "Journal of Evolution and Technology",
+      "year": 2002,
+      "url": "https://nickbostrom.com/papers/existential-risks/existential-risks.pdf",
+      "quote_checked": "These are threats that could cause our extinction or destroy the potential of Earth-originating intelligent life."
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents",
+      "by": "Nick Bostrom",
+      "venue": "Minds and Machines",
+      "year": 2012,
+      "url": "https://nickbostrom.com/superintelligentwill.pdf",
+      "quote_checked": "Intelligence and final goals are orthogonal axes along which possible agents can freely vary. / Several instrumental values can be identified which are convergent in the sense that their attainment would increase the chances of the agent’s goal being realized for a wide range of final goals and a wide range of situations."
+    },
+    {
+      "id": "S4",
+      "type": "paper",
+      "title": "The Vulnerable World Hypothesis",
+      "by": "Nick Bostrom",
+      "venue": "Global Policy",
+      "year": 2019,
+      "url": "https://nickbostrom.com/papers/vulnerable.pdf",
+      "quote_checked": "one in which there is some level of technological development at which civilization almost certainly gets devastated by default / Is there a black ball in the urn of possible inventions? / Technology policy should not unquestioningly assume that all technological progress is beneficial, or that complete scientific openness is always best"
+    },
+    {
+      "id": "S5",
+      "type": "paper",
+      "title": "Are You Living in a Simulation?",
+      "by": "Nick Bostrom",
+      "venue": "Philosophical Quarterly",
+      "year": 2003,
+      "url": "https://www.simulation-argument.com/simulation.html",
+      "quote_checked": "we are almost certainly living in a computer simulation"
+    },
+    {
+      "id": "S6",
+      "type": "interview",
+      "title": "Episode 224: The Path to Utopia (with Nick Bostrom)",
+      "by": "Spencer Greenberg and Nick Bostrom",
+      "venue": "Clearer Thinking podcast",
+      "year": 2024,
+      "url": "https://podcast.clearerthinking.org/episode/224/nick-bostrom-the-path-to-utopia",
+      "quote_checked": "I call it a \"solved world\" and even a \"plastic world.\" / there would just not be any demand for human labor"
+    }
+  ]
+}

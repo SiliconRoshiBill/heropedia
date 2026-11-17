@@ -1,0 +1,57 @@
+{
+  "hero": "Mustafa Suleyman",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Seemingly Conscious AI is Coming",
+      "by": "Mustafa Suleyman",
+      "venue": "mustafa-suleyman.ai",
+      "year": 2025,
+      "url": "https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming",
+      "quote_checked": "one that has all the hallmarks of other conscious beings and thus appears to be conscious | This development will be a dangerous turn in AI progress and deserves our immediate attention. | It disconnects people from reality, fraying fragile social bonds and structures, distorting pressing moral priorities. | AI companies shouldn't claim or encourage the idea that their AIs are conscious. | we should build AI that only ever presents itself as an AI | some AI systems will be welfare subjects and moral patients in the near future | This is both premature, and frankly dangerous."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Mustafa Suleyman, DeepMind and Inflection Co-founder, joins Microsoft to lead Copilot",
+      "by": "Satya Nadella (Official Microsoft Blog)",
+      "venue": "Official Microsoft Blog",
+      "year": 2024,
+      "url": "https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/",
+      "quote_checked": "Mustafa will be EVP and CEO, Microsoft AI, and joins the senior leadership team (SLT), reporting to me. | a new organization called Microsoft AI, focused on advancing Copilot and our other consumer AI products and research. | Karén is joining this group as Chief Scientist, reporting to Mustafa."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Towards Humanist Superintelligence",
+      "by": "Mustafa Suleyman",
+      "venue": "Microsoft AI",
+      "year": 2025,
+      "url": "https://microsoft.ai/blog/towards-humanist-superintelligence",
+      "quote_checked": "incredibly advanced AI capabilities that always work for, in service of, people and humanity more generally. | a non-negotiable human-centrism and a commitment to accelerating technological innovation… but in that order. | The order is key. It means proactively avoiding harm and then accelerating. | To do this we have formed the MAI Superintelligence Team, led by me as part of Microsoft AI. | we'll need to contain and align it not just once, but constantly, in perpetuity. | Not an unbounded and unlimited entity with high degrees of autonomy – but AI that is carefully calibrated, contextualized, within limits. | Instead of being designed to beat all humans at all tasks and dominate everything, HSI begins rooted in specific societal challenges that improve human well-being."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Reid Hoffman has set up a new AI company with DeepMind's co-founder",
+      "by": "Sam Shead",
+      "venue": "CNBC",
+      "year": 2022,
+      "url": "https://www.cnbc.com/2022/03/08/reid-hoffman-has-set-up-a-new-ai-company-with-deepminds-co-founder.html",
+      "quote_checked": "Inflection will be led by Suleyman, who will take on the role of CEO."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Microsoft hires Inflection founders to run new consumer AI division",
+      "by": "Manish Singh",
+      "venue": "TechCrunch",
+      "year": 2024,
+      "url": "https://techcrunch.com/2024/03/19/microsoft-hires-inflection-founders-to-run-new-consumer-ai-division/",
+      "quote_checked": "They include some of the most accomplished AI engineers, researchers, and builders in the world."
+    }
+  ]
+}
