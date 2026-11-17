@@ -1,0 +1,56 @@
+{
+  "hero": "Vladimir Putin",
+  "role": "President",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Tucker Carlson Interviews Vladimir Putin",
+      "by": "Tucker Carlson",
+      "venue": "Rev.com transcript",
+      "year": 2024,
+      "url": "https://www.rev.com/blog/transcripts/tucker-carlson-interviews-vladimir-putin-transcript",
+      "quote_checked": "We did not start this war in 2022"
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "Russia's Putin rules out ceasefire with Ukraine during speech in Moscow",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow",
+      "quote_checked": "It is simply ridiculous"
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "On the Historical Unity of Russians and Ukrainians",
+      "by": "Vladimir Putin",
+      "venue": "reproduced and quoted by Meduza",
+      "year": 2021,
+      "url": "https://meduza.io/en/feature/2021/07/12/the-heirs-of-ancient-rus",
+      "quote_checked": "Modern Ukraine is utterly and completely the brainchild of the Soviet era"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "ICC issues arrest warrant for Russia's Putin over Ukraine crimes",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2023,
+      "url": "https://www.aljazeera.com/news/2023/3/17/icc-issues-arrest-warrant-for-russias-putin-over-ukraine-crimes",
+      "quote_checked": "have no meaning for our country"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Putin's rubber-stamped reelection bolsters his ambitions for Ukraine and beyond",
+      "by": "Associated Press",
+      "venue": "WEAR ABC3",
+      "year": 2024,
+      "url": "https://weartv.com/news/nation-world/russian-president-vladimir-putins-rubber-stamped-reelection-bolsters-his-ambitions-for-ukraine-and-beyond-nato-west-war-kremlin"
+    }
+  ]
+}
