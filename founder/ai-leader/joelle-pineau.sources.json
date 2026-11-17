@@ -1,0 +1,46 @@
+{
+  "hero": "Joelle Pineau",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer",
+      "by": "Maxwell Zeff",
+      "venue": "TechCrunch",
+      "year": 2025,
+      "url": "https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer",
+      "quote_checked": "A lot of players out there are quite singularly focused on AGI, superintelligence, and so on, | They haven't necessarily figured out what this AI is going to be used for. | Hiring a bunch of superstars doesn't necessarily make a superstar team | It's really about how the people work together."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Meta's head of AI research announces departure",
+      "by": "Angela Yang",
+      "venue": "NBC News",
+      "year": 2025,
+      "url": "https://www.nbcnews.com/business/business-news/metas-head-ai-research-announces-departure-rcna199165",
+      "quote_checked": "As the world undergoes significant change, as the race for AI accelerates... | I will be cheering from the sidelines"
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "Improving Reproducibility in Machine Learning Research (A Report from the NeurIPS 2019 Reproducibility Program)",
+      "by": "Joelle Pineau, Philippe Vincent-Lamarre, Koustuv Sinha, Vincent Larivière, Alina Beygelzimer, Florence d'Alché-Buc, Emily Fox, Hugo Larochelle",
+      "venue": "Journal of Machine Learning Research",
+      "year": 2021,
+      "url": "https://www.jmlr.org/beta/papers/v22/20-303.html",
+      "quote_checked": "presented and published results are sound and reliable | Reproducibility is also an important step to promote open and accessible research | Reproducibility also promotes the use of robust experimental workflows"
+    },
+    {
+      "id": "S4",
+      "type": "paper",
+      "title": "Deep Reinforcement Learning That Matters",
+      "by": "Peter Henderson, Riashat Islam, Philip Bachman, Joelle Pineau, Doina Precup, David Meger",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "year": 2018,
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/11694"
+    }
+  ]
+}

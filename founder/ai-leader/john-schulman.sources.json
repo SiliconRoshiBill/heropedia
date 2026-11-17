@@ -1,0 +1,45 @@
+{
+  "hero": "John Schulman",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "John Schulman (OpenAI Cofounder) — Reasoning, RLHF, & plan for 2027 AGI",
+      "by": "Dwarkesh Patel",
+      "venue": "Dwarkesh Podcast",
+      "year": 2024,
+      "url": "https://www.dwarkesh.com/p/john-schulman",
+      "quote_checked": "I would like to see a little bit more science and trying to understand things. | The model is just trying to produce a message that is pleasing to a human. | AI doesn't necessarily have any kind of intrinsic desire, unless we put it in the system. | I wouldn't expect improving the coherence a little bit to be all it takes to get to AGI. | If you publish methods that are really hard to implement or are really finicky, they'll tend to get forgotten."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Former OpenAI CTO Mira Murati finally unveils her Thinking Machines Lab startup and a leadership team stacked with former OpenAI colleagues",
+      "by": "Sharon Goldman",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/2025/02/18/former-openai-cto-mira-murati-finally-unveils-her-thinking-machines-lab-startup-and-a-leadership-team-stacked-with-former-openai-colleagues/"
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "Proximal Policy Optimization Algorithms",
+      "by": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov",
+      "venue": "arXiv",
+      "year": 2017,
+      "url": "https://arxiv.org/abs/1707.06347"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "OpenAI co-founder John Schulman joins rival LLM developer Anthropic",
+      "by": "Maria Deutscher",
+      "venue": "SiliconANGLE",
+      "year": 2024,
+      "url": "https://siliconangle.com/2024/08/06/openai-co-founder-john-schulman-joins-rival-llm-developer-anthropic/",
+      "quote_checked": "This choice stems from my desire to deepen my focus on AI alignment | to start a new chapter of my career where I can return to hands-on technical work"
+    }
+  ]
+}
