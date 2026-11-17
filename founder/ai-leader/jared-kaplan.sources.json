@@ -1,0 +1,57 @@
+{
+  "hero": "Jared Kaplan",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "paper",
+      "title": "Scaling Laws for Neural Language Models",
+      "by": "Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, Dario Amodei",
+      "venue": "arXiv",
+      "year": 2020,
+      "url": "https://arxiv.org/abs/2001.08361",
+      "quote_checked": "the loss scales as a power-law with model size, dataset size, and the amount of compute used for training | Performance depends strongly on scale, weakly on model shape."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Announcing our updated Responsible Scaling Policy",
+      "by": "Anthropic",
+      "venue": "Anthropic",
+      "year": 2024,
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "quote_checked": "Jared Kaplan, our Co-Founder and Chief Science Officer, will serve as Anthropic's Responsible Scaling Officer"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Anthropic's Chief Scientist Says We're Rapidly Approaching the Moment That Could Doom Us All",
+      "by": "Frank Landymore",
+      "venue": "Futurism",
+      "year": 2025,
+      "url": "https://futurism.com/artificial-intelligence/anthropic-ai-scientist-doom",
+      "quote_checked": "One is do you lose control over it? Do you even know what the AIs are doing? | The main question there is: are the AIs good for humanity? | Maybe the best AI ever is the AI that we have right now, but we really don't think that's the case. We think it's going to keep getting better."
+    },
+    {
+      "id": "S4",
+      "type": "talk",
+      "title": "Scaling and the Road to Human-Level AI",
+      "by": "Jared Kaplan",
+      "venue": "Y Combinator AI Startup School",
+      "year": 2025,
+      "url": "https://podwise.ai/episodes/4858361",
+      "quote_checked": "I think generally it's really asking very naive dumb questions that gets you very far. | And I would just ask really dumb questions like, are you sure it's an exponential? | We found that there's actually something very, very precise and surprising underlying AI training. | So many times in my experience of the last five years when it seemed like scaling was broken it was because we were doing it wrong."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Jared Kaplan, PhD",
+      "by": "Hertz Foundation",
+      "venue": "Hertz Foundation",
+      "year": 2025,
+      "url": "https://www.hertzfoundation.org/person/jared-kaplan",
+      "quote_checked": "Chief Science Officer and Co-Founder of Anthropic | instrumental in building GPT-3 and Codex at OpenAI | helping pioneer Constitutional AI"
+    }
+  ]
+}

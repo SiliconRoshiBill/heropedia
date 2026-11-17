@@ -1,0 +1,57 @@
+{
+  "hero": "Hock Tan",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Broadcom (AVGO) Q1 2026 Earnings Call Transcript",
+      "by": "Broadcom Inc. (The Motley Fool, transcript)",
+      "venue": "The Motley Fool",
+      "year": 2026,
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/03/04/broadcom-avgo-q1-2026-earnings-call-transcript",
+      "quote_checked": "We also now have a sixth customer. | We expect OpenAI to be deploying in volume their first generation XPU in 2027 at over 1 gigawatt of compute capacity. | Today, in fact, we have line of sight to achieve AI revenue from chips, just chips, in excess of $100 billion in 2027. | We have also secured the supply chain required to achieve this. | And we have fully secured capacity of these components for 2026 through 2028. | To them, as to every one of my customers in this space, it is a strategic play. | The investments these guys are making are long term. | You need the best chip that is around because you are competing against other LLM players. | Anybody can design a chip in a lab that works well. | We have been doing this for more than twenty years in silicon and, in this particular space today, in generative AI. | We will not see competition in COT for many years to come."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Is Broadcom's CEO, a Champion Deal Maker, Innovative Enough?",
+      "by": "Fox Business",
+      "venue": "Fox Business",
+      "year": 2018,
+      "url": "https://www.foxbusiness.com/features/is-broadcoms-ceo-a-champion-deal-maker-innovative-enough",
+      "quote_checked": "It's about putting together a very good portfolio of product franchises to create a lot of value. | There's no long-term vision or ambition other than that. | Frankly, we overinvest to ensure we are way ahead of No. 2 or No. 3. | It's great to innovate. | a classic engineer's biased view."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Broadcom CEO is sacrificing sales to avoid a future crash",
+      "by": "Bloomberg (via The Star)",
+      "venue": "The Star",
+      "year": 2021,
+      "url": "https://thestar.com.my/business/business-news/2021/09/03/broadcom-ceo-is-sacrificing-sales-to-avoid-a-future-crash",
+      "quote_checked": ""
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Broadcom's operating philosophy and culture",
+      "by": "inPractise (partner interview)",
+      "venue": "inPractise",
+      "year": 2023,
+      "url": "https://inpractise.com/articles/broadcom-operating-philosophy-and-culture",
+      "quote_checked": "an operator, not a financial PE person who just squeezes mature acquisitions"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "How a poor, skinny kid from Malaysia turned Broadcom into a tech conglomerate",
+      "by": "Bloomberg (via Business Day)",
+      "venue": "Business Day",
+      "year": 2022,
+      "url": "https://www.businessday.co.za/bd/companies/2022-05-28-how-a-poor-skinny-kid-from-malaysia-turned-broadcom-into-a-tech-conglomerate/",
+      "quote_checked": ""
+    }
+  ]
+}

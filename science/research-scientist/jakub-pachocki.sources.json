@@ -1,0 +1,57 @@
+{
+  "hero": "Jakub Pachocki",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "The two people shaping the future of OpenAI's research",
+      "by": "Will Douglas Heaven",
+      "venue": "MIT Technology Review",
+      "year": 2025,
+      "url": "https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/",
+      "quote_checked": "We're both researchers, we pull on technical threads. | When I joined OpenAI in 2017, I was still among the biggest skeptics at the company. | The point when computers can develop new technologies themselves seems like a very important, um, inflection point. | Two years ago the risks that we were imagining were mostly theoretical risks. | It's not really a disagreement, but there is a natural tension between these different objectives."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "by": "Will Douglas Heaven",
+      "venue": "MIT Technology Review",
+      "year": 2026,
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "quote_checked": "I think we are getting close to a point where we'll have models capable of working indefinitely | you kind of have a whole research lab in a data center. | a system that you can delegate tasks to that would take a person a few days | I expect Codex to get fundamentally better. | If we really wanted to, we could build an amazing automated mathematician. | I can have it run experiments in a weekend that previously would have taken me like a week to code | If it's so smart and capable, if it can run an entire research program, what if it does something bad? | Until you can really trust the systems, you definitely want to have restrictions in place. | I do feel personal responsibility | Even by 2028, I don't expect that we'll get systems as smart as people in all ways. | The interesting thing is you don't need to be as smart as people in all their ways in order to be very transformative."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "OpenAI's chief scientist Jakub Pachocki says there is evidence that AI models discover novel insights",
+      "by": "The Decoder staff",
+      "venue": "The Decoder",
+      "year": 2025,
+      "url": "https://the-decoder.com/openais-chief-scientist-jakub-pachocki-says-there-is-evidence-that-ai-models-discover-novel-insights/",
+      "quote_checked": "I would say it is a form of reasoning, but that doesn't mean it's the same as how humans reason | Reasoning models don't learn how to think in a vacuum, they are rooted in a model that has learned through pre-training | This for me is closest to what I previously emotionally thought of as AGI | I definitely believe we have significant evidence that the models are capable of discovering novel insights"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "In 'An Alien Mind,' OpenAI's Jakub Pachocki Urges Shared Safety Bars",
+      "by": "Unite.AI staff",
+      "venue": "Unite.AI",
+      "year": 2026,
+      "url": "https://unite.ai/in-an-alien-mind-openais-jakub-pachocki-urges-shared-safety-bars",
+      "quote_checked": "The idea of racing forward at all costs seems absurd once one internalizes the seriousness of the stakes. | Currently I believe that no lab has solved alignment and monitoring to a sufficient degree | I expect and hope for voluntary slowdowns to become commonplace until shared safety bars are established."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "OpenAI's Chief Scientist Warns No One Is Ready for AI's Next Leap, Calls for 'Extreme Caution'",
+      "by": "IBTimes staff",
+      "venue": "International Business Times",
+      "year": 2026,
+      "url": "https://www.ibtimes.com/openais-chief-scientist-warns-no-one-ready-ais-next-leap-calls-extreme-caution-3807228",
+      "quote_checked": "This is a time that calls for extreme caution. | I am concerned no one is prepared for the consequences of a continued rapid rise in machine intelligence. | Scaling AI systems has to be constrained by our confidence in safety."
+    }
+  ]
+}
