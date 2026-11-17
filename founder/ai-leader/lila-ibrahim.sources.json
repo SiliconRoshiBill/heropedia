@@ -1,0 +1,67 @@
+{
+  "hero": "Lila Ibrahim",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Lila Ibrahim: The 100 Most Influential People in AI 2023",
+      "by": "Will Henshall",
+      "venue": "TIME",
+      "year": 2023,
+      "url": "https://time.com/collection/time100-ai/6308968/lila-ibrahim",
+      "quote_checked": "It's such a powerful technology. Am I the right person? And is this the right place? | I feel like I was built for this moment. | I have twin daughters | I kept thinking: Can I tuck them in at night?"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Inside Google DeepMind's approach to AI safety",
+      "by": "Thomas Macaulay",
+      "venue": "The Next Web",
+      "year": 2023,
+      "url": "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim",
+      "quote_checked": "We believe the scientific approach is the right one for AI | New and emerging risks - such as bias, safety and inequality - should be taken extremely seriously. | This feedback enables us to refine and retrain our models to be appropriate for a broader range of audiences. | Having an interdisciplinary team with a unique set of perspectives is a crucial component"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Google DeepMind chief AI officer warns the odds of AI wiping out the human race are 'not zero' but she disagrees with Elon Musk's predictions",
+      "by": "Orianna Rosa Royle",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/08/06/google-deepmind-chief-ai-officer-statement-warning-ai-could-cause-human-extinction-odds-are-not-zero-disagrees-with-elon-musk/",
+      "quote_checked": "It's not zero. | Anything beyond that is just me guessing ... That's the engineer in me. | irresponsible of us not to talk about existential risk | I don't think we can really predict what a future state looks like. | helping prepare the world for more powerful and capable AI"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Lila Ibrahim FREng - Chief AI Readiness Officer, Google DeepMind",
+      "by": "Royal Academy of Engineering",
+      "venue": "Royal Academy of Engineering",
+      "year": 2026,
+      "url": "https://raeng.org.uk/about-us/fellowship/new-fellows-2026/lila-ibrahim-freng/",
+      "quote_checked": "helping prepare the world for more powerful and capable AI | Frontier AI Global Affairs, Strategic Initiatives and Public Engagement Lab, the Impact Accelerator, and the Responsibility team"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Google DeepMind's Chief AI Officer Got the Job With No AI Training. Here's What Set Her Apart.",
+      "by": "Sherin Shibu",
+      "venue": "Entrepreneur",
+      "year": 2026,
+      "url": "https://www.entrepreneur.com/business-news/google-deepminds-chief-ai-officer-got-the-job-with-no-ai-training",
+      "quote_checked": "lacked experience in AI or research | first chief operating officer | get really comfortable very early on in my life that I was just an outsider | opportunity is everywhere, and you are not defined by anything other than your own curiosity"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Google DeepMind's chief AI exec started out detasseling corn in Indiana for around $1 an hour at 14",
+      "by": "Orianna Rosa Royle",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/08/12/she-detasseled-corn-for-1-an-hour-at-14-now-shes-google-deepminds-chief-ai-exec-and-says-being-an-immigrants-daughter-made-her-a-natural-first/",
+      "quote_checked": "I always felt like I saw opportunity where others didn't, and I saw solutions in places where others didn't."
+    }
+  ]
+}
