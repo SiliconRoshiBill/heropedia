@@ -1,5 +1,6 @@
 ---
 hero: Steve Cohen
+hero_zh: 史蒂夫·科恩
 role: Point72 Trading War Room
 profession: finance
 author: jieqian2006

@@ -1,5 +1,6 @@
 ---
 hero: Josef Albers
+hero_zh: 约瑟夫·阿尔伯斯
 role: Product Designer
 profession: design
 author: cwu1819

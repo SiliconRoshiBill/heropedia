@@ -1,5 +1,6 @@
 ---
 hero: Yoshua Bengio + Geoffrey Hinton + Stuart Russell + Demis Hassabis
+hero_zh: 约书亚·本吉奥 + 杰弗里·辛顿 + 斯图尔特·罗素 + 戴密斯·哈萨比斯
 role: AI Security Specialist
 profession: engineering
 author: zebointexas

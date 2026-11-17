@@ -1,5 +1,6 @@
 ---
 hero: Abraham Verghese
+hero_zh: 亚伯拉罕·韦尔盖塞
 role: Community Health Diagnostician
 profession: healthcare
 author: glu898

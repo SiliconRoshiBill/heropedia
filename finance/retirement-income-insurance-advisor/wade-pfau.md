@@ -1,5 +1,6 @@
 ---
 hero: Wade Pfau
+hero_zh: 韦德·福
 role: Retirement planner
 profession: finance
 author: huihuizhang912

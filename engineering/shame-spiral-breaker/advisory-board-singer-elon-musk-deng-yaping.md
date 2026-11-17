@@ -1,5 +1,6 @@
 ---
 hero: "Advisory Board: Singer, Elon Musk & Deng Yaping"
+hero_zh: 顾问团：辛格、埃隆·马斯克、邓亚萍
 role: Shame Spiral Breaker-羞耻螺旋断路器
 profession: engineering
 author: Supermamasgal

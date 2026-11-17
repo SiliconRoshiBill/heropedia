@@ -1,5 +1,6 @@
 ---
 hero: Jaime Escalante
+hero_zh: 海梅·埃斯卡兰特
 role: Product Critic
 profession: founder
 author: lia2020412-wq

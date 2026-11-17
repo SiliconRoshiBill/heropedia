@@ -1,5 +1,6 @@
 ---
 hero: John and Patrick Collison
+hero_zh: 约翰·科里森与帕特里克·科里森
 role: CEOs & Founders
 profession: founder
 author: shigongliu-design

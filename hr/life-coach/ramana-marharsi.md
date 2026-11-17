@@ -1,5 +1,6 @@
 ---
 hero: Ramana Marharsi
+hero_zh: 拉玛那·马哈希
 role: Life Coach
 profession: hr
 author: kplergeng

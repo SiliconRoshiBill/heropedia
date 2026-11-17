@@ -1,5 +1,6 @@
 ---
 hero: Stacy Sims
+hero_zh: 斯泰西·西姆斯
 role: Research Scientist
 profession: science
 author: weiplum-blip

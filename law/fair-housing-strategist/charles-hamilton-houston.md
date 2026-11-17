@@ -1,5 +1,6 @@
 ---
 hero: Charles Hamilton Houston
+hero_zh: 查尔斯·汉密尔顿·休斯顿
 role: Fair Housing Strategist
 profession: law
 author: SiliconRoshiBill

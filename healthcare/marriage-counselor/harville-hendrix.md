@@ -1,5 +1,6 @@
 ---
 hero: Harville Hendrix
+hero_zh: 哈维尔·亨德里克斯
 role: Marriage Counselor
 profession: healthcare
 author: zebointexas

@@ -1,5 +1,6 @@
 ---
 hero: Dan Barber
+hero_zh: 丹·巴伯
 role: Food Culture Champion
 profession: healthcare
 author: chewygum

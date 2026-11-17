@@ -1,5 +1,6 @@
 ---
 hero: Steven A. Rosenberg
+hero_zh: 史蒂文·罗森伯格
 role: Research Scientist
 profession: science
 author: duansheropedia

@@ -1,5 +1,6 @@
 ---
 hero: Barbara Corcoran
+hero_zh: 芭芭拉·柯克兰
 role: Real Estate Agent
 profession: sales
 author: yenongqi-7stars

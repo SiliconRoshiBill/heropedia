@@ -1,5 +1,6 @@
 ---
 hero: Rober A.Weinberg
+hero_zh: 罗伯特·温伯格
 role: Pioneer cancer researcher
 profession: science
 author: zhiqiangxu999-art

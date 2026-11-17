@@ -1,5 +1,6 @@
 ---
 hero: Rick Steves
+hero_zh: 里克·史蒂夫斯
 role: Travel Writer
 profession: writing
 author: telg

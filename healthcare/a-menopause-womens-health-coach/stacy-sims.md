@@ -1,5 +1,6 @@
 ---
 hero: Stacy Sims
+hero_zh: 斯泰西·西姆斯
 role: a menopause women’s health coach.
 profession: healthcare
 author: AnnieFeng-AI

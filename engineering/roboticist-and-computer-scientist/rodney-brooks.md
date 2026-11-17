@@ -1,5 +1,6 @@
 ---
 hero: Rodney Brooks
+hero_zh: 罗德尼·布鲁克斯
 role: Roboticist and Computer Scientist
 profession: engineering
 author: gnuhcw

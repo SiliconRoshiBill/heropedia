@@ -1,5 +1,6 @@
 ---
 hero: Frank Parsons
+hero_zh: 弗兰克·帕森斯
 role: Educator
 profession: hr
 author: Darkishdreaming

@@ -1,5 +1,6 @@
 ---
 hero: Jack Dangermond
+hero_zh: 杰克·丹杰蒙德
 role: Geospatial Engineer
 profession: engineering
 author: RickyDyq

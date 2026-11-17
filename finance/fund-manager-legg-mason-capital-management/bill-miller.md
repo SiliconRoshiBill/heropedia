@@ -1,5 +1,6 @@
 ---
 hero: Bill Miller
+hero_zh: 比尔·米勒
 role: Fund Manager Legg Mason Capital Management
 profession: finance
 author: tonyzheng

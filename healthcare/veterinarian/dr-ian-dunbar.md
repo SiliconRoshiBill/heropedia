@@ -1,5 +1,6 @@
 ---
 hero: Dr Ian Dunbar
+hero_zh: 伊恩·邓巴
 role: Veterinarian
 profession: healthcare
 author: vivian-w-guo

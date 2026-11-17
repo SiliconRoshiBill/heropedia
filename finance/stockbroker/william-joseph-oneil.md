@@ -1,5 +1,6 @@
 ---
 hero: William Joseph O'Neil
+hero_zh: 威廉·欧奈尔
 role: stockbroker
 profession: finance
 author: Jianxia02

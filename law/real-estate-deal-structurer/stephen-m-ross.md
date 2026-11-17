@@ -1,5 +1,6 @@
 ---
 hero: Stephen M. Ross
+hero_zh: 斯蒂芬·罗斯
 role: Real Estate Deal Structurer
 profession: law
 author: SiliconRoshiBill

@@ -1,5 +1,6 @@
 ---
 hero: Valentina Lisitsa
+hero_zh: 瓦伦蒂娜·丽西卡
 role: Piano master
 profession: creator
 author: zhiqiangxu999-art

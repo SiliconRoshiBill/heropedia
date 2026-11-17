@@ -1,5 +1,6 @@
 ---
 hero: Jakob Ingebrigtsen
+hero_zh: 雅各布·英格布里格森
 role: Running Coach
 profession: sports
 author: thehungrypanda68

@@ -1,5 +1,6 @@
 ---
 hero: Stewart Butterfield
+hero_zh: 斯图尔特·巴特菲尔德
 role: Founder Advisor
 profession: founder
 author: feng kintimono

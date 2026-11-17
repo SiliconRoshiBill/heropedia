@@ -1,5 +1,6 @@
 ---
 hero: Steve Huffman + Alexis Ohanian + Paul Graham  (Forum Specialist)
+hero_zh: 史蒂夫·霍夫曼 + 亚历克西斯·奥哈尼安 + 保罗·格雷厄姆
 role: Forum Specialist
 profession: engineering
 author: zebointexas

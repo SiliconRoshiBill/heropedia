@@ -1,5 +1,6 @@
 ---
 hero: Richard A. Epstein
+hero_zh: 理查德·爱泼斯坦
 role: Property Rights & Rent Control Critic
 profession: law
 author: SiliconRoshiBill

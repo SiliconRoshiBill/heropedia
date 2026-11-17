@@ -1,5 +1,6 @@
 ---
 hero: Sidney Farber
+hero_zh: 西德尼·法伯
 role: cancer researcher
 profession: science
 author: LauraL2026

@@ -1,5 +1,6 @@
 ---
 hero: Alexandr Wang
+hero_zh: 亚历山大·王
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

@@ -1,5 +1,6 @@
 ---
 hero: Ric Edelman
+hero_zh: 里克·埃德尔曼
 role: Financial Advisor
 profession: finance
 author: Ying S

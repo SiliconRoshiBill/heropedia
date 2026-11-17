@@ -1,5 +1,6 @@
 ---
 hero: Jason Fried + Don Norman + Ethan Marcotte + Seth Godin + Derek Sivers
+hero_zh: 贾森·弗里德 + 唐·诺曼 + 伊森·马科特 + 赛斯·高汀 + 德里克·西弗斯
 role: Heroes for life web app development
 profession: engineering
 author: zebointexas
