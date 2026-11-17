@@ -1,0 +1,64 @@
+{
+  "hero": "Kevin Scott",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Kevin Scott",
+      "by": "Computer History Museum",
+      "venue": "Computer History Museum profile",
+      "year": 2026,
+      "url": "https://computerhistory.org/profile/kevin-scott/"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Kevin Scott",
+      "by": "Microsoft News",
+      "venue": "Microsoft executive bio",
+      "year": 2026,
+      "url": "https://news.microsoft.com/exec/kevin-scott/"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Reprogramming the American Dream",
+      "by": "Microsoft News",
+      "venue": "Microsoft News",
+      "year": 2020,
+      "url": "https://news.microsoft.com/reprogramming-the-american-dream/"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Microsoft CTO Kevin Scott on How Far Scaling Laws Will Extend",
+      "by": "Pat Grady and Bill Coughran with Kevin Scott",
+      "venue": "Training Data (Sequoia Capital)",
+      "year": 2024,
+      "url": "https://sequoiacap.com/podcast/training-data-kevin-scott",
+      "quote_checked": "So like, we want to build, you know, assistive, not substitutive, tech. | And I think most engineers are like, short term pessimists, long term optimists. | Like saying, nope, scale is what matters | you just want to architect these applications where when the new goodness comes, you can go plug it in | we'd rather have it be very good before we introduce it"
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "Microsoft's AI Vision: An Open Internet Made for Agents",
+      "by": "Dan Shipper with Kevin Scott",
+      "venue": "AI & I (Every)",
+      "year": 2025,
+      "url": "https://every.to/podcast/transcript-microsoft-s-ai-vision-an-open-internet-made-for-agents",
+      "quote_checked": "I've been talking a lot lately about this thing called the capability overhang. | close the gap between what the models are actually capable of and what we're delivering to users of that capability | serving the same purpose in this agentic web as HTTP does on the internet"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "5 AI insights from Microsoft CTO Kevin Scott",
+      "by": "Microsoft News (Signal)",
+      "venue": "Microsoft News",
+      "year": 2025,
+      "url": "https://news.microsoft.com/signal/articles/5-ai-insights-from-microsoft-cto-kevin-scott/",
+      "quote_checked": "Do the experiments. Try things. | I would really encourage folks to not be precious about the possibility of failure. | The category error here is thinking that it's got to be either/or"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "hero": "Liang Wenfeng",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Deepseek: The Quiet Giant Leading China's AI Race",
+      "by": "Lily Yu (Waves/36Kr), translated by ChinaTalk",
+      "venue": "ChinaTalk",
+      "year": 2024,
+      "url": "https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas",
+      "quote_checked": "We will not change to closed source. We believe having a strong technical ecosystem first is more important. | In the face of disruptive technologies, moats created by closed source are temporary. | Open source, publishing papers, in fact, do not cost us anything. | We are mostly fresh graduates from top universities, PhD candidates in their fourth or fifth year, and some young people who graduated just a few years ago. | Our hiring standard has always been passion and curiosity. | What we see is that Chinese AI can't be in the position of following forever. | Money has never been the problem for us; bans on shipments of advanced chips are the problem. | More investments do not equal more innovation. | we don't subsidize nor make exorbitant profits. | Our ultimate goal is still to achieve AGI."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Who is Liang Wenfeng, the founder of Chinese AI startup DeepSeek?",
+      "by": "Jessica Mathews and Jason Ma",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/2025/01/29/deepseek-tech-ai-liang-wenfeng-founder/",
+      "quote_checked": "It is like buying a piano. | only emphasized making money and ignored innovation."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "The Deep Roots of DeepSeek: How It All Began",
+      "by": "Yu Lili (36Kr), translated and republished by Tony Peng",
+      "venue": "Recode China AI",
+      "year": 2025,
+      "url": "https://www.recodechinaai.com/p/the-deep-roots-of-deepseek-how-it",
+      "quote_checked": "Many might think there's an undisclosed business logic behind this, but in reality, it's primarily driven by curiosity. | For researchers, the thirst for computational power is insatiable. | Our goal is clear: not to focus on verticals and applications, but on research and exploration. | Innovation often arises spontaneously, not through deliberate arrangement, nor can it be taught. | But in the long run, experience is less important; foundational abilities, creativity, and passion are more crucial. | A principle at High-Flyer is to look at ability, not experience."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Founder says DeepSeek prioritises AGI over profit, likely to keep top models open-source, Yicai reports",
+      "by": "Reuters (citing Yicai)",
+      "venue": "The Express Tribune",
+      "year": 2026,
+      "url": "https://tribune.com.pk/story/2619851/founder-says-deepseek-prioritisesprofit-likely-to-keep-top-models-open-source-yicai-reports",
+      "quote_checked": "I hope to be able to buy chips at a reasonable price so that I don't have to make chips myself"
+    }
+  ]
+}
