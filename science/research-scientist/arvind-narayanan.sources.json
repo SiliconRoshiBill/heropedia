@@ -1,0 +1,67 @@
+{
+  "hero": "Arvind Narayanan",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "How to recognize AI snake oil",
+      "by": "Arvind Narayanan",
+      "venue": "MIT Science, Technology, and Society talk slides",
+      "year": 2019,
+      "url": "https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf",
+      "quote_checked": "Much of what's being sold as \"AI\" today is snake oil — it does not and cannot work. | This product is essentially an elaborate random number generator. | I will focus the rest of my talk on this third category, where there's a lot of snake oil. | For predicting social outcomes, AI is not substantially better than manual scoring using just a few features"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "The Princeton researchers calling out AI snake oil",
+      "by": "Louise Matsakis",
+      "venue": "Semafor",
+      "year": 2023,
+      "url": "https://www.semafor.com/article/09/15/2023/the-princeton-researchers-calling-out-ai-snake-oil",
+      "quote_checked": "The key distinction that we make is between predictive AI and generative AI. | In our view, most of the snake oil is concentrated in predictive AI. | When we say snake oil, it's an AI that doesn't work at all — not just an AI that doesn't live up to its hype | It's claiming that you can predict the future using AI — that's the thing that grinds our gears the most."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "A new book tackles AI hype — and how to spot it",
+      "by": "Carolyn Wilke",
+      "venue": "Science News",
+      "year": 2024,
+      "url": "https://www.sciencenews.org/article/ai-snake-oil-how-to-spot-hype",
+      "quote_checked": "AI that does not and cannot work as advertised. | It is in this arena that most AI snake oil is concentrated | Predictive AI not only does not work today, but will likely never work"
+    },
+    {
+      "id": "S4",
+      "type": "paper",
+      "title": "AI as Normal Technology",
+      "by": "Arvind Narayanan and Sayash Kapoor",
+      "venue": "Knight First Amendment Institute at Columbia University",
+      "year": 2025,
+      "url": "https://knightcolumbia.org/content/ai-as-normal-technology",
+      "quote_checked": "We do not think that viewing AI as a humanlike intelligence is currently accurate or useful. | This 'capability-reliability gap' shows up over and over. | Catastrophic misalignment is (by far) the most speculative of the risks that we discuss."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Learn the Red Flags of Overhyped AI Claims",
+      "by": "Eliza Strickland",
+      "venue": "IEEE Spectrum",
+      "year": 2024,
+      "url": "https://spectrum.ieee.org/learn-the-red-flags-of-overhyped-ai-claims",
+      "quote_checked": "A good way to start critically evaluating AI claims is by asking questions about the training data. | it is unrealistic to expect the company as a whole to resist financial imperatives."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "About",
+      "by": "Arvind Narayanan and Sayash Kapoor",
+      "venue": "AI as Normal Technology (newsletter, formerly AI Snake Oil)",
+      "year": 2026,
+      "url": "https://www.normaltech.ai/about",
+      "quote_checked": "AI as transformative but normal technology, not superintelligence"
+    }
+  ]
+}
