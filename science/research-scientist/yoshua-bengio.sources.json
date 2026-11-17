@@ -1,0 +1,67 @@
+{
+  "hero": "Yoshua Bengio",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Yoshua Bengio — Team",
+      "by": "LawZero",
+      "venue": "LawZero.org",
+      "year": 2025,
+      "url": "https://lawzero.org/en/team/yoshua-bengio",
+      "quote_checked": "Yoshua Bengio is the recipient of the 2018 A.M. Turing Award | Yoshua decided to devote the rest of his career to mitigating catastrophic AI risks"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Yoshua Bengio Launches LawZero: A New Nonprofit Advancing Safe-by-Design AI",
+      "by": "LawZero",
+      "venue": "LawZero.org",
+      "year": 2025,
+      "url": "https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai",
+      "quote_checked": "the result of the new scientific direction I undertook in 2023 | the rapid progress made by private labs toward Artificial General Intelligence and beyond | my team's constructive response to these challenges | an approach to AI that is not only powerful but also fundamentally safe | The protection of human joy and endeavour."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Personal and Psychological Dimensions of AI Researchers Confronting AI Catastrophic Risks",
+      "by": "Yoshua Bengio",
+      "venue": "yoshuabengio.org",
+      "year": 2023,
+      "url": "https://yoshuabengio.org/en/blog/personal-and-psychological-dimensions-ai-researchers-confronting-ai-catastrophic-risks",
+      "quote_checked": "I now believe that I was wrong and short-sighted to ignore that dual-use nature. | I also think I was not paying enough attention to the possibility of losing control to superhuman AIs. | It is truly horrible to even entertain these thoughts and some days, I wish I could just brush them away."
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "'AI Godfather' Yoshua Bengio: We need a humanity defense organization",
+      "by": "Susan D'Agostino",
+      "venue": "Bulletin of the Atomic Scientists",
+      "year": 2023,
+      "url": "https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/",
+      "quote_checked": "In the future, we'll need a humanity defense organization. | But delaying that by, say, 10 years would be great. | Time is of the essence, and regulation can reduce the probabilities of catastrophes"
+    },
+    {
+      "id": "S5",
+      "type": "paper",
+      "title": "Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?",
+      "by": "Yoshua Bengio et al.",
+      "venue": "arXiv",
+      "year": 2025,
+      "url": "https://arxiv.org/abs/2502.15657",
+      "quote_checked": "unchecked AI agency poses significant risks to public safety and security | a potentially irreversible loss of human control | a non-agentic AI system that is trustworthy and safe by design, which we call Scientist AI"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "The International Scientific Report on the Safety of Advanced AI",
+      "by": "Yoshua Bengio",
+      "venue": "yoshuabengio.org",
+      "year": 2025,
+      "url": "https://yoshuabengio.org/en/blog/international-scientific-report-safety-advanced-ai",
+      "quote_checked": "It clarifies where uncertainty and disagreements exist within the scientific community"
+    }
+  ]
+}

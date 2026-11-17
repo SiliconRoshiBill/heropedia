@@ -1,0 +1,67 @@
+{
+  "hero": "Demis Hassabis",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Google DeepMind's Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry",
+      "by": "Google DeepMind",
+      "venue": "Google Blog",
+      "year": 2024,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-deepmind-demis-hassabis-john-jumper-nobel-prize-chemistry-alphafold/",
+      "quote_checked": "Receiving the Nobel Prize is the honour of a lifetime. | AlphaFold has already been used by more than two million researchers to advance critical work, from enzyme design to drug discovery. | I hope we'll look back on AlphaFold as the first proof point of AI's incredible potential to accelerate scientific discovery. | Co-founder and CEO of Google DeepMind and Isomorphic Labs"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games (#475)",
+      "by": "Lex Fridman",
+      "venue": "Lex Fridman Podcast",
+      "year": 2025,
+      "url": "https://lexfridman.com/demis-hassabis-2-transcript",
+      "quote_checked": "My estimate is sort of 50% chance by in the next five years, so by 2030 let's say. | It isn't kind of a jagged intelligence where some things, it's really good at | you'd want that consistency of intelligence across the board | that's our sweet spot and I think that's harder. It's harder to invent things than to fast follow. | there's no such thing as failure really. As long as you are picking experiments and hypotheses that meaningfully split the hypothesis space | picking the right question is the hardest part of science | I'm not sure it's even desirable because that's a kind of hard takeoff scenario | I don't have a P-Doom number. The reason I don't is because I think it would imply a level of precision that is not there | it's definitely non-zero and it's probably non-negligible | it's clear to me the only rational, sensible approach is to proceed with cautious optimism | With AlphaGo, we just use Monte Carlo Tree Search and that's what found move 37, the new never seen before strategy in Go"
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Demis Hassabis Thinks We're in the Foothills of the Singularity",
+      "by": "Jonathan Levin with Demis Hassabis",
+      "venue": "Stanford Graduate School of Business",
+      "year": 2026,
+      "url": "https://www.gsb.stanford.edu/insights/demis-hassabis-thinks-were-foothills-singularity",
+      "quote_checked": "Step one: Solve intelligence. Step two: Use it to solve everything else. | And people were quite confused. But we really meant it. | Ten years from now, I think we'll realize that we were standing in the foothills of the singularity now."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Google DeepMind CEO Demis Hassabis gets UK knighthood for 'services to artificial intelligence'",
+      "by": "Paul Sawers",
+      "venue": "TechCrunch",
+      "year": 2024,
+      "url": "https://techcrunch.com/2024/03/29/google-deepmind-ceo-demis-hassabis-gets-uk-knighthood-for-services-to-artificial-intelligence",
+      "quote_checked": "services to artificial intelligence | Born in London in 1976 | lead programmer at Bullfrog Productions | Graduated from the University of Cambridge in Computer Science and earned a PhD in cognitive neuroscience from University College London | Co-founded DeepMind in 2010 with Shane Legg and Mustafa Suleyman | Received a CBE in 2017 | Google acquired DeepMind in 2014"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Demis Hassabis – Facts",
+      "by": "Royal Swedish Academy of Sciences",
+      "venue": "NobelPrize.org",
+      "year": 2024,
+      "url": "https://www.nobelprize.org/prizes/chemistry/2024/hassabis/facts/",
+      "quote_checked": "Born: 27 July 1976, London, United Kingdom | Prize motivation: \"for protein structure prediction\" | Prize share: 1/4 | In 2020, Demis Hassabis and John Jumper presented an AI model called AlphaFold2. With its help, they have been able to predict the structure of virtually all known proteins."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Google's AlphaGo AI wins astounding 4-1 victory against Lee Sedol",
+      "by": "Eric David",
+      "venue": "SiliconANGLE",
+      "year": 2016,
+      "url": "https://siliconangle.com/2016/03/15/googles-alphago-ai-wins-astounding-4-1-victory-against-lee-sedol/",
+      "quote_checked": "I'm kind of speechless | DeepMind founder Demis Hassabis said in a post-game press conference | AlphaGo, an AI developed by Google's DeepMind project, has successfully defeated legendary Go player Lee Sedol"
+    }
+  ]
+}
