@@ -1,0 +1,55 @@
+{
+  "hero": "Judea Pearl",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "To Build Truly Intelligent Machines, Teach Them Cause and Effect",
+      "by": "Kevin Hartnett",
+      "venue": "Quanta Magazine",
+      "year": 2018,
+      "url": "https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/",
+      "quote_checked": "All the impressive achievements of deep learning amount to just curve fitting. | If a machine does not have a model of reality, you cannot expect the machine to behave intelligently in that reality. | Associations are not enough -- and this is a mathematical fact, not opinion."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "What Statisticians Want to Know about Causal Inference and The Book of Why",
+      "by": "Judea Pearl (interviewed by David Hand)",
+      "venue": "Causal Analysis in Theory and Practice",
+      "year": 2020,
+      "url": "https://causality.cs.ucla.edu/blog/?p=2214",
+      "quote_checked": "most statisticians are watching these debates as outsiders, instead of trying out simple examples from beginning to end. | the bulk of mainstream statistics has been glaringly disinterested in causal matters. | the differences are more among historical traditions, or 'frameworks' than among scientific principles. | Avoiding graphs conceals what knowledge one has, as well as what doubts one entertains. | the Rosetta Stone of causal analysis"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "AI innovator Judea Pearl wins 2011 Turing Award",
+      "by": "SD Times staff",
+      "venue": "SD Times",
+      "year": 2012,
+      "url": "https://sdtimes.com/ai/ai-innovator-judea-pearl-wins-2011-turing-award/",
+      "quote_checked": "graphical methods and symbolic calculus that enable machines to reason about actions and observations | to assess cause-and-effect relationships from empirical findings"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "The Book of Why",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2018,
+      "url": "https://en.wikipedia.org/wiki/The_Book_of_Why"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Judea Pearl Named AI Pioneer by Boston Global Forum in Honor of America's 250th Anniversary",
+      "by": "UCLA Samueli School of Engineering",
+      "venue": "UCLA Samueli",
+      "year": 2026,
+      "url": "https://samueli.ucla.edu/?p=91527"
+    }
+  ]
+}
