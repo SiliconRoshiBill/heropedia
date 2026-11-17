@@ -1,0 +1,65 @@
+{
+  "hero": "Pieter Abbeel",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Pieter Abbeel",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Pieter_Abbeel"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Amazon hires three of the founders of AI robotics company Covariant, licenses its technology",
+      "by": "About Amazon staff",
+      "venue": "About Amazon",
+      "year": 2024,
+      "url": "https://aboutamazon.com/news/company-news/amazon-covariant-ai-robots",
+      "quote_checked": "robotic foundation models help robots see, reason, and act on the world around them"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Andy Jassy makes Amazon leadership announcement",
+      "by": "About Amazon staff",
+      "venue": "About Amazon",
+      "year": 2025,
+      "url": "https://www.aboutamazon.com/news/company-news/andy-jassy-peter-desantis-amazon-leadership-update",
+      "quote_checked": "Pieter Abbeel will lead our frontier model research team | Pieter is one of the world's leading AI researchers, and co-founder of Covariant."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Pieter Abbeel and Ken Goldberg on generative AI applications",
+      "by": "Brian Heater",
+      "venue": "TechCrunch",
+      "year": 2023,
+      "url": "https://techcrunch.com/2023/06/15/pieter-abbeel-and-ken-goldberg-on-generative-ai-applications",
+      "quote_checked": "A foundation model is a model that is trained on a lot of data | the key is not just large. It's very diverse. | You never have everything covered. So, you need to generalize to new items."
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "Pieter Abbeel: Deep Reinforcement Learning",
+      "by": "Lex Fridman",
+      "venue": "Lex Fridman Podcast #10",
+      "year": 2018,
+      "url": "https://lawwu.github.io/transcripts/l-mYLq6eZPY.html",
+      "quote_checked": "if you have something you can mathematically formalize, you can leapfrog a lot of experimentation | Not any single one of them is sufficiently representative of the real world | One is that the robot is physically strong and of course could do a lot of damage | whenever you can turn something into self-play, you're in a beautiful situation"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Brief Bio",
+      "by": "Pieter Abbeel",
+      "venue": "UC Berkeley EECS",
+      "year": 2026,
+      "url": "https://people.eecs.berkeley.edu/~pabbeel/brief_bio.html"
+    }
+  ]
+}
