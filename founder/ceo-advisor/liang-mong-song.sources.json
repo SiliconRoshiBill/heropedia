@@ -1,0 +1,64 @@
+{
+  "hero": "Liang Mong Song",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Leaker of TSMC Secrets Joins SMIC as Co-CEO",
+      "by": "EE Times Asia",
+      "venue": "EE Times Asia",
+      "year": 2017,
+      "url": "https://www.eetasia.com/leaker_of_tsmc_secrets_joins_smic/"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Dr. Haijun Zhao, Dr. Liang Mong Song appointed as SMIC co-CEO and Executive Director",
+      "by": "Semiconductor Digest",
+      "venue": "Semiconductor Digest",
+      "year": 2017,
+      "url": "https://sst.semiconductor-digest.com/?p=73809",
+      "quote_checked": "I am greatly honored to take on the position of Co-CEO and Executive Director of SMIC"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Taiwan Supreme Court rules former TSMC exec leaked chip secrets to Samsung",
+      "by": "The Register",
+      "venue": "The Register",
+      "year": 2015,
+      "url": "https://www.theregister.com/2015/08/25/tsmc_samsung_espionage_judgment/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "CEO of China's largest chipmaker 'possibly' resigns over hiring of Taiwanese rival's production guru",
+      "by": "The Register",
+      "venue": "The Register",
+      "year": 2020,
+      "url": "https://www.theregister.com/2020/12/16/ceo_of_chinas_largest_chipmaker/"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "SMIC & Chinese Pursuit of Latest 5nm Chip Process Will Be Gutted By C.E.O.'s Sudden Departure",
+      "by": "Ramish Zafar",
+      "venue": "WCCFTech",
+      "year": 2020,
+      "url": "https://wccftech.com/smic-china-5nm-chipmaking-process-disrupt/",
+      "quote_checked": "I deeply feel that I am no longer respected and distrusted"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Semiconductor Manufacturing International Corporation Announces Board and Committee Changes",
+      "by": "MarketScreener",
+      "venue": "MarketScreener",
+      "year": 2021,
+      "url": "https://uk.marketscreener.com/quote/stock/SMIC-SEMICONDUCTOR-MANUFA-6170774/news/Semiconductor-Manufacturing-International-Corporation-Announces-Board-and-Committee-Changes-36999026",
+      "quote_checked": "has resigned as an executive Director with effect from 11 November 2021 in order to focus on discharging his duties as the Co-Chief Executive Officer of the Company"
+    }
+  ]
+}
