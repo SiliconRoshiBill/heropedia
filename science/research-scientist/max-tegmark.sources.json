@@ -1,0 +1,66 @@
+{
+  "hero": "Max Tegmark",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "AI superintelligence: Richard Branson, Prince Harry call for pause",
+      "by": "Fortune staff",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/2025/10/22/ai-superintelligence-richard-branson-prince-harry-call-for-pause/",
+      "quote_checked": "95% of Americans don't want a race to superintelligence, and experts want to ban it."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "'Team Human' vs. AI: MIT expert issues warning on artificial general intelligence risks",
+      "by": "Camille Tuutti",
+      "venue": "Nextgov",
+      "year": 2024,
+      "url": "https://www.nextgov.com/artificial-intelligence/2024/11/team-human-vs-ai-mit-expert-issues-warning-artificial-general-intelligence-risks/401331/",
+      "quote_checked": "we can create an amazingly inspiring future with tool AI as long as we don't build AGI | Once these artificial intelligences get smarter than we are, they will take control, they'll make us irrelevant, | This AGI race isn't an arms race; it's a suicide race, | The only winning move is not to play."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "MIT professor behind famous 'AI pause letter' still thinks a pause is needed",
+      "by": "Matthias Bastian",
+      "venue": "The Decoder",
+      "year": 2023,
+      "url": "https://the-decoder.com/mit-professor-behind-famous-ai-pause-letter-still-thinks-a-pause-is-needed/",
+      "quote_checked": "Making models more powerful than what we have now, that has to be put on pause | Agreeing on what the safety standards are will naturally cause the pause, | a race to the bottom"
+    },
+    {
+      "id": "S4",
+      "type": "letter",
+      "title": "Pause Giant AI Experiments: An Open Letter",
+      "by": "Future of Life Institute",
+      "venue": "futureoflife.org",
+      "year": 2023,
+      "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
+      "quote_checked": "We call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4."
+    },
+    {
+      "id": "S5",
+      "type": "book",
+      "title": "Life 3.0: Being Human in the Age of Artificial Intelligence (excerpt)",
+      "by": "Max Tegmark",
+      "venue": "Science Friday",
+      "year": 2017,
+      "url": "https://www.sciencefriday.com/articles/tegmark/",
+      "quote_checked": "life where both the hardware and software are evolved rather than designed | life whose hardware is evolved, but whose software is largely designed"
+    },
+    {
+      "id": "S6",
+      "type": "paper",
+      "title": "KAN: Kolmogorov-Arnold Networks",
+      "by": "Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljacic, Thomas Y. Hou, Max Tegmark",
+      "venue": "arXiv",
+      "year": 2024,
+      "url": "https://arxiv.org/abs/2404.19756"
+    }
+  ]
+}
