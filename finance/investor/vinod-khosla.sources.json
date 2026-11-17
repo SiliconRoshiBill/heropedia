@@ -1,0 +1,57 @@
+{
+  "hero": "Vinod Khosla",
+  "role": "Investor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "letter",
+      "title": "AI: Dystopia or Utopia?",
+      "by": "Vinod Khosla",
+      "venue": "Khosla Ventures",
+      "year": 2024,
+      "url": "https://www.khoslaventures.com/ai-dystopia-or-utopia",
+      "quote_checked": "AI is different in kind from the previous technological phase changes. | AI will eliminate most \"jobs\" insofar as a job is defined as a trade or profession | If people work, it will be because they choose to, not because they need to | Universal basic income may be the best equalizer. | Disparity beyond a certain point will lead to social unrest | AI risks are real but manageable. | Falling behind is by far the largest danger that scares me. | Slowing down the development of AI could be disastrous for democracies | a series of technology enabled policy choices and not technology choices | there is need for regulation but no regulation before its time."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Legendary Silicon Valley investor Vinod Khosla says the existential risk of sentient AI killing us is 'not worthy of conversation'",
+      "by": "Kylie Robison",
+      "venue": "Fortune",
+      "year": 2023,
+      "url": "https://fortune.com/2023/12/12/vinod-khosla-existential-sentient-ai-risk-not-worthy-of-conversation/",
+      "quote_checked": "The doomers are focusing on the wrong risks. | By far, orders of magnitude, higher risk to worry about, is China, not sentient AI killing us off. | It's sort of not worthy of a conversation to be honest. | We should be worrying about the longer term over the next 25 years, whoever wins the AI race will win the economic race."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Despite risks, Vinod Khosla is optimistic about AI",
+      "by": "Marina Temkin",
+      "venue": "TechCrunch",
+      "year": 2024,
+      "url": "https://techcrunch.com/2024/10/28/despite-risks-vinod-khosla-is-optimistic-about-ai",
+      "quote_checked": "The Sun Microsystems co-founder turned prominent investor. | Khosla Ventures was one of the first institutional investors in OpenAI. | was an easy decision to make | the need to work will go away | all of it can be near free | We could have sentient AI try and kill humanity | the biggest risk we face is strong AI in the hands of our adversaries | Capitalism tends to concentrate wealth, so we have to have policy to equalize it so everybody has a stake."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Vinod Khosla on how AI will 'free humanity from the need to work'",
+      "by": "Reed Albergotti",
+      "venue": "Semafor",
+      "year": 2023,
+      "url": "https://www.semafor.com/article/03/29/2023/vinod-khosla-on-how-ai-will-free-humanity-from-the-need-to-work",
+      "quote_checked": "This large transformation is the opportunity to free humanity from the need to work. | People will work when they want to work on what they want to work on. | In 25 years, 80% of all jobs will be capable of being done by an AI. | It hurts people, hurts lives, destroys lives. | So you have to have empathy for whoever's being disrupted."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "This Billionaire Investor in OpenAI and Instacart Says AI Will Be Able to Do 80% of Jobs in 5 Years...",
+      "by": "Sherin Shibu",
+      "venue": "Entrepreneur",
+      "year": 2026,
+      "url": "https://www.entrepreneur.com/building-a-business/what-vinod-khosla-looks-for-in-founders-this-one-trait-above-everything-else",
+      "quote_checked": "Learning rate above everything else. | Rational people don't do unreasonable things. Building a company is fundamentally unreasonable. | I like to invest in companies that could not have existed five years ago and will be inevitable five years from now. | Is this important? Can it change the world in some meaningful way? | Science projects fail because there is no path. | The roadmap is almost irrelevant."
+    }
+  ]
+}

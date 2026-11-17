@@ -1,0 +1,77 @@
+{
+  "hero": "Robin Li",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Baidu CEO defends heavy AI investments as competition heats up and Apple reportedly looks elsewhere",
+      "by": "Fortune",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/asia/2025/02/12/baidu-ceo-robin-li-apple-alibaba-deepseek-ernie/",
+      "quote_checked": "Innovation can't be planned. | You don't know when and where the innovation comes. | What you can do is just to foster an environment that is conducive to innovation | When technology still evolves at such a rapid rate, you just cannot stop investing. | You have to invest to make sure that you are at the very front of this technological innovation or revolution | If we invest at this scale but fail to build applications that deliver ten times the return, it won't be sustainable"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "\"You just cannot stop investing,\" says Baidu's Robin Li as AI costs plummet",
+      "by": "KrASIA",
+      "venue": "KrASIA",
+      "year": 2025,
+      "url": "https://kr-asia.com/you-just-cannot-stop-investing-says-baidus-robin-li-as-ai-costs-plummet",
+      "quote_checked": "When technology evolves at such a rapid rate, you just cannot stop investing | You have to invest to make sure that you are at the very front of this technological innovation or revolution. | If we invest at this scale but fail to build applications that deliver ten times the return, it won't be sustainable | The world is anxiously looking for this kind of superapp at this stage"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Baidu Create 2026: CEO says AI is moving from model competition to AI agent era, foresees rise of 'super individuals'",
+      "by": "TechNode",
+      "venue": "TechNode",
+      "year": 2026,
+      "url": "https://technode.com/2026/05/14/baidu-create-2026-ceo-says-ai-is-moving-from-model-competition-to-ai-agent-era-foresees-rise-of-super-individuals/",
+      "quote_checked": "For the first time, what really made AI go viral was not the model, but the application."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Baidu CEO says AI agents will be the measure of AI success",
+      "by": "Caixin Global",
+      "venue": "Caixin Global",
+      "year": 2026,
+      "url": "https://www.caixinglobal.com/2026-05-14/baidu-ceo-says-ai-agents-will-be-the-measure-of-ai-success-102444034.html",
+      "quote_checked": "daily active agents"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Baidu wants Daily Active Agents to become AI's next value metric",
+      "by": "KrASIA",
+      "venue": "KrASIA",
+      "year": 2026,
+      "url": "https://kr-asia.com/baidu-wants-daily-active-agents-to-become-ais-next-value-metric",
+      "quote_checked": "The value ceiling of general-purpose agents is higher than that of chatbots. | The second-generation entry point is general-purpose agents."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Robin Li",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Robin_Li",
+      "quote_checked": "(biographical facts only; no direct quote cited)"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Baidu CEO vows to return Ernie to AI frontier as revenue miss sinks shares",
+      "by": "Reuters",
+      "venue": "DealStreetAsia",
+      "year": 2026,
+      "url": "https://www.dealstreetasia.com/stories/baidu-ernie-revenue-miss-492524/",
+      "quote_checked": "(used only for the August 2026 revenue-miss and public vow fact; no direct quote cited)"
+    }
+  ]
+}
