@@ -65,7 +65,7 @@ description: Caltech's Bren Professor of AI; argues transformer scaling can't re
 - States that language models "are unable to" simulate physics "since they have no physical grounding," and that "the future of science is AI+Science" [S2].
 - Argues physics resolution breaks ordinary transformer scaling — "forget ever having a transformer for anything of this scale, all of the world's compute will not be enough" — and describes her method as taking what works in deep learning and making it "a bit more principled" [S3].
 - In August 2026, with Benedikt Jenik, launched Accelerated Understanding, a physics-AI startup built on neural operators instead of transformers, after declining a Project Prometheus offer tied to Jeff Bezos and Vik Bajaj; she described her approach as "nature-centric" against a "language-centric view of intelligence" that puts "humans at the centre" [S1].
-- Received the 2025 TIME100 AI Impact Award and said neural-operator research could extend to "drones, rockets, reactors, and medical devices," adding, "To me, this is just the beginning" [S5].
+- Received the 2025 TIME100 AI Impact Award for work toward "AI with universal physical understanding that can simulate any physical process" [S5].
 
 ## Sources
 
