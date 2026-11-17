@@ -1,0 +1,56 @@
+{
+  "hero": "Kai-Fu Lee",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "AI's Threats to Jobs and Human Happiness Are Real",
+      "by": "Eliza Strickland",
+      "venue": "IEEE Spectrum",
+      "year": 2022,
+      "url": "https://spectrum.ieee.org/kai-fu-lee-ai-jobs",
+      "quote_checked": "on the order of 40 to 50 percent | none of the previous technology revolutions have tried explicitly to replace people | The jobs that are most secure are those that require imagination, creativity, or empathy | what is truly valuable to society is people taking care of each other | the next 15 years or 20 years will be very chaotic"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "DeepSeek narrows China-US AI gap to three months, 01.AI founder Lee Kai-fu says",
+      "by": "Reuters (via The Standard)",
+      "venue": "The Standard",
+      "year": 2025,
+      "url": "https://www.thestandard.com.hk/market/article/230751/DeepSeek-narrows-China-us-ai-gap-to-three-months-01ai-founder-lee-kai-fu-says",
+      "quote_checked": "Previously I think it was a six to nine month gap and behind in everything | And now I think that's probably three months behind in some of the core technologies | but actually ahead in some specific areas | double edged sword | courageous"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Kai-fu Lee founds new AI startup to build ChatGPT-like apps for China",
+      "by": "TechNode",
+      "venue": "TechNode",
+      "year": 2023,
+      "url": "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/",
+      "quote_checked": "Every field can rewrite their existing apps with the aim of creating a more profitable model"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Company Overview",
+      "by": "01.AI",
+      "venue": "01.AI",
+      "year": 2026,
+      "url": "https://www.01.ai/about.html",
+      "quote_checked": "Make AI work | Founder and CEO of 01.AI | AI 2.0 foundation-model unicorn"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Kai-Fu Lee",
+      "by": "Computer History Museum",
+      "venue": "Computer History Museum",
+      "year": 2024,
+      "url": "https://computerhistory.org/profile/kai-fu-lee/"
+    }
+  ]
+}
