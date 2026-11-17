@@ -1,0 +1,67 @@
+{
+  "hero": "Sebastian Thrun",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Seven Lessons for Every Robotics Founder From the 'Godfather of Self-Driving Cars'",
+      "by": "Bessemer Venture Partners",
+      "venue": "BVP Atlas",
+      "year": 2026,
+      "url": "https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars",
+      "quote_checked": "If an LLM hallucinates, you say 'that's wrong.' Then you shrug and move on. | a device that weighs a tonne travelling at 60 miles per hour in downtown San Francisco | If I had a magic wand, I would force every software person to spend one year just building hardware. | I think the incremental path is hard. | If you want to change the world, you might as well change it in a big way. | You have to be incredibly arrogant about the mountain you want to climb. | Companies tend to die most often from the inside, not the outside. | They mean well, the same way you mean well. | Whatever you think is impossible, it becomes possible just a year later."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Sebastian Thrun on the next wave of AI",
+      "by": "Steffan Heuer",
+      "venue": "Think:Act Magazine (Roland Berger)",
+      "year": 2026,
+      "url": "https://thinkact.rolandberger.com/en/ta-47/sebastian-thrun-on-the-next-wave-of-ai",
+      "quote_checked": "Artificial intelligence will shift from a global engine to a local engine. | rarely does AI directly replace people – what's more common is AI working together with people. | whatever you believe your job is, you can be sure that it is going to be different five years from now. | Use AI to try things out, because true innovation is non-linear. | I'm not against regulations, but I think regulation should occur when it's clear what the abuse is."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Waymo pioneer Sebastian Thrun unveils stealth robotics startup Dulo",
+      "by": "Dealroom",
+      "venue": "Dealroom.co",
+      "year": 2026,
+      "url": "https://dealroom.co/news/146064-waymo-pioneer-sebastian-thrun-unveils-stealth-robotics-startup-dulo/",
+      "quote_checked": "I am not speaking about the company yet. | It's under stealth, it's very small. But it's in robotics."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Accenture to Acquire EdTech Leader Udacity to Accelerate Capabilities of Accenture LearnVantage",
+      "by": "Accenture",
+      "venue": "Training Industry",
+      "year": 2024,
+      "url": "https://trainingindustry.com/press-release/learning-services-and-outsourcing/accenture-to-acquire-edtech-leader-udacity-to-accelerate-capabilities-of-accenture-learnvantage/",
+      "quote_checked": "(confirms acquisition announced March 5, 2024; no direct Thrun quote)"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo",
+      "by": "SiliconANGLE",
+      "venue": "SiliconANGLE",
+      "year": 2026,
+      "url": "https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/",
+      "quote_checked": "(confirms $130M raise and investors Eric Schmidt and Ram Shriram; no direct Thrun quote)"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "TC Disrupt: Sebastian Thrun Shares His Visions of Education and AI",
+      "by": "Crunchbase News",
+      "venue": "Crunchbase News",
+      "year": 2017,
+      "url": "https://news.crunchbase.com/startups/tc-disrupt-sebastian-thrun-shares-visions-education-ai",
+      "quote_checked": "I love thinking about the world as a playground where everything interesting has not been invented yet. | [flying] should not just be for packages, but also for people. | there's no technical reason why it can't be done; it's more of a societal reason."
+    }
+  ]
+}

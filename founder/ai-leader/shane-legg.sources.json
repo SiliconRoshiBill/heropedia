@@ -1,0 +1,57 @@
+{
+  "hero": "Shane Legg",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Shane Legg (DeepMind Founder) — 2028 AGI, superhuman alignment, new architectures",
+      "by": "Dwarkesh Patel",
+      "venue": "Dwarkesh Podcast",
+      "year": 2023,
+      "url": "https://www.dwarkesh.com/p/shane-legg",
+      "quote_checked": "When I say AGI, I mean a machine that can do the sorts of cognitive things that people can typically do, possibly more. | if you can't find it with some effort, then for all practical purposes, you have an AGI. | I would want a whole suite of tests that I felt was very comprehensive. | I think it'll be architectural in nature because the current architectures don't really have what you need to do this. | I don't think it's a fundamental limitation. | trying to somehow contain it or limit it is probably not a winning strategy. | You have to get it such that it's fundamentally a highly ethical value aligned system from the get go. | I think it's actually more robust to check the process of reasoning and check its understanding of ethics. | I think there's a 50% chance that we have AGI by 2028. | At the moment, it looks to me like all the problems are likely solvable with a number of years of research. | I find it very hard to reason about the counterfactuals there."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Google DeepMind founder returns to campus",
+      "by": "University of Auckland",
+      "venue": "University of Auckland News",
+      "year": 2026,
+      "url": "https://www.auckland.ac.nz/en/news/2026/11/11/shane-legg-google-university-auckland-business-school.html",
+      "quote_checked": "I think we're getting very close and will probably reach this next year or the year after | We decided to start DeepMind in 2010 | Times of disruption are also times of opportunity."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports",
+      "by": "Reuters",
+      "venue": "The Star",
+      "year": 2026,
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/16/deepmind-co-founder-warns-ai-capabilities-must-not-outrun-safety-controls-ft-reports",
+      "quote_checked": "interesting directionally | worth considering"
+    },
+    {
+      "id": "S4",
+      "type": "paper",
+      "title": "Universal Intelligence: A Definition of Machine Intelligence",
+      "by": "Shane Legg and Marcus Hutter",
+      "venue": "Minds & Machines",
+      "year": 2007,
+      "url": "https://arxiv.org/abs/0712.3329",
+      "quote_checked": "A fundamental problem in artificial intelligence is that nobody really knows what intelligence is."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "by": "Aditya Mehta",
+      "venue": "TechCrunch",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "quote_checked": "(institute launch facts only; no direct Legg quote cited)"
+    }
+  ]
+}

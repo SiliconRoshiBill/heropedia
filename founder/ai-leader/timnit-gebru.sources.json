@@ -1,0 +1,77 @@
+{
+  "hero": "Timnit Gebru",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Google's co-lead of Ethical AI team says she was fired for sending an email",
+      "by": "Megan Rose Dickey",
+      "venue": "TechCrunch",
+      "year": 2020,
+      "url": "https://techcrunch.com/2020/12/03/googles-co-lead-of-ethical-ai-team-says-she-was-fired-for-sending-an-email",
+      "quote_checked": "fired by @JeffDean for my email to Brain women and Allies"
+    },
+    {
+      "id": "S2",
+      "type": "paper",
+      "title": "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification",
+      "by": "Joy Buolamwini and Timnit Gebru",
+      "venue": "Proceedings of Machine Learning Research (FAccT)",
+      "year": 2018,
+      "url": "https://proceedings.mlr.press/v81/buolamwini18a.html",
+      "quote_checked": "(statistical findings; error rates up to 34.7% vs 0.8% across subgroups)"
+    },
+    {
+      "id": "S3",
+      "type": "paper",
+      "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?",
+      "by": "Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell",
+      "venue": "ACM FAccT",
+      "year": 2021,
+      "url": "https://archive.org/details/stochastic-parrots-3442188.3445922",
+      "quote_checked": "How big is too big?"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Timnit Gebru Launches Independent AI Research Institute On Anniversary of Ouster from Google",
+      "by": "DAIR Institute",
+      "venue": "DAIR Institute",
+      "year": 2021,
+      "url": "https://dair-institute.org/press-release",
+      "quote_checked": "a space for independent, community-rooted AI research free from Big Tech's pervasive influence"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Timnit Gebru Is Building a Slow AI Movement",
+      "by": "Eliza Strickland",
+      "venue": "IEEE Spectrum",
+      "year": 2022,
+      "url": "https://spectrum.ieee.org/timnit-gebru-dair-ai-ethics",
+      "quote_checked": "We don't want to drive people to the publishing rat race"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Ousted Google ethics executive sees A.I. as a 'gold rush'",
+      "by": "Eleanor Pringle",
+      "venue": "Fortune",
+      "year": 2023,
+      "url": "https://fortune.com/2023/05/22/google-artificial-intelligence-ethics-timnit-gebru-gold-rush-public-should-have-agency",
+      "quote_checked": "a lot of the people who are making money are not the people actually in the midst of it | Unless there is external pressure to do something different, companies are not just going to self-regulate"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Timnit Gebru: Ethical AI Requires Institutional and Structural Change",
+      "by": "Dylan Walsh",
+      "venue": "Stanford HAI",
+      "year": 2022,
+      "url": "https://hai.stanford.edu/news/timnit-gebru-ethical-ai-requires-institutional-and-structural-change",
+      "quote_checked": "At the end of the day, this needs to be about institutional and structural change."
+    }
+  ]
+}
