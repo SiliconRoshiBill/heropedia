@@ -1,0 +1,57 @@
+{
+  "hero": "Jan Leike",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Personal website (bio and research statement)",
+      "by": "Jan Leike",
+      "venue": "jan.leike.name",
+      "year": 2026,
+      "url": "https://jan.leike.name",
+      "quote_checked": "I lead the Alignment Science team at Anthropic. | How can we train AI systems to follow human intent on tasks that are difficult for humans to evaluate directly? | Optimizing for a post-AGI future where humanity flourishes"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "OpenAI Exec Who Quit Says Safety 'Took a Backseat to Shiny Products'",
+      "by": "Jason Nelson",
+      "venue": "Decrypt",
+      "year": 2024,
+      "url": "https://decrypt.co/231294/openai-exec-quit-safety-took-backseat-shiny-products",
+      "quote_checked": "Building smarter-than-human machines is an inherently dangerous endeavor. | But over the past years, safety culture and processes have taken a backseat to shiny products. | Act with the gravitas appropriate for what you're building. | I am counting on you."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Jan Leike — TIME100 AI 2024",
+      "by": "TIME staff",
+      "venue": "TIME",
+      "year": 2024,
+      "url": "https://time.com/collections/time100-ai-2024/7012867/jan-leike/",
+      "quote_checked": "I think we made a lot of good progress in the last year. | You always feel like you're in a race against time."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Jan Leike leads Anthropic's alignment science team, doubling down on AI safety research",
+      "by": "Cryptobriefing staff",
+      "venue": "Cryptobriefing",
+      "year": 2024,
+      "url": "https://cryptobriefing.com/jan-leike-anthropic-alignment-science/",
+      "quote_checked": "one of the most recognized names in AI alignment research"
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "Jan Leike on OpenAI's massive push to make superintelligence safe in 4 years or less",
+      "by": "Rob Wiblin",
+      "venue": "80,000 Hours Podcast",
+      "year": 2023,
+      "url": "https://80000hours.org/podcast/episodes/jan-leike-superalignment/",
+      "quote_checked": "I don't have an answer. I don't think anyone really has an answer. | I think alignment is tractable. | evaluation is easier than generation for a lot of tasks that we care about, including alignment research."
+    }
+  ]
+}
