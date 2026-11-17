@@ -1,0 +1,57 @@
+{
+  "hero": "Eddie Wu",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "New Alibaba Group CEO lays out strategic priorities for staff – letter",
+      "by": "Reuters staff",
+      "venue": "The Star",
+      "year": 2023,
+      "url": "https://thestar.com.my/tech/tech-news/2023/09/12/new-alibaba-group-ceo-lays-out-strategic-priorities-for-staff---letter",
+      "quote_checked": "user first | AI-driven | If we don't keep up with the changes of the AI era, we will be displaced | start-up mindset | not get stuck in our old ways"
+    },
+    {
+      "id": "S2",
+      "type": "letter",
+      "title": "Letter from our Chairman and our CEO",
+      "by": "Joseph Tsai and Eddie Wu",
+      "venue": "Alibaba Group shareholder letter",
+      "year": 2024,
+      "url": "https://www.alibabagroup.com/en-US/document-1730334018613805056",
+      "quote_checked": "Alibaba has a market-leading proprietary LLM, Qwen | We have made open-source versions of our LLM Qwen available to the public | Our User First approach will prioritize user experience in business strategy and product design"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Alibaba to invest over 380b yuan in cloud, AI infrastructure in 3 years",
+      "by": "Xinhua",
+      "venue": "China Daily HK",
+      "year": 2025,
+      "url": "https://chinadailyhk.com/article/605327",
+      "quote_checked": "will spare no effort to accelerate the construction of cloud and AI hardware infrastructure | the explosive AI growth has far exceeded expectations"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Alibaba Cloud lays out vision for artificial superintelligence at Apsara Conference 2025",
+      "by": "KrASIA staff",
+      "venue": "KrASIA",
+      "year": 2025,
+      "url": "https://kr-asia.com/alibaba-cloud-lays-out-vision-for-artificial-superintelligence-at-apsara-conference-2025",
+      "quote_checked": "Tokens are the electricity of the AI world"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "About Alibaba: Leadership",
+      "by": "Alibaba Group",
+      "venue": "Alibaba Group corporate website",
+      "year": 2026,
+      "url": "https://home.alibabagroup.com/about-alibaba-leadership-1637927598568767488",
+      "quote_checked": "has served as our Chief Executive Officer and director since September 2023"
+    }
+  ]
+}

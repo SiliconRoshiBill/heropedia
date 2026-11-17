@@ -1,0 +1,56 @@
+{
+  "hero": "Doreen Bogdan-Martin",
+  "role": "Policy Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Doreen Bogdan-Martin re-elected Secretary-General of ITU",
+      "by": "ITU Media Centre",
+      "venue": "International Telecommunication Union",
+      "year": 2026,
+      "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-12-SG-Election.aspx",
+      "quote_checked": "I am deeply honoured for the trust ITU Member States have placed in me to serve a second term | Together, we can make sure the digital future leaves no one behind."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Doreen Bogdan-Martin",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Doreen_Bogdan-Martin"
+    },
+    {
+      "id": "S3",
+      "type": "talk",
+      "title": "Opening remarks, UN Global Dialogue on AI Governance",
+      "by": "Doreen Bogdan-Martin",
+      "venue": "International Telecommunication Union",
+      "year": 2026,
+      "url": "https://www.itu.int/en/osg/Pages/Speeches.aspx?ItemID=85",
+      "quote_checked": "put humanity at the core of another transformative technology | ready to shape its trajectory together"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Building a safer, more equitable AI future",
+      "by": "Tony Maciulis",
+      "venue": "GZERO Media",
+      "year": 2026,
+      "url": "https://www.gzeromedia.com/building-a-safer-more-equitable-ai-future-2677202098",
+      "quote_checked": "The warnings around artificial intelligence are real, but at the same time, the opportunities are real. | It's time to move from principles to practice. | We have to keep people at the center."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "AI Governance Day — From Principles to Implementation",
+      "by": "ITU Telecommunication Standardization Bureau",
+      "venue": "International Telecommunication Union",
+      "year": 2024,
+      "url": "https://www.itu.int/net/epub/TSB/2401225-AI-Governance-Day-2024-Report/files/basic-html/page14.html",
+      "quote_checked": "Governance is a continuous process of listening, exchanging ideas, and implementing practical solutions. | The goal is to make AI governance the cornerstone of a better digital future for all."
+    }
+  ]
+}
