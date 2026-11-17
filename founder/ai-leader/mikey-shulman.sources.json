@@ -1,0 +1,87 @@
+{
+  "hero": "Mikey Shulman",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Is this man the future of music – or its executioner? AI evangelist Mikey Shulman says he's making pop, not slop",
+      "by": "Eamonn Forde",
+      "venue": "The Guardian",
+      "year": 2026,
+      "url": "https://www.theguardian.com/music/2026/jan/19/ai-music-company-mikey-shulman-suna",
+      "quote_checked": "It was described to me that we're the Ozempic of the music industry – everybody is on it and nobody wants to talk about it. | I think people will [still] have to spend 10,000 hours | I love it. It's fantastic. | a combined 10 plays"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "The Next Chapter for Suno",
+      "by": "Mikey Shulman",
+      "venue": "Suno (company blog)",
+      "year": 2026,
+      "url": "https://suno.com/blog/series-d-announcement",
+      "quote_checked": "Great music starts with people. | no longer the domain of a niche few"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "A new chapter in music creation",
+      "by": "Mikey Shulman",
+      "venue": "Suno (company blog)",
+      "year": 2025,
+      "url": "https://suno.com/blog/wmg-partnership",
+      "quote_checked": "This partnership enables us to build a new generation of Suno models using high-quality licensed music. | These models will surpass even v5, the best music model the world has seen to date."
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Making Transformers Sing — with Mikey Shulman of Suno",
+      "by": "Alessio and swyx",
+      "venue": "Latent Space podcast",
+      "year": 2024,
+      "url": "https://www.latent.space/p/suno",
+      "quote_checked": "We try not to impose anything about music or audio in general into the model. | We are very much not focused on, quote unquote, professionals right now. | What we're trying to do is change how most people interact with music. | the only good judge of that is your ears"
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "Suno's Mikey Shulman: Everyone Can Make Music Now",
+      "by": "Sonya Huang",
+      "venue": "Sequoia Capital podcast",
+      "year": 2026,
+      "url": "https://sequoiacap.com/podcast/sunos-mikey-shulman-everyone-can-make-music-now",
+      "quote_checked": "On paper, I guess I have no business building a consumer entertainment company | Music is really not a scale problem. | We're building technology for the sake of delighting people. | the creation, is actually the entertaining bit"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "CEO of AI music app Suno criticised over claims most people \"don't enjoy\" making music",
+      "by": "Henrietta Taylor",
+      "venue": "Mixmag",
+      "year": 2025,
+      "url": "https://mixmag.net/read/ceo-suno-ai-app-music-critisced-interview-tech",
+      "quote_checked": "I think the majority of people, don't enjoy the majority of time they spend making music. | This quote makes it sound like I'm discouraging people from learning music, enjoying music, or improving their craft | Music is my life, not just my job, and a huge part of Suno is making that joy accessible to more people in more ways"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Suno CEO Backtracks On \"Making Music\" Remarks",
+      "by": "Ashley King",
+      "venue": "Digital Music News",
+      "year": 2026,
+      "url": "https://www.digitalmusicnews.com/2026/03/13/suno-ceo-backtracks-making-music-remarks/",
+      "quote_checked": "I really wish I had chosen different words. | I do have a lot of respect for music."
+    },
+    {
+      "id": "S8",
+      "type": "article",
+      "title": "Suno",
+      "by": "Contrary Research",
+      "venue": "Contrary Research",
+      "year": 2026,
+      "url": "https://research.contrary.com/company/suno",
+      "quote_checked": "Graduated from Harvard in 2015 with a PhD in physics. | Kensho was a financial technology company that S&P Global acquired in 2018."
+    }
+  ]
+}

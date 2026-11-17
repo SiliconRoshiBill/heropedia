@@ -1,0 +1,75 @@
+{
+  "hero": "Noam Brown",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Carnegie Mellon Artificial Intelligence Beats Top Poker Pros",
+      "by": "Carnegie Mellon University",
+      "venue": "CMU News",
+      "year": 2017,
+      "url": "https://www.cmu.edu/news/stories/archives/2017/january/AI-beats-poker-pros.html"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Carnegie Mellon, Facebook AI Beats Poker Pros",
+      "by": "Carnegie Mellon University",
+      "venue": "CMU News",
+      "year": 2019,
+      "url": "https://www.cmu.edu/news/stories/archives/2019/july/cmu-facebook-ai-beats-poker-pros.html",
+      "quote_checked": "Playing a six-player game rather than head-to-head requires fundamental changes in how the AI develops its playing strategy"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "OpenAI rolls out o1, a new kind of AI model that can 'reason'",
+      "by": "Thomas Claburn",
+      "venue": "The Register",
+      "year": 2024,
+      "url": "https://www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "OpenAI's Noam Brown Stuns TED AI Conference: 20 Seconds of 'Thinking' Was Worth 100,000x More Data",
+      "by": "Michael Nuñez",
+      "venue": "VentureBeat",
+      "year": 2024,
+      "url": "https://venturebeat.com/ai/openai-noam-brown-stuns-ted-ai-conference-20-seconds-of-thinking-worth-100000x-more-data",
+      "quote_checked": "When I got this result, I literally thought it was a bug. | Now we have a new parameter, one where we can scale up system two thinking as well | largely untapped"
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "OpenAI's Noam Brown, Ilge Akkaya and Hunter Lightman on o1 and Teaching LLMs to Reason Better",
+      "by": "Sequoia Capital",
+      "venue": "Training Data podcast",
+      "year": 2024,
+      "url": "https://sequoiacap.com/podcast/training-data-noam-brown",
+      "quote_checked": "a different dimension for scaling that is so far pretty untapped | the ceiling is a lot higher than a lot of people have appreciated | smarter than a PhD in every single way imaginable"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "OpenAI research lead Noam Brown thinks AI 'reasoning' models could've arrived decades ago",
+      "by": "Kyle Wiggers",
+      "venue": "TechCrunch",
+      "year": 2025,
+      "url": "https://techcrunch.com/2025/03/19/openai-research-lead-noam-brown-thinks-ai-reasoning-models-couldve-arrived-decades-ago",
+      "quote_checked": "There were various reasons why this research direction was neglected | The state of benchmarks in AI is really bad, and that doesn't require a lot of compute to do | In fact, he was referring to his work on game-playing AI prior to his time at OpenAI."
+    },
+    {
+      "id": "S7",
+      "type": "interview",
+      "title": "Noam Brown — Scaling Test-Time Compute to Multi-Agent Civilizations",
+      "by": "Dwarkesh Patel",
+      "venue": "Dwarkesh Podcast",
+      "year": 2026,
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "quote_checked": "a way of scaling test-time compute in parallel instead of purely serially | is less efficient, because it's not like a single agent has all the context to itself"
+    }
+  ]
+}
