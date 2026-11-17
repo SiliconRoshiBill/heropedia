@@ -1,0 +1,57 @@
+{
+  "hero": "Eliezer Yudkowsky",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Pausing AI Developments Isn't Enough. We Need to Shut It All Down",
+      "by": "Eliezer Yudkowsky",
+      "venue": "TIME",
+      "year": 2023,
+      "url": "https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/",
+      "quote_checked": "This 6-month moratorium would be better than no moratorium. | understating the seriousness of the situation and asking for too little to solve it | Progress in AI capabilities is running vastly, vastly ahead of progress in AI alignment. | if you get that wrong on the first try, you do not get to learn from your mistakes, because you are dead | We are not ready. We are not on track to be significantly readier in the foreseeable future. | be less scared of a shooting conflict between nations than of the moratorium being violated | There's no proposed plan for how we could do any such thing and survive."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Team",
+      "by": "Machine Intelligence Research Institute",
+      "venue": "MIRI",
+      "year": 2026,
+      "url": "https://intelligence.org/team/",
+      "quote_checked": "Eliezer Yudkowsky, Co-Founder; Nate Soares, President; Malo Bourgon, Chief Executive Officer"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "A.I.'s Prophet of Doom Wants to Shut It All Down",
+      "by": "Kevin Roose",
+      "venue": "The New York Times",
+      "year": 2025,
+      "url": "https://www.geneticsandsociety.org/article/ais-prophet-doom-wants-shut-it-all-down",
+      "quote_checked": "99.5 percent chance that A.I. was going to kill me"
+    },
+    {
+      "id": "S4",
+      "type": "book",
+      "title": "If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All",
+      "by": "Eliezer Yudkowsky and Nate Soares",
+      "venue": "Little, Brown and Company",
+      "year": 2025,
+      "url": "https://www.hbglibrary.com/titles/eliezer-yudkowsky/if-anyone-builds-it-everyone-dies/9780316595643/",
+      "quote_checked": "one of the founding researchers of the field of AGI alignment"
+    },
+    {
+      "id": "S5",
+      "type": "talk",
+      "title": "Will Superintelligent AI End the World?",
+      "by": "Eliezer Yudkowsky",
+      "venue": "TED",
+      "year": 2023,
+      "url": "https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world/transcript",
+      "quote_checked": "superintelligent AI could probably kill us all | we need to act immediately to ensure smarter-than-human AI systems don't lead to our extinction"
+    }
+  ]
+}
