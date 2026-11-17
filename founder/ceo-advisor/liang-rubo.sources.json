@@ -1,0 +1,64 @@
+{
+  "hero": "Liang Rubo",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "Keep Extending and Avoid Rigidity",
+      "by": "Liang Rubo",
+      "venue": "Code Class Entrepreneurs Annual Meeting (Source Code Capital)",
+      "year": 2021,
+      "url": "https://sourcecodecap.com/code-class-categories/year-2021-en/",
+      "quote_checked": "This force, like gravity, tends to push any organization towards the establishment of even more rules."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "ByteDance CEO is mad at his employees for missing the AI wave",
+      "by": "Lionel Lim",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/asia/2024/02/01/bytedance-ceo-liang-rubo-memo-to-employees-missed-ai-wave-tencent-pony-ma-alibaba-jd/",
+      "quote_checked": "not sensitive enough to external changes"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "CEO states enhancing \"sense of crisis\" is primary goal for ByteDance",
+      "by": "TechNode Feed",
+      "venue": "TechNode",
+      "year": 2024,
+      "url": "https://technode.com/2024/01/31/ceo-states-enhancing-sense-of-crisis-is-primary-goal-for-bytedance/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Meet Liang Rubo, the 'executor' and former roommate of Zhang Yiming who's ready to take over at ByteDance",
+      "by": "Julianna Wu",
+      "venue": "KrASIA",
+      "year": 2021,
+      "url": "https://kr-asia.com/liang-rubo-the-executor-and-former-roommate-of-zhang-yiming-ready-to-take-over-as-ceo-at-bytedance",
+      "quote_checked": "I lack some of the skills that make an ideal manager."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Liang Rubo Launches Major Reshuffle Aimed at ByteDance's Middle Management",
+      "by": "Yan Junwen (China Entrepreneur Magazine)",
+      "venue": "36Kr",
+      "year": 2026,
+      "url": "https://eu.36kr.com/en/p/3878111899725829"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "ByteDance Accepts AI Gap, Sticks With In-House Models",
+      "by": "Guan Cong",
+      "venue": "Caixin Global",
+      "year": 2026,
+      "url": "https://www.caixinglobal.com/2026-08-07/bytedance-accepts-ai-gap-sticks-with-in-house-models-102472271.html"
+    }
+  ]
+}
