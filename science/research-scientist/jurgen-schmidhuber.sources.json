@@ -1,0 +1,66 @@
+{
+  "hero": "Jürgen Schmidhuber",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "video",
+      "title": "Juergen Schmidhuber: Gödel Machines, Meta-Learning, and LSTMs",
+      "by": "Lex Fridman",
+      "venue": "Lex Fridman Podcast #11",
+      "year": 2018,
+      "url": "https://lawwu.github.io/transcripts/3FIo6evmweo.html",
+      "quote_checked": "So all of science is a history of compression progress. | because beauty is simplicity. | So I call that meta-learning, learning to learn | it also has to learn to improve the learning algorithm itself. | how to build a universal problem solver | And we give them a reward, an intrinsic reward,"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "While the World Is Discovering ChatGPT, Jürgen Schmidhuber Is Already Talking About Colonizing the Galaxy",
+      "by": "Media Marketing",
+      "venue": "Media Marketing",
+      "year": 2026,
+      "url": "https://www.media-marketing.com/en/news/while-the-world-is-discovering-chatgpt-jurgen-schmidhuber-is-already-talking-about-colonizing-the-galaxy/",
+      "quote_checked": "Today's AI already dominates the digital world, but it has not yet conquered the physical one. | Humanity may not be the final stage in the evolution of intelligence, but its beginning."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Jürgen Schmidhuber faculty profile",
+      "by": "KAUST",
+      "venue": "King Abdullah University of Science and Technology",
+      "year": 2026,
+      "url": "https://j-schmidhuber.kaust.edu.sa/profiles/table"
+    },
+    {
+      "id": "S4",
+      "type": "paper",
+      "title": "Scientific Integrity and the History of Deep Learning",
+      "by": "Jürgen Schmidhuber",
+      "venue": "IDSIA Technical Report IDSIA-77-21 (v5)",
+      "year": 2022,
+      "url": "https://people.idsia.ch/~juergen/scientific-integrity-turing-award-deep-learning.html",
+      "quote_checked": "Much of the closely related work pointed to below was done in my lab. | My seeking to correct the record will naturally seem self-interested. | In 1991, I had the first very deep NNs based on unsupervised pre-training. | GANs are instances of the Adversarial Curiosity Principle of 1990."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Formal Theory of Creativity, Fun, and Intrinsic Motivation",
+      "by": "Jürgen Schmidhuber",
+      "venue": "IDSIA",
+      "year": 2010,
+      "url": "https://people.idsia.ch/~juergen/creativity.html",
+      "quote_checked": "a simple, but general, formal theory of fun & creativity | simple artificial scientists & artists"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Jürgen Schmidhuber",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber",
+      "quote_checked": "heavily cite each other | fail to credit the pioneers of the field"
+    }
+  ]
+}
