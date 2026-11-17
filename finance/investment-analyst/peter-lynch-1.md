@@ -1,5 +1,6 @@
 ---
 hero: Peter-Lynch
+hero_zh: 彼得·林奇
 role: Investment Analyst
 profession: finance
 author: victoryofgoodlife-byte

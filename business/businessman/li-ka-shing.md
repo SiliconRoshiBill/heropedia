@@ -1,5 +1,6 @@
 ---
 hero: Li Ka-shing
+hero_zh: 李嘉诚
 role: Businessman
 profession: business
 author: Frank Ni

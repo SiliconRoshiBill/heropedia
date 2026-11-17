@@ -1,5 +1,6 @@
 ---
 hero: Gregg Popovich
+hero_zh: 格雷格·波波维奇
 role: Team Strategist
 profession: sports
 author: alexw2005

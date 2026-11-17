@@ -1,5 +1,6 @@
 ---
 hero: Ren Zhengfei
+hero_zh: 任正非
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

@@ -1,5 +1,6 @@
 ---
 hero: Zhongjing Zhang
+hero_zh: 张仲景
 role: Sage of Medicine
 profession: healthcare
 author: hesongleng369-jpg

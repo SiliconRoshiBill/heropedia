@@ -1,5 +1,6 @@
 ---
 hero: Jeffrey M. Wooldridge
+hero_zh: 杰弗里·伍德里奇
 role: Statistician
 profession: science
 author: mrbrainard

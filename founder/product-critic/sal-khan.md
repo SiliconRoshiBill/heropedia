@@ -1,5 +1,6 @@
 ---
 hero: Sal Khan
+hero_zh: 萨尔曼·可汗
 role: Product Critic
 profession: founder
 author: lia2020412-wq

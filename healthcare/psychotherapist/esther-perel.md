@@ -1,5 +1,6 @@
 ---
 hero: Esther Perel
+hero_zh: 埃丝特·佩雷尔
 role: Psychotherapist
 profession: healthcare
 author: zebointexas

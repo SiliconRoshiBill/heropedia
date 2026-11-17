@@ -1,5 +1,6 @@
 ---
 hero: Salman Khan
+hero_zh: 萨尔曼·可汗
 role: Career Coach
 profession: hr
 author: guanghes

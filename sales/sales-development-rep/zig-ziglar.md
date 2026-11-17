@@ -1,5 +1,6 @@
 ---
 hero: Zig Ziglar
+hero_zh: 金克拉
 role: Sales Development Rep
 profession: sales
 author: Mayzheng968

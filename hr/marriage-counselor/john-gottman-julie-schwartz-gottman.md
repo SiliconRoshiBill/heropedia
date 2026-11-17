@@ -1,5 +1,6 @@
 ---
 hero: John Gottman & Julie Schwartz Gottman
+hero_zh: 约翰·戈特曼与朱莉·戈特曼
 role: Marriage Counselor
 profession: hr
 author: xuejingh

@@ -1,5 +1,6 @@
 ---
 hero: Thomas Jefferson
+hero_zh: 托马斯·杰斐逊
 role: President
 profession: politics
 author: ahuangfu

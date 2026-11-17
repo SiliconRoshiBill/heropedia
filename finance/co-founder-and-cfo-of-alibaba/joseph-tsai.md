@@ -1,5 +1,6 @@
 ---
 hero: Joseph Tsai
+hero_zh: 蔡崇信
 role: Co-founder and CFO of Alibaba
 profession: finance
 author: DengZhiya

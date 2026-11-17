@@ -1,5 +1,6 @@
 ---
 hero: Richard Hamming
+hero_zh: 理查德·汉明
 role: Strategic Thinking Mentor
 profession: science
 author: vincenthyin-coder

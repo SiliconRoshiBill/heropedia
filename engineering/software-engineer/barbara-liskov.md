@@ -1,5 +1,6 @@
 ---
 hero: Barbara Liskov
+hero_zh: 芭芭拉·利斯科夫
 role: Software Engineer
 profession: engineering
 author: NatalieTT

@@ -1,5 +1,6 @@
 ---
 hero: Jack Welch
+hero_zh: 杰克·韦尔奇
 role: CEO
 profession: founder
 author: Chingf-2026

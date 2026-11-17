@@ -1,5 +1,6 @@
 ---
 hero: Ni Haixia
+hero_zh: 倪海厦
 role: Doctor (Traditional Chinese Medicine)
 profession: healthcare
 author: Sunny Li

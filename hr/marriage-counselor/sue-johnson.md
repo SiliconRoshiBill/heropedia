@@ -1,5 +1,6 @@
 ---
 hero: Sue Johnson
+hero_zh: 苏·约翰逊
 role: Marriage Counselor
 profession: hr
 author: xuejingh

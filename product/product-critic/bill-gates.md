@@ -1,5 +1,6 @@
 ---
 hero: Bill Gates
+hero_zh: 比尔·盖茨
 role: Product Critic
 profession: product
 author: yqing999-CmYk

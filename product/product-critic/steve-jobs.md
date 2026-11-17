@@ -1,5 +1,6 @@
 ---
 hero: Steve Jobs
+hero_zh: 史蒂夫·乔布斯
 role: Product Critic
 profession: product
 author: SiliconRoshiBill

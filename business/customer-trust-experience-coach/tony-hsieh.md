@@ -1,5 +1,6 @@
 ---
 hero: Tony Hsieh
+hero_zh: 谢家华
 role: Customer Trust Experience Coach
 profession: business
 author: zjzsu2000

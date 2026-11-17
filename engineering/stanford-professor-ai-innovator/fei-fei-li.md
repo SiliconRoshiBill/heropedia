@@ -1,5 +1,6 @@
 ---
 hero: Fei-Fei Li
+hero_zh: 李飞飞
 role: Stanford Professor, AI innovator
 profession: engineering
 author: Lily Feng

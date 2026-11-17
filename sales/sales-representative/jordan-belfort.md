@@ -1,5 +1,6 @@
 ---
 hero: Jordan Belfort
+hero_zh: 乔丹·贝尔福特
 role: Sales Representative
 profession: sales
 author: Mayzheng968

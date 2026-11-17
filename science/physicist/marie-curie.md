@@ -1,5 +1,6 @@
 ---
 hero: Marie Curie
+hero_zh: 居里夫人
 role: Physicist
 profession: science
 author: SiliconRoshiBill

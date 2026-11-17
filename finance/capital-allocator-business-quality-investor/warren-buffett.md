@@ -1,5 +1,6 @@
 ---
 hero: Warren Buffett
+hero_zh: 沃伦·巴菲特
 role: Capital Allocator & Business Quality Investor
 profession: finance
 author: Billherosally26

@@ -1,5 +1,6 @@
 ---
 hero: Li Lu
+hero_zh: 李录
 role: Value Investing Office Hours
 profession: finance
 author: Cynthia Zhang

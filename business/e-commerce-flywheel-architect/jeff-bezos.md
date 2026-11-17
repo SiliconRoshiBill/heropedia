@@ -1,5 +1,6 @@
 ---
 hero: Jeff Bezos
+hero_zh: 杰夫·贝索斯
 role: E-commerce Flywheel Architect
 profession: business
 author: zjzsu2000

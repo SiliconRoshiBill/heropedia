@@ -1,5 +1,6 @@
 ---
 hero: Satya Nadella
+hero_zh: 萨提亚·纳德拉
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

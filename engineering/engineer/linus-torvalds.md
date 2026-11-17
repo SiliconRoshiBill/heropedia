@@ -1,5 +1,6 @@
 ---
 hero: Linus Torvalds
+hero_zh: 林纳斯·托瓦兹
 role: Engineer
 profession: engineering
 author: zebointexas

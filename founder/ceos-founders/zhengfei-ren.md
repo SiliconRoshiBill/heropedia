@@ -1,5 +1,6 @@
 ---
 hero: Zhengfei Ren
+hero_zh: 任正非
 role: Ceos Founders
 profession: founder
 author: sunnyL-rightuser

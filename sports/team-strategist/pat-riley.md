@@ -1,5 +1,6 @@
 ---
 hero: Pat Riley
+hero_zh: 帕特·莱利
 role: Team Strategist
 profession: sports
 author: alexw2005

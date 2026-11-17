@@ -1,5 +1,6 @@
 ---
 hero: Andrew Ng
+hero_zh: 吴恩达
 role: A globally recognized pioneer in Artificial Intelligence
 profession: founder
 author: webyoung

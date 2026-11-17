@@ -1,5 +1,6 @@
 ---
 hero: Oprah Winfrey
+hero_zh: 奥普拉·温弗瑞
 role: producer
 profession: creator
 author: Wanzhen Gao

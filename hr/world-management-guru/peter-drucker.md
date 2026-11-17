@@ -1,5 +1,6 @@
 ---
 hero: Peter DRUCKER
+hero_zh: 彼得·德鲁克
 role: World Management Guru
 profession: hr
 author: cindyzntan2025

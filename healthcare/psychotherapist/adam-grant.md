@@ -1,5 +1,6 @@
 ---
 hero: Adam Grant
+hero_zh: 亚当·格兰特
 role: Psychotherapist
 profession: healthcare
 author: zebointexas

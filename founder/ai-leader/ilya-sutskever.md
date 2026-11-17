@@ -1,5 +1,6 @@
 ---
 hero: Ilya Sutskever
+hero_zh: 伊利亚·苏茨克维
 role: AI Leader
 profession: founder
 author: SiliconRoshiBill

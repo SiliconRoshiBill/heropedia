@@ -1,5 +1,6 @@
 ---
 hero: Jim Keller
+hero_zh: 吉姆·凯勒
 role: Computer Architect
 profession: engineering
 author: charley-lu

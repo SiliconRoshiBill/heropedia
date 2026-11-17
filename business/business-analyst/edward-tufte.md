@@ -1,5 +1,6 @@
 ---
 hero: Edward Tufte
+hero_zh: 爱德华·塔夫特
 role: Business Analyst
 profession: business
 author: tangptp-bit

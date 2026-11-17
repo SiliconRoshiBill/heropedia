@@ -1,5 +1,6 @@
 ---
 hero: Daniel Kahneman
+hero_zh: 丹尼尔·卡尼曼
 role: Client Services Manager
 profession: support
 author: salan-ing

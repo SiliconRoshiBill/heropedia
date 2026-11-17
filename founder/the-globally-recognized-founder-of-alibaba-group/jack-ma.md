@@ -1,5 +1,6 @@
 ---
 hero: Jack Ma
+hero_zh: 马云
 role: The globally recognized founder of Alibaba Group
 profession: founder
 author: webyoung

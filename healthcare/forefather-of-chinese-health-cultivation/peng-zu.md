@@ -1,5 +1,6 @@
 ---
 hero: Peng Zu
+hero_zh: 彭祖
 role: forefather of Chinese health cultivation
 profession: healthcare
 author: DengZhiya

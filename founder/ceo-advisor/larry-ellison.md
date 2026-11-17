@@ -1,5 +1,6 @@
 ---
 hero: Larry Ellison
+hero_zh: 拉里·埃里森
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

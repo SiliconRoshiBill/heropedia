@@ -1,5 +1,6 @@
 ---
 hero: Albert Einstein
+hero_zh: 阿尔伯特·爱因斯坦
 role: Physicist
 profession: science
 author: jyli

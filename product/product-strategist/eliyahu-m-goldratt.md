@@ -1,5 +1,6 @@
 ---
 hero: Eliyahu M. Goldratt
+hero_zh: 艾利·高德拉特
 role: Product Strategist
 profession: product
 author: topblueprint

@@ -1,5 +1,6 @@
 ---
 hero: Laszlo Bock
+hero_zh: 拉兹洛·博克
 role: Resume Coach
 profession: hr
 author: bwong-ca

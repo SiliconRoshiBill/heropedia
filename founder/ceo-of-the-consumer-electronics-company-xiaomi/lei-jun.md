@@ -1,5 +1,6 @@
 ---
 hero: Lei Jun
+hero_zh: 雷军
 role: CEO of the consumer electronics company Xiaomi
 profession: founder
 author: Zebo Xiong

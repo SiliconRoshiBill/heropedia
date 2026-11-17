@@ -1,5 +1,6 @@
 ---
 hero: Zhuangzi
+hero_zh: 庄子
 role: a thinker, philosopher, and literary master
 profession: writing
 author: weitang-avtx

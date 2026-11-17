@@ -1,5 +1,6 @@
 ---
 hero: Nassim Nicholas Taleb
+hero_zh: 纳西姆·塔勒布
 role: Investor
 profession: finance
 author: wdponder

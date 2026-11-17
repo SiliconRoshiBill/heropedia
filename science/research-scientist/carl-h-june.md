@@ -1,5 +1,6 @@
 ---
 hero: Carl H. June
+hero_zh: 卡尔·琼
 role: Research Scientist
 profession: science
 author: duansheropedia

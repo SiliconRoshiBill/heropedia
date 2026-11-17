@@ -1,5 +1,6 @@
 ---
 hero: Brian Tracy
+hero_zh: 博恩·崔西
 role: Sales Representative
 profession: sales
 author: J Tan

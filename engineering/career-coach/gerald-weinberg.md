@@ -1,5 +1,6 @@
 ---
 hero: Gerald Weinberg
+hero_zh: 杰拉尔德·温伯格
 role: Career Coach
 profession: engineering
 author: chaojunl

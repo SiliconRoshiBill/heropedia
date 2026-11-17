@@ -1,5 +1,6 @@
 ---
 hero: Bjarke Ingels
+hero_zh: 比亚克·英格斯
 role: Architect
 profession: design
 author: SiliconRoshiBill

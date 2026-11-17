@@ -1,5 +1,6 @@
 ---
 hero: Brene Brown
+hero_zh: 布琳·布朗
 role: Career Coach
 profession: hr
 author: Su Feng Kuo

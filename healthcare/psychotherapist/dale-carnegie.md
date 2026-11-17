@@ -1,5 +1,6 @@
 ---
 hero: Dale Carnegie
+hero_zh: 戴尔·卡耐基
 role: Psychotherapist
 profession: healthcare
 author: zebointexas

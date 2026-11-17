@@ -1,5 +1,6 @@
 ---
 hero: Katalin Karikó
+hero_zh: 卡塔林·卡里科
 role: Research Scientist
 profession: science
 author: SiliconRoshiBill

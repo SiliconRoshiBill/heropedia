@@ -1,5 +1,6 @@
 ---
 hero: Jeff Dean
+hero_zh: 杰夫·迪恩
 role: Cloud Native · Distributed Systems · Big Data Architect
 domain: Apache Beam · Google Cloud Dataflow · High-Performance Pipeline Design
 profession: engineering

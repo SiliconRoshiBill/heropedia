@@ -1,5 +1,6 @@
 ---
 hero: Geoffery Hinton
+hero_zh: 杰弗里·辛顿
 role: Research Scientist
 profession: science
 author: roserosemm2001

@@ -1,5 +1,6 @@
 ---
 hero: J.K. Rowling
+hero_zh: J.K.罗琳
 role: The Resilient Storyteller
 profession: writing
 author: bwong-ca

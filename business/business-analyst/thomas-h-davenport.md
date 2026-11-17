@@ -1,5 +1,6 @@
 ---
 hero: Thomas H. Davenport
+hero_zh: 托马斯·达文波特
 role: Business Analyst
 profession: business
 author: tangptp-bit

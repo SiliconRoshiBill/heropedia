@@ -1,5 +1,6 @@
 ---
 hero: Ray-Dalio
+hero_zh: 瑞·达利欧
 role: Investment Analyst
 profession: finance
 author: victoryofgoodlife-byte

@@ -1,5 +1,6 @@
 ---
 hero: Adam Grant
+hero_zh: 亚当·格兰特
 role: Organizational Consultant
 profession: hr
 author: zjeffchen

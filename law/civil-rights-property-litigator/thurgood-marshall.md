@@ -1,5 +1,6 @@
 ---
 hero: Thurgood Marshall
+hero_zh: 瑟古德·马歇尔
 role: Civil Rights Property Litigator
 profession: law
 author: SiliconRoshiBill

@@ -1,5 +1,6 @@
 ---
 hero: Kazuo Inamori
+hero_zh: 稻盛和夫
 role: Mentor
 profession: founder
 author: kplergeng

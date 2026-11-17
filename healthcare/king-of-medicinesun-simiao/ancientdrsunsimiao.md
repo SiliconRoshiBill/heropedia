@@ -1,5 +1,6 @@
 ---
 hero: AncientDrSunSiMiao
+hero_zh: 孙思邈
 role: “药王” (King of Medicine)孙思邈（Sun Simiao）
 profession: healthcare
 author: Nathan Wang

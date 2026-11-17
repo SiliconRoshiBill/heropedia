@@ -1,5 +1,6 @@
 ---
 hero: Bruce Lee
+hero_zh: 李小龙
 role: Matrial Art Master
 profession: creator
 author: wangx2000

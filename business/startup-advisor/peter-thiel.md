@@ -1,5 +1,6 @@
 ---
 hero: Peter Thiel
+hero_zh: 彼得·蒂尔
 role: Startup Advisor
 profession: business
 author: SiliconRoshiBill

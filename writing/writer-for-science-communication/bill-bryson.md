@@ -1,5 +1,6 @@
 ---
 hero: Bill Bryson
+hero_zh: 比尔·布莱森
 role: Writer for science communication
 profession: writing
 author: GuangSunshine

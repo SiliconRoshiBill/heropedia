@@ -1,5 +1,6 @@
 ---
 hero: Charlie Munger
+hero_zh: 查理·芒格
 role: Business Analyst
 profession: business
 author: Mayzheng968

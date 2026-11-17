@@ -1,5 +1,6 @@
 ---
 hero: Stanley Druckenmiller
+hero_zh: 斯坦利·德鲁肯米勒
 role: Investor
 profession: finance
 author: SiliconRoshiBill

@@ -1,5 +1,6 @@
 ---
 hero: Grady Booch
+hero_zh: 格雷迪·布奇
 role: Software architect
 profession: engineering
 author: qiannf

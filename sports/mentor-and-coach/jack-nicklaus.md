@@ -1,5 +1,6 @@
 ---
 hero: Jack Nicklaus
+hero_zh: 杰克·尼克劳斯
 role: Mentor and Coach
 profession: sports
 author: xjchen78-Fla

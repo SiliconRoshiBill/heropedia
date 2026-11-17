@@ -1,5 +1,6 @@
 ---
 hero: Heng Li
+hero_zh: 李恒
 role: NGS sequencing data analysis expert
 profession: science
 author: suhua deng

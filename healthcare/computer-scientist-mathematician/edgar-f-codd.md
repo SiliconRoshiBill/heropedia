@@ -1,5 +1,6 @@
 ---
 hero: Edgar F. Codd
+hero_zh: 埃德加·科德
 role: Computer Scientist & Mathematician
 profession: healthcare
 author: yshen-cell

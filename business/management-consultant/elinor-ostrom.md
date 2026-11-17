@@ -1,5 +1,6 @@
 ---
 hero: Elinor Ostrom
+hero_zh: 埃莉诺·奥斯特罗姆
 role: Management Consultant
 profession: business
 author: Xiaoniu Zhang

@@ -1,5 +1,6 @@
 ---
 hero: Lei Jun
+hero_zh: 雷军
 role: Founder-Operator
 profession: business
 author: Piaodiver

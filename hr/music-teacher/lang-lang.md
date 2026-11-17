@@ -1,5 +1,6 @@
 ---
 hero: Lang Lang
+hero_zh: 郎朗
 role: Music Teacher
 profession: hr
 author: zebointexas

@@ -1,5 +1,6 @@
 ---
 hero: Jensen Huang
+hero_zh: 黄仁勋
 role: Businessman
 profession: business
 author: Piaodiver

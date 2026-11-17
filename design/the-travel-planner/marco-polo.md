@@ -1,5 +1,6 @@
 ---
 hero: Marco Polo
+hero_zh: 马可·波罗
 role: The Travel Planner
 profession: design
 author: lynnkong-creator

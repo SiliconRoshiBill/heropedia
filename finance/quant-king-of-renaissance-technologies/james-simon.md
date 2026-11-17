@@ -1,5 +1,6 @@
 ---
 hero: James Simon
+hero_zh: 詹姆斯·西蒙斯
 role: Quant King of Renaissance Technologies
 profession: finance
 author: jeanoy-loan

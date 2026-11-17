@@ -1,5 +1,6 @@
 ---
 hero: Warren Buffett
+hero_zh: 沃伦·巴菲特
 role: Investment Analyst
 profession: finance
 author: Austin Xu

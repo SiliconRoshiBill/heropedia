@@ -1,5 +1,6 @@
 ---
 hero: Ursula K. Le Guin
+hero_zh: 厄休拉·勒古恩
 role: Worldbuilding Mentor (Writing)
 profession: writing
 author: glu898

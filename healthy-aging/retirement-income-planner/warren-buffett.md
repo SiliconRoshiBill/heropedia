@@ -1,5 +1,6 @@
 ---
 hero: Warren Buffett
+hero_zh: 沃伦·巴菲特
 role: Retirement Income Planner
 profession: healthy-aging
 author: jinxiama1988

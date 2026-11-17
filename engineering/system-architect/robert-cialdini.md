@@ -1,5 +1,6 @@
 ---
 hero: Robert Cialdini
+hero_zh: 罗伯特·西奥迪尼
 role: System Architect
 profession: engineering
 author: Xiaohongjia

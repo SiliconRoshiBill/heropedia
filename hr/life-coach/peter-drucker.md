@@ -1,5 +1,6 @@
 ---
 hero: Peter Drucker
+hero_zh: 彼得·德鲁克
 role: Life Coach
 profession: hr
 author: honghu2012

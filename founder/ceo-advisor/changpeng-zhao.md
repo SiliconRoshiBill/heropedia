@@ -1,5 +1,6 @@
 ---
 hero: Changpeng Zhao
+hero_zh: 赵长鹏
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

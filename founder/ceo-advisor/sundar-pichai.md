@@ -1,5 +1,6 @@
 ---
 hero: Sundar Pichai
+hero_zh: 桑达尔·皮查伊
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

@@ -1,5 +1,6 @@
 ---
 hero: John D. Rockefeller
+hero_zh: 约翰·洛克菲勒
 role: American businessman and philanthropist
 profession: founder
 author: Zebo Xiong

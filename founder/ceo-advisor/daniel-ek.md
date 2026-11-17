@@ -1,5 +1,6 @@
 ---
 hero: Daniel Ek
+hero_zh: 丹尼尔·艾克
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

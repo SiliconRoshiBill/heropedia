@@ -1,5 +1,6 @@
 ---
 hero: Sun Zi
+hero_zh: 孙子
 role: General and military strategist
 profession: politics
 author: wangx2000

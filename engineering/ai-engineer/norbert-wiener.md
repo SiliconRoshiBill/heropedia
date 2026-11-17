@@ -1,5 +1,6 @@
 ---
 hero: Norbert Wiener
+hero_zh: 诺伯特·维纳
 role: AI Engineer
 profession: engineering
 author: Joy G.

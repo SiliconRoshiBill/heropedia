@@ -1,5 +1,6 @@
 ---
 hero: Herbert Simon
+hero_zh: 赫伯特·西蒙
 role: Research Scientist
 profession: science
 author: maiutd-byte

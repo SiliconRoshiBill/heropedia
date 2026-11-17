@@ -1,5 +1,6 @@
 ---
 hero: Ray Dalio
+hero_zh: 瑞·达利欧
 role: Financial Analyst
 profession: finance
 author: victoryofgoodlife-byte

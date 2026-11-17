@@ -1,5 +1,6 @@
 ---
 hero: Robert Shiller
+hero_zh: 罗伯特·席勒
 role: Nobel Laureate
 profession: finance
 author: tonyzheng

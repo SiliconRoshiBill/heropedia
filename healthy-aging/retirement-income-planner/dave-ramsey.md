@@ -1,5 +1,6 @@
 ---
 hero: Dave Ramsey
+hero_zh: 戴夫·拉姆齐
 role: Retirement Income Planner
 profession: healthy-aging
 author: jinxiama1988

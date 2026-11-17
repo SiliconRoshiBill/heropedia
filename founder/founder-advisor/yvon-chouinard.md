@@ -1,5 +1,6 @@
 ---
 hero: Yvon Chouinard
+hero_zh: 伊冯·乔伊纳德
 role: Founder Advisor
 profession: founder
 author: SiliconRoshiBill

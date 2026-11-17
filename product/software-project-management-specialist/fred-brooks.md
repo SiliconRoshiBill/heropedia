@@ -1,5 +1,6 @@
 ---
 hero: Fred Brooks
+hero_zh: 弗雷德·布鲁克斯
 role: Software Project Management Specialist
 profession: product
 author: topblueprint

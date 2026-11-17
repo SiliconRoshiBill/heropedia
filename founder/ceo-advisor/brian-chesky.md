@@ -1,5 +1,6 @@
 ---
 hero: Brian Chesky
+hero_zh: 布莱恩·切斯基
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

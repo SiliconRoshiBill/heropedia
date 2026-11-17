@@ -1,5 +1,6 @@
 ---
 hero: Mary Barra
+hero_zh: 玛丽·博拉
 role: President and CEO
 profession: founder
 author: SiliconRoshiBill

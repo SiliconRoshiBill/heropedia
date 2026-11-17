@@ -1,5 +1,6 @@
 ---
 hero: Phil Jackson
+hero_zh: 菲尔·杰克逊
 role: Team Strategist
 profession: sports
 author: alexw2005

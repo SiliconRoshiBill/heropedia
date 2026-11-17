@@ -1,5 +1,6 @@
 ---
 hero: Alan Turning
+hero_zh: 艾伦·图灵
 role: Research Scientist
 profession: science
 author: JenniferXiao

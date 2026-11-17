@@ -1,5 +1,6 @@
 ---
 hero: Don Norman
+hero_zh: 唐·诺曼
 role: Design Critic
 profession: design
 author: Sophia Xu

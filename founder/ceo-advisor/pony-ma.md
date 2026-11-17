@@ -1,5 +1,6 @@
 ---
 hero: Pony Ma
+hero_zh: 马化腾
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

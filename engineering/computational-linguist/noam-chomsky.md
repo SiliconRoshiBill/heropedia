@@ -1,5 +1,6 @@
 ---
 hero: Noam Chomsky
+hero_zh: 诺姆·乔姆斯基
 role: Computational Linguist
 profession: engineering
 author: Hui Xiong

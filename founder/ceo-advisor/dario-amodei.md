@@ -1,5 +1,6 @@
 ---
 hero: Dario Amodei
+hero_zh: 达里奥·阿莫迪
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

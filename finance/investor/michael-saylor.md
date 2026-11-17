@@ -1,5 +1,6 @@
 ---
 hero: Michael Saylor
+hero_zh: 迈克尔·塞勒
 role: Investor
 profession: finance
 author: SiliconRoshiBill

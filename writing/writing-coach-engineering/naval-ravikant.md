@@ -1,5 +1,6 @@
 ---
 hero: Naval Ravikant
+hero_zh: 纳瓦尔·拉维坎特
 role: Writing Coach (Engineering)
 profession: writing
 author: glu898

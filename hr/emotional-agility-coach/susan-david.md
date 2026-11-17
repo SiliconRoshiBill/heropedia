@@ -1,5 +1,6 @@
 ---
 hero: Susan David
+hero_zh: 苏珊·大卫
 role: Emotional Agility Coach
 profession: hr
 author: sufengk-new

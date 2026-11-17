@@ -1,5 +1,6 @@
 ---
 hero: Simon Sinek
+hero_zh: 西蒙·斯涅克
 role: Inspirational speaker
 profession: hr
 author: ningj000

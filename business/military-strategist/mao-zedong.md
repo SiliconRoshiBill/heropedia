@@ -1,5 +1,6 @@
 ---
 hero: Mao, Zedong
+hero_zh: 毛泽东
 role: Military strategist
 profession: business
 author: xinwenfu

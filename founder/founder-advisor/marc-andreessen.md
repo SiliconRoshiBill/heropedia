@@ -1,5 +1,6 @@
 ---
 hero: Marc Andreessen
+hero_zh: 马克·安德森
 role: Founder Advisor
 profession: founder
 author: Qin Zhu

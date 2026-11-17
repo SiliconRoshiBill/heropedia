@@ -1,5 +1,6 @@
 ---
 hero: Elon Mask
+hero_zh: 埃隆·马斯克
 role: Visionary Technology Leader
 profession: founder
 author: xjinjob

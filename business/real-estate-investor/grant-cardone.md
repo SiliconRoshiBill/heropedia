@@ -1,5 +1,6 @@
 ---
 hero: Grant Cardone
+hero_zh: 格兰特·卡登
 role: Real Estate Investor
 profession: business
 author: Li Tang

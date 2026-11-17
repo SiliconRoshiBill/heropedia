@@ -1,5 +1,6 @@
 ---
 hero: Jesse Livermore
+hero_zh: 杰西·利弗莫尔
 role: Investor
 profession: finance
 author: DengZhiya

@@ -1,5 +1,6 @@
 ---
 hero: Wang Yangming
+hero_zh: 王阳明
 role: Master of spiritual and self-cultivation
 profession: writing
 author: jningucop

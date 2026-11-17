@@ -1,5 +1,6 @@
 ---
 hero: Reid Hoffman
+hero_zh: 里德·霍夫曼
 role: Startup Advisor
 profession: business
 author: glu898

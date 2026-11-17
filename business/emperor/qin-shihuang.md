@@ -1,5 +1,6 @@
 ---
 hero: Qin, Shihuang
+hero_zh: 秦始皇
 role: Emperor
 profession: business
 author: xinwenfu

@@ -1,5 +1,6 @@
 ---
 hero: Richard Feynman
+hero_zh: 理查德·费曼
 role: Physicist
 profession: science
 author: silverashashash

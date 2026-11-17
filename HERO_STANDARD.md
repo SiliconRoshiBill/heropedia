@@ -23,6 +23,7 @@ Flat `key: value` lines between `---` markers.
 | Key | Rule |
 | --- | --- |
 | `hero` | The person's name as commonly written. |
+| `hero_zh` | The standard Chinese name (optional), e.g. `李嘉诚`. Shown on Chinese pages and matched by search. |
 | `role` | The role this file plays (CEO Advisor, Product Critic, ...). |
 | `profession` | The folder it lives in. |
 | `author` | The original author. **Never changed by upkeep.** |

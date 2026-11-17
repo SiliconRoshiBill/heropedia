@@ -1,5 +1,6 @@
 ---
 hero: Sam Zell
+hero_zh: 山姆·泽尔
 role: Real Estate Investor
 profession: business
 author: Li Tang

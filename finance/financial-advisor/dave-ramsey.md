@@ -1,5 +1,6 @@
 ---
 hero: Dave Ramsey
+hero_zh: 戴夫·拉姆齐
 role: Financial Advisor
 profession: finance
 author: Ying S

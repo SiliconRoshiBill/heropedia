@@ -1,5 +1,6 @@
 ---
 hero: Charlie Munger
+hero_zh: 查理·芒格
 role: Investment Analyst
 profession: finance
 author: Austin Xu

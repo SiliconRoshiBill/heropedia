@@ -1,5 +1,6 @@
 ---
 hero: Warren Buffett
+hero_zh: 沃伦·巴菲特
 role: Business Analyst
 profession: business
 author: Mayzheng968

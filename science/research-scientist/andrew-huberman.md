@@ -1,5 +1,6 @@
 ---
 hero: Andrew Huberman
+hero_zh: 安德鲁·休伯曼
 role: Research Scientist
 profession: science
 author: SiliconRoshiBill

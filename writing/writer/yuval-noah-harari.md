@@ -1,5 +1,6 @@
 ---
 hero: Yuval Noah Harari
+hero_zh: 尤瓦尔·赫拉利
 role: Writer
 profession: writing
 author: SiliconRoshiBill

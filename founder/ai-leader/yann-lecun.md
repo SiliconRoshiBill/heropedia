@@ -1,5 +1,6 @@
 ---
 hero: Yann LeCun
+hero_zh: 杨立昆
 role: AI Leader
 profession: founder
 author: SiliconRoshiBill

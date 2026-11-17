@@ -1,5 +1,6 @@
 ---
 hero: John Gottman
+hero_zh: 约翰·戈特曼
 role: Marriage Consulor
 profession: healthcare
 author: zebointexas

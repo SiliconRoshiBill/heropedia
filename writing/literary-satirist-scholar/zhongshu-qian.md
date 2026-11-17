@@ -1,5 +1,6 @@
 ---
 hero: Zhongshu Qian
+hero_zh: 钱锺书
 role: Literary Satirist & Scholar
 profession: writing
 author: JerryWangUs

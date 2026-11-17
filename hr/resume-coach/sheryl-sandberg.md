@@ -1,5 +1,6 @@
 ---
 hero: Sheryl Sandberg
+hero_zh: 雪莉·桑德伯格
 role: Resume Coach
 profession: hr
 author: bwong-ca

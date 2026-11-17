@@ -1,5 +1,6 @@
 ---
 hero: MrBeast
+hero_zh: 野兽先生
 role: YouTuber
 profession: creator
 author: thehungrypanda68

@@ -1,5 +1,6 @@
 ---
 hero: Zhou, Enlai
+hero_zh: 周恩来
 role: Diplomat
 profession: business
 author: xinwenfu

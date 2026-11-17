@@ -1,5 +1,6 @@
 ---
 hero: Abraham Lincoln
+hero_zh: 亚伯拉罕·林肯
 role: President
 profession: politics
 author: bwong-ca

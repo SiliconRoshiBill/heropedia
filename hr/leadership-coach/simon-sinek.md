@@ -1,5 +1,6 @@
 ---
 hero: Simon Sinek
+hero_zh: 西蒙·斯涅克
 role: Leadership Coach
 profession: hr
 author: zjeffchen

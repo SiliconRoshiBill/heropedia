@@ -1,5 +1,6 @@
 ---
 hero: Cao Xueqin
+hero_zh: 曹雪芹
 role: Writer
 profession: writing
 author: Hui Xiong

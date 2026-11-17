@@ -1,5 +1,6 @@
 ---
 hero: Angela Merkel
+hero_zh: 安格拉·默克尔
 role: Policy Advisor
 profession: politics
 author: SiliconRoshiBill

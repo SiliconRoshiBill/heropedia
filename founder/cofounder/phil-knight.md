@@ -1,5 +1,6 @@
 ---
 hero: Phil Knight
+hero_zh: 菲尔·奈特
 role: Cofounder
 profession: founder
 author: SiliconRoshiBill

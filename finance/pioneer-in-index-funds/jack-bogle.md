@@ -1,5 +1,6 @@
 ---
 hero: Jack Bogle
+hero_zh: 约翰·博格
 role: Pioneer in index funds
 profession: finance
 author: tonyzheng

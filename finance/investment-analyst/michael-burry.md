@@ -1,5 +1,6 @@
 ---
 hero: Michael Burry
+hero_zh: 迈克尔·伯里
 role: Investment Analyst
 profession: finance
 author: tonyzheng

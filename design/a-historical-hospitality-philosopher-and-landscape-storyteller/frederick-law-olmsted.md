@@ -1,5 +1,6 @@
 ---
 hero: Frederick Law Olmsted
+hero_zh: 弗雷德里克·劳·奥姆斯特德
 role: a Historical Hospitality Philosopher and Landscape Storyteller.
 profession: design
 author: chrystiehouse-debug

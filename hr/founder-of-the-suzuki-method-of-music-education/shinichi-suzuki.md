@@ -1,5 +1,6 @@
 ---
 hero: Shinichi Suzuki
+hero_zh: 铃木镇一
 role: Founder of the Suzuki Method of music education
 profession: hr
 author: zebointexas

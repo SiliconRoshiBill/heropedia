@@ -1,5 +1,6 @@
 ---
 hero: Elon Musk
+hero_zh: 埃隆·马斯克
 role: Vision Setter
 profession: founder
 author: SiliconRoshiBill

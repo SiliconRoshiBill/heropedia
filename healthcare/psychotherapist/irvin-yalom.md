@@ -1,5 +1,6 @@
 ---
 hero: Irvin Yalom
+hero_zh: 欧文·亚隆
 role: Psychotherapist
 profession: healthcare
 author: SiliconRoshiBill

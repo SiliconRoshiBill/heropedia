@@ -1,5 +1,6 @@
 ---
 hero: Jesus Christ
+hero_zh: 耶稣基督
 role: Founder Advisor
 profession: founder
 author: Boon Tan

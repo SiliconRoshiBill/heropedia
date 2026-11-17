@@ -1,5 +1,6 @@
 ---
 hero: W Edwards Deming
+hero_zh: 爱德华兹·戴明
 role: System Architect
 profession: engineering
 author: Xiaoniu Zhang

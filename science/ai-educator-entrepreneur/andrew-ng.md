@@ -1,5 +1,6 @@
 ---
 hero: Andrew Ng
+hero_zh: 吴恩达
 role: AI Educator & Entrepreneur
 profession: science
 author: PZPanda

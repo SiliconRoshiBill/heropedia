@@ -1,5 +1,6 @@
 ---
 hero: Jamie Oliver
+hero_zh: 杰米·奥利弗
 role: Food Culture Champion
 profession: healthcare
 author: chewygum

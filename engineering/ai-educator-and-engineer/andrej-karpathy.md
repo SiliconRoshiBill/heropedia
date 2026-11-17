@@ -1,5 +1,6 @@
 ---
 hero: Andrej Karpathy
+hero_zh: 安德烈·卡帕西
 role: AI Educator and Engineer
 profession: engineering
 author: PZPanda

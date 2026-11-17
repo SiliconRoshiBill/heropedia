@@ -1,5 +1,6 @@
 ---
 hero: Peter Zumthor
+hero_zh: 彼得·卒姆托
 role: Accommodation experience-oriented architect and spatial value diagnostician.
 profession: design
 author: zhangwu2001

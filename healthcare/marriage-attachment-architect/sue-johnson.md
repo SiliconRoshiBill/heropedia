@@ -1,5 +1,6 @@
 ---
 hero: Sue Johnson
+hero_zh: 苏·约翰逊
 role: Marriage Attachment Architect
 profession: healthcare
 author: zebointexas

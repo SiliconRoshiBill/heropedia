@@ -1,5 +1,6 @@
 ---
 hero: Stephen Curry
+hero_zh: 斯蒂芬·库里
 role: Basketball Coach
 profession: sports
 author: thehungrypanda68

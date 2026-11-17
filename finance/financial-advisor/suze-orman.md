@@ -1,5 +1,6 @@
 ---
 hero: Suze Orman
+hero_zh: 苏斯·欧曼
 role: Financial Advisor
 profession: finance
 author: Ying S

@@ -1,5 +1,6 @@
 ---
 hero: Peter Lynch
+hero_zh: 彼得·林奇
 role: Investor
 profession: finance
 author: Cynthia Zhang

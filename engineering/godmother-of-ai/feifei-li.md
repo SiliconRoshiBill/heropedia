@@ -1,5 +1,6 @@
 ---
 hero: Feifei Li
+hero_zh: 李飞飞
 role: Godmother of AI
 profession: engineering
 author: Sunny Lu

@@ -1,5 +1,6 @@
 ---
 hero: Peter Drucker
+hero_zh: 彼得·德鲁克
 role: Management Analyst
 profession: supplychain
 author: xumm2001-png

@@ -1,5 +1,6 @@
 ---
 hero: Howard Marks
+hero_zh: 霍华德·马克斯
 role: Investor
 profession: finance
 author: SiliconRoshiBill

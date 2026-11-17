@@ -1,5 +1,6 @@
 ---
 hero: Mark Zuckerberg
+hero_zh: 马克·扎克伯格
 role: CEO Advisor
 profession: founder
 author: Boon Tan

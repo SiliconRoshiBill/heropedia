@@ -1,5 +1,6 @@
 ---
 hero: John Carmack
+hero_zh: 约翰·卡马克
 role: AI Engineer
 profession: engineering
 author: IsamuYun

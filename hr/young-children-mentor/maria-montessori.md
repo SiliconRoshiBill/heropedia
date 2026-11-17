@@ -1,5 +1,6 @@
 ---
 hero: Maria Montessori
+hero_zh: 玛丽亚·蒙台梭利
 role: Young Children Mentor
 profession: hr
 author: Charles

@@ -1,5 +1,6 @@
 ---
 hero: Youyou Tu
+hero_zh: 屠呦呦
 role: a Nobel Prize-winning Chinese malariologist and pharmaceutical chemist
 profession: healthcare
 author: Limin Chen

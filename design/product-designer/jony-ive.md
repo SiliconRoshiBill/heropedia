@@ -1,5 +1,6 @@
 ---
 hero: Jony Ive
+hero_zh: 乔纳森·艾维
 role: Product Designer
 profession: design
 author: Sophia Xu

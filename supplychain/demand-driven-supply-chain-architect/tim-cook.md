@@ -1,5 +1,6 @@
 ---
 hero: Tim Cook
+hero_zh: 蒂姆·库克
 role: Demand-Driven Supply Chain Architect
 profession: supplychain
 author: zjeffchen

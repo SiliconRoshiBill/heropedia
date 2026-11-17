@@ -1,5 +1,6 @@
 ---
 hero: Charlie Munger
+hero_zh: 查理·芒格
 role: Investment Architect Capital Strategist
 profession: finance
 author: pjiang1114

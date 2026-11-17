@@ -1,5 +1,6 @@
 ---
 hero: Wu, Zhetian
+hero_zh: 武则天
 role: Emperor
 profession: politics
 author: Cindy Wang

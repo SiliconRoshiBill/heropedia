@@ -1,5 +1,6 @@
 ---
 hero: Robert C. Martin
+hero_zh: 罗伯特·C·马丁
 role: Software Engineer
 profession: engineering
 author: zebointexas

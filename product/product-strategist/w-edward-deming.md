@@ -1,5 +1,6 @@
 ---
 hero: W. Edward Deming
+hero_zh: 爱德华兹·戴明
 role: Product Strategist
 profession: product
 author: topblueprint

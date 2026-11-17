@@ -1,5 +1,6 @@
 ---
 hero: Agatha Christie
+hero_zh: 阿加莎·克里斯蒂
 role: Writer
 profession: writing
 author: bchen1401

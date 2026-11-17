@@ -1,5 +1,6 @@
 ---
 hero: James P. Allison
+hero_zh: 詹姆斯·艾利森
 role: Research Scientist
 profession: science
 author: duansheropedia

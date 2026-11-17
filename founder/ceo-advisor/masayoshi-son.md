@@ -1,5 +1,6 @@
 ---
 hero: Masayoshi Son
+hero_zh: 孙正义
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

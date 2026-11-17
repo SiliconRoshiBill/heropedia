@@ -1,5 +1,6 @@
 ---
 hero: Frank Lloyd Wright
+hero_zh: 弗兰克·劳埃德·赖特
 role: Architect
 profession: design
 author: yuanxizhang

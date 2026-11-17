@@ -1,5 +1,6 @@
 ---
 hero: Brené Brown
+hero_zh: 布琳·布朗
 role: Organizational Consultant
 profession: hr
 author: zjeffchen

@@ -1,5 +1,6 @@
 ---
 hero: Marc Beioff
+hero_zh: 马克·贝尼奥夫
 role: Cofounder
 profession: founder
 author: feng kintimono

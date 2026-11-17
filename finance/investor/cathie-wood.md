@@ -1,5 +1,6 @@
 ---
 hero: Cathie Wood
+hero_zh: 凯茜·伍德
 role: Investor
 profession: finance
 author: SiliconRoshiBill

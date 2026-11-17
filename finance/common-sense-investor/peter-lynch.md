@@ -1,5 +1,6 @@
 ---
 hero: Peter Lynch
+hero_zh: 彼得·林奇
 role: Common sense investor
 profession: finance
 author: enyouli8-code

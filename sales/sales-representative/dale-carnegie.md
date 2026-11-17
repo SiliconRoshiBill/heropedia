@@ -1,5 +1,6 @@
 ---
 hero: Dale Carnegie
+hero_zh: 戴尔·卡耐基
 role: Sales Representative
 profession: sales
 author: jz deanza

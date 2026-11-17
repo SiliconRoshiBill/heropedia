@@ -1,5 +1,6 @@
 ---
 hero: Dieter Rams
+hero_zh: 迪特·拉姆斯
 role: Design Critic
 profession: design
 author: Sophia Xu

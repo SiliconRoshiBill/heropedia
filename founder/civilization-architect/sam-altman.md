@@ -1,5 +1,6 @@
 ---
 hero: Sam Altman
+hero_zh: 山姆·奥特曼
 role: Civilization Architect
 profession: founder
 author: Zebo Xiong

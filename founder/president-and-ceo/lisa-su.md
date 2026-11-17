@@ -1,5 +1,6 @@
 ---
 hero: Lisa Su
+hero_zh: 苏姿丰
 role: President And Ceo
 profession: founder
 author: baozijtang

@@ -1,5 +1,6 @@
 ---
 hero: Suze Orman
+hero_zh: 苏斯·欧曼
 role: Retirement Income Planner
 profession: healthy-aging
 author: jinxiama1988

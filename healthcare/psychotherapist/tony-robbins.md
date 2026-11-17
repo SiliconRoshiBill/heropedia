@@ -1,5 +1,6 @@
 ---
 hero: Tony Robbins
+hero_zh: 托尼·罗宾斯
 role: Psychotherapist
 profession: healthcare
 author: zebointexas

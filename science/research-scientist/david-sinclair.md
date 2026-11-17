@@ -1,5 +1,6 @@
 ---
 hero: David Sinclair
+hero_zh: 大卫·辛克莱
 role: Research Scientist
 profession: science
 author: SiliconRoshiBill

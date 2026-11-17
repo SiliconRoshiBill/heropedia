@@ -1,5 +1,6 @@
 ---
 hero: Jensen Huang
+hero_zh: 黄仁勋
 role: President and CEO
 profession: founder
 author: Julie Deng

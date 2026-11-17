@@ -1,5 +1,6 @@
 ---
 hero: Mira Murati
+hero_zh: 米拉·穆拉蒂
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

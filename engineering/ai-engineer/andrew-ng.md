@@ -1,5 +1,6 @@
 ---
 hero: Andrew Ng
+hero_zh: 吴恩达
 role: AI Engineer
 profession: engineering
 author: Joy G.

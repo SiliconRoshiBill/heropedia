@@ -1,5 +1,6 @@
 ---
 hero: Donald Trump
+hero_zh: 唐纳德·特朗普
 role: President
 profession: politics
 author: MagpieEden

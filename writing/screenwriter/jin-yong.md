@@ -1,5 +1,6 @@
 ---
 hero: Jin Yong
+hero_zh: 金庸
 role: Screenwriter
 profession: writing
 author: Yaoxin Zhang

@@ -1,5 +1,6 @@
 ---
 hero: Marshall Goldsmith
+hero_zh: 马歇尔·古德史密斯
 role: Leadership Advisor
 profession: hr
 author: Su Feng Kuo

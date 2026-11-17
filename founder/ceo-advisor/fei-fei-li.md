@@ -1,5 +1,6 @@
 ---
 hero: Fei-Fei Li
+hero_zh: 李飞飞
 role: CEO Advisor
 profession: founder
 author: SiliconRoshiBill

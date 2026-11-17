@@ -1,5 +1,6 @@
 ---
 hero: Gordon Ramsay
+hero_zh: 戈登·拉姆齐
 role: Chef
 profession: culinary
 author: alexw2005

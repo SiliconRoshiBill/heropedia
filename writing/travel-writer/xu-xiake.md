@@ -1,5 +1,6 @@
 ---
 hero: Xu Xiake
+hero_zh: 徐霞客
 role: Travel Writer
 profession: writing
 author: telg
