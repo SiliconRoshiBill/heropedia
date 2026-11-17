@@ -1,0 +1,67 @@
+{
+  "hero": "Anima Anandkumar",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "The AI founders who walked away from Bezos-backed Prometheus to model the universe",
+      "by": "Reuters (via BNN Bloomberg)",
+      "venue": "BNN Bloomberg",
+      "year": 2026,
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/08/25/the-ai-founders-who-walked-away-from-bezos-backed-prometheus-to-model-the-universe-reuters-exclusive/",
+      "quote_checked": "The language-centric view of intelligence is humans at the centre. Putting physics at the centre is a nature-centric view."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Interview with AAAI Fellow Anima Anandkumar: neural operators for science and engineering problems",
+      "by": "AIhub",
+      "venue": "AIhub",
+      "year": 2024,
+      "url": "https://aihub.org/2024/08/20/interview-with-aaai-fellow-anima-anandkumar-neural-operators-for-science-and-engineering-problems",
+      "quote_checked": "Neural Operators are a general AI technique for solving Partial Differential Equations (PDE) | Neural Operators are able to learn complex physical phenomena that occur at multiple resolutions | FourCastNet was the first fully AI-based weather model and was built using Neural Operators. | It is tens of thousands of times faster than traditional weather models | Language models are unable to do so since they have no physical grounding. | I believe that the future of science is AI+Science"
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech",
+      "by": "swyx & Alessio",
+      "venue": "Latent Space podcast",
+      "year": 2026,
+      "url": "https://latent.space/p/anima",
+      "quote_checked": "So forget ever having a transformer for anything of this scale, all of the world's compute will not be enough. | All of the things that work with deep learning, let's take them, but make them a bit more principled."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Animashree (Anima) Anandkumar",
+      "by": "Caltech Division of Engineering and Applied Science",
+      "venue": "Computing + Mathematical Sciences faculty profile, Caltech",
+      "year": 2026,
+      "url": "https://www.cms.caltech.edu/people/anima",
+      "quote_checked": ""
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Anima Anandkumar Highlights AI's Potential to Solve 'Hard Scientific Challenges'",
+      "by": "Blavatnik Family Foundation",
+      "venue": "Blavatnik Family Foundation",
+      "year": 2025,
+      "url": "https://blavatnikfoundation.org/anima-anandkumar-highlights-ais-potential-to-solve-hard-scientific-challenges/",
+      "quote_checked": "AI with universal physical understanding that can simulate any physical process | To me, this is just the beginning."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "This AI visionary is betting on physics instead of building another ChatGPT: all you need to know about Anima Anandkumar",
+      "by": "Business Today",
+      "venue": "Business Today",
+      "year": 2026,
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/this-ai-visionary-is-betting-on-physics-instead-of-building-another-chatgpt-all-you-need-to-know-about-anima-anandkumar-551497-2026-08-26",
+      "quote_checked": ""
+    }
+  ]
+}
