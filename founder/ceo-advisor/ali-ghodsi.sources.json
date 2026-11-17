@@ -1,0 +1,67 @@
+{
+  "hero": "Ali Ghodsi",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Databricks CEO Ali Ghodsi on raising $10 billion, fighting for AI talent, and someday going public",
+      "by": "Allie Garfinkle",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/12/17/databricks-ceo-ali-ghodsi-on-raising-10-billion-ai-talent-going-public/",
+      "quote_checked": "It's actually quite a logistical operation, raising $10 billion compared to previous rounds. | I probably underestimated the sheer number of investors and the amount of interest. | It's a war for AI talent right now, especially with OpenAI, Anthropic. | This is happening every day, and the talent market for AI is insane. | I think absolutely, theoretically, the earliest we'd go public would be sometime next year. | But this does give us flexibility to start providing liquidity opportunities for our employees."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Databricks CEO Ali Ghodsi interview (Mad Money with Jim Cramer)",
+      "by": "Jim Cramer / CNBC Television",
+      "venue": "CNBC's Mad Money, transcript via CEOInterviews.AI",
+      "year": 2026,
+      "url": "https://ceointerviews.ai/interview/923753/",
+      "quote_checked": "AI doesn't have an intelligence problem. AI has a context problem. How do we feed it that context? | The Lakehouse has become the system of record nowadays. | Costs a lot of money to loop through all the data. | For Databricks, we don't burn any money at all, $0. So for us, we can choose the timing."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Ali Ghodsi",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Ali_Ghodsi",
+      "quote_checked": ""
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Databricks CEO Ghodsi: Data Governance is AI's True Enterprise Bottleneck",
+      "by": "StartupHub.ai staff (reporting CNBC's Closing Bell Overtime, interviewer Jon Fortt)",
+      "venue": "StartupHub.ai",
+      "year": 2025,
+      "url": "https://www.startuphub.ai/news/databricks-ceo-ghodsi-data-governance-is-ais-true-enterprise-bottleneck",
+      "quote_checked": "It's actually the governance of the data that's the problem. | It's not like we can't access that data, that data is there... | It's because of privacy."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Databricks Raising Over $4 Billion Series L At $134 Billion Valuation As Revenue Run Rate Tops $4.8 Billion",
+      "by": "Pulse2 staff",
+      "venue": "Pulse2",
+      "year": 2025,
+      "url": "https://pulse2.com/databricks-4-8-billion-series-l-134-billion-valuation",
+      "quote_checked": "With this investment, we're deepening our commitment to help every organization innovate with AI on their own data | we're giving customers a unified foundation to build trusted, high-performance Data Intelligent Applications at scale."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Welcome to the Data Intelligence Era",
+      "by": "Databricks staff",
+      "venue": "Databricks Blog",
+      "year": 2025,
+      "url": "https://www.databricks.com/blog/welcome-data-intelligence-era",
+      "quote_checked": ""
+    }
+  ]
+}
