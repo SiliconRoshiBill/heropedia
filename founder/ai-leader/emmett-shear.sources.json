@@ -1,0 +1,57 @@
+{
+  "hero": "Emmett Shear",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "About",
+      "by": "Softmax",
+      "venue": "softmax.com",
+      "year": 2026,
+      "url": "https://softmax.com/about",
+      "quote_checked": "We're a small team building the science of organic alignment | the kinds of agents that stay aligned with us are the kinds that stay aligned with each other"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Exclusive: Emmett Shear Is Back, With Softmax",
+      "by": "Ashlee Vance",
+      "venue": "Core Memory",
+      "year": 2025,
+      "url": "https://www.corememory.com/p/exclusive-emmett-shear-is-back-with-softmax",
+      "quote_checked": "a bunch of peers come together and find their role in a greater whole | there was an alignment failure | That's a bad plan, and it's not going to work."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "AI Alignment, with Emmett Shear",
+      "by": "Patrick McKenzie",
+      "venue": "Complex Systems Podcast",
+      "year": 2025,
+      "url": "https://www.complexsystemspodcast.com/ai-alignment-with-emmett-shear/",
+      "quote_checked": "When people talk about alignment, what they're often actually saying is we need a system of control. | systems of control are alignment to someone else's rules for you | There's no such thing as a global universal aligned AI. | Your cells don't want to be cancer. | We need to prevent them from gaining agency. No, no, no. It's the opposite of that."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "OpenAI's New Interim CEO Says He Will Reform Leadership Team",
+      "by": "PYMNTS Staff",
+      "venue": "PYMNTS",
+      "year": 2023,
+      "url": "https://pymnts.com/news/artificial-intelligence/2023/openai-new-interim-ceo-says-he-will-reform-leadership-team",
+      "quote_checked": "the process and communications around Sam's removal has been handled very badly, which has seriously damaged our trust | because I believe that OpenAI is one of the most important companies currently in existence"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Ex-Twitch CEO Emmett Shear Is Founding an AI Startup Backed by A16Z",
+      "by": "Kyle Wiggers",
+      "venue": "TechCrunch",
+      "year": 2024,
+      "url": "https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z",
+      "quote_checked": "Almost all currently proposed [AI] regulation is a bad idea"
+    }
+  ]
+}

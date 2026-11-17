@@ -1,0 +1,56 @@
+{
+  "hero": "Gary Marcus",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "Transcript: Senate Judiciary Subcommittee Hearing on Oversight of AI",
+      "by": "Senate Judiciary Subcommittee on Privacy, Technology, and the Law",
+      "venue": "Tech Policy Press",
+      "year": 2023,
+      "url": "https://techpolicy.press/transcript-senate-judiciary-subcommittee-hearing-on-oversight-of-ai",
+      "quote_checked": "We have built machines that are like bulls in a China shop. | The big tech company's preferred plan boils down to trust us. | somebody has to have their eyeballs on it. | with authority to call things back."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Deep Learning Is Hitting a Wall",
+      "by": "Gary Marcus",
+      "venue": "Nautilus",
+      "year": 2022,
+      "url": "https://nautil.us/deep-learning-is-hitting-a-wall-14467/",
+      "quote_checked": "Deep learning is at its best when all we need are rough-ready results. | the so-called scaling laws aren't universal laws like gravity | more fluent, but no more trustworthy. | To think that we can simply abandon symbol-manipulation is to suspend disbelief. | No single AI approach will ever be enough on its own"
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Gary Marcus Wants to Tame Silicon Valley",
+      "by": "Tech Policy Press",
+      "venue": "Tech Policy Press",
+      "year": 2024,
+      "url": "https://techpolicy.press/gary-marcus-wants-to-tame-silicon-valley",
+      "quote_checked": "Companies are not taking that much responsibility. | I can't say those are impossible, but they're not our pressing concerns. | If everybody just stopped using generative AI for six months, that would have an amazing consequence. | And so, you need an agency."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Elon Musk, these experts will bet you $500,000 that you're wrong about the future of A.I.",
+      "by": "Vivek Wadhwa and Gary Marcus",
+      "venue": "Fortune",
+      "year": 2022,
+      "url": "https://fortune.com/2022/06/03/elon-musk-artificial-intelligence-agi-tesla-500k-bet/"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "AI skeptic Gary Marcus on AI's moral and technical shortcomings",
+      "by": "Freethink",
+      "venue": "Freethink",
+      "year": 2025,
+      "url": "https://www.freethink.com/artificial-intelligence/gary-marcus-on-ai",
+      "quote_checked": "Frequently wrong, never in doubt | Large language models say everything with absolute authority | the hallucinations won't go away. That's just not working | A genuinely intelligent system should be able to do a sanity check"
+    }
+  ]
+}

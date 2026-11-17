@@ -1,0 +1,64 @@
+{
+  "hero": "Ethan Mollick",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Faculty Profile: Ethan Mollick",
+      "by": "The Wharton School, University of Pennsylvania",
+      "venue": "Wharton Faculty Directory",
+      "year": 2026,
+      "url": "https://faculty.wharton.upenn.edu/profile/emollick"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Co-Intelligence: How to Live and Work with AI",
+      "by": "Knowledge at Wharton",
+      "venue": "Knowledge at Wharton",
+      "year": 2024,
+      "url": "https://knowledge.wharton.upenn.edu/article/co-intelligence-how-to-live-and-work-with-ai/",
+      "quote_checked": "Treat it like a person and you're 90% of the way there. | My argument has always been to use it for everything, and that's how you figure what it's good or bad at."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "A Wharton professor says AI is like an 'intern' who 'lies a little bit' to make their bosses happy",
+      "by": "Penn Today (reprinting Fortune/Forbes coverage)",
+      "venue": "Penn Today",
+      "year": 2024,
+      "url": "https://penntoday.upenn.edu/penn-in-the-news/wharton-professor-says-ai-intern-who-lies-little-bit-make-their-bosses-happy"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Why one expert says AI is like the world's greatest intern",
+      "by": "Microsoft WorkLab",
+      "venue": "Microsoft WorkLab",
+      "year": 2024,
+      "url": "https://www.microsoft.com/en-us/worklab/why-one-expert-says-ai-is-like-the-worlds-greatest-intern",
+      "quote_checked": "You have to think of it like an intern. | Unlike a person, the AI never gets discouraged"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "MBA Professor Of The Year: Wharton's Ethan Mollick",
+      "by": "Marc Ethier",
+      "venue": "Poets&Quants",
+      "year": 2024,
+      "url": "https://poetsandquants.com/2024/11/18/mba-professor-of-the-year-whartons-ethan-mollick/",
+      "quote_checked": "Working with AI is a dialogue, not an order. | The first rule in my book is to spend ten hours doing the work and you will figure it out. | AI is not Google and does not provide consistent or even reliable answers. | nobody actually knows the future of AI"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality",
+      "by": "Sabrina I. Pacifici, reporting on Dell'Acqua, McFowland, Mollick et al.",
+      "venue": "beSpacific",
+      "year": 2023,
+      "url": "https://www.bespacific.com/?p=100639"
+    }
+  ]
+}
