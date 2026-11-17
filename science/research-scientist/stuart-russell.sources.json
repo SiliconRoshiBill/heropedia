@@ -1,0 +1,77 @@
+{
+  "hero": "Stuart Russell",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "An interview with Dr. Stuart Russell, author of \"Human Compatible: Artificial Intelligence and the Problem of Control\"",
+      "by": "Ned Desmond",
+      "venue": "TechCrunch",
+      "year": 2019,
+      "url": "https://techcrunch.com/2019/10/06/an-interview-with-dr-stuart-russell-author-of-human-compatible-artificial-intelligence-and-the-problem-of-control/",
+      "quote_checked": "I don't want the machine to have any values, other than what it is that humans want. | It has to come with a proof that it doesn't get out of control. | I've been thinking about this problem – what if we succeed with AI? – on and off since the early 90s."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Artificial Intelligence Aligned with Human Values? Q&A with Stuart Russell",
+      "by": "Natalie Wolchover",
+      "venue": "Quanta Magazine",
+      "year": 2015,
+      "url": "https://www.quantamagazine.org/artificial-intelligence-aligned-with-human-values-qa-with-stuart-russell-20150421/",
+      "quote_checked": "I don't see any real way around the fact that there's going to be, in some sense, a values industry. | What if we do succeed?"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Artificial Intelligence Will Do What We Ask. That's a Problem.",
+      "by": "Natalie Wolchover",
+      "venue": "Quanta Magazine",
+      "year": 2020,
+      "url": "https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/",
+      "quote_checked": "If we cannot switch a machine off because it won't let us, we're really in trouble. | uncertainty about the objective is essential for ensuring that we can switch the machine off | the core of the problem of control for intelligent systems"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Artificial Intelligence and the King Midas Problem",
+      "by": "Ariel Conn",
+      "venue": "Future of Life Institute",
+      "year": 2016,
+      "url": "https://futureoflife.org/2016/12/12/artificial-intelligence-king-midas-problem/",
+      "quote_checked": "It's the old King Midas problem. | We don't have to know what we want. That's the whole point. | what we ask for is evidence for what we really want"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Toward Human-Centric A.I.",
+      "by": "Brett Israel",
+      "venue": "Berkeley Engineering",
+      "year": 2016,
+      "url": "https://engineering.berkeley.edu/news/2016/09/toward-human-centric-a-i/",
+      "quote_checked": "provably safe A.I. | Most of the ways you can put a purpose into a machine are going to be wrong."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "How to keep AI from killing us all",
+      "by": "Edward Lempinen",
+      "venue": "Berkeley News",
+      "year": 2024,
+      "url": "https://news.berkeley.edu/2024/04/09/how-to-keep-ai-from-killing-us-all/",
+      "quote_checked": "We're basically saying that you can't turn on artificial general intelligence until you've shown that it's safe. | Intelligence gives you power over the world | the kinds of capabilities that would be a big flashing red light for the human race"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Musk, Wozniak and 1,100+ Others 'Pause Giant AI Experiments'",
+      "by": "CMSWire staff",
+      "venue": "CMSWire",
+      "year": 2023,
+      "url": "https://www.cmswire.com/digital-experience/musk-wozniak-and-1100-others-pause-giant-ai-experiments/",
+      "quote_checked": "Stuart Russell, Berkeley professor of Computer Science, director of the Center for Intelligent Systems"
+    }
+  ]
+}
