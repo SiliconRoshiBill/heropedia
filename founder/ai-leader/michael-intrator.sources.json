@@ -1,0 +1,57 @@
+{
+  "hero": "Michael Intrator",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "The CEO of CoreWeave explains why they went public—and why they scaled back their initial offer",
+      "by": "Diane Brady",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/2025/03/28/coreweave-ceo-michael-intrator-ipo-going-public-ai-company/",
+      "quote_checked": "Going public was a means to an end for us. | it just made sense to shrink the size of the offering | When the hyperscalers built a function for CPU computing, they built a minivan | We have a better software solution to optimize the infrastructure. | we'll be able to borrow at a much tighter spread | the debt markets are how we will finance and build the business and scale it"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "CoreWeave CEO defends AI \"circular\" deals as \"working together\"",
+      "by": "Lucas Ropek",
+      "venue": "TechCrunch",
+      "year": 2025,
+      "url": "https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/",
+      "quote_checked": "Companies are trying to address a violent change in supply and demand. | You do that by working together. | I think people are myopic a lot of times. | I couldn't be prouder of what the company has accomplished."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "What is CoreWeave, the AI startup that just saw its valuation increase to $19 billion?",
+      "by": "Sharon Goldman",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/05/01/what-is-coreweave-ai-startup-19-billion-valuation",
+      "quote_checked": "I would argue that no one understood it. | Everybody was caught on their back foot. | We built a highly performant solution. | a very specialized use case in the cloud | the largest supercomputers on the planet | we're building them again and again and again | an incredibly pure, distilled moment of people's investment in AI"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "CoreWeave CEO calls Oracle a \"formidable competitor\"",
+      "by": "Julie Coleman",
+      "venue": "CNBC",
+      "year": 2025,
+      "url": "https://www.nbcmiami.com/news/business/money-report/coreweave-ceo-calls-oracle-a-formidable-competitor/3653099/",
+      "quote_checked": "Oracle has its own set of products that they're offering, and they are a formidable competitor. | what's going to differentiate us from anyone else is the ... software stack | trying to incorporate any legacy technology | incorporate any history of success or failure | The market's going to take some time to understand the extent of our business."
+    },
+    {
+      "id": "S5",
+      "type": "letter",
+      "title": "The Year AI Gets to Work",
+      "by": "Michael Intrator",
+      "venue": "CoreWeave (company blog)",
+      "year": 2026,
+      "url": "https://www.coreweave.com/blog/mike-intrator-ceo-blog-the-year-ai-gets-to-work",
+      "quote_checked": "That is why production, not possibility, will be the defining challenge in the year ahead. | works to build more than 5 gigawatts of AI factories by 2030 | The Essential Cloud for AI | AI succeeds when complementary software, infrastructure, and operations are designed together."
+    }
+  ]
+}

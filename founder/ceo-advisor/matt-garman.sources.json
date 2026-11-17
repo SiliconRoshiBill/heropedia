@@ -1,0 +1,57 @@
+{
+  "hero": "Matt Garman",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Longtime AWS executive Matt Garman to succeed Adam Selipsky as CEO",
+      "by": "Maria Deutscher",
+      "venue": "SiliconANGLE",
+      "year": 2024,
+      "url": "https://siliconangle.com/2024/05/14/longtime-aws-executive-matt-garman-succeed-adam-selipsky-ceo/",
+      "quote_checked": "Matt knows our customers and business as well as anybody in the world"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "\"There are other companies around\": AWS CEO Matt Garman says employees pushing back on RTO mandates should quit",
+      "by": "Nicole Kobie",
+      "venue": "ITPro",
+      "year": 2024,
+      "url": "https://www.itpro.com/business/business-strategy/there-are-other-companies-around-aws-ceo-matt-garman-says-employees-pushing-back-on-rto-mandates-should-quit",
+      "quote_checked": "I have not seen an ability for us to do that when we're not in-person"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "AWS re:Invent 2024: CEO Matt Garman unveils future of cloud, generative AI, agentic workflows",
+      "by": "John Furrier",
+      "venue": "SiliconANGLE",
+      "year": 2024,
+      "url": "https://siliconangle.com/2024/12/01/aws-reinvent-2024-ceo-matt-garman-unveils-future-cloud-generative-ai-agentic-workflows/",
+      "quote_checked": "We're at the point where you can have thousands of agents executing tasks, but that gets complicated fast."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "AWS CEO Garman on hardware ambitions, Trainium demand, AI and jobs",
+      "by": "Larry Dignan",
+      "venue": "Constellation Research",
+      "year": 2025,
+      "url": "https://www.constellationr.com/insights/news/aws-ceo-garman-hardware-ambitions-trainium-demand-ai-and-jobs",
+      "quote_checked": "I don't expect capex to slow down. We'll keep spending and we'll keep growing."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "AWS CEO Matt Garman sees huge business opportunity for Amazon in AI-powered software: \"Everything is going to be remade\"",
+      "by": "Alexei Oreskovic",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/04/29/aws-ceo-matt-garman-interview-openai-saas/",
+      "quote_checked": "the vast, vast majority of them will not be built by Amazon or AWS"
+    }
+  ]
+}

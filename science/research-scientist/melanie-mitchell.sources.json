@@ -1,0 +1,67 @@
+{
+  "hero": "Melanie Mitchell",
+  "role": "Research Scientist",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "paper",
+      "title": "Why AI Is Harder Than We Think",
+      "by": "Melanie Mitchell",
+      "venue": "arXiv",
+      "year": 2021,
+      "url": "https://arxiv.org/abs/2104.12871",
+      "quote_checked": "any improvement in our programs no matter how trivial counts as progress | The assumption that intelligence can in principle be “disembodied”"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "The Computer Scientist Training AI to Think With Analogies",
+      "by": "John Pavlus",
+      "venue": "Quanta Magazine",
+      "year": 2021,
+      "url": "https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/",
+      "quote_checked": "It's understanding the essence of a situation by mapping it to another situation that is already understood. | It is a mechanism by which understanding occurs. | These networks, it turns out, don't learn how to abstract. | My feeling is that solving the brittleness problem will require meaning. | These systems don't understand, in any humanlike sense, the data that they're dealing with."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Melanie Mitchell faculty profile",
+      "by": "Santa Fe Institute",
+      "venue": "santafe.edu",
+      "year": 2026,
+      "url": "https://www.santafe.edu/people/profile/melanie-mitchell",
+      "quote_checked": "James B. Alley, Jr. Professor | conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems"
+    },
+    {
+      "id": "S4",
+      "type": "paper",
+      "title": "The ConceptARC Benchmark: Evaluating Understanding and Generalization in the ARC Domain",
+      "by": "Arseny Moskvichev, Victor Vikram Odouard, Melanie Mitchell",
+      "venue": "arXiv",
+      "year": 2023,
+      "url": "https://arxiv.org/abs/2305.07141",
+      "quote_checked": "humans substantially outperform the machine solvers on this benchmark"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "LLMs and World Models, Part 2: Evidence For (and Against) Emergent World Models in LLMs",
+      "by": "Melanie Mitchell",
+      "venue": "AI: A Guide for Thinking Humans (Substack)",
+      "year": 2025,
+      "url": "https://aiguide.substack.com/cp/157209462",
+      "quote_checked": "The claims of emergent abstract world models in LLMs are not yet supported by strong evidence. | bags of heuristics | brittle when encountering sufficiently novel situations | capture something about the world that is causal and relevant to the task | algorithmically efficient"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Could AI ever truly \"understand\"?",
+      "by": "Santa Fe Institute",
+      "venue": "santafe.edu News Center",
+      "year": 2023,
+      "url": "https://santafe.edu/news-center/news/could-ai-ever-truly-understand",
+      "quote_checked": "Large language models have the appearance of understanding but do not have experiences. | Our embodiment is fundamental to our intelligence"
+    }
+  ]
+}

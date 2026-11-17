@@ -1,0 +1,57 @@
+{
+  "hero": "Mark Chen",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "The two people shaping the future of OpenAI's research",
+      "by": "Will Douglas Heaven",
+      "venue": "MIT Technology Review",
+      "year": 2025,
+      "url": "https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/",
+      "quote_checked": "I really don't consider reasoning done. We've definitely not solved it. | I don't think there's evidence that scaling laws are dead in any sense, | But there's fluidity in the roles, | I think it's just a very delicate balance. | To break into a really different tier of human performance—that's unprecedented. | A lot of these things are highly personal decisions,"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "\"We're not going to shoot ourselves in the foot\" over hack fallout, says OpenAI's chief research officer",
+      "by": "Will Douglas Heaven",
+      "venue": "MIT Technology Review",
+      "year": 2026,
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "quote_checked": "I do kind of reject the premise that OpenAI is a company with visible impacts in the world | From that moment on, we have treated the process of training as something that's not secure | We're not going to shoot ourselves in the foot and take ourselves far off the frontier | We want to make sure we do in-depth investigations before we just put details out there | It is time to start delivering the benefits of AI to humanity."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "OpenAI Announces Leadership Update",
+      "by": "Paul Thurrott",
+      "venue": "Thurrott.com",
+      "year": 2025,
+      "url": "https://www.thurrott.com/?p=318881",
+      "quote_checked": "push the frontier in capability and safety"
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Tech Unheard Episode 7: Mark Chen",
+      "by": "Rene Haas with Mark Chen",
+      "venue": "Tech Unheard podcast (Arm)",
+      "year": 2025,
+      "url": "https://newsroom.arm.com/podcasts/tech-unheard-episode-7-mark-chen",
+      "quote_checked": "it teaches you rigor and experimentation. | we're limited just by the number of ideas we can come up with."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "OpenAI's Mark Chen says AI models are approaching the point of generating their own innovations",
+      "by": "Editorial Team",
+      "venue": "CryptoBriefing",
+      "year": 2026,
+      "url": "https://cryptobriefing.com/openai-mark-chen-model-capabilities-future/",
+      "quote_checked": "long-horizon tasks"
+    }
+  ]
+}
