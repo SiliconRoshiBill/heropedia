@@ -1,0 +1,67 @@
+{
+  "hero": "Andy Jassy",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "letter",
+      "title": "2024 Letter to Shareholders",
+      "by": "Andy Jassy",
+      "venue": "Amazon.com",
+      "year": 2025,
+      "url": "https://www.aboutamazon.com/md/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders",
+      "quote_checked": "AI does not have to be as expensive as it is today, and it won't be in the future. | Chips are the biggest culprit. | our new Trainium2 chips offer 30-40% better price-performance | customers train their models periodically, but produce inferences constantly in large-scale AI applications | our customers, shareholders, and business will be well-served by our investing aggressively now | When we build services or features, before we start coding, we write Press Release and Frequently Asked Questions. | We operate like the world's largest startup in large part because of our culture of Why."
+    },
+    {
+      "id": "S2",
+      "type": "letter",
+      "title": "Message from CEO Andy Jassy: Some thoughts on Generative AI",
+      "by": "Andy Jassy",
+      "venue": "About Amazon",
+      "year": 2025,
+      "url": "https://www.aboutamazon.com/md/news/company-news/amazon-ceo-andy-jassy-on-generative-ai",
+      "quote_checked": "We will need fewer people doing some of the jobs that are being done today, and more people doing other types of jobs. | Agents will be teammates that we can call on at various stages of our work. | There will be billions of these agents, across every company and in every imaginable field."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Amazon CEO says recent mass layoffs were due to \"culture\" and \"removing layers\" - not AI",
+      "by": "Mike Moore",
+      "venue": "TechRadar Pro",
+      "year": 2025,
+      "url": "https://www.techradar.com/pro/amazon-ceo-says-recent-mass-layoffs-were-due-to-culture-and-removing-layers-not-ai",
+      "quote_checked": "The announcement that we made a few days ago was not really financially driven | it's not even really AI-driven - not right now, at least | Really, it's culture."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Amazon CEO Andy Jassy explains 8 things you may not know about the company's Leadership Principles",
+      "by": "Connie Chen",
+      "venue": "About Amazon",
+      "year": 2024,
+      "url": "https://www.aboutamazon.com/news/workplace/amazon-ceo-andy-jassy-leadership-principles-video-podcast",
+      "quote_checked": "The Leadership Principles are something you have to constantly work at. | Great owners are always asking themselves, what would I do if this were my personal money? | They sometimes confuse it with being nice to one another or having social cohesion. | What we mean is being honest, authentic, straightforward, listening intently but challenging respectfully if you disagree."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Andy Jassy officially becomes CEO of Amazon",
+      "by": "SiliconANGLE Staff",
+      "venue": "SiliconANGLE",
+      "year": 2021,
+      "url": "https://siliconangle.com/2021/07/05/andy-jassy-officially-becomes-ceo-amazon",
+      "quote_checked": ""
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Amazon CEO Andy Jassy Is Fighting Against Bureaucracy",
+      "by": "Sherin Shibu",
+      "venue": "Entrepreneur",
+      "year": 2025,
+      "url": "https://www.entrepreneur.com/business-news/amazon-ceo-andy-jassy-is-fighting-against-bureaucracy/497240",
+      "quote_checked": "I would say bureaucracy is really anathema to startups and to entrepreneurial organizations | As you get larger, it's really easy to accumulate bureaucracy, a lot of bureaucracy that you may not see."
+    }
+  ]
+}
