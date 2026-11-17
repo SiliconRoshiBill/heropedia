@@ -1,0 +1,66 @@
+{
+  "hero": "Brendan Foody",
+  "role": "AI Leader",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "The world's youngest self-made billionaires are a trio of 22-year-old AI founders",
+      "by": "Eva Roytburg",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/2025/11/12/brendan-foody-mercor-interview-ai-adarsh-hiremath-surya-midha-youngest-self-made-billionaires/",
+      "quote_checked": "I knew I wanted to drop out before finals my sophomore year | I just didn't go to finals. | But the real opportunity is teaching them what only humans know—judgment, nuance, and taste. | We'll automate maybe two-thirds of knowledge work"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Mercor, an AI recruiting startup founded by 21-year-olds, raises $100M at $2B valuation",
+      "by": "Tage Kene-Okafor",
+      "venue": "TechCrunch",
+      "year": 2025,
+      "url": "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/",
+      "quote_checked": "We collect performance data on candidates and use it to refine our predictions on who will perform best in the future. | If AI automates 90% of the economy, then humans become the bottleneck for the remaining 10%."
+    },
+    {
+      "id": "S3",
+      "type": "letter",
+      "title": "Unlocking human potential in the AI economy",
+      "by": "Brendan Foody",
+      "venue": "Mercor blog",
+      "year": 2025,
+      "url": "https://mercor.com/blog/series-c/",
+      "quote_checked": "Mercor sits at the intersection of labor markets and AI research. | our vast talent network trains frontier AI models in the same way teachers train students | We are uniquely positioned to create this new category of work"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Are AI agents ready for the workplace? A new benchmark raises doubts",
+      "by": "Russell Brandom",
+      "venue": "TechCrunch",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
+      "quote_checked": "we built out the entire environment, modeled after real professional services | The way we do our jobs isn't with one individual giving us all the context in one place. | In real life, you're operating across Slack and Google Drive and all these other tools. | I think this is probably the most important topic in the economy | The benchmark is very reflective of the real work that these people do. | Right now it's fair to say it's like an intern that gets it right a quarter of the time"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "How AI labs use Mercor to get the data companies won't share",
+      "by": "Maxwell Zeff",
+      "venue": "TechCrunch",
+      "year": 2025,
+      "url": "https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share/",
+      "quote_checked": "Their customers don't want to give them data to automate large portions of their value chains. | Over time, ChatGPT will be better than the best consulting firm, better than the best investment bank, and better than the best law firm. | there are things that happen"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Thiel Foundation Reveals 2024 Class Of Thiel Fellows",
+      "by": "Pulse2 staff",
+      "venue": "Pulse2",
+      "year": 2024,
+      "url": "https://pulse2.com/thiel-foundation-reveals-2024-class-of-thiel-fellows/"
+    }
+  ]
+}
