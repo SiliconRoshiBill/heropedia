@@ -1,0 +1,57 @@
+{
+  "hero": "Alex Karp",
+  "role": "CEO Advisor",
+  "checked": "2026-11-17",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "From the New Testament to Nixon: Takeaways From Palantir CEO Alex Karp's Shareholder Letter",
+      "by": "CNBC",
+      "venue": "NBC4 Washington",
+      "year": 2025,
+      "url": "https://www.nbcwashington.com/news/business/money-report/from-the-new-testament-to-nixon-takeaways-from-palantir-ceo-alex-karps-shareholder-letter/3906794/",
+      "quote_checked": "We, the heretics, this motley band of characters, were cast out and nearly discarded by Silicon Valley. | remains steadfast, when such a commitment is fashionable and convenient, and when it is not."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Palantir CEO Alex Karp on his shareholder letters",
+      "by": "Jessica Mathews",
+      "venue": "Fortune",
+      "year": 2025,
+      "url": "https://fortune.com/2025/10/16/palantir-ceo-alex-karp-interview-shareholder-letters/",
+      "quote_checked": "We're writing to people we believe to be intellectually curious and intelligent. | It's like a meandering proclamation of things we believe to be true. | There is no requirement at Palantir to agree with me on any of these things—Ukraine, ICE, Israel. | radical leftists skeptical of institutional power | free speech absolutists resistant to liberal establishment orthodoxy"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Alex Karp's foreign policy: if you harm an American you'll feel pain for generations",
+      "by": "Marco Quiroz-Gutierrez",
+      "venue": "Fortune",
+      "year": 2024,
+      "url": "https://fortune.com/2024/09/23/alex-karp-foreign-policy-americans-off-limits-inflict-pain-generations/",
+      "quote_checked": "if you touch an American, we will inflict pain on you for generations | I think we're in an age when [a] nuclear deterrent is actually less effective, because the West is very unlikely to use anything like a nuclear bomb, whereas our adversaries might. | Where you have technological parity but moral disparity, the actual disparity is much greater than people think. | Just in general, in foreign policy, we need to talk less and act more."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Alex Karp",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+      "quote_checked": ""
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Karp takes aim at AI firms, saying their goals must align with customers' interests",
+      "by": "Herald Business staff",
+      "venue": "The Korea Herald",
+      "year": 2026,
+      "url": "https://biz.heraldcorp.com/article/10928991",
+      "quote_checked": "The alignment problem is real, but it is not what it is commonly understood to be. | The real problem is not aligning the goals and capabilities of our technological creations with our interests. It is aligning the goals of the companies building that technology with the interests of the customers using it. | We have zero interest in software that exploits the value and alpha of our partners."
+    }
+  ]
+}
