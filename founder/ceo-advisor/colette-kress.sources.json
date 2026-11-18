@@ -1,0 +1,57 @@
+{
+  "hero": "Colette Kress",
+  "role": "CEO Advisor",
+  "checked": "2026-11-18",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "NVIDIA Announces CEO Transition",
+      "by": "NVIDIA Corporation",
+      "venue": "SEC Form 8-K (Exhibit 99.1)",
+      "year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+      "quote_checked": "Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. | The Board of Directors appointed Harvey C. Jones as its first-ever Chair of the Board."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Nvidia Breaks Revenue And Profit Records, And Will Keep Doing It",
+      "by": "Timothy Prickett Morgan",
+      "venue": "The Next Platform",
+      "year": 2026,
+      "url": "https://www.nextplatform.com/compute/2026/11/18/nvidia-breaks-revenue-and-profit-records-and-will-keep-doing-it/5310669",
+      "quote_checked": "Our momentum is real. Our demand is accelerating. Our supply is growing. | We've got this."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Interview: Post-Earnings Insight With Nvidia CFO Colette Kress",
+      "by": "Timothy Prickett Morgan",
+      "venue": "The Next Platform",
+      "year": 2024,
+      "url": "https://nextplatform.com/ai/2024/08/29/interview-post-earnings-insight-with-nvidia-cfo-colette-kress/1660909",
+      "quote_checked": "The biggest part of planning for this size of company is planning our capital to design more products. | I am always looking forward to make sure our planning is assuming the best. | We are not going to get this all done in two years. | Do we have all of our pieces in order?"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Meet Nvidia's billionaire interim CEO, Colette Kress",
+      "by": "Preston Fore",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/11/12/colette-kress-interim-chief-exeuctive-office-nvidia-jensen-huang-never-sought-c-suite-career-climb-billionaire-finance-leader/",
+      "quote_checked": "I think honestly, throughout my career, I was just always fascinated by somebody else's role. | I just get excited about learning new things. | surround yourself with people that you can learn from. | We do not waste a day, we don't waste a dime."
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "Trillion Dollar Woman",
+      "by": "Assaf Gilead and Nevo Trabelsy",
+      "venue": "Globes",
+      "year": 2023,
+      "url": "https://en.globes.co.il/en/article-trillion-dollar-woman-1001453025",
+      "quote_checked": "One of the things we don't focus on is the stock price. | We focus on our investors and how we would like to innovate. | the 'supermarket test' | It is no bubble. | This is my fourth company in a 35-year career. I still can't believe it's been 10 years at Nvidia."
+    }
+  ]
+}
