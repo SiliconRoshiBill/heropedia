@@ -1,0 +1,56 @@
+{
+  "hero": "Pope Leo XIV",
+  "role": "Outreach Minister",
+  "checked": "2026-11-18",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Biography of His Holiness Leo XIV",
+      "by": "Dicastery for Communication, Holy See",
+      "venue": "vatican.va",
+      "year": 2025,
+      "url": "https://www.vatican.va/content/leo-xiv/en/biography/documents/biografia_leone-xiv.html"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Pope Leo XIV addresses cardinals",
+      "by": "Vatican News",
+      "venue": "vaticannews.va",
+      "year": 2025,
+      "url": "https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-addresses-cardinals-10-may-2025-vatican.print.html",
+      "quote_checked": "Today, the Church offers to all her treasure of social teaching in response to another industrial revolution | addressed the social question in the context of the first great industrial revolution"
+    },
+    {
+      "id": "S3",
+      "type": "talk",
+      "title": "Holy Mass Homily, Paysandú, Uruguay",
+      "by": "Pope Leo XIV",
+      "venue": "vatican.va",
+      "year": 2026,
+      "url": "https://www.vatican.va/content/leo-xiv/en/homilies/2026/documents/20261107-uruguay-messa-paysandu.html",
+      "quote_checked": "It is not difficult to imagine the benefits a bridge brings: openness, communication and exchange. | That is why it is so important to be builders of bridges! | to build bridges, strengthen bonds, unite, communicate and share the joy of faith"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Leo says the use of AI must not inhibit human dignity or create 'new colonialism'",
+      "by": "Elise Ann Allen",
+      "venue": "Crux",
+      "year": 2026,
+      "url": "https://cruxnow.com/vatican/2026/05/leo-says-the-use-of-ai-must-not-inhibit-human-dignity-or-create-new-colonialism",
+      "quote_checked": "More power does not necessarily imply something better. | At this time of transition, it is not enough to react only when jobs disappear; we must oversee the transformation in advance. | Even today, colonialism assumes new forms. | Otherwise, the digital age will not be post-colonial, but colonial in another form. | adapt to the speed and demands of machines"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Pope Leo closes South America trip in Peru: 'I will carry you with me always'",
+      "by": "Buenos Aires Herald",
+      "venue": "Buenos Aires Herald",
+      "year": 2026,
+      "url": "https://buenosairesherald.com/world/latin-america/pope-leo-closes-south-america-trip-in-peru-i-will-carry-you-with-me-always",
+      "quote_checked": "I will carry you with me always | the Peruvian people are also my people"
+    }
+  ]
+}
