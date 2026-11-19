@@ -1,0 +1,56 @@
+{
+  "hero": "Rene Haas",
+  "role": "CEO Advisor",
+  "checked": "2026-11-19",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "An Interview with Arm CEO Rene Haas",
+      "by": "Ben Thompson",
+      "venue": "Stratechery",
+      "year": 2024,
+      "url": "https://stratechery.com/2024/an-interview-with-arm-ceo-rene-haas/",
+      "quote_checked": "I think it really starts with fundamentally the CPU is the basis of a platform. | one processor platform doesn't fit all | if you're not getting 10x benefit on power, 10x benefit on performance, why are you doing that? | what I can control is making sure that we're doing the right things in the long-term"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "New Arm CEO faces a long list of challenges after collapse of Nvidia deal—including an IPO and a fired China head who refuses to leave",
+      "by": "Ian King (Bloomberg)",
+      "venue": "Fortune",
+      "year": 2022,
+      "url": "https://fortune.com/2022/02/08/new-arm-ceo-rene-haas-challenges-collapse-nvidia-deal-fired-china-head-softbank/"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Nvidia approaches Arm CEO Rene Haas in its search for Jensen Huang's successor",
+      "by": "Marcus Schuler",
+      "venue": "Implicator.ai",
+      "year": 2026,
+      "url": "https://www.implicator.ai/nvidia-approaches-arm-ceo-rene-haas/",
+      "quote_checked": "not formally engaged with any potential candidates"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Arm (ARM) Q2 2026 Earnings Call Transcript",
+      "by": "The Motley Fool",
+      "venue": "AOL",
+      "year": 2026,
+      "url": "https://www.aol.com/articles/arm-arm-q2-2026-earnings-234804345.html",
+      "quote_checked": "Power has become the bottleneck. | about 50% more efficient than competitive solutions | everyone wants to move the most efficient compute platform as possible"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Leadership",
+      "by": "Arm",
+      "venue": "arm.com",
+      "year": 2026,
+      "url": "https://www.arm.com/company/leadership",
+      "quote_checked": "beyond IP licensing into compute subsystems"
+    }
+  ]
+}

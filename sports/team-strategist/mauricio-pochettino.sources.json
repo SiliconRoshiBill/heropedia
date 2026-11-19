@@ -1,0 +1,57 @@
+{
+  "hero": "Mauricio Pochettino",
+  "role": "Team Strategist",
+  "checked": "2026-11-19",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Mauricio Pochettino interview: 'We need to breathe, we need to feel the love, we need emotion'",
+      "by": "Sam Dean (The Telegraph)",
+      "venue": "Yahoo Sports",
+      "year": 2019,
+      "url": "https://sports.yahoo.com/mauricio-pochettino-interview-apos-breathe-223000760.html",
+      "quote_checked": "The worst thing as a human being is to underestimate the people in front of you. | At the end, the human skills are going to be the most important. | We need to breathe, we need to feel the love, we need emotion. Football is a contest of emotion."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Mauricio Pochettino exclusive: Spurs manager's fascinating man-management blueprint",
+      "by": "Gerard Brand",
+      "venue": "Sky Sports",
+      "year": 2019,
+      "url": "https://www.skysports.com/football/news/11675/11778877/mauricio-pochettino-exclusive-spurs-manager-s-fascinating-man-management-blueprint",
+      "quote_checked": "Because players are people. They are not furniture. | I need to be aware of 25 players and what we've talked about, remember every single situation."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "13 quotes to explain Pochettino's philosophy: 'He controlled everything'",
+      "by": "Planet Football",
+      "venue": "Planet Football",
+      "year": 2018,
+      "url": "https://www.planetfootball.com/quick-reads/13-quotes-to-explain-pochettinos-philosophy-he-controlled-everything",
+      "quote_checked": "I never promised my players that they will play. | you don't sign to play, you sign to train. | the most important thing is to be consistent in what you do."
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Sharing your vision with your players",
+      "by": "Elite Soccer (League Managers Association)",
+      "venue": "elitesoccercoaching.net",
+      "year": 2016,
+      "url": "https://elitesoccercoaching.net/interviews/sharing-your-vision-with-your-players",
+      "quote_checked": "we should always see an individual as a person before we see them in their professional capacity."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "The inside story of Manchester United's move for Mauricio Pochettino",
+      "by": "James Robson (Associated Press)",
+      "venue": "AP via NY1",
+      "year": 2026,
+      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/12/the-inside-story-of-manchester-uniteds-move-for-mauricio-pochettino",
+      "quote_checked": "We recovered our capacity to dream big, the capacity to train players that really want to improve."
+    }
+  ]
+}
