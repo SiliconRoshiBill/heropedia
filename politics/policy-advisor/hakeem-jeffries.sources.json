@@ -1,0 +1,56 @@
+{
+  "hero": "Hakeem Jeffries",
+  "role": "Policy Advisor",
+  "checked": "2026-11-20",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "'We're not going to swing at every pitch': Jeffries & Schumer navigate how to counter Trump 2.0",
+      "by": "Kevin Frey",
+      "venue": "Spectrum News NY1",
+      "year": 2025,
+      "url": "https://ny1.com/nyc/all-boroughs/news/2025/02/01/not-going-to-swing-at-every-pitch---jeffries--schumer-navigate-how-to-counter-trump-2-0",
+      "quote_checked": "We're not going to swing at every pitch. | He waits for the right one and then he swings. | We're going to swing at the ones that matter for the American people."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "'More is more': Hakeem Jeffries pushes Democrats to flood the zone in opposition to Trump",
+      "by": "Sahil Kapur",
+      "venue": "NBC News",
+      "year": 2025,
+      "url": "https://www.nbcnews.com/politics/congress/hakeem-jeffries-pushes-democrats-flood-zone-opposition-trump-rcna209287",
+      "quote_checked": "We are in a 'more is more' environment. | These aren't ordinary times, and they require an extraordinary response. | House Democrats are rising to the occasion to meet the moment"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Hakeem Jeffries sets record for longest House speech before vote on Trump's 'big, beautiful bill'",
+      "by": "CBS News",
+      "venue": "CBS News",
+      "year": 2025,
+      "url": "https://www.cbsnews.com/news/hakeem-jeffries-speech-house-floor-record",
+      "quote_checked": "I feel an obligation, Mr. Speaker, to stand on this House floor and take my sweet time. | This reckless Republican budget is an immoral document. | We don't work for President Donald Trump."
+    },
+    {
+      "id": "S4",
+      "type": "interview",
+      "title": "Leader Jeffries on MS NOW: \"We Will Stop the MAGA Power Grab and Push Back Against Their Efforts to Rig the Midterm Elections\"",
+      "by": "Office of the House Democratic Leader",
+      "venue": "democraticleader.house.gov",
+      "year": 2026,
+      "url": "https://democraticleader.house.gov/media/press-releases/leader-jeffries-ms-now-we-will-stop-maga-power-grab-and-push-back-against",
+      "quote_checked": "they want to decimate Black and Latino representation in Congress | stop the MAGA power grab"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Democrat Hakeem Jeffries is nominated to become House speaker, a historic first",
+      "by": "Associated Press",
+      "venue": "OPB",
+      "year": 2026,
+      "url": "https://www.opb.org/article/2026/11/18/democrat-hakeem-jeffries-is-nominated-to-become-house-speaker-a-historic-first/"
+    }
+  ]
+}
