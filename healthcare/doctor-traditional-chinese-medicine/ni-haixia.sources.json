@@ -1,7 +1,7 @@
 {
   "hero": "Ni Haixia",
   "role": "Doctor (Traditional Chinese Medicine)",
-  "checked": "2026-10-06",
+  "checked": "2026-11-20",
   "sources": [
     {
       "id": "S1",
@@ -38,6 +38,25 @@
       "venue": "Yale Medicine",
       "year": 2019,
       "url": "https://www.yalemedicine.org/news/natural-cancer-therapy-risks"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "对话倪海厦传承人，为什么说多数赛博中医会走不下去？",
+      "by": "Chen Guangjing (陈广晶)",
+      "venue": "Huxiu (虎嗅)",
+      "year": 2025,
+      "url": "https://www.huxiu.com/article/4821511.html",
+      "quote_checked": "唯一的真理就是临床疗效"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "看完\"宝妈自学中医\"，华佗都哭了",
+      "by": "Huang Gua Qi Shui (黄瓜汽水)",
+      "venue": "Huxiu (虎嗅)",
+      "year": 2025,
+      "url": "https://www.huxiu.com/article/4793474.html"
     }
   ]
 }
