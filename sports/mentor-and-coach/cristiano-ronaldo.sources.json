@@ -1,0 +1,57 @@
+{
+  "hero": "Cristiano Ronaldo",
+  "role": "Mentor and Coach",
+  "checked": "2026-11-20",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Cristiano Ronaldo announces his international retirement from Portugal",
+      "by": "Associated Press",
+      "venue": "WECT",
+      "year": 2026,
+      "url": "https://www.wect.com/2026/11/05/cristiano-ronaldo-announces-his-international-retirement-portugal/",
+      "quote_checked": "To the Portuguese people, the day has come for me to hand back the No. 7 shirt of our national team. | it was not an easy decision because some decisions are not made with the mind alone. They are also made with the heart."
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "'I don't need to prove anything' - Ronaldo talks Trump, GOAT debate and World Cup hopes",
+      "by": "FootballTransfers Staff",
+      "venue": "FootballTransfers.com",
+      "year": 2025,
+      "url": "https://www.footballtransfers.com/en/transfer-news/sa-pro-league/2025/11/cristiano-ronaldo-interview-piers-morgan-part-two-donald-trump-goat-debate-winning-world-cup",
+      "quote_checked": "People say: 'Cristiano will be the greatest if he wins the World Cup.' I don't agree. | none of that will change my name in the history of football. The history speaks for itself. | I've learnt by now that the moment is the most important thing we have."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Like a force",
+      "by": "Pureza Fleming",
+      "venue": "Vogue Portugal (English edition)",
+      "year": 2024,
+      "url": "https://www.vogue.pt/sports-issue-english-version-competition-spirit",
+      "quote_checked": "Talent without work is nothing and work without talent is nothing. They have to work together. I have both. | Discipline is the main thing. | Of course I don't like going to the gym every day, nobody does, but you have to."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Cristiano Ronaldo has not lost his self-regard in latest interview",
+      "by": "Mary Hannigan",
+      "venue": "The Irish Times",
+      "year": 2025,
+      "url": "https://www.irishtimes.com/sport/soccer/2025/11/10/cristiano-ronaldo-has-not-lost-his-self-regard-in-latest-interview",
+      "quote_checked": "In the world, no one is more famous than me. | I'm not normal. I'm perfect."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Talent is not enough - Cristiano Ronaldo on the secret to his success",
+      "by": "Goal.com Staff",
+      "venue": "Goal.com",
+      "year": 2019,
+      "url": "https://www.goal.com/en/news/talent-is-not-enough---cristiano-ronaldo-on-the-secret-to-his-success/13q3pz3y86c7z15yt4xrqg0t1d",
+      "quote_checked": "I think my biggest strength is my mind. Talent is not enough anymore."
+    }
+  ]
+}
