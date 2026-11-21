@@ -1,0 +1,57 @@
+{
+  "hero": "Barack Obama",
+  "role": "President",
+  "checked": "2026-11-21",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "Keynote Address at the 2004 Democratic National Convention",
+      "by": "Barack Obama",
+      "venue": "The American Presidency Project (UC Santa Barbara)",
+      "year": 2004,
+      "url": "https://www.presidency.ucsb.edu/documents/keynote-address-the-2004-democratic-national-convention",
+      "quote_checked": "there's not a liberal America and a conservative America - there's the United States of America | The audacity of hope!"
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "Farewell Address",
+      "by": "Barack Obama",
+      "venue": "Obama White House Archives",
+      "year": 2017,
+      "url": "https://obamawhitehouse.archives.gov/farewell",
+      "quote_checked": "democracy does require a basic sense of solidarity | It needs you. Not just when there's an election. | Show up. Dive in. Stay at it. | I'm asking you to believe. Not in my ability to bring about change -- but in yours."
+    },
+    {
+      "id": "S3",
+      "type": "talk",
+      "title": "Remarks by the President at Howard University Commencement Ceremony",
+      "by": "Barack Obama",
+      "venue": "Obama White House Archives",
+      "year": 2016,
+      "url": "https://obamawhitehouse.archives.gov/the-press-office/2016/05/07/remarks-president-howard-university-commencement-ceremony",
+      "quote_checked": "change requires more than righteous anger. It requires a program, and it requires organizing. | democracy requires compromise, even when you are 100 percent right. | better is good, because you consolidate your gains and then you move on to the next fight from a stronger position. | I will take better every time. | change requires more than just speaking out -- it requires listening, as well. | you will feel good about yourself, you will enjoy a certain moral purity, but you're not going to get what you want. | let them talk"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "From Obama to IShowSpeed, Bahasa Indonesia finds unlikely champions on global stage",
+      "by": "The Star (Asia News Network)",
+      "venue": "The Star",
+      "year": 2026,
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/18/from-obama-to-ishowspeed-bahasa-indonesia-finds-unlikely-champions-on-global-stage",
+      "quote_checked": "Not bad. And you got the right accent, too."
+    },
+    {
+      "id": "S5",
+      "type": "talk",
+      "title": "Election Night Victory Speech",
+      "by": "Barack Obama",
+      "venue": "Miller Center, University of Virginia",
+      "year": 2008,
+      "url": "https://millercenter.org/node/1949",
+      "quote_checked": "we have never been a collection of Red States and Blue States: we are, and always will be, the United States of America. | she knows how America can change. Yes we can."
+    }
+  ]
+}
