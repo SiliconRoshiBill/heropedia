@@ -1,0 +1,56 @@
+{
+  "hero": "Mark Carney",
+  "role": "Policy Advisor",
+  "checked": "2026-11-21",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "Breaking the Tragedy of the Horizon – climate change and financial stability",
+      "by": "Mark Carney",
+      "venue": "Bank of England (speech at Lloyd's of London)",
+      "year": 2015,
+      "url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2015/breaking-the-tragedy-of-the-horizon-climate-change-and-financial-stability.pdf",
+      "quote_checked": "Climate change is the Tragedy of the Horizon. | We don't need an army of actuaries to tell us that the catastrophic impacts of climate change will be felt beyond the traditional horizons of most actors | once climate change becomes a defining issue for financial stability, it may already be too late | By managing what gets measured, we can break the Tragedy of the Horizon."
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "The Reith Lectures 2020: From Climate Crisis to Real Prosperity",
+      "by": "Mark Carney",
+      "venue": "BBC Radio 4",
+      "year": 2020,
+      "url": "https://growinggreatschoolsworldwide.com/wp-content/uploads/2025/07/Reith_2020_Lecture_4_transcript.pdf",
+      "quote_checked": "that's a striking gap between what society wants and what the market values | the market is not the answer to everything, but it can play a critical role | We won't get to net zero without innovation, investment and profit."
+    },
+    {
+      "id": "S3",
+      "type": "talk",
+      "title": "Principled and Pragmatic: Canada's Path",
+      "by": "Mark Carney",
+      "venue": "Prime Minister of Canada",
+      "year": 2026,
+      "url": "https://www.pm.gc.ca/en/news/speeches/2026/01/20/principled-and-pragmatic-canadas-path-prime-minister-carney-addresses",
+      "quote_checked": "Middle powers must act together because if you are not at the table, you are on the menu. | when we only negotiate bilaterally with a hegemon, we negotiate from weakness. | This is not sovereignty. It is the performance of sovereignty while accepting subordination. | sovereignty that was once grounded in rules, but will increasingly be anchored in the ability to withstand pressure | They must develop greater strategic autonomy: in energy, food, critical minerals, in finance, and supply chains."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Mark Carney sworn in as Canada's new prime minister, replacing Trudeau",
+      "by": "Associated Press",
+      "venue": "Al Jazeera",
+      "year": 2025,
+      "url": "https://www.aljazeera.com/news/2025/3/14/mark-carney-sworn-in-as-canadas-new-prime-minister-replacing-trudeau",
+      "quote_checked": "sworn in on Friday, March 14, 2025, at Rideau Hall"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Carney arrives in Manila for ASEAN summit, seeks trade pact with Philippines",
+      "by": "BNN Bloomberg",
+      "venue": "BNN Bloomberg",
+      "year": 2026,
+      "url": "https://www.bnnbloomberg.ca/business/international/2026/11/13/carney-arrives-in-manila-for-asean-summit-seeks-trade-pact-with-philippines/"
+    }
+  ]
+}
