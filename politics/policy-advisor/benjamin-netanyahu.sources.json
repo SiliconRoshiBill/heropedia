@@ -1,0 +1,64 @@
+{
+  "hero": "Benjamin Netanyahu",
+  "role": "Policy Advisor",
+  "checked": "2026-11-22",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "6 highlights from Netanyahu's interview with CBS News",
+      "by": "Caitlin Yilek and Joe Walsh",
+      "venue": "CBS News",
+      "year": 2025,
+      "url": "https://www.cbsnews.com/news/highlights-benjamin-netanyahu-interview-cbs-news",
+      "quote_checked": "the way you purchase peace is through strength | all hell breaks loose | That sovereign power of security must remain with Israel | very painful | that's small comfort if your son or daughter was murdered | My job is to protect the Jewish state and assure the future of the Jewish people | I'm very tough on the matters that pertain to my country's future"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Netanyahu says only a unity government can guarantee Israel's security",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security",
+      "quote_checked": "only strengthened the conviction that it is essential to form a national unity government | eliminate the Iranian threat once and for all | not hesitate to use nuclear weapons against us | Let's meet in one room, without preconditions"
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "\"Bibi: My Story\": Benjamin Netanyahu, His Life And Times",
+      "by": "Peter Robinson with Benjamin Netanyahu",
+      "venue": "Uncommon Knowledge, Hoover Institution",
+      "year": 2022,
+      "url": "https://www.hoover.org/research/bibi-my-story-benjamin-netanyahu-his-life-and-times"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Benjamin Netanyahu at the briefing",
+      "by": "Israel National News",
+      "venue": "Israel National News",
+      "year": 2026,
+      "url": "https://www.israelnationalnews.com/news/434801",
+      "quote_checked": "We must ensure that nuclear weapons are prevented. If we need to act alone, we will act alone | A single bomb from Iran could destroy the country, and this has always been my life's mission | giving priority to prevention and offense over containment and defense | launching preemptive strikes to thwart evolving threats | Israel is now a regional power, and in certain fields even a global power"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Can Netanyahu and Eisenkot form a \"unity\" government in Israel?",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "What powers does Netanyahu have as Israel's interim PM?",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm"
+    }
+  ]
+}
