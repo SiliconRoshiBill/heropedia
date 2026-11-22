@@ -1,0 +1,65 @@
+{
+  "hero": "Stephen Miller",
+  "role": "Policy Advisor",
+  "checked": "2026-11-22",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Transcript: Stephen Miller on \"Face the Nation,\" December 16, 2018",
+      "by": "CBS News",
+      "venue": "CBS News",
+      "year": 2018,
+      "url": "https://www.cbsnews.com/news/transcript-stephen-miller-on-face-the-nation-december-16-2018",
+      "quote_checked": "We're going to do whatever is necessary to build the border wall to stop this ongoing crisis of illegal immigration. | if it comes to it, absolutely | At stake is the question of whether or not the United States remains a sovereign country. | Whether or not we can establish and enforce rules for entrance into our country. | they can either choose to fight for America's working class or to promote illegal immigration | You can't do both | Border Patrol saves about 4,000 lives every single year"
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "Press Briefing by Press Secretary Karoline Leavitt and Senior Advisor Stephen Miller",
+      "by": "The American Presidency Project (UC Santa Barbara)",
+      "venue": "presidency.ucsb.edu",
+      "year": 2025,
+      "url": "https://www.presidency.ucsb.edu/node/376360",
+      "quote_checked": "This is a sea change in U.S. policy. | every single member of those organizations who operates on U.S. soil is now, as a legal matter, a terrorist | the unelected bureaucracy of lifetime, tenured civil servants who believe they answer to no one | Americans vote for radical reform in our energy policies, but EPA bureaucrats say they don't want to change."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+      "by": "The White House",
+      "venue": "whitehouse.gov",
+      "year": 2026,
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Who is Stephen Miller, Trump's new White House chief of staff?",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff",
+      "quote_checked": "set a goal of a minimum of 3,000 arrests for ICE every day | we live in a world, in the real world ... that is governed by strength, that is governed by force | These are the iron laws of the world that have existed since the beginning of time"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Stephen Miller Just Got in a Heated Exchange With a Reporter Over the Statue of Liberty",
+      "by": "Alana Abramson",
+      "venue": "TIME",
+      "year": 2017,
+      "url": "https://time.com/4884808/stephen-miller-immigration-policy-jim-acosta",
+      "quote_checked": "The Statue of Liberty is a symbol of liberty enlightening the world | The poem that you're referring to was added later, it's not actually part of the original Statue of Liberty | cosmopolitan bias"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "America First Legal",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/America_First_Legal"
+    }
+  ]
+}
