@@ -1,0 +1,66 @@
+{
+  "hero": "Brad Gerstner",
+  "role": "Investor",
+  "checked": "2026-11-23",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Altimeter, Atreides urge Nvidia board to keep Huang return open",
+      "by": "AI Weekly",
+      "venue": "aiweekly.co",
+      "year": 2026,
+      "url": "https://aiweekly.co/alerts/altimeter-atreides-urge-nvidia-board-to-keep-huang-return-open",
+      "quote_checked": "pursue a slow, measured, and deliberate process regarding the future leadership of Nvidia | capably led | the potential return of Jensen Huang"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Jensen Huang return: Nvidia investors' petition",
+      "by": "Greek City Times",
+      "venue": "greekcitytimes.com",
+      "year": 2026,
+      "url": "https://greekcitytimes.com/2026/11/16/jensen-huang-return-nvidia-investors-petition/",
+      "quote_checked": "pursue a slow, measured, and deliberate process regarding the future leadership of Nvidia | the potential return of Jensen Huang | capably led | has earned the right for a deliberate process that avoids any needless rush to replace him before all the facts are known"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Bessent Wants an Outside CEO. Brad Gerstner Says Nvidia Should Wait on Jensen Huang",
+      "by": "Benzinga (syndicated via Longbridge)",
+      "venue": "Longbridge",
+      "year": 2026,
+      "url": "https://longbridge.com/news/306014988",
+      "quote_checked": "We don't have to make a decision today or in 10 days"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Brad Gerstner",
+      "by": "Wikipedia contributors",
+      "venue": "Wikipedia",
+      "year": 2026,
+      "url": "https://en.wikipedia.org/wiki/Brad_Gerstner"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Brad Gerstner Says AI Is at Its 'Google 2005' Moment. Here's Who He Thinks Wins",
+      "by": "Webull News",
+      "venue": "Webull",
+      "year": 2026,
+      "url": "https://www.webull.com/news/15936197983060992",
+      "quote_checked": "This is Google 2005. Those 20 search engines were gone by 2004, and there is one left standing | I think Anthropic and OpenAI are separating themselves dramatically from the pack. | I think this is a cornerstone compounder for a long period of time."
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "by": "NVIDIA Corporation",
+      "venue": "NVIDIA Newsroom",
+      "year": 2026,
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "quote_checked": "We have every confidence in Jensen and look forward to working with him as he resumes his leadership of the Company."
+    }
+  ]
+}

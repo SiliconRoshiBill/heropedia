@@ -1,0 +1,64 @@
+{
+  "hero": "Scott Bessent",
+  "role": "Policy Advisor",
+  "checked": "2026-11-23",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO",
+      "by": "Fox Business",
+      "venue": "Fox Business",
+      "year": 2026,
+      "url": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo",
+      "quote_checked": "This makes me think that, as the board conducts a search for a new leader, that they need to go outside the company. | They need a dramatic shake-up. | I think we need answers in the next 10 days from the board and from the outside counsel. | I want to keep coming back to what was the culture at Nvidia, and were they pressing these seemingly illicit sales to goose their revenues and their earnings? | I don't think we need the legislation. | We have all the rules we need; we just need them enforced."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Bessent says Nvidia must go outside company to find new CEO",
+      "by": "South China Morning Post",
+      "venue": "South China Morning Post",
+      "year": 2026,
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo",
+      "quote_checked": "We will see if Nvidia intentionally ignored the warning signs of these shell companies, many of them in Singapore. | And I have seen reporting that only 1% of the chips sold in Singapore remained in Singapore."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "All-In Podcast with Scott Bessent on Fed, Tariffs, and 2026 Economic Vision (transcript)",
+      "by": "Scott Bessent with the All-In Podcast hosts",
+      "venue": "SingJuPost",
+      "year": 2026,
+      "url": "https://singjupost.com/all-in-podcast-with-scott-bessent-on-fed-tariffs-and-2026-economic-vision-transcript/",
+      "quote_checked": "the markets are biology. They're not math, they're not physics. | it brings people to the table. | We know the direction, we know the destination, but the timing is difficult. | I think people didn't have an open mind."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Scott Bessent",
+      "by": "U.S. Department of the Treasury",
+      "venue": "home.treasury.gov",
+      "year": 2026,
+      "url": "https://home.treasury.gov/about/general-information/officials/scott-bessent"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "How Scott Bessent took over the global economy",
+      "by": "Ben Smith",
+      "venue": "Semafor",
+      "year": 2025,
+      "url": "https://www.semafor.com/article/12/08/2025/how-scott-bessent-took-over-the-global-economy"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Senate confirms Scott Bessent as Treasury secretary",
+      "by": "PBS NewsHour",
+      "venue": "PBS NewsHour",
+      "year": 2025,
+      "url": "https://www.pbs.org/newshour/politics/senate-confirms-scott-bessent-as-treasury-secretary"
+    }
+  ]
+}
