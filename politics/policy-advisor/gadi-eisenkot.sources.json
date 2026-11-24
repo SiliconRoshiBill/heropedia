@@ -1,0 +1,86 @@
+{
+  "hero": "Gadi Eisenkot",
+  "role": "Policy Advisor",
+  "checked": "2026-11-24",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Ex-Israeli army chief positions himself as Netanyahu alternative, accuses premier of weakening decision-making",
+      "by": "Anadolu Agency",
+      "venue": "aa.com.tr",
+      "year": 2026,
+      "url": "https://www.aa.com.tr/en/middle-east/ex-israeli-army-chief-positions-himself-as-netanyahu-alternative-accuses-premier-of-weakening-decision-making/3964513",
+      "quote_checked": "Netanyahu is selling off the principles of the state to gain four more weeks. | Today, there is no one challenging Netanyahu, and therefore, he is leading Israel in the wrong direction."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Can Netanyahu and Eisenkot form a 'unity' government in Israel?",
+      "by": "Caolán Magee",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel",
+      "quote_checked": "Nice try, but these tricks don't work on me. Nor on Israel's citizens. | If members of Likud and the Religious Zionist Party truly believe this is a time for unity, as they told the president, I cannot conceive of any reason why they would not support a government under my leadership."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Gadi Eisenkot couldn't be more unlike Netanyahu. Can he beat him?",
+      "by": "The New York Times (via The Boston Globe)",
+      "venue": "The Boston Globe",
+      "year": 2026,
+      "url": "https://www.bostonglobe.com/2026/10/23/world/gadi-eisenkot-couldnt-be-more-unlike-netanyahu-can-he-beat-him/",
+      "quote_checked": "When things go well, put the people who made it happen out front. When things go wrong, step forward and take responsibility. This is the exact opposite of Netanyahu."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "'Heavy Heart, Full Confidence': Two Israeli Ministers Quit Netanyahu's War Cabinet",
+      "by": "AFP",
+      "venue": "Outlook India",
+      "year": 2024,
+      "url": "https://www.outlookindia.com/international/israel-gaza-war-benny-gantz-gadi-eisenkot-resign-war-cabinet-netanyahu",
+      "quote_checked": "the cabinet you headed was prevented for a long while from making determining decisions | Outside considerations and politics infiltrated into the discussions"
+    },
+    {
+      "id": "S5",
+      "type": "interview",
+      "title": "Between shelter and coffee, Eisenkot says Dahiya doctrine falls short",
+      "by": "Eli Ashkenazi",
+      "venue": "The Jerusalem Post (via Yahoo News)",
+      "year": 2026,
+      "url": "https://www.yahoo.com/news/articles/between-shelter-coffee-eisenkot-says-103041524.html",
+      "quote_checked": "We destroyed 246 Hezbollah targets, the greatest achievement in that war. | We defined goals in Gaza and Lebanon and did not carry them out. | maximum force in minimum time and reach an agreement"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "Eisenkot sets conditions for coalition, vows to use Knesset majority to reverse Netanyahu policies",
+      "by": "Ynetnews",
+      "venue": "Ynetnews",
+      "year": 2026,
+      "url": "https://www.ynetnews.com/article/by6ffom6ml",
+      "quote_checked": "On the basis of these principles, I intend to establish a broad Zionist government committed to the national interest | The door to the government we establish will be open to any elected official who accepts these principles"
+    },
+    {
+      "id": "S7",
+      "type": "article",
+      "title": "Israel's president picks Eisenkot over Netanyahu to form next government",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+    },
+    {
+      "id": "S8",
+      "type": "interview",
+      "title": "'I want to bring change and repair': Eisenkot lays out vision for Israel in first English interview",
+      "by": "Keshet Neev and Zvika Klein",
+      "venue": "The Jerusalem Post",
+      "year": 2026,
+      "url": "https://jpost.com/israel-election-2026/article-909543",
+      "quote_checked": "I want to bring change and repair | The head of the largest party is the candidate for prime minister"
+    }
+  ]
+}
