@@ -1,0 +1,56 @@
+{
+  "hero": "Taylor Swift",
+  "role": "Writer",
+  "checked": "2026-11-24",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Taylor Swift Ties Kendrick Lamar's Grammy Record With Fifth Straight Album of the Year Nod for 'Showgirl'",
+      "by": "IBTimes UK",
+      "venue": "IBTimes UK",
+      "year": 2026,
+      "url": "https://www.ibtimes.co.uk/taylor-swift-grammy-record-fifth-album-year-nomination-1832635",
+      "quote_checked": "She is the second artist to receive Album of the Year nominations for five consecutive studio albums."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Taylor Swift Returns To CMA Awards Stage After 13 Years With Keith Urban",
+      "by": "Jambase",
+      "venue": "Jambase",
+      "year": 2026,
+      "url": "https://www.jambase.com/article/taylor-swift-keith-urban-cma-awards-2026"
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Taylor Swift Is TIME's 2023 Person of the Year",
+      "by": "Sam Lansky",
+      "venue": "TIME",
+      "year": 2023,
+      "url": "https://time.com/6342806/person-of-the-year-2023-taylor-swift/",
+      "quote_checked": "Make no mistake—my career was taken away from me. | Ultimately I did what I tend to do more and more often these days, which is to bet on myself. | I respond to extreme pain with defiance. | I thought instead, I'd replace myself first with a new me. It's harder to hit a moving target."
+    },
+    {
+      "id": "S4",
+      "type": "talk",
+      "title": "Taylor Swift Speaks at NYU 2022 Commencement",
+      "by": "Taylor Swift",
+      "venue": "New York University (transcript via Rev)",
+      "year": 2022,
+      "url": "https://www.rev.com/transcripts/taylor-swift-speaks-at-nyu-2022-commencement",
+      "quote_checked": "My experience has been that my mistakes led to the best things in my life. | Decide what is yours to hold and let the rest go. | You get to pick what your life has time and room for."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Taylor Swift pens scathing Tumblr post about Scooter Braun, new owner of Swift's masters",
+      "by": "Associated Press (via ABC7 New York)",
+      "venue": "ABC7 New York",
+      "year": 2019,
+      "url": "https://abc7ny.com/post/taylor-swift-pens-scathing-tumblr-post-about-scooter-braun/5372316/",
+      "quote_checked": "This is my worst case scenario. | Never in my worst nightmares did I imagine the buyer would be Scooter. | My musical legacy is about to lie in the hands of someone who tried to dismantle it."
+    }
+  ]
+}
