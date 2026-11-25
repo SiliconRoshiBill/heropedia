@@ -1,0 +1,43 @@
+{
+  "hero": "Harvey Jones",
+  "role": "CEO Advisor",
+  "checked": "2026-11-25",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Oral History of Harvey Jones",
+      "by": "Penny Herscher",
+      "venue": "Computer History Museum",
+      "year": 2009,
+      "url": "https://archive.computerhistory.org/resources/access/text/2015/06/102702217-05-01-acc.pdf"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Nvidia's new board chair Harvey Jones: 'charming elder statesman' likely to lead search for next CEO",
+      "by": "Emily Forlini",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/11/12/nvidia-new-board-chair-harvey-jones-likely-to-lead-ceo-search/"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Harvey C. Jones — Board of Directors",
+      "by": "NVIDIA Corporation",
+      "venue": "nvidia.com",
+      "year": 2026,
+      "url": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/harvey-jones/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Nvidia chair rules out Jensen Huang return; analysts skip China and Singapore questions",
+      "by": "Nick Lichtenberg",
+      "venue": "Fortune",
+      "year": 2026,
+      "url": "https://fortune.com/2026/11/17/nvidia-chair-harvey-jones-jensen-huang-comeback-earnings-call-analysts-china-singapore/"
+    }
+  ]
+}

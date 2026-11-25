@@ -1,0 +1,43 @@
+{
+  "hero": "Ella Langley",
+  "role": "Writer",
+  "checked": "2026-11-25",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Meet Ella Langley, The 'You Look Like You Love Me' Singer Ready To Be Country Music's Next Straight-Shooting Queen",
+      "by": "Taylor Weatherby",
+      "venue": "GRAMMY.com",
+      "year": 2024,
+      "url": "https://www.grammy.com/news/ella-langley-hungover-new-album-interview/"
+    },
+    {
+      "id": "S2",
+      "type": "interview",
+      "title": "Ella Langley Shows Boldness, Authenticity On Debut Album 'Hungover' [Interview]",
+      "by": "MusicRow",
+      "venue": "MusicRow",
+      "year": 2024,
+      "url": "https://musicrow.com/2024/08/ella-langley-shows-boldness-authenticity-on-debut-album-hungover-interview"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Ella Langley sweeps 2026 CMA Awards, wins entertainer of the year",
+      "by": "Associated Press",
+      "venue": "ABC13",
+      "year": 2026,
+      "url": "https://abc13.com/story/ella-langley-dominates-2026-cma-awards-wins-entertainer-year/20055124/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Ella Langley Reflects on Mental Health Breakthrough That Led to New Song, 'Loving Life Again'",
+      "by": "American Songwriter",
+      "venue": "American Songwriter",
+      "year": 2026,
+      "url": "https://americansongwriter.com/ella-langley-reflects-on-mental-health-breakthrough-that-led-to-new-song-loving-life-again"
+    }
+  ]
+}
