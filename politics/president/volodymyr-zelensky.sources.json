@@ -1,0 +1,66 @@
+{
+  "hero": "Volodymyr Zelensky",
+  "role": "President",
+  "checked": "2026-11-26",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Zelensky's Munich Speech in 5 Key Quotes",
+      "by": "Kyiv Independent",
+      "venue": "Kyiv Independent",
+      "year": 2025,
+      "url": "https://kyivindependent.com/zelenskys-munich-speech-in-5-key-quotes/",
+      "quote_checked": "I also will not take NATO membership for Ukraine off the table."
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "Address to a Joint Meeting of the Congress",
+      "by": "Volodymyr Zelensky",
+      "venue": "The American Presidency Project (UC Santa Barbara)",
+      "year": 2022,
+      "url": "https://www.presidency.ucsb.edu/node/359155",
+      "quote_checked": "Your money is not charity. It's an investment in the global security and democracy that we handle in the most responsible way."
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom (#456)",
+      "by": "Lex Fridman with Volodymyr Zelenskyy",
+      "venue": "Lex Fridman Podcast",
+      "year": 2025,
+      "url": "https://lexfridman.com/volodymyr-zelenskyy-transcript",
+      "quote_checked": "I had to do this because I was showing that this was no green screen. | Can we trust this? No. | we need to be in a strong position to make the other person want it."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Zelensky Reveals Bunker Where He Told Biden 'I Need Ammunition, Not a Ride'",
+      "by": "Tim Zadorozhnyy",
+      "venue": "Kyiv Independent",
+      "year": 2026,
+      "url": "https://kyivindependent.com/zelensky-reveals-bunker/",
+      "quote_checked": "And here I replied that I need ammunition, not a ride."
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Zelensky: 'We Are Defending the Ability of a Person to Live in the Modern World'",
+      "by": "Kyiv Independent",
+      "venue": "Kyiv Independent",
+      "year": 2022,
+      "url": "https://kyivindependent.com/uncategorized/zelensky-we-are-defending-the-ability-of-a-person-to-live-in-the-modern-world",
+      "quote_checked": "We are defending the ability of a person to live in the modern world."
+    },
+    {
+      "id": "S6",
+      "type": "book",
+      "title": "A Message from Ukraine: Speeches, 2019-2022",
+      "by": "Volodymyr Zelensky",
+      "venue": "Penguin Random House",
+      "year": 2022,
+      "url": "https://www.penguinrandomhouse.com/books/726799/a-message-from-ukraine-by-volodymyr-zelensky/"
+    }
+  ]
+}
