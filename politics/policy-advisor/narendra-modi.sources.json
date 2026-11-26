@@ -1,0 +1,56 @@
+{
+  "hero": "Narendra Modi",
+  "role": "Policy Advisor",
+  "checked": "2026-11-26",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "Full Text of PM Modi's I-Day Speech",
+      "by": "ThePrint",
+      "venue": "ThePrint",
+      "year": 2026,
+      "url": "https://theprint.in/india/nations-interest-must-come-first-duty-must-define-identity-full-text-of-pm-modis-i-day-speech/3015819/",
+      "quote_checked": "within the next decade, 50 of the Fortune 500 companies should be from Bharat | The work which has not been done in the last 5-7 decades, we have to do that work in the coming 5-7 years | We must dream big, because big dreams expand our thinking."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "My Biggest Principle Has Been Minimum Government, Maximum Governance: PM Modi",
+      "by": "DT Next",
+      "venue": "DT Next",
+      "year": 2024,
+      "url": "https://www.dtnext.in/news/national/my-biggest-principle-has-been-minimum-government-maximum-governance-pm-modi-767841",
+      "quote_checked": "My biggest principle has been 'Minimum government, maximum governance.'"
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "'Every Rupee Will Have a Trail,' Says PM in His First Interview Post Note Ban",
+      "by": "Business Today",
+      "venue": "Business Today",
+      "year": 2016,
+      "url": "https://www.businesstoday.in/current/economy-politics/every-rupee-will-have-a-trail-says-pm-in-his-first-interview-post-note-ban/story/243257.html",
+      "quote_checked": "if India's economy was weak, this decision could not have been made | they can be traced | the time, mechanisms and, most importantly, the will to seek them out"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "India: Modi Rule Has Weakened Democratic Institutions",
+      "by": "Human Rights Watch",
+      "venue": "Human Rights Watch",
+      "year": 2026,
+      "url": "https://www.hrw.org/news/2026/11/24/india-modi-rule-has-weakened-democratic-institutions"
+    },
+    {
+      "id": "S5",
+      "type": "talk",
+      "title": "Full Text of Prime Minister Narendra Modi's Speech on May 12, 2020",
+      "by": "Free Press Journal",
+      "venue": "Free Press Journal",
+      "year": 2020,
+      "url": "https://www.freepressjournal.in/india/full-text-of-prime-minister-narendra-modis-speech-on-may-12-2020",
+      "quote_checked": "Self-reliant India is the only path | Land, Labor, Liquidity and Laws all have been emphasized in this package"
+    }
+  ]
+}
