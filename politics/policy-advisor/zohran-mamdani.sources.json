@@ -1,0 +1,52 @@
+{
+  "hero": "Zohran Mamdani",
+  "role": "Policy Advisor",
+  "checked": "2026-11-27",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "talk",
+      "title": "Mayor Zohran Mamdani Inaugural Address",
+      "by": "NYC Mayor's Office",
+      "venue": "nyc.gov",
+      "year": 2026,
+      "url": "https://www.nyc.gov/mayors-office/news/2026/01/mayor-zohran-mamdani-inaugural-address"
+    },
+    {
+      "id": "S2",
+      "type": "talk",
+      "title": "Zohran Mamdani's Victory Speech",
+      "by": "Zohran Mamdani",
+      "venue": "Common Dreams",
+      "year": 2025,
+      "url": "https://www.commondreams.org/opinion/zohran-mamdani-victory-speech"
+    },
+    {
+      "id": "S3",
+      "type": "interview",
+      "title": "Zohran Mamdani Interview Transcript",
+      "by": "New York Editorial Board",
+      "venue": "New York Editorial Board (Substack)",
+      "year": 2025,
+      "url": "https://nyeditorialboard.substack.com/p/zohran-mamdani-interview-transcript"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Zohran Mamdani sworn in as New York City mayor",
+      "by": "Associated Press",
+      "venue": "NBC News",
+      "year": 2026,
+      "url": "https://www.nbcnews.com/politics/politics-news/zohran-mamdani-sworn-new-york-city-mayor-rcna247683"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Who is Zohran Mamdani, state lawmaker seeking to become NYC's first Muslim and Indian American mayor",
+      "by": "Associated Press",
+      "venue": "PBS NewsHour",
+      "year": 2025,
+      "url": "https://www.pbs.org/newshour/politics/who-is-zohran-mamdani-state-lawmaker-seeks-to-become-new-york-citys-first-muslim-and-indian-american-mayor"
+    }
+  ]
+}

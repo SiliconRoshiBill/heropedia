@@ -1,0 +1,61 @@
+{
+  "hero": "Abdul El-Sayed",
+  "role": "Policy Advisor",
+  "checked": "2026-11-27",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Making the case for 'Medicare for All' with Abdul El-Sayed: podcast & transcript",
+      "by": "Chris Hayes",
+      "venue": "NBC News Think",
+      "year": 2018,
+      "url": "https://www.nbcnews.com/think/opinion/making-case-medicare-all-abdul-el-sayed-podcast-transcript-ncna922911"
+    },
+    {
+      "id": "S2",
+      "type": "book",
+      "title": "Healing Politics: A Doctor's Journey Into the Heart of Our Political Epidemic",
+      "by": "Abdul El-Sayed",
+      "venue": "Abrams Press",
+      "year": 2020,
+      "url": "https://www.porchlightbooks.com/products/healing-politics-abdul-elsayed-9781419743023"
+    },
+    {
+      "id": "S3",
+      "type": "talk",
+      "title": "Transcript: Dr. Abdul El-Sayed's Victory Speech as First Muslim US Senator",
+      "by": "Singju Post",
+      "venue": "singjupost.com",
+      "year": 2026,
+      "url": "https://singjupost.com/transcript-dr-abdul-el-sayeds-victory-speech-as-first-muslim-us-senator/"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "'Call me senator': How Abdul El-Sayed beat Trump's hate to create history",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history"
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "Is Abdul El-Sayed a doctor?",
+      "by": "Caleb McCullough",
+      "venue": "PolitiFact",
+      "year": 2026,
+      "url": "https://www.politifact.com/article/2026/oct/14/abdul-el-sayed-doctor-physician-michigan-senate/"
+    },
+    {
+      "id": "S6",
+      "type": "article",
+      "title": "In the poorest big city in America, he's bringing the health department back to life",
+      "by": "David Nather",
+      "venue": "STAT",
+      "year": 2016,
+      "url": "https://www.statnews.com/2016/05/03/detroit-health-director/"
+    }
+  ]
+}
