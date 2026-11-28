@@ -1,0 +1,55 @@
+{
+  "hero": "Steve Witkoff",
+  "role": "Policy Advisor",
+  "checked": "2026-11-28",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "interview",
+      "title": "Transcript of Steve Witkoff's Interview on The Tucker Carlson Show",
+      "by": "Tucker Carlson",
+      "venue": "Detector Media",
+      "year": 2025,
+      "url": "https://detector.media/in-english/article/239318/2025-03-23-transcript-of-steve-witkoffs-interview-on-the-tucker-carlson-show/",
+      "quote_checked": "But negotiating is being outcome oriented. | Operating blind is really the problem in a negotiation like this. You have to know where everybody stands. | I'm always trying to put myself in the shoes of the other person, because a good deal has to work for everybody. | I don't think that they are as ideologically locked in. | Putin's got a huge respect for the President. | I thought he was straight up with me. | how would we settle a conflict with someone who is the head of a major nuclear power unless we establish trust | I don't regard Putin as a bad guy. | I think you have to trust the Qataris. | I went in with the imprimatur of the president, and that's the difference maker."
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Who is the American playing a key role in the U.S.-Russia talks about Ukraine?",
+      "by": "NPR",
+      "venue": "NHPR",
+      "year": 2025,
+      "url": "https://www.nhpr.org/2025-02-18/who-is-the-american-playing-a-key-role-in-the-u-s-russia-talks-about-ukraine"
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "Key takeaways from Kushner's and Witkoff's \"60 Minutes\" interview",
+      "by": "Axios",
+      "venue": "Axios",
+      "year": 2025,
+      "url": "https://www.axios.com/2025/10/20/israel-gaza-hamas-cbs-60-minutes-witkoff-kushner",
+      "quote_checked": "The apology needed to happen. It just did. We were not moving forward without that apology. | The notion was to convince everybody that those 20 Israeli hostages who were alive, were no longer assets for Hamas."
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Zelenskyy: Trump's envoys pushing for peace deal \"as soon as possible\"",
+      "by": "Yahoo News",
+      "venue": "Yahoo News",
+      "year": 2026,
+      "url": "https://www.yahoo.com/news/politics/articles/zelenskyy-trumps-envoys-pushing-peace-115100018.html",
+      "quote_checked": "want a Russia-Ukraine peace agreement reached \"as soon as possible\""
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
+    }
+  ]
+}
