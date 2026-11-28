@@ -1,0 +1,56 @@
+{
+  "hero": "Jared Kushner",
+  "role": "Policy Advisor",
+  "checked": "2026-11-28",
+  "sources": [
+    {
+      "id": "S1",
+      "type": "article",
+      "title": "Jared Kushner details working around '50 years of stupid word games' in Middle East for ceasefire deal",
+      "by": "Fox News",
+      "venue": "Fox News",
+      "year": 2025,
+      "url": "https://www.foxnews.com/media/jared-kushner-details-working-around-50-years-stupid-word-games-middle-east-ceasefire-deal",
+      "quote_checked": "the 50 years of stupid word games that everyone in that region is so used to playing | We wanted the hostages to come out | We wanted a real ceasefire that both sides would respect | We needed a way to bring humanitarian aid into the people | We understand their cultures. We understand how they work. | What people call conflicts of interests, Steve and I call experience and trusted relationships"
+    },
+    {
+      "id": "S2",
+      "type": "article",
+      "title": "Key takeaways from Kushner's and Witkoff's \"60 Minutes\" interview",
+      "by": "Axios",
+      "venue": "Axios",
+      "year": 2025,
+      "url": "https://www.axios.com/2025/10/20/israel-gaza-hamas-cbs-60-minutes-witkoff-kushner",
+      "quote_checked": "What did Hamas gain by keeping these hostages? You had tens of thousands of Palestinians who were killed in these wars."
+    },
+    {
+      "id": "S3",
+      "type": "article",
+      "title": "US now focused on facilitating direct engagement between Russia, Europe, Kushner says after Ukraine peace talks",
+      "by": "Kyiv Independent",
+      "venue": "Kyiv Independent",
+      "year": 2026,
+      "url": "https://kyivindependent.com/us-now-focused-on-facilitating-direct-engagement-between-russia-europe-kushner-says-after-ukraine-peace-talks/",
+      "quote_checked": "Our focus now is on facilitating direct engagement between Moscow and European partners | Several new ideas emerged from these discussions and are now being explored. | Some may lead to breakthroughs directly, while others may evolve into new proposals that help bridge the remaining gaps | critical pillar | credible"
+    },
+    {
+      "id": "S4",
+      "type": "article",
+      "title": "Zelenskyy: Trump's envoys pushing for peace deal \"as soon as possible\"",
+      "by": "Yahoo News",
+      "venue": "Yahoo News",
+      "year": 2026,
+      "url": "https://www.yahoo.com/news/politics/articles/zelenskyy-trumps-envoys-pushing-peace-115100018.html",
+      "quote_checked": "want a Russia-Ukraine peace agreement reached \"as soon as possible\""
+    },
+    {
+      "id": "S5",
+      "type": "article",
+      "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war",
+      "by": "Al Jazeera",
+      "venue": "Al Jazeera",
+      "year": 2026,
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
+    }
+  ]
+}
